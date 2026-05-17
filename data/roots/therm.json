@@ -1,0 +1,174 @@
+{
+  "id": "therm",
+  "origin": "Greek",
+  "rootForm": "therm-, thermo-",
+  "meaning": "열",
+  "cluster": "자연·사물",
+  "story": "고대 그리스어 'thermos'에서 유래했으며, '뜨거운'이라는 의미를 가집니다. 이 어원은 온도, 열과 관련된 다양한 과학 용어와 일상 단어에 사용됩니다.",
+  "tree": [
+    {
+      "prefix": "therm-",
+      "prefixMeaning": "열",
+      "words": [
+        {
+          "word": "thermal",
+          "ipa": "/ˈθɜːrməl/",
+          "pos": "adj",
+          "meaning": "열의, 온도의",
+          "example": "The house has good thermal insulation.",
+          "exampleKo": "그 집은 단열이 잘 된다.",
+          "synonyms": [
+            "heat",
+            "temperature"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "thermometer",
+          "ipa": "/θərˈmɑːmɪtər/",
+          "pos": "n",
+          "meaning": "온도계",
+          "example": "He measured his temperature with a thermometer.",
+          "exampleKo": "그는 온도계로 자신의 체온을 쟀다.",
+          "synonyms": [
+            "gauge"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "thermos",
+          "ipa": "/ˈθɜːrməs/",
+          "pos": "n",
+          "meaning": "보온병",
+          "example": "She packed a thermos of hot coffee.",
+          "exampleKo": "그녀는 뜨거운 커피를 보온병에 담아갔다.",
+          "synonyms": [
+            "vacuum flask"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "thermo-",
+      "prefixMeaning": "열",
+      "words": [
+        {
+          "word": "thermodynamics",
+          "ipa": "/ˌθɜːrmoʊdaɪˈnæmɪks/",
+          "pos": "n",
+          "meaning": "열역학",
+          "example": "Thermodynamics is a branch of physics.",
+          "exampleKo": "열역학은 물리학의 한 분야이다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "thermoplastic",
+          "ipa": "/ˌθɜːrmoʊˈplæstɪk/",
+          "pos": "adj",
+          "meaning": "열가소성의",
+          "example": "Plastic bottles are often thermoplastic.",
+          "exampleKo": "플라스틱 병은 종종 열가소성이다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "thermostat",
+          "ipa": "/ˈθɜːrməˌstæt/",
+          "pos": "n",
+          "meaning": "온도 조절기",
+          "example": "The thermostat keeps the room at a constant temperature.",
+          "exampleKo": "온도 조절기는 방을 일정한 온도로 유지한다.",
+          "synonyms": [
+            "regulator"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "thermocouple",
+          "ipa": "/ˈθɜːrmoʊˌkʌpəl/",
+          "pos": "n",
+          "meaning": "열전대",
+          "example": "A thermocouple is used to measure temperature.",
+          "exampleKo": "열전대는 온도를 측정하는 데 사용된다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "geo-",
+      "prefixMeaning": "땅, 지구의",
+      "words": [
+        {
+          "word": "geothermal",
+          "ipa": "/ˌdʒiːoʊˈθɜːrməl/",
+          "pos": "adj",
+          "meaning": "지열의, 땅의 열을 이용한",
+          "example": "Iceland uses geothermal energy for heating.",
+          "exampleKo": "아이슬란드는 난방에 지열 에너지를 쓴다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "hypo-",
+      "prefixMeaning": "아래, 낮은",
+      "words": [
+        {
+          "word": "hypothermia",
+          "ipa": "/ˌhaɪpoʊˈθɜːrmiə/",
+          "pos": "n",
+          "meaning": "저체온증",
+          "example": "Hikers who get lost can suffer hypothermia.",
+          "exampleKo": "길을 잃은 등산객은 저체온증을 겪을 수 있다.",
+          "synonyms": [],
+          "antonyms": [
+            "hyperthermia"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "hyper-",
+      "prefixMeaning": "위, 높은, 과도한",
+      "words": [
+        {
+          "word": "hyperthermia",
+          "ipa": "/ˌhaɪpərˈθɜːrmiə/",
+          "pos": "n",
+          "meaning": "고체온증",
+          "example": "Hyperthermia can be dangerous in hot weather.",
+          "exampleKo": "고체온증은 더운 날씨에 위험할 수 있다.",
+          "synonyms": [
+            "overheating"
+          ],
+          "antonyms": [
+            "hypothermia"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "exo-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "exothermic",
+          "ipa": "/ˌɛksoʊˈθɜːrmɪk/",
+          "pos": "adj",
+          "meaning": "발열성의 (열을 밖으로 내보내는)",
+          "example": "Burning wood is an exothermic reaction.",
+          "exampleKo": "나무가 타는 것은 발열 반응이다.",
+          "synonyms": [],
+          "antonyms": [
+            "endothermic"
+          ]
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

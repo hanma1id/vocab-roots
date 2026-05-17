@@ -1,0 +1,213 @@
+{
+  "id": "flex",
+  "origin": "Latin",
+  "rootForm": "flex-, flect-",
+  "meaning": "구부리다, 휘다",
+  "story": "라틴어 flectere('구부리다')에서 왔다. 동사형은 flect-, 명사·형용사형은 flex-로 갈라진다. 유연성(flexibility)부터 반사(reflection)까지 모두 '구부러진다'는 감각을 공유한다.",
+  "tree": [
+    {
+      "prefix": "re-",
+      "prefixMeaning": "뒤로",
+      "words": [
+        {
+          "word": "reflect",
+          "ipa": "/rɪˈflɛkt/",
+          "pos": "v",
+          "meaning": "반사하다, 숙고하다 (뒤로 구부려 보내다)",
+          "example": "The lake reflected the mountains beautifully.",
+          "exampleKo": "호수가 산을 아름답게 반사했다.",
+          "synonyms": [
+            "mirror",
+            "ponder"
+          ],
+          "antonyms": [
+            "absorb"
+          ]
+        },
+        {
+          "word": "reflection",
+          "ipa": "/rɪˈflɛkʃən/",
+          "pos": "n",
+          "meaning": "반사, 반영, 성찰",
+          "example": "I saw my reflection in the window.",
+          "exampleKo": "나는 창문에 비친 내 모습을 보았다.",
+          "synonyms": [
+            "image",
+            "consideration"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "de-",
+      "prefixMeaning": "아래로, 떨어져",
+      "words": [
+        {
+          "word": "deflect",
+          "ipa": "/dɪˈflɛkt/",
+          "pos": "v",
+          "meaning": "빗나가게 하다, 비껴가다",
+          "example": "The goalkeeper deflected the ball away.",
+          "exampleKo": "골키퍼가 공을 쳐냈다.",
+          "synonyms": [
+            "divert",
+            "ward off"
+          ],
+          "antonyms": [
+            "attract"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "안에, 위에",
+      "words": [
+        {
+          "word": "inflection",
+          "ipa": "/ɪnˈflɛkʃən/",
+          "pos": "n",
+          "meaning": "어형변화, 억양",
+          "example": "Her voice rose with an inflection of surprise.",
+          "exampleKo": "그녀의 목소리는 놀란 억양으로 올라갔다.",
+          "synonyms": [
+            "modulation",
+            "tone"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "flex- 형태",
+      "words": [
+        {
+          "word": "flexible",
+          "ipa": "/ˈflɛksəbl/",
+          "pos": "adj",
+          "meaning": "유연한, 융통성 있는",
+          "example": "Our schedule is flexible this week.",
+          "exampleKo": "이번 주 우리 일정은 유연합니다.",
+          "synonyms": [
+            "bendable",
+            "adaptable"
+          ],
+          "antonyms": [
+            "rigid",
+            "inflexible"
+          ]
+        },
+        {
+          "word": "flex",
+          "ipa": "/flɛks/",
+          "pos": "v",
+          "meaning": "구부리다, 굽히다",
+          "example": "He flexed his arm to show his muscles.",
+          "exampleKo": "그는 근육을 보이려고 팔을 굽혔다.",
+          "synonyms": [
+            "bend",
+            "contract"
+          ],
+          "antonyms": [
+            "straighten",
+            "extend"
+          ]
+        },
+        {
+          "word": "reflex",
+          "ipa": "/ˈriːflɛks/",
+          "pos": "n",
+          "meaning": "반사작용 (뒤로 굽혀지는 반응)",
+          "example": "A baby's reflex is to grab your finger.",
+          "exampleKo": "아기의 반사작용은 손가락을 잡는 것이다.",
+          "synonyms": [
+            "instinct",
+            "reaction"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "flexor",
+          "ipa": "/ˈflɛksər/",
+          "pos": "n",
+          "meaning": "(관절을) 구부리는 근육",
+          "example": "The biceps is a flexor muscle.",
+          "exampleKo": "이두박근은 관절을 구부리는 근육이다.",
+          "synonyms": [],
+          "antonyms": [
+            "extensor"
+          ]
+        },
+        {
+          "word": "flection",
+          "ipa": "/ˈflɛkʃən/",
+          "pos": "n",
+          "meaning": "굽힘, 굴곡",
+          "example": "The flection of the knee is essential for walking.",
+          "exampleKo": "무릎의 굽힘은 걷기에 필수적이다.",
+          "synonyms": [
+            "bend",
+            "curve"
+          ],
+          "antonyms": [
+            "extension"
+          ]
+        },
+        {
+          "word": "genuflect",
+          "ipa": "/ˈdʒɛnjəflɛkt/",
+          "pos": "v",
+          "meaning": "무릎을 꿇다",
+          "example": "She genuflected before the altar.",
+          "exampleKo": "그녀는 제단 앞에서 무릎을 꿇었다.",
+          "synonyms": [
+            "kneel"
+          ],
+          "antonyms": [
+            "stand"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "retro-",
+      "prefixMeaning": "뒤로",
+      "words": [
+        {
+          "word": "retroflex",
+          "ipa": "/ˈrɛtroʊflɛks/",
+          "pos": "adj",
+          "meaning": "뒤로 굽은, 젖혀진",
+          "example": "Some languages have retroflex consonants.",
+          "exampleKo": "일부 언어에는 뒤로 굽은 자음이 있다.",
+          "synonyms": [
+            "bent backward"
+          ],
+          "antonyms": [
+            "straight"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "circum-",
+      "prefixMeaning": "주위에, 둘레에",
+      "words": [
+        {
+          "word": "circumflex",
+          "ipa": "/ˈsɜːrkəmflɛks/",
+          "pos": "n",
+          "meaning": "곡절 부호 (^)",
+          "example": "The word 'rôle' used to have a circumflex.",
+          "exampleKo": "단어 'rôle'에는 예전에 곡절 부호가 있었다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "cluster": "형태·변형",
+  "verified": true
+}

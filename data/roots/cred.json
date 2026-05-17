@@ -1,0 +1,198 @@
+{
+  "id": "cred",
+  "origin": "Latin",
+  "rootForm": "cred-",
+  "meaning": "믿다",
+  "cluster": "생명·호흡·정신",
+  "story": "라틴어 동사 credere('믿다, 신뢰하다')에서 왔다. 신용카드(credit card)와 신조(creed)가 모두 '믿음'에서 출발한 단어다.",
+  "tree": [
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "credit",
+          "ipa": "/ˈkrɛdɪt/",
+          "pos": "n·v",
+          "meaning": "신용, 신뢰; 신용하다",
+          "example": "She has good credit at the bank.",
+          "exampleKo": "그녀는 은행에서 신용이 좋다.",
+          "synonyms": [
+            "trust",
+            "belief"
+          ],
+          "antonyms": [
+            "distrust"
+          ]
+        },
+        {
+          "word": "credible",
+          "ipa": "/ˈkrɛdəbl/",
+          "pos": "adj",
+          "meaning": "믿을 만한, 신뢰할 수 있는",
+          "example": "His explanation sounded credible.",
+          "exampleKo": "그의 설명은 믿을 만하게 들렸다.",
+          "synonyms": [
+            "believable",
+            "plausible"
+          ],
+          "antonyms": [
+            "incredible",
+            "implausible"
+          ]
+        },
+        {
+          "word": "credibility",
+          "ipa": "/ˌkrɛdəˈbɪləti/",
+          "pos": "n",
+          "meaning": "신뢰성, 신빙성",
+          "example": "The report lacks credibility.",
+          "exampleKo": "그 보고서는 신뢰성이 부족하다.",
+          "synonyms": [
+            "reliability",
+            "trustworthiness"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "credence",
+          "ipa": "/ˈkriːdəns/",
+          "pos": "n",
+          "meaning": "믿음, 신뢰",
+          "example": "Don't give credence to rumors.",
+          "exampleKo": "소문에 믿음을 주지 마라.",
+          "synonyms": [
+            "belief",
+            "faith"
+          ],
+          "antonyms": [
+            "doubt"
+          ]
+        },
+        {
+          "word": "credentials",
+          "ipa": "/krəˈdɛnʃəlz/",
+          "pos": "n",
+          "meaning": "자격 증명서, 신임장",
+          "example": "He showed his credentials at the door.",
+          "exampleKo": "그는 문 앞에서 신임장을 보여 주었다.",
+          "synonyms": [
+            "qualifications",
+            "references"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "credulous",
+          "ipa": "/ˈkrɛdʒələs/",
+          "pos": "adj",
+          "meaning": "잘 믿는, 속기 쉬운",
+          "example": "He is too credulous to be a detective.",
+          "exampleKo": "그는 너무 잘 믿어서 형사가 될 수 없다.",
+          "synonyms": [
+            "gullible",
+            "naive"
+          ],
+          "antonyms": [
+            "skeptical"
+          ]
+        },
+        {
+          "word": "creed",
+          "ipa": "/kriːd/",
+          "pos": "n",
+          "meaning": "신조, 신념",
+          "example": "Honesty is part of his personal creed.",
+          "exampleKo": "정직은 그의 개인적 신조의 일부다.",
+          "synonyms": [
+            "belief",
+            "doctrine"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "~이 아닌 (부정)",
+      "words": [
+        {
+          "word": "incredible",
+          "ipa": "/ɪnˈkrɛdəbl/",
+          "pos": "adj",
+          "meaning": "믿을 수 없는, 놀라운",
+          "example": "That's an incredible story!",
+          "exampleKo": "정말 믿을 수 없는 이야기야!",
+          "synonyms": [
+            "unbelievable",
+            "amazing"
+          ],
+          "antonyms": [
+            "credible",
+            "believable"
+          ]
+        },
+        {
+          "word": "incredulous",
+          "ipa": "/ɪnˈkrɛdʒələs/",
+          "pos": "adj",
+          "meaning": "쉽게 믿지 않는, 의심스러운",
+          "example": "She gave him an incredulous look.",
+          "exampleKo": "그녀는 그에게 의심스러운 눈빛을 보냈다.",
+          "synonyms": [
+            "skeptical",
+            "doubtful"
+          ],
+          "antonyms": [
+            "credulous",
+            "trusting"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ac-",
+      "prefixMeaning": "~쪽으로 (ad-의 변형)",
+      "words": [
+        {
+          "word": "accredit",
+          "ipa": "/əˈkrɛdɪt/",
+          "pos": "v",
+          "meaning": "공인하다, 인가하다",
+          "example": "The university is accredited by the government.",
+          "exampleKo": "그 대학은 정부로부터 인가를 받았다.",
+          "synonyms": [
+            "authorize",
+            "certify"
+          ],
+          "antonyms": [
+            "revoke"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "dis-",
+      "prefixMeaning": "반대, 떨어뜨려",
+      "words": [
+        {
+          "word": "discredit",
+          "ipa": "/dɪsˈkrɛdɪt/",
+          "pos": "v·n",
+          "meaning": "신용을 떨어뜨리다; 불명예",
+          "example": "The scandal discredited the politician.",
+          "exampleKo": "그 스캔들은 그 정치인의 신용을 떨어뜨렸다.",
+          "synonyms": [
+            "disgrace",
+            "dishonor"
+          ],
+          "antonyms": [
+            "credit",
+            "endorse"
+          ]
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

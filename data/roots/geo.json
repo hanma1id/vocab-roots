@@ -1,0 +1,152 @@
+{
+  "id": "geo",
+  "origin": "Greek",
+  "rootForm": "geo-",
+  "meaning": "땅, 지구",
+  "cluster": "자연·사물",
+  "story": "고대 그리스어 gē('땅, 지구')에서 왔다. 지구 자체와 지구 위의 모든 것을 다루는 단어에 등장한다. 지오그래피(geography)는 '땅을 그린 것'.",
+  "tree": [
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "geo- 형태",
+      "words": [
+        {
+          "word": "geography",
+          "ipa": "/dʒiˈɑːɡrəfi/",
+          "pos": "n",
+          "meaning": "지리(학)",
+          "example": "I am studying geography this semester.",
+          "exampleKo": "나는 이번 학기에 지리학을 공부하고 있다.",
+          "synonyms": [
+            "topography"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "geology",
+          "ipa": "/dʒiˈɑːlədʒi/",
+          "pos": "n",
+          "meaning": "지질학",
+          "example": "Geology helps us understand the Earth's history.",
+          "exampleKo": "지질학은 지구의 역사를 이해하는 데 도움을 준다.",
+          "synonyms": [
+            "earth science"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "geologist",
+          "ipa": "/dʒiˈɑːlədʒɪst/",
+          "pos": "n",
+          "meaning": "지질학자",
+          "example": "The geologist examined the rock samples.",
+          "exampleKo": "그 지질학자는 암석 표본을 살펴보았다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "geometry",
+          "ipa": "/dʒiˈɑːmətri/",
+          "pos": "n",
+          "meaning": "기하학 (원래 '땅을 재는 것')",
+          "example": "We learned about triangles in geometry class.",
+          "exampleKo": "우리는 기하학 시간에 삼각형에 대해 배웠다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "geographic",
+          "ipa": "/ˌdʒiːəˈɡræfɪk/",
+          "pos": "adj",
+          "meaning": "지리(학)의",
+          "example": "The river forms a natural geographic border.",
+          "exampleKo": "그 강은 자연적인 지리적 경계를 이룬다.",
+          "synonyms": [
+            "regional"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "geocentric",
+          "ipa": "/ˌdʒiːoʊˈsɛntrɪk/",
+          "pos": "adj",
+          "meaning": "지구 중심의",
+          "example": "The geocentric model placed Earth at the center of the universe.",
+          "exampleKo": "지구 중심설은 지구를 우주의 중심에 두었다.",
+          "synonyms": [],
+          "antonyms": [
+            "heliocentric"
+          ]
+        },
+        {
+          "word": "geothermal",
+          "ipa": "/ˌdʒiːoʊˈθɜːrməl/",
+          "pos": "adj",
+          "meaning": "지열의 (땅의 열을 이용한)",
+          "example": "Iceland uses geothermal energy for heating.",
+          "exampleKo": "아이슬란드는 난방에 지열 에너지를 쓴다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "geophysics",
+          "ipa": "/ˌdʒiːoʊˈfɪzɪks/",
+          "pos": "n",
+          "meaning": "지구물리학",
+          "example": "She is studying geophysics at university.",
+          "exampleKo": "그녀는 대학에서 지구물리학을 공부한다.",
+          "synonyms": [
+            "earth science"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "geode",
+          "ipa": "/ˈdʒiːoʊd/",
+          "pos": "n",
+          "meaning": "정동 (속에 결정이 든 둥근 돌)",
+          "example": "The geode had beautiful crystals inside.",
+          "exampleKo": "그 정동은 안에 아름다운 결정들이 있었다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "geopolitics",
+          "ipa": "/ˌdʒiːoʊˈpɑːlətɪks/",
+          "pos": "n",
+          "meaning": "지정학",
+          "example": "Oil supply shapes global geopolitics.",
+          "exampleKo": "석유 공급은 세계 지정학을 좌우한다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "geostationary",
+          "ipa": "/ˌdʒiːoʊˈsteɪʃəneri/",
+          "pos": "adj",
+          "meaning": "정지 궤도의 (지구와 함께 도는)",
+          "example": "A geostationary satellite stays above the same spot on Earth.",
+          "exampleKo": "정지 궤도 위성은 지구 위 같은 지점에 머무른다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "apogee",
+          "ipa": "/ˈæpədʒiː/",
+          "pos": "n",
+          "meaning": "원지점 (지구에서 가장 멀리 떨어진 점); 정점",
+          "example": "The satellite reached its apogee.",
+          "exampleKo": "그 위성은 원지점에 도달했다.",
+          "synonyms": [
+            "peak",
+            "climax"
+          ],
+          "antonyms": [
+            "perigee"
+          ]
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

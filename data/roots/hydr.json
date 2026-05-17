@@ -1,0 +1,172 @@
+{
+  "id": "hydr",
+  "origin": "Greek",
+  "rootForm": "hydr-, hydro-",
+  "meaning": "물",
+  "cluster": "자연·사물",
+  "story": "고대 그리스어에서 'hydor'는 '물'을 의미했습니다. 이 어원은 물과 관련된 다양한 단어의 뿌리가 되어, 우리가 일상생활에서 사용하는 수많은 과학, 기술, 자연 현상 용어에 깊숙이 자리 잡고 있습니다.",
+  "tree": [
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "hydrate",
+          "ipa": "/ˈhaɪdreɪt/",
+          "pos": "v",
+          "meaning": "수화시키다, 물을 주다",
+          "example": "Dehydration can make you feel tired, so drink water to hydrate.",
+          "exampleKo": "탈수는 당신을 피곤하게 만들 수 있으니, 수분을 공급하기 위해 물을 마시세요.",
+          "synonyms": [
+            "moisten",
+            "water"
+          ],
+          "antonyms": [
+            "dehydrate"
+          ]
+        },
+        {
+          "word": "dehydrate",
+          "ipa": "/diːˈhaɪdreɪt/",
+          "pos": "v",
+          "meaning": "탈수시키다, 물기를 제거하다",
+          "example": "It's important not to dehydrate during exercise.",
+          "exampleKo": "운동 중에 탈수되지 않도록 하는 것이 중요합니다.",
+          "synonyms": [
+            "dry out"
+          ],
+          "antonyms": [
+            "hydrate",
+            "moisten"
+          ]
+        },
+        {
+          "word": "hydrant",
+          "ipa": "/ˈhaɪdrənt/",
+          "pos": "n",
+          "meaning": "소화전",
+          "example": "The fire truck connected a hose to the hydrant.",
+          "exampleKo": "소방차가 소화전에 호스를 연결했습니다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "hydro-",
+      "prefixMeaning": "물",
+      "words": [
+        {
+          "word": "hydroelectric",
+          "ipa": "/ˌhaɪdroʊɪˈlɛktrɪk/",
+          "pos": "adj",
+          "meaning": "수력 발전의",
+          "example": "The dam generates hydroelectric power.",
+          "exampleKo": "그 댐은 수력 발전을 생성합니다.",
+          "synonyms": [
+            "hydropower"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "hydrofoil",
+          "ipa": "/ˈhaɪdroʊfɔɪl/",
+          "pos": "n",
+          "meaning": "수중 날개 (배)",
+          "example": "The hydrofoil boat skimmed across the water.",
+          "exampleKo": "수중 날개 보트가 물 위를 쏜살같이 나아갔습니다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "hydrogen",
+          "ipa": "/ˈhaɪdrədʒən/",
+          "pos": "n",
+          "meaning": "수소",
+          "example": "Hydrogen is the lightest element.",
+          "exampleKo": "수소는 가장 가벼운 원소입니다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "hydroplane",
+          "ipa": "/ˈhaɪdroʊpleɪn/",
+          "pos": "v",
+          "meaning": "수상 활주하다 (차량)",
+          "example": "Cars can hydroplane on wet roads.",
+          "exampleKo": "자동차는 젖은 도로에서 수상 활주할 수 있습니다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "hydroponics",
+          "ipa": "/ˌhaɪdroʊˈpɑːnɪks/",
+          "pos": "n",
+          "meaning": "수경 재배",
+          "example": "Hydroponics allows growing plants without soil.",
+          "exampleKo": "수경 재배는 흙 없이 식물을 키울 수 있게 합니다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "de-",
+      "prefixMeaning": "제거, 떨어뜨려",
+      "words": [
+        {
+          "word": "dehydration",
+          "ipa": "/ˌdiːhaɪˈdreɪʃən/",
+          "pos": "n",
+          "meaning": "탈수, 탈수 상태",
+          "example": "Dehydration is dangerous in hot weather.",
+          "exampleKo": "탈수는 더운 날씨에 위험하다.",
+          "synonyms": [],
+          "antonyms": [
+            "hydration"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "an-",
+      "prefixMeaning": "없는 (부정)",
+      "words": [
+        {
+          "word": "anhydrous",
+          "ipa": "/ænˈhaɪdrəs/",
+          "pos": "adj",
+          "meaning": "무수의, 물이 없는",
+          "example": "Anhydrous salt has no water in it.",
+          "exampleKo": "무수염은 물을 포함하지 않는다.",
+          "synonyms": [
+            "dry"
+          ],
+          "antonyms": [
+            "hydrous",
+            "hydrated"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "hyper-",
+      "prefixMeaning": "과도한",
+      "words": [
+        {
+          "word": "hydration",
+          "ipa": "/haɪˈdreɪʃən/",
+          "pos": "n",
+          "meaning": "수분 공급, 수화",
+          "example": "Good hydration helps your skin look healthy.",
+          "exampleKo": "충분한 수분 공급은 피부를 건강하게 보이게 한다.",
+          "synonyms": [],
+          "antonyms": [
+            "dehydration"
+          ]
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

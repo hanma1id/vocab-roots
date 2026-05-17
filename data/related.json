@@ -1,0 +1,4576 @@
+{
+  "abandon": [
+    {
+      "prefix": "sup-",
+      "role": "antonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "support"
+    }
+  ],
+  "absorb": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "reflect"
+    },
+    {
+      "prefix": "e-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "emit"
+    }
+  ],
+  "absurdity": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "logic"
+    }
+  ],
+  "accept": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "reject"
+    },
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "dismiss"
+    }
+  ],
+  "account": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "report"
+    },
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "description"
+    }
+  ],
+  "achieve": [
+    {
+      "prefix": "suc-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "succeed"
+    }
+  ],
+  "achievement": [
+    {
+      "prefix": "suc-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "success"
+    }
+  ],
+  "acknowledge": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "concede"
+    },
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "admit"
+    }
+  ],
+  "adaptable": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flexible"
+    }
+  ],
+  "add": [
+    {
+      "prefix": "inter-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "interject"
+    },
+    {
+      "prefix": "o-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "omit"
+    },
+    {
+      "prefix": "sub-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "subtract"
+    },
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "detract"
+    }
+  ],
+  "addendum": [
+    {
+      "prefix": "post-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "postscript"
+    }
+  ],
+  "adhesion": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "traction"
+    }
+  ],
+  "admire": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "respect"
+    }
+  ],
+  "admit": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "concede"
+    },
+    {
+      "prefix": "e-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "eject"
+    },
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "deport"
+    }
+  ],
+  "advance": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "proceed"
+    },
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "recede"
+    },
+    {
+      "prefix": "post-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "postpone"
+    }
+  ],
+  "affirm": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "retract"
+    }
+  ],
+  "afterword": [
+    {
+      "prefix": "epi-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "epilogue"
+    }
+  ],
+  "agree": [
+    {
+      "prefix": "contra-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "contradict"
+    },
+    {
+      "prefix": "ob-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "object"
+    },
+    {
+      "prefix": "op-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "oppose"
+    }
+  ],
+  "agreement": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "contract"
+    }
+  ],
+  "allow": [
+    {
+      "prefix": "per-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "permit"
+    },
+    {
+      "prefix": "pre-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "prevent"
+    }
+  ],
+  "amazing": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "spectacular"
+    }
+  ],
+  "anticipate": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "expect"
+    }
+  ],
+  "appeal to": [
+    {
+      "prefix": "at-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "attract"
+    }
+  ],
+  "appealing": [
+    {
+      "prefix": "at-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "attractive"
+    }
+  ],
+  "appearance": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "advent"
+    }
+  ],
+  "approach": [
+    {
+      "prefix": "ac-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "access"
+    },
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "recede"
+    }
+  ],
+  "approve": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "reject"
+    },
+    {
+      "prefix": "ob-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "object"
+    }
+  ],
+  "arrange": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "dispose"
+    }
+  ],
+  "arrival": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "advent"
+    }
+  ],
+  "articulate": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocalize"
+    }
+  ],
+  "assemble": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "convene"
+    },
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "convoke"
+    }
+  ],
+  "assembly": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "convention"
+    }
+  ],
+  "assignment": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "mission"
+    }
+  ],
+  "attest": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vouch"
+    }
+  ],
+  "attract": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "deflect"
+    }
+  ],
+  "authorize": [
+    {
+      "prefix": "per-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "permit"
+    }
+  ],
+  "autobiography": [
+    {
+      "prefix": "bio-",
+      "role": "antonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "biography"
+    }
+  ],
+  "avoid": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "prevent"
+    }
+  ],
+  "await": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "expect"
+    }
+  ],
+  "back": [
+    {
+      "prefix": "sup-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "support"
+    }
+  ],
+  "banish": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "deport"
+    }
+  ],
+  "beam": [
+    {
+      "prefix": "tele-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "teleport"
+    }
+  ],
+  "bearer": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "porter"
+    }
+  ],
+  "bearing": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "posture"
+    }
+  ],
+  "behave": [
+    {
+      "prefix": "com-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "comport"
+    }
+  ],
+  "believe": [
+    {
+      "prefix": "sus-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "suspect"
+    }
+  ],
+  "bend": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flex"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flection"
+    }
+  ],
+  "bendable": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flexible"
+    }
+  ],
+  "benediction": [
+    {
+      "prefix": "male-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "malediction"
+    }
+  ],
+  "bent backward": [
+    {
+      "prefix": "retro-",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "retroflex"
+    }
+  ],
+  "biography": [
+    {
+      "prefix": "bio-",
+      "role": "antonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "autobiography"
+    }
+  ],
+  "birth": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "decease"
+    }
+  ],
+  "blame": [
+    {
+      "prefix": "apo-",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "apologize"
+    }
+  ],
+  "blessing": [
+    {
+      "prefix": "bene-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "benediction"
+    },
+    {
+      "prefix": "male-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "malediction"
+    }
+  ],
+  "briefcase": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "portfolio"
+    }
+  ],
+  "bring in": [
+    {
+      "prefix": "im-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "import"
+    }
+  ],
+  "bring out": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "evoke"
+    }
+  ],
+  "bullhorn": [
+    {
+      "prefix": "mega-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "megaphone"
+    }
+  ],
+  "cable": [
+    {
+      "prefix": "tele-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "telegram"
+    }
+  ],
+  "cacophony": [
+    {
+      "prefix": "sym-",
+      "role": "antonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "symphony"
+    },
+    {
+      "prefix": "eu-",
+      "role": "antonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "euphony"
+    }
+  ],
+  "call upon": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "invoke"
+    }
+  ],
+  "calling": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocation"
+    }
+  ],
+  "calm": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "provoke"
+    }
+  ],
+  "cancel": [
+    {
+      "prefix": "sub-",
+      "role": "antonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "subscribe"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "revoke"
+    }
+  ],
+  "carrier": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "porter"
+    }
+  ],
+  "carry": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "transport"
+    }
+  ],
+  "carve": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "inscribe"
+    }
+  ],
+  "certainty": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "conjecture"
+    }
+  ],
+  "champion": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "advocate"
+    }
+  ],
+  "charming": [
+    {
+      "prefix": "at-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "attractive"
+    }
+  ],
+  "chart": [
+    {
+      "prefix": "dia-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "diagram"
+    }
+  ],
+  "check": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "inspect"
+    }
+  ],
+  "check-up": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "inspection"
+    }
+  ],
+  "cheer": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "deject"
+    }
+  ],
+  "claim": [
+    {
+      "prefix": "pur-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "purport"
+    }
+  ],
+  "clerk": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "scribe"
+    }
+  ],
+  "collection": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "portfolio"
+    }
+  ],
+  "come before": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "precede"
+    }
+  ],
+  "command": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "dictate"
+    }
+  ],
+  "commit": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "dedicate"
+    }
+  ],
+  "conceal": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "indicate"
+    }
+  ],
+  "concentrate": [
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "distract"
+    }
+  ],
+  "conclusion": [
+    {
+      "prefix": "epi-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "epilogue"
+    }
+  ],
+  "condemnation": [
+    {
+      "prefix": "eu-",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "eulogy"
+    }
+  ],
+  "conduct": [
+    {
+      "prefix": "com-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "comport"
+    }
+  ],
+  "confess": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "admit"
+    }
+  ],
+  "confirm": [
+    {
+      "prefix": "contra-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "contradict"
+    },
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "speculate"
+    },
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "retract"
+    }
+  ],
+  "conjecture": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "speculate"
+    }
+  ],
+  "consideration": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "reflection"
+    }
+  ],
+  "consonant": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vowel"
+    }
+  ],
+  "constitute": [
+    {
+      "prefix": "com-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "compose"
+    }
+  ],
+  "continuation": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "cessation"
+    }
+  ],
+  "continue": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "proceed"
+    }
+  ],
+  "contract": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flex"
+    }
+  ],
+  "conversation": [
+    {
+      "prefix": "dia-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "dialogue"
+    }
+  ],
+  "convey": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "transmit"
+    },
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "transport"
+    }
+  ],
+  "copy": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "transcript"
+    },
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "invent"
+    }
+  ],
+  "copyist": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "scribe"
+    }
+  ],
+  "course": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "trajectory"
+    }
+  ],
+  "cover": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "expose"
+    }
+  ],
+  "create": [
+    {
+      "prefix": "com-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "compose"
+    },
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "invent"
+    }
+  ],
+  "creation": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "invention"
+    }
+  ],
+  "critic": [
+    {
+      "prefix": "ad-",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "advocate"
+    }
+  ],
+  "criticism": [
+    {
+      "prefix": "eu-",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "eulogy"
+    }
+  ],
+  "curse": [
+    {
+      "prefix": "bene-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "benediction"
+    },
+    {
+      "prefix": "male-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "malediction"
+    }
+  ],
+  "curtail": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "protract"
+    }
+  ],
+  "curve": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flection"
+    }
+  ],
+  "custom": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "convention"
+    }
+  ],
+  "deal": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "contract"
+    }
+  ],
+  "death": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "decease"
+    }
+  ],
+  "decision": [
+    {
+      "prefix": "ver-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "verdict"
+    }
+  ],
+  "decree": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "edict"
+    }
+  ],
+  "deduct": [
+    {
+      "prefix": "sub-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "subtract"
+    }
+  ],
+  "defer": [
+    {
+      "prefix": "post-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "postpone"
+    }
+  ],
+  "delay": [
+    {
+      "prefix": "post-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "postpone"
+    }
+  ],
+  "demise": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "decease"
+    }
+  ],
+  "denial": [
+    {
+      "prefix": "ac-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "access"
+    }
+  ],
+  "deny": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "concede"
+    },
+    {
+      "prefix": "contra-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "contradict"
+    },
+    {
+      "prefix": "ad-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "admit"
+    }
+  ],
+  "departure": [
+    {
+      "prefix": "ad-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "advent"
+    }
+  ],
+  "depict": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "describe"
+    }
+  ],
+  "depiction": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "description"
+    }
+  ],
+  "depress": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "deject"
+    }
+  ],
+  "derivation": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "etymology"
+    }
+  ],
+  "destroy": [
+    {
+      "prefix": "com-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "compose"
+    }
+  ],
+  "devise": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "invent"
+    }
+  ],
+  "devote": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "dedicate"
+    }
+  ],
+  "dialogue": [
+    {
+      "prefix": "mono-",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "monologue"
+    }
+  ],
+  "diminish": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "detract"
+    }
+  ],
+  "discard": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "dispose"
+    }
+  ],
+  "discharge": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "emit"
+    }
+  ],
+  "discord": [
+    {
+      "prefix": "caco-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "cacophony"
+    }
+  ],
+  "discourage": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "deject"
+    }
+  ],
+  "discussion": [
+    {
+      "prefix": "dia-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "dialogue"
+    }
+  ],
+  "dishearten": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "deject"
+    }
+  ],
+  "dismantle": [
+    {
+      "prefix": "com-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "compose"
+    }
+  ],
+  "dismiss": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "convene"
+    }
+  ],
+  "disperse": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "convene"
+    },
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "convoke"
+    }
+  ],
+  "display": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "spectacle"
+    }
+  ],
+  "disrespect": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "respect"
+    }
+  ],
+  "dissonance": [
+    {
+      "prefix": "eu-",
+      "role": "antonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "euphony"
+    },
+    {
+      "prefix": "caco-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "cacophony"
+    }
+  ],
+  "distrust": [
+    {
+      "prefix": "sus-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "suspect"
+    }
+  ],
+  "divert": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "deflect"
+    },
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "distract"
+    }
+  ],
+  "divinity": [
+    {
+      "prefix": "theo-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "theology"
+    }
+  ],
+  "docile": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "intractable"
+    }
+  ],
+  "document": [
+    {
+      "prefix": "manu-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "manuscript"
+    }
+  ],
+  "doodle": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "scribble"
+    }
+  ],
+  "doubt": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "expect"
+    },
+    {
+      "prefix": "sus-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "suspect"
+    }
+  ],
+  "doubtful": [
+    {
+      "prefix": "sus-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "suspicious"
+    }
+  ],
+  "draft": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "conscript"
+    }
+  ],
+  "draw": [
+    {
+      "prefix": "at-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "attract"
+    }
+  ],
+  "drawing": [
+    {
+      "prefix": "dia-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "diagram"
+    }
+  ],
+  "dubious": [
+    {
+      "prefix": "sus-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "suspicious"
+    }
+  ],
+  "earnings": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "revenue"
+    }
+  ],
+  "element": [
+    {
+      "prefix": "com-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "component"
+    }
+  ],
+  "elicit": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "evoke"
+    }
+  ],
+  "encourage": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "deject"
+    },
+    {
+      "prefix": "pre-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "prevent"
+    }
+  ],
+  "end": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "cessation"
+    }
+  ],
+  "enforce": [
+    {
+      "prefix": "im-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "impose"
+    },
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "revoke"
+    }
+  ],
+  "engrave": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "inscribe"
+    }
+  ],
+  "enhance": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "detract"
+    }
+  ],
+  "enlist": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "conscript"
+    }
+  ],
+  "enroll": [
+    {
+      "prefix": "sub-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "subscribe"
+    }
+  ],
+  "enslave": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "addict"
+    }
+  ],
+  "enterprise": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "venture"
+    }
+  ],
+  "entry": [
+    {
+      "prefix": "ac-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "access"
+    }
+  ],
+  "epilogue": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "prologue"
+    }
+  ],
+  "epitaph": [
+    {
+      "prefix": "epi-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "epigraph"
+    }
+  ],
+  "erase": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "inscribe"
+    }
+  ],
+  "esteem": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "respect"
+    }
+  ],
+  "euphony": [
+    {
+      "prefix": "caco-",
+      "role": "antonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "cacophony"
+    }
+  ],
+  "examination": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "inspection"
+    }
+  ],
+  "examine": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "inspect"
+    }
+  ],
+  "exert": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "repose"
+    }
+  ],
+  "exit": [
+    {
+      "prefix": "ac-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "access"
+    }
+  ],
+  "expedite": [
+    {
+      "prefix": "post-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "postpone"
+    }
+  ],
+  "expel": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "eject"
+    },
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "deport"
+    }
+  ],
+  "expenses": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "revenue"
+    }
+  ],
+  "explain": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "describe"
+    }
+  ],
+  "exploit": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "adventure"
+    }
+  ],
+  "export": [
+    {
+      "prefix": "im-",
+      "role": "antonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "import"
+    }
+  ],
+  "express regret": [
+    {
+      "prefix": "apo-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "apologize"
+    }
+  ],
+  "expressive": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocal"
+    }
+  ],
+  "extend": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flex"
+    },
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "protract"
+    }
+  ],
+  "extension": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flection"
+    }
+  ],
+  "extensor": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flexor"
+    }
+  ],
+  "extract": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "inject"
+    }
+  ],
+  "fact": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "conjecture"
+    }
+  ],
+  "fail": [
+    {
+      "prefix": "suc-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "succeed"
+    }
+  ],
+  "failure": [
+    {
+      "prefix": "suc-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "success"
+    }
+  ],
+  "fall short": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "exceed"
+    }
+  ],
+  "fire": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "dismiss"
+    }
+  ],
+  "fixed": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "portable"
+    }
+  ],
+  "focus": [
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "distract"
+    }
+  ],
+  "folder": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "portfolio"
+    }
+  ],
+  "follow": [
+    {
+      "prefix": "pre-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "precede"
+    }
+  ],
+  "forbid": [
+    {
+      "prefix": "per-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "permit"
+    }
+  ],
+  "forecast": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "predict"
+    },
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "prediction"
+    }
+  ],
+  "foresee": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "predict"
+    }
+  ],
+  "foreword": [
+    {
+      "prefix": "epi-",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "epilogue"
+    }
+  ],
+  "gather": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "convene"
+    }
+  ],
+  "gist": [
+    {
+      "prefix": "pur-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "purport"
+    }
+  ],
+  "go before": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "precede"
+    }
+  ],
+  "gramophone": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "phonograph"
+    }
+  ],
+  "graph": [
+    {
+      "prefix": "dia-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "diagram"
+    }
+  ],
+  "grip": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "traction"
+    }
+  ],
+  "guarantee": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vouch"
+    }
+  ],
+  "guess": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "conjecture"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "speculate"
+    }
+  ],
+  "halt": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "cessation"
+    }
+  ],
+  "hand in": [
+    {
+      "prefix": "sub-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "submit"
+    }
+  ],
+  "handheld": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "portable"
+    }
+  ],
+  "happening": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "event"
+    }
+  ],
+  "harmony": [
+    {
+      "prefix": "eu-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "euphony"
+    },
+    {
+      "prefix": "caco-",
+      "role": "antonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "cacophony"
+    }
+  ],
+  "help": [
+    {
+      "prefix": "sup-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "support"
+    }
+  ],
+  "hex": [
+    {
+      "prefix": "male-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "malediction"
+    }
+  ],
+  "hidden": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "conspicuous"
+    }
+  ],
+  "hide": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "indicate"
+    },
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "expose"
+    }
+  ],
+  "hinder": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "prevent"
+    }
+  ],
+  "hindsight": [
+    {
+      "prefix": "retro-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "retrospect"
+    }
+  ],
+  "hire": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "dismiss"
+    }
+  ],
+  "homonym": [
+    {
+      "prefix": "homo-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "homophone"
+    }
+  ],
+  "hook": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "addict"
+    }
+  ],
+  "hopeful": [
+    {
+      "prefix": "ab-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "abject"
+    }
+  ],
+  "hopeless": [
+    {
+      "prefix": "ab-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "abject"
+    }
+  ],
+  "hypothesis": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "conjecture"
+    }
+  ],
+  "hypothesize": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "speculate"
+    }
+  ],
+  "ignore": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "inspect"
+    },
+    {
+      "prefix": "inter-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "intervene"
+    }
+  ],
+  "illogic": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "logic"
+    }
+  ],
+  "image": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "reflection"
+    }
+  ],
+  "imitate": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "invent"
+    }
+  ],
+  "implant": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "extract"
+    }
+  ],
+  "import": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "export"
+    }
+  ],
+  "impressive": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "spectacular"
+    }
+  ],
+  "incite": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "provoke"
+    }
+  ],
+  "include": [
+    {
+      "prefix": "o-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "omit"
+    }
+  ],
+  "income": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "revenue"
+    }
+  ],
+  "inconspicuous": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "conspicuous"
+    }
+  ],
+  "index": [
+    {
+      "prefix": "cata-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "catalog"
+    }
+  ],
+  "inflexible": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flexible"
+    }
+  ],
+  "inform": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "report"
+    }
+  ],
+  "innocent": [
+    {
+      "prefix": "sus-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "suspicious"
+    }
+  ],
+  "innovation": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "invention"
+    }
+  ],
+  "inscription": [
+    {
+      "prefix": "epi-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "epigraph"
+    }
+  ],
+  "insert": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "inject"
+    },
+    {
+      "prefix": "e-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "eject"
+    },
+    {
+      "prefix": "inter-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "interject"
+    },
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "extract"
+    }
+  ],
+  "instinct": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "reflex"
+    }
+  ],
+  "interfere": [
+    {
+      "prefix": "inter-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "intervene"
+    }
+  ],
+  "interrupt": [
+    {
+      "prefix": "inter-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "interject"
+    }
+  ],
+  "intervene": [
+    {
+      "prefix": "inter-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "intercede"
+    }
+  ],
+  "introduce": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "inject"
+    }
+  ],
+  "introduction": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "prologue"
+    }
+  ],
+  "issue": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "revoke"
+    }
+  ],
+  "judgment": [
+    {
+      "prefix": "ver-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "verdict"
+    }
+  ],
+  "keep": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "cede"
+    },
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "dispose"
+    }
+  ],
+  "kneel": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "genuflect"
+    }
+  ],
+  "know": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "speculate"
+    }
+  ],
+  "lack": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "exceed"
+    }
+  ],
+  "leave out": [
+    {
+      "prefix": "o-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "omit"
+    }
+  ],
+  "lessen": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "detract"
+    }
+  ],
+  "levy": [
+    {
+      "prefix": "im-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "impose"
+    }
+  ],
+  "lexicon": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "dictionary"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocabulary"
+    }
+  ],
+  "lie": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "repose"
+    }
+  ],
+  "life science": [
+    {
+      "prefix": "bio-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "biology"
+    }
+  ],
+  "life story": [
+    {
+      "prefix": "bio-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "biography"
+    }
+  ],
+  "list": [
+    {
+      "prefix": "cata-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "catalog"
+    }
+  ],
+  "location": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "position"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "venue"
+    }
+  ],
+  "loudspeaker": [
+    {
+      "prefix": "mega-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "megaphone"
+    }
+  ],
+  "lure": [
+    {
+      "prefix": "at-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "attract"
+    }
+  ],
+  "malediction": [
+    {
+      "prefix": "bene-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "benediction"
+    }
+  ],
+  "manageable": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "intractable"
+    }
+  ],
+  "matter": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "subject"
+    }
+  ],
+  "mediate": [
+    {
+      "prefix": "inter-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "intercede"
+    },
+    {
+      "prefix": "inter-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "intervene"
+    }
+  ],
+  "melody": [
+    {
+      "prefix": "eu-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "euphony"
+    }
+  ],
+  "memoir": [
+    {
+      "prefix": "bio-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "biography"
+    },
+    {
+      "prefix": "bio-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "autobiography"
+    }
+  ],
+  "message": [
+    {
+      "prefix": "tele-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "telegram"
+    }
+  ],
+  "mic": [
+    {
+      "prefix": "micro-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "microphone"
+    }
+  ],
+  "mind science": [
+    {
+      "prefix": "psycho-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "psychology"
+    }
+  ],
+  "mirror": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "reflect"
+    }
+  ],
+  "miserable": [
+    {
+      "prefix": "ab-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "abject"
+    }
+  ],
+  "missile": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "projectile"
+    }
+  ],
+  "modulation": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "inflection"
+    }
+  ],
+  "monologue": [
+    {
+      "prefix": "dia-",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "dialogue"
+    }
+  ],
+  "movable": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "portable"
+    }
+  ],
+  "neglect": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "dedicate"
+    }
+  ],
+  "noticeable": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "conspicuous"
+    }
+  ],
+  "notify": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "report"
+    }
+  ],
+  "object to": [
+    {
+      "prefix": "op-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "oppose"
+    }
+  ],
+  "obvious": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "conspicuous"
+    }
+  ],
+  "occurrence": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "event"
+    }
+  ],
+  "offend": [
+    {
+      "prefix": "apo-",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "apologize"
+    }
+  ],
+  "offer": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "propose"
+    }
+  ],
+  "omit": [
+    {
+      "prefix": "inter-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "interject"
+    }
+  ],
+  "oppose": [
+    {
+      "prefix": "contra-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "contradict"
+    },
+    {
+      "prefix": "ob-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "object"
+    },
+    {
+      "prefix": "sup-",
+      "role": "antonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "support"
+    },
+    {
+      "prefix": "ad-",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "advocate"
+    }
+  ],
+  "orchestra piece": [
+    {
+      "prefix": "sym-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "symphony"
+    }
+  ],
+  "order": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "edict"
+    },
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "prescribe"
+    }
+  ],
+  "ordinary": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "spectacular"
+    }
+  ],
+  "outdo": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "exceed"
+    }
+  ],
+  "outlook": [
+    {
+      "prefix": "per-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "perspective"
+    }
+  ],
+  "outspoken": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocal"
+    }
+  ],
+  "overlook": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "inspect"
+    }
+  ],
+  "p.s.": [
+    {
+      "prefix": "post-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "postscript"
+    }
+  ],
+  "part": [
+    {
+      "prefix": "com-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "component"
+    }
+  ],
+  "passage": [
+    {
+      "prefix": "para-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "paragraph"
+    }
+  ],
+  "path": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "trajectory"
+    }
+  ],
+  "penmanship": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "calligraphy"
+    }
+  ],
+  "percussion instrument": [
+    {
+      "prefix": "xylo-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "xylophone"
+    }
+  ],
+  "permit": [
+    {
+      "prefix": "pre-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "prevent"
+    }
+  ],
+  "perpetrate": [
+    {
+      "prefix": "com-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "commit"
+    }
+  ],
+  "phone": [
+    {
+      "prefix": "tele-",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "telephone"
+    }
+  ],
+  "phonetics": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "phonics"
+    }
+  ],
+  "photo": [
+    {
+      "prefix": "photo-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "photograph"
+    }
+  ],
+  "picture": [
+    {
+      "prefix": "photo-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "photograph"
+    }
+  ],
+  "piece": [
+    {
+      "prefix": "com-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "component"
+    }
+  ],
+  "place": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "position"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "venue"
+    }
+  ],
+  "plan": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "project"
+    }
+  ],
+  "pledge": [
+    {
+      "prefix": "com-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "commit"
+    },
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "promise"
+    }
+  ],
+  "point out": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "indicate"
+    }
+  ],
+  "ponder": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "reflect"
+    }
+  ],
+  "portray": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "describe"
+    }
+  ],
+  "praise": [
+    {
+      "prefix": "eu-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "eulogy"
+    }
+  ],
+  "prayer": [
+    {
+      "prefix": "bene-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "benediction"
+    }
+  ],
+  "preface": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "prologue"
+    }
+  ],
+  "prescribe": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "dictate"
+    }
+  ],
+  "print": [
+    {
+      "prefix": "manu-",
+      "role": "antonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "manuscript"
+    }
+  ],
+  "profess": [
+    {
+      "prefix": "pur-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "purport"
+    }
+  ],
+  "profession": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocation"
+    }
+  ],
+  "prohibit": [
+    {
+      "prefix": "per-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "permit"
+    }
+  ],
+  "projectile": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "missile"
+    }
+  ],
+  "prologue": [
+    {
+      "prefix": "epi-",
+      "role": "antonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "epilogue"
+    }
+  ],
+  "prolong": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "protract"
+    }
+  ],
+  "prominent": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "conspicuous"
+    }
+  ],
+  "prophecy": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "prediction"
+    }
+  ],
+  "protest": [
+    {
+      "prefix": "ob-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "object"
+    }
+  ],
+  "proud": [
+    {
+      "prefix": "ab-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "abject"
+    }
+  ],
+  "pull out": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "extract"
+    }
+  ],
+  "quest": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "adventure"
+    }
+  ],
+  "rationale": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "logic"
+    }
+  ],
+  "reaction": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "reflex"
+    }
+  ],
+  "reasoning": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "logic"
+    }
+  ],
+  "recant": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "retract"
+    }
+  ],
+  "receive": [
+    {
+      "prefix": "trans-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "transmit"
+    }
+  ],
+  "recommend": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "prescribe"
+    }
+  ],
+  "record": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "transcript"
+    }
+  ],
+  "record player": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "phonograph"
+    }
+  ],
+  "refuse": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "concede"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "reject"
+    }
+  ],
+  "reject": [
+    {
+      "prefix": "ad-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "admit"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "dismiss"
+    },
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "propose"
+    }
+  ],
+  "release": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "emit"
+    }
+  ],
+  "religious studies": [
+    {
+      "prefix": "theo-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "theology"
+    }
+  ],
+  "remembrance": [
+    {
+      "prefix": "retro-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "retrospect"
+    }
+  ],
+  "remove": [
+    {
+      "prefix": "inter-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "interject"
+    },
+    {
+      "prefix": "im-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "impose"
+    },
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "extract"
+    }
+  ],
+  "repel": [
+    {
+      "prefix": "at-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "attract"
+    }
+  ],
+  "repulse": [
+    {
+      "prefix": "at-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "attract"
+    }
+  ],
+  "repulsive": [
+    {
+      "prefix": "at-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "attractive"
+    }
+  ],
+  "reserved": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocal"
+    }
+  ],
+  "resist": [
+    {
+      "prefix": "sub-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "submit"
+    },
+    {
+      "prefix": "op-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "oppose"
+    }
+  ],
+  "rest": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "repose"
+    }
+  ],
+  "retain": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "cede"
+    },
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "dispose"
+    }
+  ],
+  "retreat": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "proceed"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "recede"
+    }
+  ],
+  "reveal": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "expose"
+    }
+  ],
+  "rigid": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flexible"
+    }
+  ],
+  "rocket": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "projectile"
+    }
+  ],
+  "route": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "trajectory"
+    }
+  ],
+  "routine": [
+    {
+      "prefix": "ad-",
+      "role": "antonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "adventure"
+    }
+  ],
+  "save": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "deposit"
+    }
+  ],
+  "say sorry": [
+    {
+      "prefix": "apo-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "apologize"
+    }
+  ],
+  "scheme": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "project"
+    }
+  ],
+  "scorn": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "respect"
+    }
+  ],
+  "scrawl": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "scribble"
+    }
+  ],
+  "screenplay": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "script"
+    }
+  ],
+  "scrutinize": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "inspect"
+    }
+  ],
+  "section": [
+    {
+      "prefix": "para-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "paragraph"
+    }
+  ],
+  "send": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "transmit"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "remit"
+    }
+  ],
+  "send out": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "export"
+    }
+  ],
+  "shell": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "projectile"
+    }
+  ],
+  "ship": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "transport"
+    }
+  ],
+  "shorten": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "protract"
+    }
+  ],
+  "show": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "indicate"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "spectacle"
+    }
+  ],
+  "sidetrack": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "distract"
+    }
+  ],
+  "sight": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "spectacle"
+    }
+  ],
+  "sign up": [
+    {
+      "prefix": "sub-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "subscribe"
+    }
+  ],
+  "signal": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "indicate"
+    }
+  ],
+  "silent": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocal"
+    }
+  ],
+  "skip": [
+    {
+      "prefix": "o-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "omit"
+    }
+  ],
+  "slip": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "traction"
+    }
+  ],
+  "snapshot": [
+    {
+      "prefix": "photo-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "photograph"
+    }
+  ],
+  "soliloquy": [
+    {
+      "prefix": "mono-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "monologue"
+    }
+  ],
+  "soothe": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "provoke"
+    }
+  ],
+  "sound unit": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "phoneme"
+    }
+  ],
+  "speculation": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "conjecture"
+    }
+  ],
+  "spoken": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "phonetic"
+    }
+  ],
+  "spot": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "position"
+    }
+  ],
+  "stance": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "posture"
+    }
+  ],
+  "stand": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "genuflect"
+    }
+  ],
+  "start": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "cessation"
+    }
+  ],
+  "stationary": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "portable"
+    }
+  ],
+  "stop": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "proceed"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "cessation"
+    },
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "prevent"
+    }
+  ],
+  "store": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "deposit"
+    }
+  ],
+  "straight": [
+    {
+      "prefix": "retro-",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "retroflex"
+    }
+  ],
+  "straighten": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "flex"
+    }
+  ],
+  "stubborn": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "intractable"
+    }
+  ],
+  "study": [
+    {
+      "prefix": "mono-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "monograph"
+    }
+  ],
+  "stunning": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "spectacular"
+    }
+  ],
+  "suggest": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "propose"
+    }
+  ],
+  "summon": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "invoke"
+    },
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "convoke"
+    }
+  ],
+  "support": [
+    {
+      "prefix": "op-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "oppose"
+    },
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "advocate"
+    }
+  ],
+  "suppress": [
+    {
+      "prefix": "e-",
+      "role": "antonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "evoke"
+    }
+  ],
+  "surpass": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "exceed"
+    }
+  ],
+  "surrender": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "cede"
+    }
+  ],
+  "sustain": [
+    {
+      "prefix": "sup-",
+      "role": "synonym",
+      "root": "port",
+      "rootForm": "port-",
+      "word": "support"
+    }
+  ],
+  "take away": [
+    {
+      "prefix": "sub-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "subtract"
+    }
+  ],
+  "task": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "mission"
+    }
+  ],
+  "text": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "script"
+    },
+    {
+      "prefix": "manu-",
+      "role": "synonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "manuscript"
+    }
+  ],
+  "throw out": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "eject"
+    }
+  ],
+  "tone": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "inflection"
+    }
+  ],
+  "topic": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "subject"
+    }
+  ],
+  "topography": [
+    {
+      "prefix": "geo-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "geography"
+    }
+  ],
+  "transfer": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "remit"
+    }
+  ],
+  "treatise": [
+    {
+      "prefix": "mono-",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "monograph"
+    }
+  ],
+  "tribute": [
+    {
+      "prefix": "eu-",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "eulogy"
+    }
+  ],
+  "trigger": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "provoke"
+    }
+  ],
+  "triumph": [
+    {
+      "prefix": "suc-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "succeed"
+    },
+    {
+      "prefix": "suc-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "success"
+    }
+  ],
+  "trust": [
+    {
+      "prefix": "sus-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "suspect"
+    }
+  ],
+  "trustworthy": [
+    {
+      "prefix": "sus-",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "suspicious"
+    }
+  ],
+  "turn down": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "reject"
+    }
+  ],
+  "unattractive": [
+    {
+      "prefix": "at-",
+      "role": "antonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "attractive"
+    }
+  ],
+  "uncover": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "expose"
+    }
+  ],
+  "undertaking": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ven",
+      "rootForm": "ven-, vent-",
+      "word": "venture"
+    }
+  ],
+  "unimpressive": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "spectacular"
+    }
+  ],
+  "unmanageable": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "intractable"
+    }
+  ],
+  "unsubscribe": [
+    {
+      "prefix": "sub-",
+      "role": "antonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "subscribe"
+    }
+  ],
+  "utter": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocalize"
+    }
+  ],
+  "vague": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "graphic"
+    }
+  ],
+  "venture": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "project"
+    }
+  ],
+  "viewpoint": [
+    {
+      "prefix": "per-",
+      "role": "synonym",
+      "root": "spec",
+      "rootForm": "spec-, spect-, spic-",
+      "word": "perspective"
+    }
+  ],
+  "visual": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "graphic"
+    }
+  ],
+  "vivid": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "graph",
+      "rootForm": "graph-",
+      "word": "graphic"
+    }
+  ],
+  "vocal": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "phon",
+      "rootForm": "phon-",
+      "word": "phonetic"
+    }
+  ],
+  "volunteer": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "conscript"
+    }
+  ],
+  "vow": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "promise"
+    }
+  ],
+  "ward off": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "flex",
+      "rootForm": "flex-, flect-",
+      "word": "deflect"
+    }
+  ],
+  "wean": [
+    {
+      "prefix": "ad-",
+      "role": "antonym",
+      "root": "dict",
+      "rootForm": "dict-",
+      "word": "addict"
+    }
+  ],
+  "withdraw": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "recede"
+    },
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "inject"
+    },
+    {
+      "prefix": "sub-",
+      "role": "antonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "submit"
+    },
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "propose"
+    },
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "deposit"
+    },
+    {
+      "prefix": "im-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "impose"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "tract",
+      "rootForm": "tract-",
+      "word": "retract"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "revoke"
+    }
+  ],
+  "word origin": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "log",
+      "rootForm": "log-, -logy",
+      "word": "etymology"
+    }
+  ],
+  "word stock": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "voc",
+      "rootForm": "voc-, vok-",
+      "word": "vocabulary"
+    }
+  ],
+  "work": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "pos",
+      "rootForm": "pos-, pon-",
+      "word": "repose"
+    }
+  ],
+  "wretched": [
+    {
+      "prefix": "ab-",
+      "role": "synonym",
+      "root": "ject",
+      "rootForm": "ject-",
+      "word": "abject"
+    }
+  ],
+  "write neatly": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "scrib",
+      "rootForm": "scrib-, script-",
+      "word": "scribble"
+    }
+  ],
+  "yield": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ced",
+      "rootForm": "ced-, cess-",
+      "word": "cede"
+    },
+    {
+      "prefix": "sub-",
+      "role": "synonym",
+      "root": "mit",
+      "rootForm": "mit-, miss-",
+      "word": "submit"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "log",
+  "origin": "Greek",
+  "rootForm": "log-, -logy",
+  "meaning": "말, 학문, 논리",
+  "story": "그리스어 logos('말, 이성, 논리')에서 왔다. 학문 이름의 끝 -logy(biology, psychology)는 모두 '~에 대한 학문'이라는 뜻으로 이 어원에서 나왔다.",
+  "tree": [
+    {
+      "prefix": "dia-",
+      "prefixMeaning": "사이에, 가로질러",
+      "words": [
+        {
+          "word": "dialogue",
+          "ipa": "/ˈdaɪəˌlɔɡ/",
+          "pos": "n",
+          "meaning": "대화 (사이를 오가는 말)",
+          "example": "The two leaders held a long dialogue.",
+          "exampleKo": "두 지도자는 긴 대화를 나누었다.",
+          "synonyms": [
+            "conversation",
+            "discussion"
+          ],
+          "antonyms": [
+            "monologue"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "mono-",
+      "prefixMeaning": "하나",
+      "words": [
+        {
+          "word": "monologue",
+          "ipa": "/ˈmɑnəˌlɔɡ/",
+          "pos": "n",
+          "meaning": "독백 (혼자 하는 말)",
+          "example": "The actor performed a five-minute monologue.",
+          "exampleKo": "그 배우는 5분짜리 독백을 연기했다.",
+          "synonyms": [
+            "soliloquy"
+          ],
+          "antonyms": [
+            "dialogue"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "pro-",
+      "prefixMeaning": "앞에",
+      "words": [
+        {
+          "word": "prologue",
+          "ipa": "/ˈproʊlɔɡ/",
+          "pos": "n",
+          "meaning": "서막, 머리말 (앞에 하는 말)",
+          "example": "The novel begins with a short prologue.",
+          "exampleKo": "그 소설은 짧은 서막으로 시작한다.",
+          "synonyms": [
+            "preface",
+            "introduction"
+          ],
+          "antonyms": [
+            "epilogue"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "bio-",
+      "prefixMeaning": "생명",
+      "words": [
+        {
+          "word": "biology",
+          "ipa": "/baɪˈɑlədʒi/",
+          "pos": "n",
+          "meaning": "생물학 (생명에 대한 학문)",
+          "example": "Biology is my favorite subject in school.",
+          "exampleKo": "생물학은 학교에서 내가 가장 좋아하는 과목이다.",
+          "synonyms": [
+            "life science"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "psycho-",
+      "prefixMeaning": "마음, 정신",
+      "words": [
+        {
+          "word": "psychology",
+          "ipa": "/saɪˈkɑlədʒi/",
+          "pos": "n",
+          "meaning": "심리학 (마음에 대한 학문)",
+          "example": "She studies psychology at university.",
+          "exampleKo": "그녀는 대학에서 심리학을 공부한다.",
+          "synonyms": [
+            "mind science"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "logic 형태",
+      "words": [
+        {
+          "word": "logic",
+          "ipa": "/ˈlɑdʒɪk/",
+          "pos": "n",
+          "meaning": "논리, 논리학",
+          "example": "His argument has no logic.",
+          "exampleKo": "그의 주장은 논리가 없다.",
+          "synonyms": [
+            "reasoning",
+            "rationale"
+          ],
+          "antonyms": [
+            "illogic",
+            "absurdity"
+          ]
+        },
+        {
+          "word": "etymology",
+          "ipa": "/ˌɛtəˈmɑːlədʒi/",
+          "pos": "n",
+          "meaning": "어원학, 어원",
+          "example": "The etymology of the word 'hello' is interesting.",
+          "exampleKo": "'hello'라는 단어의 어원은 흥미롭다.",
+          "synonyms": [
+            "word origin",
+            "derivation"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "apo-",
+      "prefixMeaning": "~로부터 멀리",
+      "words": [
+        {
+          "word": "apologize",
+          "ipa": "/əˈpɑːləˌdʒaɪz/",
+          "pos": "v",
+          "meaning": "사과하다, 해명하다",
+          "example": "You should apologize for your rude behavior.",
+          "exampleKo": "무례한 행동에 대해 사과해야 합니다.",
+          "synonyms": [
+            "say sorry",
+            "express regret"
+          ],
+          "antonyms": [
+            "offend",
+            "blame"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "epi-",
+      "prefixMeaning": "~위에, ~에 덧붙여",
+      "words": [
+        {
+          "word": "epilogue",
+          "ipa": "/ˈɛpəˌlɔːɡ/",
+          "pos": "n",
+          "meaning": "에필로그, 맺음말",
+          "example": "The book had a short epilogue.",
+          "exampleKo": "그 책에는 짧은 에필로그가 있었다.",
+          "synonyms": [
+            "afterword",
+            "conclusion"
+          ],
+          "antonyms": [
+            "prologue",
+            "foreword"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "eu-",
+      "prefixMeaning": "좋은, 잘",
+      "words": [
+        {
+          "word": "eulogy",
+          "ipa": "/ˈjuːlədʒi/",
+          "pos": "n",
+          "meaning": "찬사, 칭송",
+          "example": "He delivered a moving eulogy at his friend's funeral.",
+          "exampleKo": "그는 친구의 장례식에서 감동적인 찬사를 보냈다.",
+          "synonyms": [
+            "praise",
+            "tribute"
+          ],
+          "antonyms": [
+            "criticism",
+            "condemnation"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "cata-",
+      "prefixMeaning": "~아래로, 완전히",
+      "words": [
+        {
+          "word": "catalog",
+          "ipa": "/ˈkætəlɔːɡ/",
+          "pos": "n",
+          "meaning": "카탈로그, 목록",
+          "example": "I ordered a new catalog from the furniture store.",
+          "exampleKo": "가구점에서 새 카탈로그를 주문했다.",
+          "synonyms": [
+            "list",
+            "index"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "theo-",
+      "prefixMeaning": "신",
+      "words": [
+        {
+          "word": "theology",
+          "ipa": "/θiˈɑːlədʒi/",
+          "pos": "n",
+          "meaning": "신학",
+          "example": "She studied theology at university.",
+          "exampleKo": "그녀는 대학에서 신학을 공부했다.",
+          "synonyms": [
+            "divinity",
+            "religious studies"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "cluster": "말·언어",
+  "verified": true
+}

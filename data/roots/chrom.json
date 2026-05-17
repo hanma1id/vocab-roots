@@ -1,0 +1,172 @@
+{
+  "id": "chrom",
+  "origin": "Greek",
+  "rootForm": "chrom-, chromo-",
+  "meaning": "색",
+  "cluster": "자연·사물",
+  "story": "고대 그리스어 chroma('색, 피부색')에서 왔다. 모노크롬(monochrome, 단색)과 크롬(chrome, 금속 도금) 모두 같은 뿌리에서 출발한 단어다.",
+  "tree": [
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "chrom-, chromo- 형태",
+      "words": [
+        {
+          "word": "chrome",
+          "ipa": "/kroʊm/",
+          "pos": "n",
+          "meaning": "크롬, 크롬 도금",
+          "example": "The car has shiny chrome wheels.",
+          "exampleKo": "그 차는 반짝이는 크롬 휠을 가지고 있다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "chromatic",
+          "ipa": "/kroʊˈmætɪk/",
+          "pos": "adj",
+          "meaning": "색채의, 반음계의",
+          "example": "The painting uses a bright chromatic palette.",
+          "exampleKo": "그 그림은 화사한 색채 팔레트를 쓴다.",
+          "synonyms": [
+            "colorful"
+          ],
+          "antonyms": [
+            "achromatic"
+          ]
+        },
+        {
+          "word": "chromosome",
+          "ipa": "/ˈkroʊməˌsoʊm/",
+          "pos": "n",
+          "meaning": "염색체 (색이 잘 입혀지는 세포 구조)",
+          "example": "Humans have 46 chromosomes.",
+          "exampleKo": "사람은 염색체를 46개 가지고 있다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "mono-",
+      "prefixMeaning": "하나, 단일",
+      "words": [
+        {
+          "word": "monochrome",
+          "ipa": "/ˈmɑːnəkroʊm/",
+          "pos": "adj·n",
+          "meaning": "단색의, 흑백의; 단색화",
+          "example": "She prefers monochrome photography.",
+          "exampleKo": "그녀는 흑백 사진을 선호한다.",
+          "synonyms": [
+            "black-and-white"
+          ],
+          "antonyms": [
+            "polychrome",
+            "color"
+          ]
+        },
+        {
+          "word": "monochromatic",
+          "ipa": "/ˌmɑːnəkroʊˈmætɪk/",
+          "pos": "adj",
+          "meaning": "단색의",
+          "example": "The room had a monochromatic gray theme.",
+          "exampleKo": "그 방은 단색 회색 테마였다.",
+          "synonyms": [],
+          "antonyms": [
+            "multicolored"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "poly-",
+      "prefixMeaning": "여럿, 다수",
+      "words": [
+        {
+          "word": "polychrome",
+          "ipa": "/ˈpɑːliːkroʊm/",
+          "pos": "adj",
+          "meaning": "다색의, 여러 색의",
+          "example": "The temple is decorated with polychrome statues.",
+          "exampleKo": "그 사원은 다색 조각상들로 장식되어 있다.",
+          "synonyms": [
+            "multicolored"
+          ],
+          "antonyms": [
+            "monochrome"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "a-",
+      "prefixMeaning": "없는 (부정)",
+      "words": [
+        {
+          "word": "achromatic",
+          "ipa": "/ˌeɪkroʊˈmætɪk/",
+          "pos": "adj",
+          "meaning": "무색의, 색이 없는",
+          "example": "Black, white, and gray are achromatic colors.",
+          "exampleKo": "검정, 흰색, 회색은 무색 계열이다.",
+          "synonyms": [
+            "colorless"
+          ],
+          "antonyms": [
+            "chromatic"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "chromato-",
+      "prefixMeaning": "색의",
+      "words": [
+        {
+          "word": "chromatography",
+          "ipa": "/ˌkroʊməˈtɑːɡrəfi/",
+          "pos": "n",
+          "meaning": "크로마토그래피 (색으로 물질을 분리하는 분석법)",
+          "example": "Chemists use chromatography to separate compounds.",
+          "exampleKo": "화학자들은 화합물을 분리하는 데 크로마토그래피를 쓴다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "tri-",
+      "prefixMeaning": "셋",
+      "words": [
+        {
+          "word": "trichromatic",
+          "ipa": "/ˌtraɪkroʊˈmætɪk/",
+          "pos": "adj",
+          "meaning": "삼색의 (빛의 삼원색을 가진)",
+          "example": "Humans have trichromatic vision.",
+          "exampleKo": "사람은 삼색 시각을 가지고 있다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "hetero-",
+      "prefixMeaning": "다른",
+      "words": [
+        {
+          "word": "heterochromia",
+          "ipa": "/ˌhɛtəroʊˈkroʊmiə/",
+          "pos": "n",
+          "meaning": "홍채이색증 (양쪽 눈동자 색이 다름)",
+          "example": "Some cats have heterochromia, with one blue eye.",
+          "exampleKo": "어떤 고양이는 한쪽 눈이 파란 홍채이색증을 가진다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

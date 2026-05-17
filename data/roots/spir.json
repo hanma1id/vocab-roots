@@ -1,0 +1,216 @@
+{
+  "id": "spir",
+  "origin": "Latin",
+  "rootForm": "spir-, spire-",
+  "meaning": "숨쉬다",
+  "cluster": "생명·호흡·정신",
+  "story": "라틴어 동사 'spirare'에서 유래했으며, '숨쉬다', '살아있다'라는 의미를 가지고 있습니다. 생명 유지의 가장 기본적인 행위인 호흡과 관련된 단어들을 파생시켰습니다.",
+  "tree": [
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "spirit",
+          "ipa": "/ˈspɪrɪt/",
+          "pos": "n",
+          "meaning": "정신, 영혼",
+          "example": "He has a strong fighting spirit.",
+          "exampleKo": "그는 강한 투지를 가지고 있다.",
+          "synonyms": [
+            "soul",
+            "mind"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "aspire",
+          "ipa": "/əˈspaɪər/",
+          "pos": "v",
+          "meaning": "열망하다, 갈망하다",
+          "example": "She aspires to be a doctor.",
+          "exampleKo": "그녀는 의사가 되기를 열망한다.",
+          "synonyms": [
+            "desire",
+            "long for"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "inspire",
+          "ipa": "/ɪnˈspaɪər/",
+          "pos": "v",
+          "meaning": "영감을 주다, 고무하다",
+          "example": "His speech inspired the audience.",
+          "exampleKo": "그의 연설은 청중에게 영감을 주었다.",
+          "synonyms": [
+            "motivate",
+            "encourage"
+          ],
+          "antonyms": [
+            "discourage"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ex-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "expire",
+          "ipa": "/ɪkˈspaɪər/",
+          "pos": "v",
+          "meaning": "만료되다, 숨을 거두다",
+          "example": "The warranty will expire next month.",
+          "exampleKo": "보증 기간이 다음 달에 만료될 것이다.",
+          "synonyms": [
+            "end",
+            "cease"
+          ],
+          "antonyms": [
+            "begin",
+            "start"
+          ]
+        },
+        {
+          "word": "expiration",
+          "ipa": "/ˌɛkspəˈreɪʃən/",
+          "pos": "n",
+          "meaning": "만료, 종료",
+          "example": "Check the expiration date on the milk.",
+          "exampleKo": "우유의 유통기한을 확인하세요.",
+          "synonyms": [
+            "expiry",
+            "end"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "conspire",
+          "ipa": "/kənˈspaɪər/",
+          "pos": "v",
+          "meaning": "음모를 꾸미다",
+          "example": "They conspired to overthrow the king.",
+          "exampleKo": "그들은 왕을 폐위시키기 위해 음모를 꾸몄다.",
+          "synonyms": [
+            "plot",
+            "scheme"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "다시, 뒤로",
+      "words": [
+        {
+          "word": "respiration",
+          "ipa": "/ˌrɛspəˈreɪʃən/",
+          "pos": "n",
+          "meaning": "호흡",
+          "example": "Deep respiration is good for health.",
+          "exampleKo": "깊은 호흡은 건강에 좋다.",
+          "synonyms": [
+            "breathing"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "respiratory",
+          "ipa": "/ˈrɛspərətɔːri/",
+          "pos": "adj",
+          "meaning": "호흡의",
+          "example": "He has a respiratory illness.",
+          "exampleKo": "그는 호흡기 질환을 앓고 있다.",
+          "synonyms": [
+            "pulmonary"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "trans-",
+      "prefixMeaning": "가로질러",
+      "words": [
+        {
+          "word": "transpire",
+          "ipa": "/trænsˈpaɪər/",
+          "pos": "v",
+          "meaning": "일어나다, 발생하다",
+          "example": "The event transpired as planned.",
+          "exampleKo": "그 사건은 계획대로 일어났다.",
+          "synonyms": [
+            "happen",
+            "occur"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "per-",
+      "prefixMeaning": "통해",
+      "words": [
+        {
+          "word": "perspire",
+          "ipa": "/pərˈspaɪər/",
+          "pos": "v",
+          "meaning": "땀을 흘리다",
+          "example": "I perspire a lot when I exercise.",
+          "exampleKo": "나는 운동할 때 땀을 많이 흘린다.",
+          "synonyms": [
+            "sweat"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "sus-",
+      "prefixMeaning": "밑에서 (sub-의 변형)",
+      "words": [
+        {
+          "word": "suspiration",
+          "ipa": "/ˌsʌspɪˈreɪʃən/",
+          "pos": "n",
+          "meaning": "한숨",
+          "example": "He let out a long suspiration of relief.",
+          "exampleKo": "그는 안도의 긴 한숨을 내쉬었다.",
+          "synonyms": [
+            "sigh"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "안으로",
+      "words": [
+        {
+          "word": "inspiration",
+          "ipa": "/ˌɪnspəˈreɪʃən/",
+          "pos": "n",
+          "meaning": "영감",
+          "example": "The poem was full of inspiration.",
+          "exampleKo": "그 시는 영감으로 가득했다.",
+          "synonyms": [
+            "muse",
+            "stimulus"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

@@ -1,0 +1,190 @@
+{
+  "id": "bio",
+  "origin": "Greek",
+  "rootForm": "bio-",
+  "meaning": "생명",
+  "cluster": "생명·호흡·정신",
+  "story": "고대 그리스어 'bios'(βίος)는 '삶' 또는 '생명'을 의미했습니다. 이 어원은 살아있는 모든 것과 생명 현상을 나타내는 다양한 단어에 사용되었습니다.",
+  "tree": [
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "biology",
+          "ipa": "/baɪˈɒlədʒi/",
+          "pos": "n",
+          "meaning": "생물학",
+          "example": "I am studying biology.",
+          "exampleKo": "나는 생물학을 공부하고 있다.",
+          "synonyms": [
+            "life science"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "biography",
+          "ipa": "/baɪˈɒɡrəfi/",
+          "pos": "n",
+          "meaning": "전기, 일대기",
+          "example": "She wrote a biography of the famous scientist.",
+          "exampleKo": "그녀는 그 유명한 과학자의 전기를 썼다.",
+          "synonyms": [
+            "life story"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "biochemical",
+          "ipa": "/ˌbaɪəʊˈkɛmɪkl/",
+          "pos": "adj",
+          "meaning": "생화학의",
+          "example": "We studied biochemical reactions.",
+          "exampleKo": "우리는 생화학 반응을 공부했다.",
+          "synonyms": [
+            "chemical"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "biodiversity",
+          "ipa": "/ˌbaɪəʊdaɪˈvɜːrsəti/",
+          "pos": "n",
+          "meaning": "생물 다양성",
+          "example": "Protecting biodiversity is important.",
+          "exampleKo": "생물 다양성을 보호하는 것은 중요하다.",
+          "synonyms": [
+            "variety of life"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "micro-",
+      "prefixMeaning": "작은",
+      "words": [
+        {
+          "word": "microbe",
+          "ipa": "/ˈmaɪkrəʊb/",
+          "pos": "n",
+          "meaning": "미생물",
+          "example": "The microscope helps us see microbes.",
+          "exampleKo": "현미경은 우리가 미생물을 보도록 돕는다.",
+          "synonyms": [
+            "germ",
+            "bacterium"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "eco-",
+      "prefixMeaning": "환경",
+      "words": [
+        {
+          "word": "ecology",
+          "ipa": "/iˈkɒlədʒi/",
+          "pos": "n",
+          "meaning": "생태학",
+          "example": "Ecology studies the relationship between organisms and their environment.",
+          "exampleKo": "생태학은 유기체와 그 환경 간의 관계를 연구한다.",
+          "synonyms": [
+            "environmental science"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "anti-",
+      "prefixMeaning": "반대의",
+      "words": [
+        {
+          "word": "antibiotic",
+          "ipa": "/ˌæntibaɪˈɒtɪk/",
+          "pos": "n",
+          "meaning": "항생제",
+          "example": "The doctor prescribed an antibiotic for the infection.",
+          "exampleKo": "의사는 감염을 위해 항생제를 처방했다.",
+          "synonyms": [
+            "medicine"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "sym-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "symbiosis",
+          "ipa": "/sɪmˈbaɪəʊsɪs/",
+          "pos": "n",
+          "meaning": "공생",
+          "example": "The two species live in symbiosis.",
+          "exampleKo": "그 두 종은 공생하며 산다.",
+          "synonyms": [
+            "coexistence"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "geo-",
+      "prefixMeaning": "지구",
+      "words": [
+        {
+          "word": "geobiology",
+          "ipa": "/ˌdʒiːəʊbaɪˈɒlədʒi/",
+          "pos": "n",
+          "meaning": "지구 생물학",
+          "example": "Geobiology explores life on Earth.",
+          "exampleKo": "지구 생물학은 지구상의 생명을 탐구한다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "auto-",
+      "prefixMeaning": "스스로",
+      "words": [
+        {
+          "word": "autobiography",
+          "ipa": "/ˌɔːtəʊbaɪˈɒɡrəfi/",
+          "pos": "n",
+          "meaning": "자서전",
+          "example": "He is writing his autobiography.",
+          "exampleKo": "그는 자신의 자서전을 쓰고 있다.",
+          "synonyms": [
+            "memoir"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "amphi-",
+      "prefixMeaning": "둘 다",
+      "words": [
+        {
+          "word": "amphibian",
+          "ipa": "/æmˈfɪbiən/",
+          "pos": "n",
+          "meaning": "양서류",
+          "example": "Frogs are amphibians.",
+          "exampleKo": "개구리는 양서류이다.",
+          "synonyms": [
+            "creature"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

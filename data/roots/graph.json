@@ -1,0 +1,223 @@
+{
+  "id": "graph",
+  "origin": "Greek",
+  "rootForm": "graph-",
+  "meaning": "쓰다, 그리다",
+  "story": "그리스어 graphein('쓰다, 새기다')에서 왔다. 라틴어의 scrib-과 비슷한 뜻이지만 그리스어 계통이라 결합하는 접두어가 다르다. 사진(photograph)은 '빛으로 그린 그림'.",
+  "tree": [
+    {
+      "prefix": "photo-",
+      "prefixMeaning": "빛",
+      "words": [
+        {
+          "word": "photograph",
+          "ipa": "/ˈfoʊtəˌɡræf/",
+          "pos": "n, v",
+          "meaning": "사진(을 찍다)",
+          "example": "She took a photograph of the sunset.",
+          "exampleKo": "그녀는 일몰 사진을 찍었다.",
+          "synonyms": [
+            "photo",
+            "picture",
+            "snapshot"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "bio-",
+      "prefixMeaning": "삶, 생명",
+      "words": [
+        {
+          "word": "biography",
+          "ipa": "/baɪˈɑɡrəfi/",
+          "pos": "n",
+          "meaning": "전기, 일대기 (삶을 쓴 것)",
+          "example": "I'm reading a biography of Steve Jobs.",
+          "exampleKo": "나는 스티브 잡스의 전기를 읽고 있다.",
+          "synonyms": [
+            "life story",
+            "memoir"
+          ],
+          "antonyms": [
+            "autobiography"
+          ]
+        },
+        {
+          "word": "autobiography",
+          "ipa": "/ˌɔtəbaɪˈɑɡrəfi/",
+          "pos": "n",
+          "meaning": "자서전 (스스로 쓴 삶의 이야기)",
+          "example": "She published her autobiography last year.",
+          "exampleKo": "그녀는 작년에 자서전을 출간했다.",
+          "synonyms": [
+            "memoir"
+          ],
+          "antonyms": [
+            "biography"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "para-",
+      "prefixMeaning": "옆에, 나란히",
+      "words": [
+        {
+          "word": "paragraph",
+          "ipa": "/ˈpærəˌɡræf/",
+          "pos": "n",
+          "meaning": "단락, 문단",
+          "example": "Start a new paragraph for each idea.",
+          "exampleKo": "생각마다 새 단락을 시작하세요.",
+          "synonyms": [
+            "passage",
+            "section"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "geo-",
+      "prefixMeaning": "땅, 지구",
+      "words": [
+        {
+          "word": "geography",
+          "ipa": "/dʒiˈɑɡrəfi/",
+          "pos": "n",
+          "meaning": "지리학 (땅을 그린 것)",
+          "example": "We studied the geography of South America.",
+          "exampleKo": "우리는 남미의 지리를 공부했다.",
+          "synonyms": [
+            "topography"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "graphic",
+          "ipa": "/ˈɡræfɪk/",
+          "pos": "adj, n",
+          "meaning": "그래픽의, 생생한",
+          "example": "The movie has very graphic scenes.",
+          "exampleKo": "그 영화는 매우 생생한 장면들이 있다.",
+          "synonyms": [
+            "vivid",
+            "visual"
+          ],
+          "antonyms": [
+            "vague"
+          ]
+        },
+        {
+          "word": "grammar",
+          "ipa": "/ˈɡræmər/",
+          "pos": "n",
+          "meaning": "문법",
+          "example": "She studies English grammar every day.",
+          "exampleKo": "그녀는 매일 영어 문법을 공부한다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "calligraphy",
+          "ipa": "/kəˈlɪɡrəfi/",
+          "pos": "n",
+          "meaning": "서예, 캘리그래피",
+          "example": "Calligraphy is the art of beautiful handwriting.",
+          "exampleKo": "캘리그래피는 아름다운 손글씨의 예술이다.",
+          "synonyms": [
+            "penmanship"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "dia-",
+      "prefixMeaning": "가로질러, ~을 통해",
+      "words": [
+        {
+          "word": "diagram",
+          "ipa": "/ˈdaɪəˌɡræm/",
+          "pos": "n",
+          "meaning": "도표, 그림",
+          "example": "The teacher drew a diagram on the board.",
+          "exampleKo": "선생님이 칠판에 도표를 그렸다.",
+          "synonyms": [
+            "chart",
+            "graph",
+            "drawing"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "epi-",
+      "prefixMeaning": "~위에, ~에 덧붙여",
+      "words": [
+        {
+          "word": "epigraph",
+          "ipa": "/ˈɛpəˌɡræf/",
+          "pos": "n",
+          "meaning": "비문, (책 서두의) 인용문",
+          "example": "An epigraph was carved on the ancient monument.",
+          "exampleKo": "고대 기념물에 비문이 새겨져 있었다.",
+          "synonyms": [
+            "inscription",
+            "epitaph"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "mono-",
+      "prefixMeaning": "하나의, 단일의",
+      "words": [
+        {
+          "word": "monograph",
+          "ipa": "/ˈmɑnəˌɡræf/",
+          "pos": "n",
+          "meaning": "(특정 주제의) 전공 논문, 단행본",
+          "example": "He published a monograph on local history.",
+          "exampleKo": "그는 지역 역사에 대한 전공 논문을 출판했다.",
+          "synonyms": [
+            "treatise",
+            "study"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "tele-",
+      "prefixMeaning": "멀리, 먼 곳에서",
+      "words": [
+        {
+          "word": "telegram",
+          "ipa": "/ˈtɛləˌɡræm/",
+          "pos": "n",
+          "meaning": "전보",
+          "example": "My grandmother sent a telegram to announce her arrival.",
+          "exampleKo": "할머니는 도착을 알리기 위해 전보를 보냈다.",
+          "synonyms": [
+            "cable",
+            "message"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "cluster": "쓰다·기록",
+  "verified": true
+}

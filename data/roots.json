@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ced",
+    "origin": "Latin",
+    "rootForm": "ced-, cess-",
+    "meaning": "가다, 양보하다",
+    "cluster": "가다·이동",
+    "wordCount": 12
+  },
+  {
+    "id": "dict",
+    "origin": "Latin",
+    "rootForm": "dict-",
+    "meaning": "말하다",
+    "cluster": "말·언어",
+    "wordCount": 12
+  },
+  {
+    "id": "flex",
+    "origin": "Latin",
+    "rootForm": "flex-, flect-",
+    "meaning": "구부리다, 휘다",
+    "cluster": "형태·변형",
+    "wordCount": 12
+  },
+  {
+    "id": "graph",
+    "origin": "Greek",
+    "rootForm": "graph-",
+    "meaning": "쓰다, 그리다",
+    "cluster": "쓰다·기록",
+    "wordCount": 12
+  },
+  {
+    "id": "ject",
+    "origin": "Latin",
+    "rootForm": "ject-",
+    "meaning": "던지다",
+    "cluster": "운반·던지다",
+    "wordCount": 12
+  },
+  {
+    "id": "log",
+    "origin": "Greek",
+    "rootForm": "log-, -logy",
+    "meaning": "말, 학문, 논리",
+    "cluster": "말·언어",
+    "wordCount": 12
+  },
+  {
+    "id": "mit",
+    "origin": "Latin",
+    "rootForm": "mit-, miss-",
+    "meaning": "보내다",
+    "cluster": "운반·던지다",
+    "wordCount": 12
+  },
+  {
+    "id": "phon",
+    "origin": "Greek",
+    "rootForm": "phon-",
+    "meaning": "소리",
+    "cluster": "청각·소리",
+    "wordCount": 12
+  },
+  {
+    "id": "port",
+    "origin": "Latin",
+    "rootForm": "port-",
+    "meaning": "운반하다, 나르다",
+    "cluster": "운반·던지다",
+    "wordCount": 12
+  },
+  {
+    "id": "pos",
+    "origin": "Latin",
+    "rootForm": "pos-, pon-",
+    "meaning": "놓다, 두다",
+    "cluster": "손·잡다·놓다",
+    "wordCount": 12
+  },
+  {
+    "id": "scrib",
+    "origin": "Latin",
+    "rootForm": "scrib-, script-",
+    "meaning": "쓰다",
+    "cluster": "쓰다·기록",
+    "wordCount": 12
+  },
+  {
+    "id": "spec",
+    "origin": "Latin",
+    "rootForm": "spec-, spect-, spic-",
+    "meaning": "보다, 살펴보다",
+    "cluster": "시각",
+    "wordCount": 12
+  },
+  {
+    "id": "tract",
+    "origin": "Latin",
+    "rootForm": "tract-",
+    "meaning": "끌다, 당기다",
+    "cluster": "운반·던지다",
+    "wordCount": 12
+  },
+  {
+    "id": "ven",
+    "origin": "Latin",
+    "rootForm": "ven-, vent-",
+    "meaning": "오다",
+    "cluster": "가다·이동",
+    "wordCount": 12
+  },
+  {
+    "id": "voc",
+    "origin": "Latin",
+    "rootForm": "voc-, vok-",
+    "meaning": "부르다, 목소리",
+    "cluster": "말·언어",
+    "wordCount": 12
+  }
+]

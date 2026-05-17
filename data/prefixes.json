@@ -1,0 +1,1365 @@
+{
+  "prefixes": [
+    {
+      "id": "re",
+      "form": "re-",
+      "meaning": "뒤로, 다시",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "recede"
+          ]
+        },
+        {
+          "root": "flex",
+          "rootForm": "flex-, flect-",
+          "rootMeaning": "구부리다, 휘다",
+          "words": [
+            "reflect",
+            "reflection"
+          ]
+        },
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "reject"
+          ]
+        },
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "remit"
+          ]
+        },
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "report"
+          ]
+        },
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "repose"
+          ]
+        },
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "respect"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "retract"
+          ]
+        },
+        {
+          "root": "ven",
+          "rootForm": "ven-, vent-",
+          "rootMeaning": "오다",
+          "words": [
+            "revenue"
+          ]
+        },
+        {
+          "root": "voc",
+          "rootForm": "voc-, vok-",
+          "rootMeaning": "부르다, 목소리",
+          "words": [
+            "revoke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in",
+      "form": "in-",
+      "meaning": "~이 아닌, 반대의",
+      "occurrences": [
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "indicate"
+          ]
+        },
+        {
+          "root": "flex",
+          "rootForm": "flex-, flect-",
+          "rootMeaning": "구부리다, 휘다",
+          "words": [
+            "inflection"
+          ]
+        },
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "inject"
+          ]
+        },
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "inscribe"
+          ]
+        },
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "inspect",
+            "inspection"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "intractable"
+          ]
+        },
+        {
+          "root": "ven",
+          "rootForm": "ven-, vent-",
+          "rootMeaning": "오다",
+          "words": [
+            "invent",
+            "invention"
+          ]
+        },
+        {
+          "root": "voc",
+          "rootForm": "voc-, vok-",
+          "rootMeaning": "부르다, 목소리",
+          "words": [
+            "invoke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "con",
+      "form": "con-",
+      "meaning": "함께, 완전히",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "concede"
+          ]
+        },
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "conjecture"
+          ]
+        },
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "conscript"
+          ]
+        },
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "conspicuous"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "contract"
+          ]
+        },
+        {
+          "root": "ven",
+          "rootForm": "ven-, vent-",
+          "rootMeaning": "오다",
+          "words": [
+            "convene",
+            "convention"
+          ]
+        },
+        {
+          "root": "voc",
+          "rootForm": "voc-, vok-",
+          "rootMeaning": "부르다, 목소리",
+          "words": [
+            "convoke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de",
+      "form": "de-",
+      "meaning": "~에서 떨어져, 아래로",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "decease"
+          ]
+        },
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "dedicate"
+          ]
+        },
+        {
+          "root": "flex",
+          "rootForm": "flex-, flect-",
+          "rootMeaning": "구부리다, 휘다",
+          "words": [
+            "deflect"
+          ]
+        },
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "deject"
+          ]
+        },
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "deport"
+          ]
+        },
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "describe",
+            "description"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "detract"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pro",
+      "form": "pro-",
+      "meaning": "앞으로",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "proceed"
+          ]
+        },
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "project",
+            "projectile"
+          ]
+        },
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "prologue"
+          ]
+        },
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "promise"
+          ]
+        },
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "propose"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "protract"
+          ]
+        },
+        {
+          "root": "voc",
+          "rootForm": "voc-, vok-",
+          "rootMeaning": "부르다, 목소리",
+          "words": [
+            "provoke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "form": "e-",
+      "meaning": "밖으로 (ex-의 변형)",
+      "occurrences": [
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "edict"
+          ]
+        },
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "eject",
+            "subject"
+          ]
+        },
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "emit"
+          ]
+        },
+        {
+          "root": "ven",
+          "rootForm": "ven-, vent-",
+          "rootMeaning": "오다",
+          "words": [
+            "event"
+          ]
+        },
+        {
+          "root": "voc",
+          "rootForm": "voc-, vok-",
+          "rootMeaning": "부르다, 목소리",
+          "words": [
+            "evoke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex",
+      "form": "ex-",
+      "meaning": "밖으로, 넘어서",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "exceed"
+          ]
+        },
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "export"
+          ]
+        },
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "expose"
+          ]
+        },
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "expect"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "extract"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad",
+      "form": "ad-",
+      "meaning": "~에, ~을 향해",
+      "occurrences": [
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "addict"
+          ]
+        },
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "admit"
+          ]
+        },
+        {
+          "root": "ven",
+          "rootForm": "ven-, vent-",
+          "rootMeaning": "오다",
+          "words": [
+            "adventure",
+            "advent"
+          ]
+        },
+        {
+          "root": "voc",
+          "rootForm": "voc-, vok-",
+          "rootMeaning": "부르다, 목소리",
+          "words": [
+            "advocate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pre",
+      "form": "pre-",
+      "meaning": "미리, ~전에",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "precede"
+          ]
+        },
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "predict",
+            "prediction"
+          ]
+        },
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "prescribe"
+          ]
+        },
+        {
+          "root": "ven",
+          "rootForm": "ven-, vent-",
+          "rootMeaning": "오다",
+          "words": [
+            "prevent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trans",
+      "form": "trans-",
+      "meaning": "가로질러, 너머로",
+      "occurrences": [
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "trajectory"
+          ]
+        },
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "transmit"
+          ]
+        },
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "transport"
+          ]
+        },
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "transcript"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "com",
+      "form": "com-",
+      "meaning": "함께",
+      "occurrences": [
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "commit"
+          ]
+        },
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "comport"
+          ]
+        },
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "compose",
+            "component"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inter",
+      "form": "inter-",
+      "meaning": "~사이에",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "intercede"
+          ]
+        },
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "interject"
+          ]
+        },
+        {
+          "root": "ven",
+          "rootForm": "ven-, vent-",
+          "rootMeaning": "오다",
+          "words": [
+            "intervene"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub",
+      "form": "sub-",
+      "meaning": "밑으로, 빼서",
+      "occurrences": [
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "submit"
+          ]
+        },
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "subscribe"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "subtract"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tele",
+      "form": "tele-",
+      "meaning": "멀리, 먼 곳에서",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "telegram"
+          ]
+        },
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "telephone"
+          ]
+        },
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "teleport"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bio",
+      "form": "bio-",
+      "meaning": "삶, 생명",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "biography",
+            "autobiography"
+          ]
+        },
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "biology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dia",
+      "form": "dia-",
+      "meaning": "가로질러, ~을 통해",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "diagram"
+          ]
+        },
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "dialogue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dis",
+      "form": "dis-",
+      "meaning": "떨어져, 분리",
+      "occurrences": [
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "dispose"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "distract"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "epi",
+      "form": "epi-",
+      "meaning": "~위에, ~에 덧붙여",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "epigraph"
+          ]
+        },
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "epilogue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eu",
+      "form": "eu-",
+      "meaning": "좋은, 잘",
+      "occurrences": [
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "eulogy"
+          ]
+        },
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "euphony"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "im",
+      "form": "im-",
+      "meaning": "안으로 (in-의 변형)",
+      "occurrences": [
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "import"
+          ]
+        },
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "impose"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mono",
+      "form": "mono-",
+      "meaning": "하나의, 단일의",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "monograph"
+          ]
+        },
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "monologue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per",
+      "form": "per-",
+      "meaning": "꿰뚫어, 끝까지",
+      "occurrences": [
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "permit"
+          ]
+        },
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "perspective"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "post",
+      "form": "post-",
+      "meaning": "뒤에, 후에",
+      "occurrences": [
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "postpone"
+          ]
+        },
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "postscript"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "retro",
+      "form": "retro-",
+      "meaning": "뒤로, 거꾸로",
+      "occurrences": [
+        {
+          "root": "flex",
+          "rootForm": "flex-, flect-",
+          "rootMeaning": "구부리다, 휘다",
+          "words": [
+            "retroflex"
+          ]
+        },
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "retrospect"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab",
+      "form": "ab-",
+      "meaning": "떨어져, 멀리",
+      "occurrences": [
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "abject"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ac",
+      "form": "ac-",
+      "meaning": "~쪽으로 (ad-의 변형)",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "access"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apo",
+      "form": "apo-",
+      "meaning": "~로부터 멀리",
+      "occurrences": [
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "apologize"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "at",
+      "form": "at-",
+      "meaning": "~쪽으로 (ad-의 변형)",
+      "occurrences": [
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "attract",
+            "attractive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bene",
+      "form": "bene-",
+      "meaning": "좋은",
+      "occurrences": [
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "benediction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caco",
+      "form": "caco-",
+      "meaning": "나쁜, 불쾌한",
+      "occurrences": [
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "cacophony"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cata",
+      "form": "cata-",
+      "meaning": "~아래로, 완전히",
+      "occurrences": [
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "catalog"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "circum",
+      "form": "circum-",
+      "meaning": "주위에, 둘레에",
+      "occurrences": [
+        {
+          "root": "flex",
+          "rootForm": "flex-, flect-",
+          "rootMeaning": "구부리다, 휘다",
+          "words": [
+            "circumflex"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contra",
+      "form": "contra-",
+      "meaning": "반대로",
+      "occurrences": [
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "contradict"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geo",
+      "form": "geo-",
+      "meaning": "땅, 지구",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "geography"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "homo",
+      "form": "homo-",
+      "meaning": "같은",
+      "occurrences": [
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "homophone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "male",
+      "form": "male-",
+      "meaning": "나쁜",
+      "occurrences": [
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "malediction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manu",
+      "form": "manu-",
+      "meaning": "손",
+      "occurrences": [
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "manuscript"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mega",
+      "form": "mega-",
+      "meaning": "큰",
+      "occurrences": [
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "megaphone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "micro",
+      "form": "micro-",
+      "meaning": "작은",
+      "occurrences": [
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "microphone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o",
+      "form": "o-",
+      "meaning": "맞서 (ob-의 변형)",
+      "occurrences": [
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "omit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob",
+      "form": "ob-",
+      "meaning": "맞서, 대항하여",
+      "occurrences": [
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "object"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "op",
+      "form": "op-",
+      "meaning": "맞서서 (ob-의 변형)",
+      "occurrences": [
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "oppose"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "para",
+      "form": "para-",
+      "meaning": "옆에, 나란히",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "paragraph"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "photo",
+      "form": "photo-",
+      "meaning": "빛",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "photograph"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "psycho",
+      "form": "psycho-",
+      "meaning": "마음, 정신",
+      "occurrences": [
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "psychology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pur",
+      "form": "pur-",
+      "meaning": "앞으로",
+      "occurrences": [
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "purport"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suc",
+      "form": "suc-",
+      "meaning": "밑으로, 뒤따라 (sub-의 변형)",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "succeed",
+            "success"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sup",
+      "form": "sup-",
+      "meaning": "밑에서 (sub-의 변형)",
+      "occurrences": [
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sus",
+      "form": "sus-",
+      "meaning": "밑에서 (sub-의 변형)",
+      "occurrences": [
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "suspect",
+            "suspicious"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sym",
+      "form": "sym-",
+      "meaning": "함께 (syn-의 변형)",
+      "occurrences": [
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "symphony"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theo",
+      "form": "theo-",
+      "meaning": "신",
+      "occurrences": [
+        {
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
+          "words": [
+            "theology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ver",
+      "form": "ver-",
+      "meaning": "진실의",
+      "occurrences": [
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "verdict"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xylo",
+      "form": "xylo-",
+      "meaning": "나무",
+      "occurrences": [
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "xylophone"
+          ]
+        }
+      ]
+    }
+  ]
+}

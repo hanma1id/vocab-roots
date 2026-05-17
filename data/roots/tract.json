@@ -1,0 +1,253 @@
+{
+  "id": "tract",
+  "origin": "Latin",
+  "rootForm": "tract-",
+  "meaning": "끌다, 당기다",
+  "story": "라틴어 trahere('끌다')의 과거분사 tractus에서 왔다. 트랙터(tractor)가 무거운 짐을 끌 듯, 모든 파생어에는 '잡아당김'의 느낌이 살아 있다.",
+  "tree": [
+    {
+      "prefix": "at-",
+      "prefixMeaning": "~쪽으로 (ad-의 변형)",
+      "words": [
+        {
+          "word": "attract",
+          "ipa": "/əˈtrækt/",
+          "pos": "v",
+          "meaning": "끌어당기다, 매혹하다",
+          "example": "The new movie attracted huge crowds.",
+          "exampleKo": "그 새 영화가 엄청난 관객을 끌어모았다.",
+          "synonyms": [
+            "draw",
+            "lure",
+            "appeal to"
+          ],
+          "antonyms": [
+            "repel",
+            "repulse"
+          ]
+        },
+        {
+          "word": "attractive",
+          "ipa": "/əˈtræktɪv/",
+          "pos": "adj",
+          "meaning": "매력적인",
+          "example": "She has a very attractive smile.",
+          "exampleKo": "그녀는 아주 매력적인 미소를 가지고 있다.",
+          "synonyms": [
+            "appealing",
+            "charming"
+          ],
+          "antonyms": [
+            "unattractive",
+            "repulsive"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "contract",
+          "ipa": "/ˈkɑntrækt/",
+          "pos": "n",
+          "meaning": "계약(서) — 함께 끌어당겨 묶다",
+          "example": "We signed a two-year contract.",
+          "exampleKo": "우리는 2년짜리 계약서에 서명했다.",
+          "synonyms": [
+            "agreement",
+            "deal"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "dis-",
+      "prefixMeaning": "떨어져, 분리",
+      "words": [
+        {
+          "word": "distract",
+          "ipa": "/dɪˈstrækt/",
+          "pos": "v",
+          "meaning": "주의를 분산시키다 (떨어뜨려 끌다)",
+          "example": "Don't distract the driver while she's parking.",
+          "exampleKo": "주차하는 동안 운전자의 주의를 흩뜨리지 마.",
+          "synonyms": [
+            "divert",
+            "sidetrack"
+          ],
+          "antonyms": [
+            "focus",
+            "concentrate"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ex-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "extract",
+          "ipa": "/ɪkˈstrækt/",
+          "pos": "v",
+          "meaning": "추출하다, 뽑아내다 (밖으로 끌어내다)",
+          "example": "The dentist extracted my wisdom tooth.",
+          "exampleKo": "치과의사가 내 사랑니를 뽑았다.",
+          "synonyms": [
+            "pull out",
+            "remove"
+          ],
+          "antonyms": [
+            "insert",
+            "implant"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "sub-",
+      "prefixMeaning": "밑으로, 빼서",
+      "words": [
+        {
+          "word": "subtract",
+          "ipa": "/səbˈtrækt/",
+          "pos": "v",
+          "meaning": "빼다 (밑으로 끌어내리다)",
+          "example": "Subtract 5 from 12 and you get 7.",
+          "exampleKo": "12에서 5를 빼면 7이 된다.",
+          "synonyms": [
+            "deduct",
+            "take away"
+          ],
+          "antonyms": [
+            "add"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "de-",
+      "prefixMeaning": "~에서 떨어져, 아래로",
+      "words": [
+        {
+          "word": "detract",
+          "ipa": "/dɪˈtrækt/",
+          "pos": "v",
+          "meaning": "(가치·명성을) 떨어뜨리다, 손상시키다",
+          "example": "His rude comments detracted from his otherwise good presentation.",
+          "exampleKo": "그의 무례한 발언은 그렇지 않아도 좋았던 발표의 가치를 떨어뜨렸다.",
+          "synonyms": [
+            "diminish",
+            "lessen"
+          ],
+          "antonyms": [
+            "enhance",
+            "add"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "pro-",
+      "prefixMeaning": "앞으로",
+      "words": [
+        {
+          "word": "protract",
+          "ipa": "/proʊˈtrækt/",
+          "pos": "v",
+          "meaning": "(시간을) 연장하다, 오래 끌다",
+          "example": "The lawyer tried to protract the trial as long as possible.",
+          "exampleKo": "변호사는 재판을 가능한 한 오래 끌려고 했다.",
+          "synonyms": [
+            "prolong",
+            "extend"
+          ],
+          "antonyms": [
+            "shorten",
+            "curtail"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "뒤로, 다시",
+      "words": [
+        {
+          "word": "retract",
+          "ipa": "/rɪˈtrækt/",
+          "pos": "v",
+          "meaning": "철회하다, 취소하다; (몸의 일부를) 움츠리다",
+          "example": "He had to retract his earlier statement.",
+          "exampleKo": "그는 이전에 했던 진술을 철회해야 했다.",
+          "synonyms": [
+            "withdraw",
+            "recant"
+          ],
+          "antonyms": [
+            "affirm",
+            "confirm"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "~이 아닌, 반대의",
+      "words": [
+        {
+          "word": "intractable",
+          "ipa": "/ɪnˈtræktəbəl/",
+          "pos": "adj",
+          "meaning": "다루기 힘든, 고집 센",
+          "example": "The problem of poverty remains intractable in many parts of the world.",
+          "exampleKo": "빈곤 문제는 세계 여러 지역에서 여전히 다루기 힘들다.",
+          "synonyms": [
+            "stubborn",
+            "unmanageable"
+          ],
+          "antonyms": [
+            "manageable",
+            "docile"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "tractor",
+          "ipa": "/ˈtræktər/",
+          "pos": "n",
+          "meaning": "트랙터 (농기구 등을 끄는 차량)",
+          "example": "The farmer used a tractor to plow the field.",
+          "exampleKo": "농부는 밭을 갈기 위해 트랙터를 사용했다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "traction",
+          "ipa": "/ˈtrækʃən/",
+          "pos": "n",
+          "meaning": "견인, 끌기; 접지력, 마찰력",
+          "example": "The car lost traction on the icy road.",
+          "exampleKo": "그 차는 얼어붙은 도로에서 접지력을 잃었다.",
+          "synonyms": [
+            "grip",
+            "adhesion"
+          ],
+          "antonyms": [
+            "slip"
+          ]
+        }
+      ]
+    }
+  ],
+  "cluster": "운반·던지다",
+  "verified": true
+}

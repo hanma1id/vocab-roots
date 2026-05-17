@@ -1,0 +1,1666 @@
+{
+  "abandon": {
+    "ipa": "/əˈbændən/",
+    "meaning": "버리다, 포기하다"
+  },
+  "absorb": {
+    "ipa": "/əbˈzɔːrb/",
+    "meaning": "흡수하다, 몰두하다"
+  },
+  "absurdity": {
+    "ipa": "/əbˈsɜːrdəti/",
+    "meaning": "불합리, 부조리"
+  },
+  "accept": {
+    "ipa": "/əkˈsɛpt/",
+    "meaning": "받아들이다, 수락하다"
+  },
+  "account": {
+    "ipa": "/əˈkaʊnt/",
+    "meaning": "계좌, 설명"
+  },
+  "achieve": {
+    "ipa": "/əˈtʃiːv/",
+    "meaning": "달성하다, 성취하다"
+  },
+  "achievement": {
+    "ipa": "/əˈtʃiːvmənt/",
+    "meaning": "성취, 업적"
+  },
+  "acknowledge": {
+    "ipa": "/əkˈnɑːlɪdʒ/",
+    "meaning": "인정하다, 알리다"
+  },
+  "adaptable": {
+    "ipa": "/əˈdæptəbl/",
+    "meaning": "적응성 있는, 융통성 있는"
+  },
+  "add": {
+    "ipa": "/æd/",
+    "meaning": "더하다, 추가하다"
+  },
+  "addendum": {
+    "ipa": "/əˈdɛndəm/",
+    "meaning": "부록, 추가 사항"
+  },
+  "adhesion": {
+    "ipa": "/ədˈhiːʒən/",
+    "meaning": "부착, 접착"
+  },
+  "admire": {
+    "ipa": "/ədˈmaɪər/",
+    "meaning": "감탄하다, 존경하다"
+  },
+  "advance": {
+    "ipa": "/ədˈvæns/",
+    "meaning": "전진하다, 발전하다"
+  },
+  "affirm": {
+    "ipa": "/əˈfɜːrm/",
+    "meaning": "단언하다, 확인하다"
+  },
+  "afterword": {
+    "ipa": "/ˈæftərwɜːrd/",
+    "meaning": "후기, 맺음말"
+  },
+  "agree": {
+    "ipa": "/əˈɡriː/",
+    "meaning": "동의하다, 합의하다"
+  },
+  "agreement": {
+    "ipa": "/əˈɡriːmənt/",
+    "meaning": "합의, 계약"
+  },
+  "allow": {
+    "ipa": "/əˈlaʊ/",
+    "meaning": "허락하다, ~하게 하다"
+  },
+  "amazing": {
+    "ipa": "/əˈmeɪzɪŋ/",
+    "meaning": "놀라운, 굉장한"
+  },
+  "anticipate": {
+    "ipa": "/ænˈtɪsəpeɪt/",
+    "meaning": "예상하다, 기대하다"
+  },
+  "appeal to": {
+    "ipa": "/əˈpiːl tuː/",
+    "meaning": "~에게 호소하다, ~의 흥미를 끌다"
+  },
+  "appealing": {
+    "ipa": "/əˈpiːlɪŋ/",
+    "meaning": "매력적인, 흥미를 끄는"
+  },
+  "appearance": {
+    "ipa": "/əˈpɪrəns/",
+    "meaning": "외모, 출현"
+  },
+  "approach": {
+    "ipa": "/əˈproʊtʃ/",
+    "meaning": "접근하다, 접근법"
+  },
+  "approve": {
+    "ipa": "/əˈpruːv/",
+    "meaning": "승인하다, 찬성하다"
+  },
+  "arrange": {
+    "ipa": "/əˈreɪndʒ/",
+    "meaning": "배열하다, 준비하다"
+  },
+  "arrival": {
+    "ipa": "/əˈraɪvl/",
+    "meaning": "도착"
+  },
+  "articulate": {
+    "ipa": "/ɑːrˈtɪkjuleɪt/",
+    "meaning": "분명히 표현하다, 또렷하게 말하다"
+  },
+  "assemble": {
+    "ipa": "/əˈsɛmbl/",
+    "meaning": "조립하다, 모으다"
+  },
+  "assembly": {
+    "ipa": "/əˈsɛmbli/",
+    "meaning": "조립, 의회"
+  },
+  "assignment": {
+    "ipa": "/əˈsaɪnmənt/",
+    "meaning": "과제, 임무"
+  },
+  "attest": {
+    "ipa": "/əˈtɛst/",
+    "meaning": "증명하다, 입증하다"
+  },
+  "authorize": {
+    "ipa": "/ˈɔːθəraɪz/",
+    "meaning": "권한을 부여하다, 허가하다"
+  },
+  "avoid": {
+    "ipa": "/əˈvɔɪd/",
+    "meaning": "피하다, 회피하다"
+  },
+  "await": {
+    "ipa": "/əˈweɪt/",
+    "meaning": "기다리다"
+  },
+  "back": {
+    "ipa": "/bæk/",
+    "meaning": "뒤, 등"
+  },
+  "banish": {
+    "ipa": "/ˈbænɪʃ/",
+    "meaning": "추방하다, 없애다"
+  },
+  "beam": {
+    "ipa": "/biːm/",
+    "meaning": "광선, 들보"
+  },
+  "bearer": {
+    "ipa": "/ˈbɛrər/",
+    "meaning": "소지자, 운반자"
+  },
+  "bearing": {
+    "ipa": "/ˈbɛrɪŋ/",
+    "meaning": "태도, 방향"
+  },
+  "behave": {
+    "ipa": "/bɪˈheɪv/",
+    "meaning": "행동하다, 처신하다"
+  },
+  "believe": {
+    "ipa": "/bɪˈliːv/",
+    "meaning": "믿다"
+  },
+  "bend": {
+    "ipa": "/bɛnd/",
+    "meaning": "구부리다, 굽히다"
+  },
+  "bendable": {
+    "ipa": "/ˈbɛndəbl/",
+    "meaning": "구부릴 수 있는, 유연한"
+  },
+  "bent backward": {
+    "ipa": "/bɛnt ˈbækwərd/",
+    "meaning": "뒤로 젖혀진, 뒤로 구부러진"
+  },
+  "birth": {
+    "ipa": "/bɜːrθ/",
+    "meaning": "탄생, 출생"
+  },
+  "blame": {
+    "ipa": "/bleɪm/",
+    "meaning": "비난하다, 책임"
+  },
+  "blessing": {
+    "ipa": "/ˈblɛsɪŋ/",
+    "meaning": "축복, 은혜"
+  },
+  "briefcase": {
+    "ipa": "/ˈbriːfkeɪs/",
+    "meaning": "서류 가방"
+  },
+  "bring in": {
+    "ipa": "/brɪŋ ɪn/",
+    "meaning": "가져오다, 도입하다"
+  },
+  "bring out": {
+    "ipa": "/brɪŋ ˈaʊt/",
+    "meaning": "꺼내다, 드러내다"
+  },
+  "bullhorn": {
+    "ipa": "/ˈbʊlhɔːrn/",
+    "meaning": "확성기"
+  },
+  "cable": {
+    "ipa": "/ˈkeɪbəl/",
+    "meaning": "케이블, 전선"
+  },
+  "call upon": {
+    "ipa": "/kɔːl əˈpɑːn/",
+    "meaning": "요청하다, 부르다"
+  },
+  "calling": {
+    "ipa": "/ˈkɔːlɪŋ/",
+    "meaning": "직업, 소명"
+  },
+  "calm": {
+    "ipa": "/kɑːm/",
+    "meaning": "고요한, 침착한"
+  },
+  "cancel": {
+    "ipa": "/ˈkænsəl/",
+    "meaning": "취소하다"
+  },
+  "carrier": {
+    "ipa": "/ˈkæriər/",
+    "meaning": "운반자, 항공사"
+  },
+  "carry": {
+    "ipa": "/ˈkæri/",
+    "meaning": "나르다, 운반하다"
+  },
+  "carve": {
+    "ipa": "/kɑːrv/",
+    "meaning": "조각하다, 새기다"
+  },
+  "certainty": {
+    "ipa": "/ˈsɜːrtənti/",
+    "meaning": "확실성"
+  },
+  "champion": {
+    "ipa": "/ˈtʃæmpiən/",
+    "meaning": "우승자, 옹호자"
+  },
+  "charming": {
+    "ipa": "/ˈtʃɑːrmɪŋ/",
+    "meaning": "매력적인"
+  },
+  "chart": {
+    "ipa": "/tʃɑːrt/",
+    "meaning": "차트, 도표"
+  },
+  "check": {
+    "ipa": "/tʃek/",
+    "meaning": "확인하다, 점검하다"
+  },
+  "check-up": {
+    "ipa": "/ˈtʃek ʌp/",
+    "meaning": "건강 검진"
+  },
+  "cheer": {
+    "ipa": "/tʃɪr/",
+    "meaning": "환호하다, 응원하다"
+  },
+  "claim": {
+    "ipa": "/kleɪm/",
+    "meaning": "주장하다, 요구하다"
+  },
+  "clerk": {
+    "ipa": "/klɜːrk/",
+    "meaning": "점원, 서기"
+  },
+  "collection": {
+    "ipa": "/kəˈlekʃən/",
+    "meaning": "수집, 컬렉션"
+  },
+  "come before": {
+    "ipa": "/kʌm bɪˈfɔːr/",
+    "meaning": "앞서다, 먼저 오다"
+  },
+  "command": {
+    "ipa": "/kəˈmænd/",
+    "meaning": "명령하다, 지휘하다"
+  },
+  "conceal": {
+    "ipa": "/kənˈsiːl/",
+    "meaning": "숨기다"
+  },
+  "concentrate": {
+    "ipa": "/ˈkɑːnsəntreɪt/",
+    "meaning": "집중하다"
+  },
+  "conclusion": {
+    "ipa": "/kənˈkluːʒən/",
+    "meaning": "결론"
+  },
+  "condemnation": {
+    "ipa": "/ˌkɑːndemˈneɪʃən/",
+    "meaning": "비난, 유죄 판결"
+  },
+  "conduct": {
+    "ipa": "/kənˈdʌkt/",
+    "meaning": "행동하다, 수행하다"
+  },
+  "confess": {
+    "ipa": "/kənˈfes/",
+    "meaning": "자백하다, 고백하다"
+  },
+  "confirm": {
+    "ipa": "/kənˈfɜːrm/",
+    "meaning": "확인하다"
+  },
+  "consideration": {
+    "ipa": "/kənˌsɪdəˈreɪʃən/",
+    "meaning": "고려, 배려"
+  },
+  "consonant": {
+    "ipa": "/ˈkɑːnsənənt/",
+    "meaning": "자음"
+  },
+  "constitute": {
+    "ipa": "/ˈkɑːnstɪtuːt/",
+    "meaning": "구성하다, 이루다"
+  },
+  "continuation": {
+    "ipa": "/kənˌtɪnjuˈeɪʃən/",
+    "meaning": "계속, 연속"
+  },
+  "continue": {
+    "ipa": "/kənˈtɪnjuː/",
+    "meaning": "계속하다"
+  },
+  "conversation": {
+    "ipa": "/ˌkɑːnvərˈseɪʃən/",
+    "meaning": "대화"
+  },
+  "convey": {
+    "ipa": "/kənˈveɪ/",
+    "meaning": "전달하다, 운반하다"
+  },
+  "copy": {
+    "ipa": "/ˈkɑːpi/",
+    "meaning": "복사하다, 사본"
+  },
+  "copyist": {
+    "ipa": "/ˈkɑːpiɪst/",
+    "meaning": "필경사"
+  },
+  "course": {
+    "ipa": "/kɔːrs/",
+    "meaning": "과정, 코스"
+  },
+  "cover": {
+    "ipa": "/ˈkʌvər/",
+    "meaning": "덮다, 포함하다"
+  },
+  "create": {
+    "ipa": "/kriˈeɪt/",
+    "meaning": "창조하다, 만들다"
+  },
+  "creation": {
+    "ipa": "/kriˈeɪʃən/",
+    "meaning": "창조, 창작물"
+  },
+  "critic": {
+    "ipa": "/ˈkrɪtɪk/",
+    "meaning": "비평가"
+  },
+  "criticism": {
+    "ipa": "/ˈkrɪtɪsɪzəm/",
+    "meaning": "비평, 비판"
+  },
+  "curse": {
+    "ipa": "/kɜːrs/",
+    "meaning": "저주하다, 욕설"
+  },
+  "curtail": {
+    "ipa": "/kərˈteɪl/",
+    "meaning": "축소하다, 줄이다"
+  },
+  "curve": {
+    "ipa": "/kɜːrv/",
+    "meaning": "곡선, 휘다"
+  },
+  "custom": {
+    "ipa": "/ˈkʌstəm/",
+    "meaning": "관습, 맞춤"
+  },
+  "deal": {
+    "ipa": "/dil/",
+    "meaning": "거래, 처리하다"
+  },
+  "death": {
+    "ipa": "/dɛθ/",
+    "meaning": "죽음"
+  },
+  "decision": {
+    "ipa": "/dɪˈsɪʒən/",
+    "meaning": "결정"
+  },
+  "decree": {
+    "ipa": "/dɪˈkri/",
+    "meaning": "법령, 명령하다"
+  },
+  "deduct": {
+    "ipa": "/dɪˈdʌkt/",
+    "meaning": "공제하다, 빼다"
+  },
+  "defer": {
+    "ipa": "/dɪˈfɜːr/",
+    "meaning": "연기하다, 따르다"
+  },
+  "delay": {
+    "ipa": "/dɪˈleɪ/",
+    "meaning": "지연시키다, 지체"
+  },
+  "demise": {
+    "ipa": "/dɪˈmaɪz/",
+    "meaning": "죽음, 소멸"
+  },
+  "denial": {
+    "ipa": "/dɪˈnaɪəl/",
+    "meaning": "부인"
+  },
+  "deny": {
+    "ipa": "/dɪˈnaɪ/",
+    "meaning": "부인하다, 거부하다"
+  },
+  "departure": {
+    "ipa": "/dɪˈpɑːrtʃər/",
+    "meaning": "출발"
+  },
+  "depict": {
+    "ipa": "/dɪˈpɪkt/",
+    "meaning": "묘사하다"
+  },
+  "depiction": {
+    "ipa": "/dɪˈpɪkʃən/",
+    "meaning": "묘사"
+  },
+  "depress": {
+    "ipa": "/dɪˈprɛs/",
+    "meaning": "우울하게 하다, 침체시키다"
+  },
+  "derivation": {
+    "ipa": "/ˌdɛrɪˈveɪʃən/",
+    "meaning": "파생, 유래"
+  },
+  "destroy": {
+    "ipa": "/dɪˈstrɔɪ/",
+    "meaning": "파괴하다"
+  },
+  "devise": {
+    "ipa": "/dɪˈvaɪz/",
+    "meaning": "고안하다, 발명하다"
+  },
+  "devote": {
+    "ipa": "/dɪˈvoʊt/",
+    "meaning": "바치다, 헌신하다"
+  },
+  "diminish": {
+    "ipa": "/dɪˈmɪnɪʃ/",
+    "meaning": "줄이다, 감소하다"
+  },
+  "discard": {
+    "ipa": "/dɪˈskɑːrd/",
+    "meaning": "버리다"
+  },
+  "discharge": {
+    "ipa": "/dɪsˈtʃɑːrdʒ/",
+    "meaning": "해고하다, 방출하다"
+  },
+  "discord": {
+    "ipa": "/ˈdɪskɔːrd/",
+    "meaning": "불화, 불협화음"
+  },
+  "discourage": {
+    "ipa": "/dɪsˈkɜːrɪdʒ/",
+    "meaning": "낙담시키다, 단념시키다"
+  },
+  "discussion": {
+    "ipa": "/dɪˈskʌʃən/",
+    "meaning": "토론, 논의"
+  },
+  "dishearten": {
+    "ipa": "/dɪsˈhɑːrtn/",
+    "meaning": "낙담시키다"
+  },
+  "dismantle": {
+    "ipa": "/dɪsˈmæntl/",
+    "meaning": "분해하다, 해체하다"
+  },
+  "disperse": {
+    "ipa": "/dɪˈspɜːrs/",
+    "meaning": "분산시키다, 퍼뜨리다"
+  },
+  "display": {
+    "ipa": "/dɪˈspleɪ/",
+    "meaning": "전시하다, 보여주다"
+  },
+  "disrespect": {
+    "ipa": "/ˌdɪsrɪˈspɛkt/",
+    "meaning": "무례, 무례하게 굴다"
+  },
+  "dissonance": {
+    "ipa": "/ˈdɪsənəns/",
+    "meaning": "불협화음"
+  },
+  "distrust": {
+    "ipa": "/dɪsˈtrʌst/",
+    "meaning": "불신, 불신하다"
+  },
+  "divert": {
+    "ipa": "/daɪˈvɜːrt/",
+    "meaning": "우회시키다, 전환하다"
+  },
+  "divinity": {
+    "ipa": "/dɪˈvɪnəti/",
+    "meaning": "신성, 신"
+  },
+  "docile": {
+    "ipa": "/ˈdɑːsəl/",
+    "meaning": "온순한, 다루기 쉬운"
+  },
+  "document": {
+    "ipa": "/ˈdɑːkjumənt/",
+    "meaning": "문서, 기록하다"
+  },
+  "doodle": {
+    "ipa": "/ˈduːdl/",
+    "meaning": "낙서하다"
+  },
+  "doubt": {
+    "ipa": "/daʊt/",
+    "meaning": "의심, 의심하다"
+  },
+  "doubtful": {
+    "ipa": "/ˈdaʊtfəl/",
+    "meaning": "의심스러운"
+  },
+  "draft": {
+    "ipa": "/dræft/",
+    "meaning": "초안, 초안을 작성하다"
+  },
+  "draw": {
+    "ipa": "/drɔː/",
+    "meaning": "그리다, 끌다"
+  },
+  "drawing": {
+    "ipa": "/ˈdrɔːɪŋ/",
+    "meaning": "그림"
+  },
+  "dubious": {
+    "ipa": "/ˈduːbiəs/",
+    "meaning": "의심스러운"
+  },
+  "earnings": {
+    "ipa": "/ˈɜːrnɪŋz/",
+    "meaning": "수입, 소득"
+  },
+  "element": {
+    "ipa": "/ˈɛləmənt/",
+    "meaning": "요소, 원소"
+  },
+  "elicit": {
+    "ipa": "/ɪˈlɪsɪt/",
+    "meaning": "끌어내다"
+  },
+  "encourage": {
+    "ipa": "/ɪnˈkɜːrɪdʒ/",
+    "meaning": "격려하다, 용기를 북돋우다"
+  },
+  "end": {
+    "ipa": "/ɛnd/",
+    "meaning": "끝, 끝내다"
+  },
+  "enforce": {
+    "ipa": "/ɪnˈfɔːrs/",
+    "meaning": "집행하다, 강요하다"
+  },
+  "engrave": {
+    "ipa": "/ɪnˈɡreɪv/",
+    "meaning": "새기다"
+  },
+  "enhance": {
+    "ipa": "/ɪnˈhæns/",
+    "meaning": "향상시키다, 높이다"
+  },
+  "enlist": {
+    "ipa": "/ɪnˈlɪst/",
+    "meaning": "입대하다, 모집하다"
+  },
+  "enroll": {
+    "ipa": "/ɪnˈroʊl/",
+    "meaning": "등록하다, 입학하다"
+  },
+  "enslave": {
+    "ipa": "/ɪnˈsleɪv/",
+    "meaning": "노예로 만들다"
+  },
+  "enterprise": {
+    "ipa": "/ˈɛntərˌpraɪz/",
+    "meaning": "기업, 사업"
+  },
+  "entry": {
+    "ipa": "/ˈɛntri/",
+    "meaning": "입장, 참가"
+  },
+  "epitaph": {
+    "ipa": "/ˈɛpɪˌtæf/",
+    "meaning": "묘비명"
+  },
+  "erase": {
+    "ipa": "/ɪˈreɪs/",
+    "meaning": "지우다, 삭제하다"
+  },
+  "esteem": {
+    "ipa": "/ɪˈstiːm/",
+    "meaning": "존중하다, 높이 평가하다"
+  },
+  "examination": {
+    "ipa": "/ɪɡˌzæmɪˈneɪʃən/",
+    "meaning": "검사, 시험"
+  },
+  "examine": {
+    "ipa": "/ɪɡˈzæmɪn/",
+    "meaning": "검사하다, 조사하다"
+  },
+  "exert": {
+    "ipa": "/ɪɡˈzɜːrt/",
+    "meaning": "행사하다, 노력하다"
+  },
+  "exit": {
+    "ipa": "/ˈɛɡzɪt/",
+    "meaning": "출구, 퇴장하다"
+  },
+  "expedite": {
+    "ipa": "/ˈɛkspəˌdaɪt/",
+    "meaning": "신속히 처리하다"
+  },
+  "expel": {
+    "ipa": "/ɪkˈspɛl/",
+    "meaning": "추방하다, 제명하다"
+  },
+  "expenses": {
+    "ipa": "/ɪkˈspɛnsɪz/",
+    "meaning": "비용, 경비"
+  },
+  "explain": {
+    "ipa": "/ɪkˈspleɪn/",
+    "meaning": "설명하다"
+  },
+  "exploit": {
+    "ipa": "/ɪkˈsplɔɪt/",
+    "meaning": "이용하다, 착취하다"
+  },
+  "express regret": {
+    "ipa": "/ɪkˈsprɛs rɪˈɡrɛt/",
+    "meaning": "유감스럽게 생각하다"
+  },
+  "expressive": {
+    "ipa": "/ɪkˈsprɛsɪv/",
+    "meaning": "표현력이 풍부한"
+  },
+  "extend": {
+    "ipa": "/ɪkˈstɛnd/",
+    "meaning": "연장하다, 확장하다"
+  },
+  "extension": {
+    "ipa": "/ɪkˈstɛnʃən/",
+    "meaning": "연장, 확장"
+  },
+  "extensor": {
+    "ipa": "/ɪkˈstɛnsər/",
+    "meaning": "신근 (근육)"
+  },
+  "fact": {
+    "ipa": "/fækt/",
+    "meaning": "사실"
+  },
+  "fail": {
+    "ipa": "/feɪl/",
+    "meaning": "실패하다, 낙제하다"
+  },
+  "failure": {
+    "ipa": "/ˈfeɪljər/",
+    "meaning": "실패"
+  },
+  "fall short": {
+    "ipa": "/fɔːl ʃɔːrt/",
+    "meaning": "미치지 못하다, 부족하다"
+  },
+  "fire": {
+    "ipa": "/ˈfaɪər/",
+    "meaning": "불, 해고하다"
+  },
+  "fixed": {
+    "ipa": "/fɪkst/",
+    "meaning": "고정된, 확정된"
+  },
+  "focus": {
+    "ipa": "/ˈfoʊkəs/",
+    "meaning": "집중하다, 초점"
+  },
+  "folder": {
+    "ipa": "/ˈfoʊldər/",
+    "meaning": "폴더, 파일철"
+  },
+  "follow": {
+    "ipa": "/ˈfɑːloʊ/",
+    "meaning": "따르다, 따라가다"
+  },
+  "forbid": {
+    "ipa": "/fərˈbɪd/",
+    "meaning": "금지하다"
+  },
+  "forecast": {
+    "ipa": "/ˈfɔːrˌkæst/",
+    "meaning": "예측하다, 예보"
+  },
+  "foresee": {
+    "ipa": "/fɔːrˈsiː/",
+    "meaning": "예견하다"
+  },
+  "foreword": {
+    "ipa": "/ˈfɔːrwɜːrd/",
+    "meaning": "머리말, 서문"
+  },
+  "gather": {
+    "ipa": "/ˈɡæðər/",
+    "meaning": "모으다, 모이다"
+  },
+  "gist": {
+    "ipa": "/dʒɪst/",
+    "meaning": "요점, 핵심"
+  },
+  "go before": {
+    "ipa": "/ɡoʊ bɪˈfɔːr/",
+    "meaning": "앞서가다, 우선하다"
+  },
+  "gramophone": {
+    "ipa": "/ˈɡræməˌfoʊn/",
+    "meaning": "축음기"
+  },
+  "graph": {
+    "ipa": "/ɡræf/",
+    "meaning": "그래프, 도표"
+  },
+  "grip": {
+    "ipa": "/ɡrɪp/",
+    "meaning": "움켜쥐다, 파지법"
+  },
+  "guarantee": {
+    "ipa": "/ˌɡærənˈtiː/",
+    "meaning": "보증하다, 보장"
+  },
+  "guess": {
+    "ipa": "/ɡɛs/",
+    "meaning": "추측하다"
+  },
+  "halt": {
+    "ipa": "/hɔːlt/",
+    "meaning": "멈추다, 중단"
+  },
+  "hand in": {
+    "ipa": "/hænd ɪn/",
+    "meaning": "제출하다"
+  },
+  "handheld": {
+    "ipa": "/ˈhændˌhɛld/",
+    "meaning": "휴대용의"
+  },
+  "happening": {
+    "ipa": "/ˈhæpənɪŋ/",
+    "meaning": "사건, 일어나는 일"
+  },
+  "harmony": {
+    "ipa": "/ˈhɑːrməni/",
+    "meaning": "조화, 화음"
+  },
+  "help": {
+    "ipa": "/hɛlp/",
+    "meaning": "돕다, 도움"
+  },
+  "hex": {
+    "ipa": "/hɛks/",
+    "meaning": "마법을 걸다, 저주하다"
+  },
+  "hidden": {
+    "ipa": "/ˈhɪdn/",
+    "meaning": "숨겨진"
+  },
+  "hide": {
+    "ipa": "/haɪd/",
+    "meaning": "숨다, 숨기다"
+  },
+  "hinder": {
+    "ipa": "/ˈhɪndər/",
+    "meaning": "방해하다"
+  },
+  "hindsight": {
+    "ipa": "/ˈhaɪnsaɪt/",
+    "meaning": "사후 통찰"
+  },
+  "hire": {
+    "ipa": "/ˈhaɪər/",
+    "meaning": "고용하다"
+  },
+  "homonym": {
+    "ipa": "/ˈhɑːmənɪm/",
+    "meaning": "동음이의어"
+  },
+  "hook": {
+    "ipa": "/hʊk/",
+    "meaning": "갈고리, 낚아채다"
+  },
+  "hopeful": {
+    "ipa": "/ˈhoʊpfəl/",
+    "meaning": "희망에 찬"
+  },
+  "hopeless": {
+    "ipa": "/ˈhoʊpləs/",
+    "meaning": "절망적인"
+  },
+  "hypothesis": {
+    "ipa": "/haɪˈpɑːθəsɪs/",
+    "meaning": "가설"
+  },
+  "hypothesize": {
+    "ipa": "/haɪˈpɑːθəsaɪz/",
+    "meaning": "가설을 세우다"
+  },
+  "ignore": {
+    "ipa": "/ɪɡˈnɔːr/",
+    "meaning": "무시하다"
+  },
+  "illogic": {
+    "ipa": "/ɪˈlɑːdʒɪk/",
+    "meaning": "비논리"
+  },
+  "image": {
+    "ipa": "/ˈɪmɪdʒ/",
+    "meaning": "이미지, 영상"
+  },
+  "imitate": {
+    "ipa": "/ˈɪmɪteɪt/",
+    "meaning": "모방하다"
+  },
+  "implant": {
+    "ipa": "/ɪmˈplænt/",
+    "meaning": "이식하다, 심다"
+  },
+  "impressive": {
+    "ipa": "/ɪmˈpresɪv/",
+    "meaning": "인상적인"
+  },
+  "incite": {
+    "ipa": "/ɪnˈsaɪt/",
+    "meaning": "선동하다, 유발하다"
+  },
+  "include": {
+    "ipa": "/ɪnˈkluːd/",
+    "meaning": "포함하다"
+  },
+  "income": {
+    "ipa": "/ˈɪnkʌm/",
+    "meaning": "수입, 소득"
+  },
+  "inconspicuous": {
+    "ipa": "/ˌɪnkənˈspɪkjuəs/",
+    "meaning": "눈에 띄지 않는"
+  },
+  "index": {
+    "ipa": "/ˈɪndeks/",
+    "meaning": "색인, 지수"
+  },
+  "inflexible": {
+    "ipa": "/ɪnˈfleksəbl/",
+    "meaning": "융통성 없는"
+  },
+  "inform": {
+    "ipa": "/ɪnˈfɔːrm/",
+    "meaning": "알리다, 통지하다"
+  },
+  "innocent": {
+    "ipa": "/ˈɪnəsənt/",
+    "meaning": "무죄의, 순진한"
+  },
+  "innovation": {
+    "ipa": "/ˌɪnəˈveɪʃn/",
+    "meaning": "혁신"
+  },
+  "inscription": {
+    "ipa": "/ɪnˈskrɪpʃn/",
+    "meaning": "비문, 새겨진 글"
+  },
+  "insert": {
+    "ipa": "/ɪnˈsɜːrt/",
+    "meaning": "끼워 넣다, 삽입하다"
+  },
+  "instinct": {
+    "ipa": "/ˈɪnstɪŋkt/",
+    "meaning": "본능"
+  },
+  "interfere": {
+    "ipa": "/ˌɪntərˈfɪr/",
+    "meaning": "방해하다, 간섭하다"
+  },
+  "interrupt": {
+    "ipa": "/ˌɪntəˈrʌpt/",
+    "meaning": "방해하다, 중단시키다"
+  },
+  "introduce": {
+    "ipa": "/ˌɪntrəˈduːs/",
+    "meaning": "소개하다, 도입하다"
+  },
+  "introduction": {
+    "ipa": "/ˌɪntrəˈdʌkʃn/",
+    "meaning": "소개, 도입"
+  },
+  "issue": {
+    "ipa": "/ˈɪʃuː/",
+    "meaning": "쟁점, 발행하다"
+  },
+  "judgment": {
+    "ipa": "/ˈdʒʌdʒmənt/",
+    "meaning": "판단, 판결"
+  },
+  "keep": {
+    "ipa": "/kiːp/",
+    "meaning": "유지하다, 보관하다"
+  },
+  "kneel": {
+    "ipa": "/niːl/",
+    "meaning": "무릎을 꿇다"
+  },
+  "know": {
+    "ipa": "/noʊ/",
+    "meaning": "알다"
+  },
+  "lack": {
+    "ipa": "/læk/",
+    "meaning": "부족, 부족하다"
+  },
+  "leave out": {
+    "ipa": "/liːv aʊt/",
+    "meaning": "생략하다, 제외하다"
+  },
+  "lessen": {
+    "ipa": "/ˈlesn/",
+    "meaning": "줄이다, 감소하다"
+  },
+  "levy": {
+    "ipa": "/ˈlevi/",
+    "meaning": "부과하다, 징수하다"
+  },
+  "lexicon": {
+    "ipa": "/ˈleksɪkɑːn/",
+    "meaning": "어휘집, 사전"
+  },
+  "lie": {
+    "ipa": "/laɪ/",
+    "meaning": "눕다, 거짓말하다"
+  },
+  "life science": {
+    "ipa": "/laɪf ˈsaɪəns/",
+    "meaning": "생명 과학"
+  },
+  "life story": {
+    "ipa": "/laɪf ˈstɔːri/",
+    "meaning": "인생 이야기"
+  },
+  "list": {
+    "ipa": "/lɪst/",
+    "meaning": "목록, 목록화하다"
+  },
+  "location": {
+    "ipa": "/loʊˈkeɪʃn/",
+    "meaning": "위치, 장소"
+  },
+  "loudspeaker": {
+    "ipa": "/ˌlaʊdˈspiːkər/",
+    "meaning": "스피커, 확성기"
+  },
+  "lure": {
+    "ipa": "/lʊər/",
+    "meaning": "유인하다, 미끼"
+  },
+  "manageable": {
+    "ipa": "/ˈmænɪdʒəbəl/",
+    "meaning": "관리하기 쉬운"
+  },
+  "matter": {
+    "ipa": "/ˈmætər/",
+    "meaning": "문제, 중요하다"
+  },
+  "mediate": {
+    "ipa": "/ˈmidiˌeɪt/",
+    "meaning": "중재하다"
+  },
+  "melody": {
+    "ipa": "/ˈmɛlədi/",
+    "meaning": "멜로디, 선율"
+  },
+  "memoir": {
+    "ipa": "/ˈmɛmwɑr/",
+    "meaning": "회고록"
+  },
+  "message": {
+    "ipa": "/ˈmɛsɪdʒ/",
+    "meaning": "메시지, 전갈"
+  },
+  "mic": {
+    "ipa": "/maɪk/",
+    "meaning": "마이크"
+  },
+  "mind science": {
+    "ipa": "/maɪnd ˈsaɪəns/",
+    "meaning": "마음 과학"
+  },
+  "mirror": {
+    "ipa": "/ˈmɪrər/",
+    "meaning": "거울, 반영하다"
+  },
+  "miserable": {
+    "ipa": "/ˈmɪzərəbəl/",
+    "meaning": "비참한, 불쌍한"
+  },
+  "modulation": {
+    "ipa": "/ˌmɑdʒəˈleɪʃən/",
+    "meaning": "변조, 조절"
+  },
+  "movable": {
+    "ipa": "/ˈmuvəbəl/",
+    "meaning": "움직일 수 있는"
+  },
+  "neglect": {
+    "ipa": "/nɪˈɡlɛkt/",
+    "meaning": "무시하다, 소홀히 하다"
+  },
+  "noticeable": {
+    "ipa": "/ˈnoʊtɪsəbəl/",
+    "meaning": "눈에 띄는, 알아차릴 수 있는"
+  },
+  "notify": {
+    "ipa": "/ˈnoʊtɪˌfaɪ/",
+    "meaning": "알리다, 통지하다"
+  },
+  "object to": {
+    "ipa": "/əbˈdʒɛkt tu/",
+    "meaning": "반대하다"
+  },
+  "obvious": {
+    "ipa": "/ˈɑbviəs/",
+    "meaning": "분명한, 명백한"
+  },
+  "occurrence": {
+    "ipa": "/əˈkɜrəns/",
+    "meaning": "발생, 사건"
+  },
+  "offend": {
+    "ipa": "/əˈfɛnd/",
+    "meaning": "기분 상하게 하다, 위반하다"
+  },
+  "offer": {
+    "ipa": "/ˈɔfər/",
+    "meaning": "제공하다, 제안하다"
+  },
+  "orchestra piece": {
+    "ipa": "/ˈɔrkəstrə pis/",
+    "meaning": "관현악곡"
+  },
+  "order": {
+    "ipa": "/ˈɔrdər/",
+    "meaning": "주문하다, 명령하다, 순서"
+  },
+  "ordinary": {
+    "ipa": "/ˈɔrdəˌnɛri/",
+    "meaning": "평범한, 보통의"
+  },
+  "outdo": {
+    "ipa": "/ˌaʊtˈdu/",
+    "meaning": "능가하다"
+  },
+  "outlook": {
+    "ipa": "/ˈaʊtˌlʊk/",
+    "meaning": "전망, 견해"
+  },
+  "outspoken": {
+    "ipa": "/ˌaʊtˈspoʊkən/",
+    "meaning": "솔직한, 거침없는"
+  },
+  "overlook": {
+    "ipa": "/ˌoʊvərˈlʊk/",
+    "meaning": "간과하다, 내려다보다"
+  },
+  "p.s.": {
+    "ipa": "/ˌpiːˈɛs/",
+    "meaning": "추신"
+  },
+  "part": {
+    "ipa": "/pɑrt/",
+    "meaning": "부분, 역할, 참가하다"
+  },
+  "passage": {
+    "ipa": "/ˈpæsɪdʒ/",
+    "meaning": "구절, 통로"
+  },
+  "path": {
+    "ipa": "/pæθ/",
+    "meaning": "길, 경로"
+  },
+  "penmanship": {
+    "ipa": "/ˈpɛnmənˌʃɪp/",
+    "meaning": "필체, 글씨 쓰는 솜씨"
+  },
+  "percussion instrument": {
+    "ipa": "/pərˈkʌʃən ˈɪnstrəmənt/",
+    "meaning": "타악기"
+  },
+  "perpetrate": {
+    "ipa": "/ˈpɜrpəˌtreɪt/",
+    "meaning": "범죄을 저지르다"
+  },
+  "phone": {
+    "ipa": "/foʊn/",
+    "meaning": "전화, 전화하다"
+  },
+  "phonetics": {
+    "ipa": "/fəˈnɛtɪks/",
+    "meaning": "음성학"
+  },
+  "photo": {
+    "ipa": "/ˈfoʊtoʊ/",
+    "meaning": "사진"
+  },
+  "picture": {
+    "ipa": "/ˈpɪktʃər/",
+    "meaning": "그림, 사진, 묘사하다"
+  },
+  "piece": {
+    "ipa": "/pis/",
+    "meaning": "조각, 작품"
+  },
+  "place": {
+    "ipa": "/pleɪs/",
+    "meaning": "장소, 놓다"
+  },
+  "plan": {
+    "ipa": "/plæn/",
+    "meaning": "계획, 계획하다"
+  },
+  "pledge": {
+    "ipa": "/plɛdʒ/",
+    "meaning": "맹세, 약속하다"
+  },
+  "point out": {
+    "ipa": "/ˌpɔɪnt ˈaʊt/",
+    "meaning": "지적하다"
+  },
+  "ponder": {
+    "ipa": "/ˈpɑndər/",
+    "meaning": "숙고하다, 곰곰이 생각하다"
+  },
+  "portray": {
+    "ipa": "/pɔrˈtreɪ/",
+    "meaning": "묘사하다, 그리다"
+  },
+  "praise": {
+    "ipa": "/preɪz/",
+    "meaning": "칭찬하다, 찬양하다"
+  },
+  "prayer": {
+    "ipa": "/prɛr/",
+    "meaning": "기도"
+  },
+  "preface": {
+    "ipa": "/ˈfrɛfəs/",
+    "meaning": "서문, 머리말"
+  },
+  "print": {
+    "ipa": "/prɪnt/",
+    "meaning": "인쇄하다, 출력하다"
+  },
+  "profess": {
+    "ipa": "/prəˈfɛs/",
+    "meaning": "공언하다, 주장하다"
+  },
+  "profession": {
+    "ipa": "/prəˈfɛʃən/",
+    "meaning": "직업, 전문직"
+  },
+  "prohibit": {
+    "ipa": "/proʊˈhɪbɪt/",
+    "meaning": "금지하다"
+  },
+  "prolong": {
+    "ipa": "/proʊˈlɔːŋ/",
+    "meaning": "연장하다, 늘리다"
+  },
+  "prominent": {
+    "ipa": "/ˈprɑːmɪnənt/",
+    "meaning": "저명한, 두드러진"
+  },
+  "prophecy": {
+    "ipa": "/ˈprɑːfəsi/",
+    "meaning": "예언"
+  },
+  "protest": {
+    "ipa": "/ˈproʊtest/",
+    "meaning": "항의하다, 시위하다"
+  },
+  "proud": {
+    "ipa": "/praʊd/",
+    "meaning": "자랑스러운"
+  },
+  "pull out": {
+    "ipa": "/pʊl ˈaʊt/",
+    "meaning": "빼내다, 철수하다"
+  },
+  "quest": {
+    "ipa": "/kwɛst/",
+    "meaning": "탐구, 추구"
+  },
+  "rationale": {
+    "ipa": "/ˌræʃəˈnæl/",
+    "meaning": "근거, 이유"
+  },
+  "reaction": {
+    "ipa": "/riˈækʃn/",
+    "meaning": "반응"
+  },
+  "reasoning": {
+    "ipa": "/ˈriːznɪŋ/",
+    "meaning": "추론, 논리"
+  },
+  "recant": {
+    "ipa": "/rɪˈkænt/",
+    "meaning": "취소하다, 철회하다"
+  },
+  "receive": {
+    "ipa": "/rɪˈsiːv/",
+    "meaning": "받다"
+  },
+  "recommend": {
+    "ipa": "/ˌrɛkəˈmɛnd/",
+    "meaning": "추천하다"
+  },
+  "record": {
+    "ipa": "/ˈrɛkərd/",
+    "meaning": "기록, 음반"
+  },
+  "record player": {
+    "ipa": "/ˈrɛkərd ˌpleɪər/",
+    "meaning": "레코드 플레이어"
+  },
+  "refuse": {
+    "ipa": "/rɪˈfjuːz/",
+    "meaning": "거절하다"
+  },
+  "release": {
+    "ipa": "/rɪˈliːs/",
+    "meaning": "석방하다, 출시하다"
+  },
+  "religious studies": {
+    "ipa": "/rɪˈlɪdʒəs ˈstʌdiz/",
+    "meaning": "종교학"
+  },
+  "remembrance": {
+    "ipa": "/rɪˈmɛmbrəns/",
+    "meaning": "기억, 추모"
+  },
+  "remove": {
+    "ipa": "/rɪˈmuːv/",
+    "meaning": "제거하다, 옮기다"
+  },
+  "repel": {
+    "ipa": "/rɪˈpɛl/",
+    "meaning": "격퇴하다, 혐오감을 주다"
+  },
+  "repulse": {
+    "ipa": "/rɪˈpʌls/",
+    "meaning": "격퇴하다, 혐오감을 주다"
+  },
+  "repulsive": {
+    "ipa": "/rɪˈpʌlsɪv/",
+    "meaning": "혐오스러운"
+  },
+  "reserved": {
+    "ipa": "/rɪˈzɜːrvd/",
+    "meaning": "예약된, 내성적인"
+  },
+  "resist": {
+    "ipa": "/rɪˈzɪst/",
+    "meaning": "저항하다"
+  },
+  "rest": {
+    "ipa": "/rɛst/",
+    "meaning": "휴식, 나머지"
+  },
+  "retain": {
+    "ipa": "/rɪˈteɪn/",
+    "meaning": "유지하다, 보유하다"
+  },
+  "retreat": {
+    "ipa": "/rɪˈtriːt/",
+    "meaning": "후퇴하다, 물러나다"
+  },
+  "reveal": {
+    "ipa": "/rɪˈviːl/",
+    "meaning": "드러내다, 밝히다"
+  },
+  "rigid": {
+    "ipa": "/ˈrɪdʒɪd/",
+    "meaning": "엄격한, 뻣뻣한"
+  },
+  "rocket": {
+    "ipa": "/ˈrɑːkɪt/",
+    "meaning": "로켓"
+  },
+  "route": {
+    "ipa": "/ruːt/",
+    "meaning": "경로, 길"
+  },
+  "routine": {
+    "ipa": "/ruːˈtiːn/",
+    "meaning": "일상, 틀에 박힌 일"
+  },
+  "save": {
+    "ipa": "/seɪv/",
+    "meaning": "구하다, 절약하다"
+  },
+  "say sorry": {
+    "ipa": "/seɪ ˈsɔːri/",
+    "meaning": "사과하다"
+  },
+  "scheme": {
+    "ipa": "/skiːm/",
+    "meaning": "계획, 책략"
+  },
+  "scorn": {
+    "ipa": "/skɔːrn/",
+    "meaning": "경멸하다"
+  },
+  "scrawl": {
+    "ipa": "/skrɔːl/",
+    "meaning": "휘갈겨 쓰다"
+  },
+  "screenplay": {
+    "ipa": "/ˈskriːnpleɪ/",
+    "meaning": "각본"
+  },
+  "scrutinize": {
+    "ipa": "/ˈskruːtənaɪz/",
+    "meaning": "자세히 조사하다"
+  },
+  "section": {
+    "ipa": "/ˈsɛkʃn/",
+    "meaning": "구역, 부분"
+  },
+  "send": {
+    "ipa": "/sɛnd/",
+    "meaning": "보내다"
+  },
+  "send out": {
+    "ipa": "/sɛnd ˈaʊt/",
+    "meaning": "발송하다, 파견하다"
+  },
+  "shell": {
+    "ipa": "/ʃɛl/",
+    "meaning": "포탄, 껍데기"
+  },
+  "ship": {
+    "ipa": "/ʃɪp/",
+    "meaning": "배, 수송하다"
+  },
+  "shorten": {
+    "ipa": "/ˈʃɔːrtn/",
+    "meaning": "줄이다"
+  },
+  "show": {
+    "ipa": "/ʃoʊ/",
+    "meaning": "보여주다, 쇼"
+  },
+  "sidetrack": {
+    "ipa": "/ˈsaɪdtræk/",
+    "meaning": "주제에서 벗어나게 하다"
+  },
+  "sight": {
+    "ipa": "/saɪt/",
+    "meaning": "시력, 광경"
+  },
+  "sign up": {
+    "ipa": "/saɪn ʌp/",
+    "meaning": "가입하다, 등록하다"
+  },
+  "signal": {
+    "ipa": "/ˈsɪɡnəl/",
+    "meaning": "신호, 신호를 보내다"
+  },
+  "silent": {
+    "ipa": "/ˈsaɪlənt/",
+    "meaning": "조용한, 침묵의"
+  },
+  "skip": {
+    "ipa": "/skɪp/",
+    "meaning": "건너뛰다, 뛰어넘다"
+  },
+  "slip": {
+    "ipa": "/slɪp/",
+    "meaning": "미끄러지다, 실수"
+  },
+  "snapshot": {
+    "ipa": "/ˈsnæpʃɑːt/",
+    "meaning": "순간 포착, 스냅 사진"
+  },
+  "soliloquy": {
+    "ipa": "/səˈlɪləkwi/",
+    "meaning": "독백"
+  },
+  "soothe": {
+    "ipa": "/suːð/",
+    "meaning": "진정시키다, 달래다"
+  },
+  "sound unit": {
+    "ipa": "/saʊnd ˈjuːnɪt/",
+    "meaning": "음향 단위"
+  },
+  "speculation": {
+    "ipa": "/ˌspekjəˈleɪʃn/",
+    "meaning": "추측, 투기"
+  },
+  "spoken": {
+    "ipa": "/ˈspoʊkən/",
+    "meaning": "말해진, 구어체의"
+  },
+  "spot": {
+    "ipa": "/spɑːt/",
+    "meaning": "장소, 발견하다"
+  },
+  "stance": {
+    "ipa": "/stæns/",
+    "meaning": "입장, 자세"
+  },
+  "stand": {
+    "ipa": "/stænd/",
+    "meaning": "서다, 입장"
+  },
+  "start": {
+    "ipa": "/stɑːrt/",
+    "meaning": "시작하다, 출발"
+  },
+  "stationary": {
+    "ipa": "/ˈsteɪʃəneri/",
+    "meaning": "정지된, 고정된"
+  },
+  "stop": {
+    "ipa": "/stɑːp/",
+    "meaning": "멈추다, 중단"
+  },
+  "store": {
+    "ipa": "/stɔːr/",
+    "meaning": "가게, 저장하다"
+  },
+  "straight": {
+    "ipa": "/streɪt/",
+    "meaning": "직선으로, 곧은"
+  },
+  "straighten": {
+    "ipa": "/ˈstreɪtn/",
+    "meaning": "똑바로 하다, 펴다"
+  },
+  "stubborn": {
+    "ipa": "/ˈstʌbərn/",
+    "meaning": "고집 센, 완고한"
+  },
+  "study": {
+    "ipa": "/ˈstʌdi/",
+    "meaning": "공부하다, 연구"
+  },
+  "stunning": {
+    "ipa": "/ˈstʌnɪŋ/",
+    "meaning": "매혹적인, 놀라운"
+  },
+  "suggest": {
+    "ipa": "/səˈdʒest/",
+    "meaning": "제안하다, 암시하다"
+  },
+  "summon": {
+    "ipa": "/ˈsʌmən/",
+    "meaning": "소환하다, 불러내다"
+  },
+  "suppress": {
+    "ipa": "/səˈpres/",
+    "meaning": "억압하다, 진압하다"
+  },
+  "surpass": {
+    "ipa": "/sərˈpæs/",
+    "meaning": "능가하다, 넘다"
+  },
+  "surrender": {
+    "ipa": "/səˈrendər/",
+    "meaning": "항복하다, 넘겨주다"
+  },
+  "sustain": {
+    "ipa": "/səˈsteɪn/",
+    "meaning": "지탱하다, 유지하다"
+  },
+  "take away": {
+    "ipa": "/teɪk əˈweɪ/",
+    "meaning": "치우다, 빼앗다"
+  },
+  "task": {
+    "ipa": "/tæsk/",
+    "meaning": "과제, 임무"
+  },
+  "text": {
+    "ipa": "/teks/",
+    "meaning": "문자, 텍스트"
+  },
+  "throw out": {
+    "ipa": "/θroʊ aʊt/",
+    "meaning": "버리다, 폐기하다"
+  },
+  "tone": {
+    "ipa": "/toʊn/",
+    "meaning": "어조, 음색"
+  },
+  "topic": {
+    "ipa": "/ˈtɑːpɪk/",
+    "meaning": "주제, 화제"
+  },
+  "topography": {
+    "ipa": "/təˈpɑːɡrəfi/",
+    "meaning": "지형학, 지형"
+  },
+  "transfer": {
+    "ipa": "/ˈtrænsfər/",
+    "meaning": "이동하다, 전근하다"
+  },
+  "treatise": {
+    "ipa": "/ˈtriːtɪs/",
+    "meaning": "논문, 조약"
+  },
+  "tribute": {
+    "ipa": "/ˈtrɪbjuːt/",
+    "meaning": "찬사, 공물"
+  },
+  "trigger": {
+    "ipa": "/ˈtrɪɡər/",
+    "meaning": "방아쇠, 유발하다"
+  },
+  "triumph": {
+    "ipa": "/ˈtraɪəmf/",
+    "meaning": "승리, 성공"
+  },
+  "trust": {
+    "ipa": "/trʌst/",
+    "meaning": "신뢰, 믿음"
+  },
+  "trustworthy": {
+    "ipa": "/ˈtrʌstˌwɜːrði/",
+    "meaning": "신뢰할 수 있는"
+  },
+  "turn down": {
+    "ipa": "/tɜːrn daʊn/",
+    "meaning": "거절하다, 낮추다"
+  },
+  "unattractive": {
+    "ipa": "/ˌʌnəˈtræktɪv/",
+    "meaning": "매력 없는"
+  },
+  "uncover": {
+    "ipa": "/ʌnˈkʌvər/",
+    "meaning": "발견하다, 폭로하다"
+  },
+  "undertaking": {
+    "ipa": "/ˌʌndərˈteɪkɪŋ/",
+    "meaning": "사업, 과업"
+  },
+  "unimpressive": {
+    "ipa": "/ˌʌnɪmˈpresɪv/",
+    "meaning": "인상적이지 않은"
+  },
+  "unmanageable": {
+    "ipa": "/ʌnˈmænɪdʒəbl/",
+    "meaning": "다루기 힘든"
+  },
+  "unsubscribe": {
+    "ipa": "/ˌʌnsəbˈskraɪb/",
+    "meaning": "구독 취소하다"
+  },
+  "utter": {
+    "ipa": "/ˈʌtər/",
+    "meaning": "말하다, 발언하다"
+  },
+  "vague": {
+    "ipa": "/veɪɡ/",
+    "meaning": "모호한, 불분명한"
+  },
+  "viewpoint": {
+    "ipa": "/ˈvjuːpɔɪnt/",
+    "meaning": "관점, 시각"
+  },
+  "visual": {
+    "ipa": "/ˈvɪʒuəl/",
+    "meaning": "시각적인"
+  },
+  "vivid": {
+    "ipa": "/ˈvɪvɪd/",
+    "meaning": "생생한, 선명한"
+  },
+  "volunteer": {
+    "ipa": "/ˌvɑːlənˈtɪr/",
+    "meaning": "자원하다, 자원봉사자"
+  },
+  "vow": {
+    "ipa": "/vaʊ/",
+    "meaning": "맹세하다, 서약하다"
+  },
+  "ward off": {
+    "ipa": "/ˈwɔːrd ˈɔːf/",
+    "meaning": "막다, 피하다"
+  },
+  "wean": {
+    "ipa": "/wiːn/",
+    "meaning": "젖을 떼다"
+  },
+  "withdraw": {
+    "ipa": "/wɪθˈdrɔː/",
+    "meaning": "철수하다, 인출하다"
+  },
+  "word origin": {
+    "ipa": "/ˈwɜːrd ˈɔːrɪdʒən/",
+    "meaning": "단어의 기원"
+  },
+  "word stock": {
+    "ipa": "/ˈwɜːrd stɑːk/",
+    "meaning": "어휘, 단어 목록"
+  },
+  "work": {
+    "ipa": "/wɜːrk/",
+    "meaning": "일하다, 작동하다"
+  },
+  "wretched": {
+    "ipa": "/ˈretʃɪd/",
+    "meaning": "비참한, 불쌍한"
+  },
+  "write neatly": {
+    "ipa": "/ˈraɪt ˈniːtli/",
+    "meaning": "깔끔하게 쓰다"
+  },
+  "yield": {
+    "ipa": "/jiːld/",
+    "meaning": "항복하다, 산출하다"
+  }
+}

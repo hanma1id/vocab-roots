@@ -1,0 +1,249 @@
+{
+  "id": "pos",
+  "origin": "Latin",
+  "rootForm": "pos-, pon-",
+  "meaning": "놓다, 두다",
+  "story": "라틴어 ponere('놓다')에서 왔다. 동사형은 pon-, 명사·과거분사형은 pos-로 갈라진다. 무언가를 '특정 자리에 두다'라는 감각이 핵심이다.",
+  "tree": [
+    {
+      "prefix": "pro-",
+      "prefixMeaning": "앞에",
+      "words": [
+        {
+          "word": "propose",
+          "ipa": "/prəˈpoʊz/",
+          "pos": "v",
+          "meaning": "제안하다, 청혼하다 (앞에 내놓다)",
+          "example": "He proposed a new way to solve the problem.",
+          "exampleKo": "그는 문제를 풀 새로운 방법을 제안했다.",
+          "synonyms": [
+            "suggest",
+            "offer"
+          ],
+          "antonyms": [
+            "reject",
+            "withdraw"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "post-",
+      "prefixMeaning": "뒤에",
+      "words": [
+        {
+          "word": "postpone",
+          "ipa": "/poʊstˈpoʊn/",
+          "pos": "v",
+          "meaning": "연기하다 (뒤에 놓다)",
+          "example": "We had to postpone the meeting until next week.",
+          "exampleKo": "우리는 회의를 다음 주로 연기해야 했다.",
+          "synonyms": [
+            "delay",
+            "defer"
+          ],
+          "antonyms": [
+            "advance",
+            "expedite"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "com-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "compose",
+          "ipa": "/kəmˈpoʊz/",
+          "pos": "v",
+          "meaning": "구성하다, 작곡하다 (함께 놓다)",
+          "example": "Mozart composed many famous symphonies.",
+          "exampleKo": "모차르트는 유명한 교향곡을 많이 작곡했다.",
+          "synonyms": [
+            "create",
+            "constitute"
+          ],
+          "antonyms": [
+            "destroy",
+            "dismantle"
+          ]
+        },
+        {
+          "word": "component",
+          "ipa": "/kəmˈpoʊnənt/",
+          "pos": "n",
+          "meaning": "구성 요소, 부품",
+          "example": "A computer has many different components.",
+          "exampleKo": "컴퓨터는 여러 다른 구성 요소들을 가지고 있다.",
+          "synonyms": [
+            "part",
+            "element",
+            "piece"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "op-",
+      "prefixMeaning": "맞서서 (ob-의 변형)",
+      "words": [
+        {
+          "word": "oppose",
+          "ipa": "/əˈpoʊz/",
+          "pos": "v",
+          "meaning": "반대하다, 맞서다 (맞은편에 놓다)",
+          "example": "Many people opposed the new law.",
+          "exampleKo": "많은 사람들이 그 새 법에 반대했다.",
+          "synonyms": [
+            "resist",
+            "object to"
+          ],
+          "antonyms": [
+            "support",
+            "agree"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "position",
+          "ipa": "/pəˈzɪʃən/",
+          "pos": "n",
+          "meaning": "위치, 자리",
+          "example": "Please return the book to its original position.",
+          "exampleKo": "그 책을 원래 자리에 다시 놓아 주세요.",
+          "synonyms": [
+            "place",
+            "location",
+            "spot"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "deposit",
+          "ipa": "/dɪˈpɑzɪt/",
+          "pos": "v, n",
+          "meaning": "예금하다, 맡기다 (아래에 놓다)",
+          "example": "I deposited 100 dollars in my bank account.",
+          "exampleKo": "나는 은행 계좌에 100달러를 예금했다.",
+          "synonyms": [
+            "save",
+            "store"
+          ],
+          "antonyms": [
+            "withdraw"
+          ]
+        },
+        {
+          "word": "posture",
+          "ipa": "/ˈpɑːstʃər/",
+          "pos": "n",
+          "meaning": "자세, 태도",
+          "example": "Good posture is important for your back health.",
+          "exampleKo": "좋은 자세는 등 건강에 중요하다.",
+          "synonyms": [
+            "stance",
+            "bearing"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "im-",
+      "prefixMeaning": "안에, 위에",
+      "words": [
+        {
+          "word": "impose",
+          "ipa": "/ɪmˈpoʊz/",
+          "pos": "v",
+          "meaning": "부과하다, 강요하다",
+          "example": "The government imposed a new tax on luxury goods.",
+          "exampleKo": "정부는 사치품에 새로운 세금을 부과했다.",
+          "synonyms": [
+            "enforce",
+            "levy"
+          ],
+          "antonyms": [
+            "remove",
+            "withdraw"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "dis-",
+      "prefixMeaning": "떨어져",
+      "words": [
+        {
+          "word": "dispose",
+          "ipa": "/dɪˈspoʊz/",
+          "pos": "v",
+          "meaning": "처리하다, 배치하다",
+          "example": "Please dispose of your trash properly.",
+          "exampleKo": "쓰레기를 올바르게 처리해 주세요.",
+          "synonyms": [
+            "discard",
+            "arrange"
+          ],
+          "antonyms": [
+            "keep",
+            "retain"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ex-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "expose",
+          "ipa": "/ɪkˈspoʊz/",
+          "pos": "v",
+          "meaning": "노출시키다, 드러내다",
+          "example": "Don't expose your skin to the sun for too long.",
+          "exampleKo": "피부를 너무 오래 햇볕에 노출시키지 마세요.",
+          "synonyms": [
+            "reveal",
+            "uncover"
+          ],
+          "antonyms": [
+            "hide",
+            "cover"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "다시, 뒤로",
+      "words": [
+        {
+          "word": "repose",
+          "ipa": "/rɪˈpoʊz/",
+          "pos": "v",
+          "meaning": "휴식하다, 눕다",
+          "example": "He reposed on the sofa after a long day.",
+          "exampleKo": "그는 긴 하루를 보낸 후 소파에 누워 휴식했다.",
+          "synonyms": [
+            "rest",
+            "lie"
+          ],
+          "antonyms": [
+            "work",
+            "exert"
+          ]
+        }
+      ]
+    }
+  ],
+  "cluster": "손·잡다·놓다",
+  "verified": true
+}

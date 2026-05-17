@@ -1,0 +1,258 @@
+{
+  "id": "ject",
+  "origin": "Latin",
+  "rootForm": "ject-",
+  "meaning": "던지다",
+  "story": "라틴어 iacere('던지다')의 과거분사 iactus에서 왔다. 제트기(jet)도 같은 어원으로, '뿜어 던져진' 공기에서 나온 이름이다.",
+  "tree": [
+    {
+      "prefix": "re-",
+      "prefixMeaning": "뒤로",
+      "words": [
+        {
+          "word": "reject",
+          "ipa": "/rɪˈdʒɛkt/",
+          "pos": "v",
+          "meaning": "거절하다 (뒤로 던지다)",
+          "example": "The company rejected my application.",
+          "exampleKo": "그 회사는 내 지원서를 거절했다.",
+          "synonyms": [
+            "refuse",
+            "turn down"
+          ],
+          "antonyms": [
+            "accept",
+            "approve"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "pro-",
+      "prefixMeaning": "앞으로",
+      "words": [
+        {
+          "word": "project",
+          "ipa": "/ˈprɑdʒɛkt/",
+          "pos": "n, v",
+          "meaning": "계획, 프로젝트 / 투사하다 (앞으로 던지다)",
+          "example": "Our team finished the project on time.",
+          "exampleKo": "우리 팀은 프로젝트를 제때 끝냈다.",
+          "synonyms": [
+            "plan",
+            "scheme",
+            "venture"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "projectile",
+          "ipa": "/prəˈdʒɛktəl/",
+          "pos": "n",
+          "meaning": "발사체, 투사물",
+          "example": "The cannon fired a heavy projectile.",
+          "exampleKo": "대포는 무거운 발사체를 발사했다.",
+          "synonyms": [
+            "missile",
+            "shell",
+            "rocket"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "안으로",
+      "words": [
+        {
+          "word": "inject",
+          "ipa": "/ɪnˈdʒɛkt/",
+          "pos": "v",
+          "meaning": "주입하다, 주사하다 (안으로 던지다)",
+          "example": "The nurse injected the medicine into my arm.",
+          "exampleKo": "간호사가 내 팔에 약을 주사했다.",
+          "synonyms": [
+            "insert",
+            "introduce"
+          ],
+          "antonyms": [
+            "extract",
+            "withdraw"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ob-",
+      "prefixMeaning": "맞서, 대항하여",
+      "words": [
+        {
+          "word": "object",
+          "ipa": "/əbˈdʒɛkt/",
+          "pos": "v",
+          "meaning": "반대하다 (맞서 던지다)",
+          "example": "I object to working on weekends.",
+          "exampleKo": "나는 주말 근무에 반대한다.",
+          "synonyms": [
+            "oppose",
+            "protest"
+          ],
+          "antonyms": [
+            "agree",
+            "approve"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "e-",
+      "prefixMeaning": "밖으로 (ex-의 변형)",
+      "words": [
+        {
+          "word": "eject",
+          "ipa": "/ɪˈdʒɛkt/",
+          "pos": "v",
+          "meaning": "내쫓다, 방출하다 (밖으로 던지다)",
+          "example": "The pilot ejected from the burning plane.",
+          "exampleKo": "조종사는 불타는 비행기에서 탈출했다.",
+          "synonyms": [
+            "expel",
+            "throw out"
+          ],
+          "antonyms": [
+            "admit",
+            "insert"
+          ]
+        },
+        {
+          "word": "subject",
+          "ipa": "/ˈsʌbdʒɪkt/",
+          "pos": "n",
+          "meaning": "주제, 과목 (밑에 던져진 것)",
+          "example": "Math is my favorite subject.",
+          "exampleKo": "수학은 내가 가장 좋아하는 과목이다.",
+          "synonyms": [
+            "topic",
+            "matter"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "ab-",
+      "prefixMeaning": "떨어져, 멀리",
+      "words": [
+        {
+          "word": "abject",
+          "ipa": "/'æbˌdʒɛkt/",
+          "pos": "adj",
+          "meaning": "비참한, 절망적인",
+          "example": "They live in abject poverty.",
+          "exampleKo": "그들은 비참한 가난 속에서 산다.",
+          "synonyms": [
+            "miserable",
+            "hopeless",
+            "wretched"
+          ],
+          "antonyms": [
+            "proud",
+            "hopeful"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "conjecture",
+          "ipa": "/kənˈdʒɛktʃər/",
+          "pos": "n·v",
+          "meaning": "추측, 추측하다",
+          "example": "His theory was pure conjecture.",
+          "exampleKo": "그의 이론은 순전히 추측이었다.",
+          "synonyms": [
+            "guess",
+            "speculation",
+            "hypothesis"
+          ],
+          "antonyms": [
+            "fact",
+            "certainty"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "de-",
+      "prefixMeaning": "아래로",
+      "words": [
+        {
+          "word": "deject",
+          "ipa": "/dɪˈdʒɛkt/",
+          "pos": "v",
+          "meaning": "낙담시키다, 의기소침하게 하다",
+          "example": "The bad news dejected him.",
+          "exampleKo": "그 나쁜 소식은 그를 낙담시켰다.",
+          "synonyms": [
+            "discourage",
+            "depress",
+            "dishearten"
+          ],
+          "antonyms": [
+            "encourage",
+            "cheer"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "inter-",
+      "prefixMeaning": "사이에",
+      "words": [
+        {
+          "word": "interject",
+          "ipa": "/ˌɪntərˈdʒɛkt/",
+          "pos": "v",
+          "meaning": "(말 등을) 불쑥 끼워 넣다, 가로막다",
+          "example": "He interjected a comment during the speech.",
+          "exampleKo": "그는 연설 중에 불쑥 한마디 끼워 넣었다.",
+          "synonyms": [
+            "interrupt",
+            "insert",
+            "add"
+          ],
+          "antonyms": [
+            "omit",
+            "remove"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "trans-",
+      "prefixMeaning": "가로질러",
+      "words": [
+        {
+          "word": "trajectory",
+          "ipa": "/ˈtrædʒɪkˌtɔːri/",
+          "pos": "n",
+          "meaning": "(발사체 등의) 궤적, 경로",
+          "example": "The rocket followed a perfect trajectory.",
+          "exampleKo": "로켓은 완벽한 궤적을 따라갔다.",
+          "synonyms": [
+            "path",
+            "course",
+            "route"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "cluster": "운반·던지다",
+  "verified": true
+}

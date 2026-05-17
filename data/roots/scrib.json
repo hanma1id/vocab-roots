@@ -1,0 +1,233 @@
+{
+  "id": "scrib",
+  "origin": "Latin",
+  "rootForm": "scrib-, script-",
+  "meaning": "쓰다",
+  "story": "라틴어 scribere('쓰다')에서 왔다. 동사형은 scrib-, 명사·과거분사형은 script-로 갈라진다. 대본(script), 원고(manuscript) 모두 '손으로 쓴 것'에서 출발한 단어다.",
+  "tree": [
+    {
+      "prefix": "de-",
+      "prefixMeaning": "아래로, 자세히",
+      "words": [
+        {
+          "word": "describe",
+          "ipa": "/dɪˈskraɪb/",
+          "pos": "v",
+          "meaning": "묘사하다, 설명하다 (자세히 써내다)",
+          "example": "Can you describe the man you saw?",
+          "exampleKo": "네가 본 남자를 묘사해 줄 수 있어?",
+          "synonyms": [
+            "depict",
+            "portray",
+            "explain"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "description",
+          "ipa": "/dɪˈskrɪpʃən/",
+          "pos": "n",
+          "meaning": "묘사, 설명",
+          "example": "Her description of the event was very detailed.",
+          "exampleKo": "그 사건에 대한 그녀의 묘사는 매우 상세했다.",
+          "synonyms": [
+            "account",
+            "depiction"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "pre-",
+      "prefixMeaning": "미리, 앞에",
+      "words": [
+        {
+          "word": "prescribe",
+          "ipa": "/prɪˈskraɪb/",
+          "pos": "v",
+          "meaning": "처방하다, 규정하다 (미리 써 주다)",
+          "example": "The doctor prescribed me some antibiotics.",
+          "exampleKo": "의사가 내게 항생제를 처방해 주었다.",
+          "synonyms": [
+            "order",
+            "recommend"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "sub-",
+      "prefixMeaning": "밑에",
+      "words": [
+        {
+          "word": "subscribe",
+          "ipa": "/səbˈskraɪb/",
+          "pos": "v",
+          "meaning": "구독하다 (밑에 서명하다)",
+          "example": "I subscribe to three magazines.",
+          "exampleKo": "나는 잡지 세 권을 구독한다.",
+          "synonyms": [
+            "sign up",
+            "enroll"
+          ],
+          "antonyms": [
+            "unsubscribe",
+            "cancel"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "trans-",
+      "prefixMeaning": "건너, 가로질러",
+      "words": [
+        {
+          "word": "transcript",
+          "ipa": "/ˈtrænˌskrɪpt/",
+          "pos": "n",
+          "meaning": "녹취록, 성적증명서 (옮겨 쓴 것)",
+          "example": "Please request your transcript from the office.",
+          "exampleKo": "사무실에 성적증명서를 신청해 주세요.",
+          "synonyms": [
+            "record",
+            "copy"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "script",
+          "ipa": "/skrɪpt/",
+          "pos": "n",
+          "meaning": "대본, 원고",
+          "example": "The actor memorized the entire script.",
+          "exampleKo": "그 배우는 대본 전체를 외웠다.",
+          "synonyms": [
+            "screenplay",
+            "text"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "scribble",
+          "ipa": "/ˈskrɪbəl/",
+          "pos": "v·n",
+          "meaning": "낙서하다, 휘갈겨 쓰다; 낙서",
+          "example": "The child scribbled on the wall with a crayon.",
+          "exampleKo": "아이가 크레용으로 벽에 낙서를 했다.",
+          "synonyms": [
+            "doodle",
+            "scrawl"
+          ],
+          "antonyms": [
+            "write neatly"
+          ]
+        },
+        {
+          "word": "scribe",
+          "ipa": "/skraɪb/",
+          "pos": "n·v",
+          "meaning": "서기관, 필경사; (글씨를) 쓰다",
+          "example": "Before printing, a scribe would copy books by hand.",
+          "exampleKo": "인쇄술이 발달하기 전에는 필경사가 손으로 책을 베꼈다.",
+          "synonyms": [
+            "copyist",
+            "clerk"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "conscript",
+          "ipa": "/kənˈskrɪpt/",
+          "pos": "v",
+          "meaning": "징집하다, 강제 징용하다",
+          "example": "Many young men were conscripted into the army during the war.",
+          "exampleKo": "많은 젊은이들이 전쟁 중에 군대에 징집되었다.",
+          "synonyms": [
+            "draft",
+            "enlist"
+          ],
+          "antonyms": [
+            "volunteer"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "안에, ~위에",
+      "words": [
+        {
+          "word": "inscribe",
+          "ipa": "/ɪnˈskraɪb/",
+          "pos": "v",
+          "meaning": "새기다, 쓰다",
+          "example": "His name was inscribed on the trophy.",
+          "exampleKo": "그의 이름이 트로피에 새겨졌다.",
+          "synonyms": [
+            "engrave",
+            "carve"
+          ],
+          "antonyms": [
+            "erase"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "manu-",
+      "prefixMeaning": "손",
+      "words": [
+        {
+          "word": "manuscript",
+          "ipa": "/ˈmænjəˌskrɪpt/",
+          "pos": "n",
+          "meaning": "원고, 필사본",
+          "example": "The author submitted her manuscript to the publisher.",
+          "exampleKo": "작가는 출판사에 원고를 제출했다.",
+          "synonyms": [
+            "text",
+            "document"
+          ],
+          "antonyms": [
+            "print"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "post-",
+      "prefixMeaning": "뒤에, 후에",
+      "words": [
+        {
+          "word": "postscript",
+          "ipa": "/ˈpoʊstˌskrɪpt/",
+          "pos": "n",
+          "meaning": "추신 (P.S.)",
+          "example": "She added a postscript to her letter.",
+          "exampleKo": "그녀는 편지에 추신을 덧붙였다.",
+          "synonyms": [
+            "P.S.",
+            "addendum"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "cluster": "쓰다·기록",
+  "verified": true
+}

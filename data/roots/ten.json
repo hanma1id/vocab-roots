@@ -1,0 +1,253 @@
+{
+  "id": "ten",
+  "origin": "Latin",
+  "rootForm": "ten-, tain-, tin-",
+  "meaning": "잡다, 유지하다",
+  "cluster": "손·잡다·놓다",
+  "story": "라틴어 동사 tenere('잡다, 유지하다')에서 왔다. 무언가를 손에 쥐고 놓지 않는다는 핵심 느낌이 모든 파생어에 살아 있다. tenant(임차인)는 '땅을 잡고 있는 사람'.",
+  "tree": [
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "ten-, tain- 형태",
+      "words": [
+        {
+          "word": "tenant",
+          "ipa": "/ˈtɛnənt/",
+          "pos": "n",
+          "meaning": "세입자, 임차인 (땅을 잡고 있는 사람)",
+          "example": "The landlord met the new tenant.",
+          "exampleKo": "집주인이 새 세입자를 만났다.",
+          "synonyms": [
+            "renter",
+            "lessee"
+          ],
+          "antonyms": [
+            "landlord"
+          ]
+        },
+        {
+          "word": "tenable",
+          "ipa": "/ˈtɛnəbəl/",
+          "pos": "adj",
+          "meaning": "유지할 수 있는, 옹호할 만한",
+          "example": "His position is no longer tenable.",
+          "exampleKo": "그의 입장은 더 이상 유지될 수 없다.",
+          "synonyms": [
+            "defensible",
+            "valid"
+          ],
+          "antonyms": [
+            "untenable",
+            "indefensible"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "contain",
+          "ipa": "/kənˈteɪn/",
+          "pos": "v",
+          "meaning": "포함하다, 담다 (함께 잡고 있다)",
+          "example": "The box contains many items.",
+          "exampleKo": "그 상자에는 많은 물건이 들어 있다.",
+          "synonyms": [
+            "hold",
+            "include"
+          ],
+          "antonyms": [
+            "exclude"
+          ]
+        },
+        {
+          "word": "container",
+          "ipa": "/kənˈteɪnər/",
+          "pos": "n",
+          "meaning": "용기, 컨테이너",
+          "example": "Store the food in an airtight container.",
+          "exampleKo": "음식을 밀폐 용기에 보관해라.",
+          "synonyms": [
+            "vessel",
+            "receptacle"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "content",
+          "ipa": "/ˈkɑntɛnt/",
+          "pos": "n",
+          "meaning": "내용물, 콘텐츠 (안에 잡혀 있는 것)",
+          "example": "Check the content of the package.",
+          "exampleKo": "소포의 내용물을 확인해라.",
+          "synonyms": [
+            "substance",
+            "material"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "뒤로, 계속",
+      "words": [
+        {
+          "word": "retain",
+          "ipa": "/rɪˈteɪn/",
+          "pos": "v",
+          "meaning": "보유하다, 유지하다 (계속 잡고 있다)",
+          "example": "He wants to retain his position.",
+          "exampleKo": "그는 자신의 직위를 유지하기를 원한다.",
+          "synonyms": [
+            "keep",
+            "hold on to"
+          ],
+          "antonyms": [
+            "release",
+            "lose"
+          ]
+        },
+        {
+          "word": "retention",
+          "ipa": "/rɪˈtɛnʃən/",
+          "pos": "n",
+          "meaning": "보유, 유지",
+          "example": "Customer retention is key to growth.",
+          "exampleKo": "고객 유지가 성장의 핵심이다.",
+          "synonyms": [
+            "keeping",
+            "preservation"
+          ],
+          "antonyms": [
+            "loss"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "sus-",
+      "prefixMeaning": "밑에서 (sub-의 변형)",
+      "words": [
+        {
+          "word": "sustain",
+          "ipa": "/səˈsteɪn/",
+          "pos": "v",
+          "meaning": "지탱하다, 유지하다 (밑에서 잡아 주다)",
+          "example": "The bridge must sustain a heavy load.",
+          "exampleKo": "그 다리는 무거운 짐을 지탱해야 한다.",
+          "synonyms": [
+            "support",
+            "maintain"
+          ],
+          "antonyms": [
+            "weaken",
+            "drop"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "main-",
+      "prefixMeaning": "손으로 (manu-에서)",
+      "words": [
+        {
+          "word": "maintain",
+          "ipa": "/meɪnˈteɪn/",
+          "pos": "v",
+          "meaning": "유지하다, 주장하다 (손에 잡고 있다)",
+          "example": "We must maintain order.",
+          "exampleKo": "우리는 질서를 유지해야 한다.",
+          "synonyms": [
+            "keep up",
+            "uphold"
+          ],
+          "antonyms": [
+            "neglect",
+            "abandon"
+          ]
+        },
+        {
+          "word": "maintenance",
+          "ipa": "/ˈmeɪntənəns/",
+          "pos": "n",
+          "meaning": "유지, 보수",
+          "example": "Regular maintenance keeps the car running.",
+          "exampleKo": "정기적인 정비가 차를 잘 굴러가게 한다.",
+          "synonyms": [
+            "upkeep",
+            "preservation"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "ob-",
+      "prefixMeaning": "맞서, 얻어내려",
+      "words": [
+        {
+          "word": "obtain",
+          "ipa": "/əbˈteɪn/",
+          "pos": "v",
+          "meaning": "얻다, 획득하다 (맞서 잡아내다)",
+          "example": "She obtained a visa easily.",
+          "exampleKo": "그녀는 비자를 쉽게 얻었다.",
+          "synonyms": [
+            "acquire",
+            "get"
+          ],
+          "antonyms": [
+            "lose"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "de-",
+      "prefixMeaning": "아래로, 떨어뜨려",
+      "words": [
+        {
+          "word": "detain",
+          "ipa": "/dɪˈteɪn/",
+          "pos": "v",
+          "meaning": "붙잡아 두다, 지체시키다",
+          "example": "The police detained the suspect.",
+          "exampleKo": "경찰은 용의자를 붙잡아 두었다.",
+          "synonyms": [
+            "hold back",
+            "delay"
+          ],
+          "antonyms": [
+            "release",
+            "free"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "abs-",
+      "prefixMeaning": "떨어져 (ab-의 변형)",
+      "words": [
+        {
+          "word": "abstain",
+          "ipa": "/æbˈsteɪn/",
+          "pos": "v",
+          "meaning": "삼가다, 절제하다 (잡지 않고 떨어져 있다)",
+          "example": "Please abstain from smoking.",
+          "exampleKo": "흡연을 삼가 주십시오.",
+          "synonyms": [
+            "refrain",
+            "avoid"
+          ],
+          "antonyms": [
+            "indulge"
+          ]
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

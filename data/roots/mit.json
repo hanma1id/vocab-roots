@@ -1,0 +1,245 @@
+{
+  "id": "mit",
+  "origin": "Latin",
+  "rootForm": "mit-, miss-",
+  "meaning": "보내다",
+  "story": "라틴어 mittere('보내다')에서 왔다. 동사형은 mit-, 명사·과거분사형은 miss-로 갈라진다. 미사일(missile)도 '보내진 것'이라는 같은 어원에서 나왔다.",
+  "tree": [
+    {
+      "prefix": "sub-",
+      "prefixMeaning": "밑으로",
+      "words": [
+        {
+          "word": "submit",
+          "ipa": "/səbˈmɪt/",
+          "pos": "v",
+          "meaning": "제출하다, 굴복하다 (밑으로 보내다)",
+          "example": "Please submit your homework by Friday.",
+          "exampleKo": "숙제를 금요일까지 제출해 주세요.",
+          "synonyms": [
+            "hand in",
+            "yield"
+          ],
+          "antonyms": [
+            "withdraw",
+            "resist"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "trans-",
+      "prefixMeaning": "건너서, 너머로",
+      "words": [
+        {
+          "word": "transmit",
+          "ipa": "/trænzˈmɪt/",
+          "pos": "v",
+          "meaning": "전송하다, 전달하다",
+          "example": "The radio transmits signals across long distances.",
+          "exampleKo": "라디오는 먼 거리에 신호를 전송한다.",
+          "synonyms": [
+            "send",
+            "convey"
+          ],
+          "antonyms": [
+            "receive"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ad-",
+      "prefixMeaning": "~쪽으로",
+      "words": [
+        {
+          "word": "admit",
+          "ipa": "/ədˈmɪt/",
+          "pos": "v",
+          "meaning": "인정하다, 입장을 허락하다",
+          "example": "She admitted her mistake honestly.",
+          "exampleKo": "그녀는 자신의 실수를 솔직하게 인정했다.",
+          "synonyms": [
+            "acknowledge",
+            "confess"
+          ],
+          "antonyms": [
+            "deny",
+            "reject"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "o-",
+      "prefixMeaning": "맞서 (ob-의 변형)",
+      "words": [
+        {
+          "word": "omit",
+          "ipa": "/oʊˈmɪt/",
+          "pos": "v",
+          "meaning": "생략하다, 빠뜨리다 (보내 버리다)",
+          "example": "Please don't omit any important details.",
+          "exampleKo": "중요한 세부사항을 빠뜨리지 마세요.",
+          "synonyms": [
+            "leave out",
+            "skip"
+          ],
+          "antonyms": [
+            "include",
+            "add"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "miss- 형태",
+      "words": [
+        {
+          "word": "mission",
+          "ipa": "/ˈmɪʃən/",
+          "pos": "n",
+          "meaning": "임무, 사명 (보내진 일)",
+          "example": "Their mission was to rescue the hostages.",
+          "exampleKo": "그들의 임무는 인질들을 구출하는 것이었다.",
+          "synonyms": [
+            "task",
+            "assignment"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "dismiss",
+          "ipa": "/dɪsˈmɪs/",
+          "pos": "v",
+          "meaning": "해고하다, 묵살하다 (떼어 보내다)",
+          "example": "Class is dismissed.",
+          "exampleKo": "수업 끝났습니다.",
+          "synonyms": [
+            "fire",
+            "reject"
+          ],
+          "antonyms": [
+            "hire",
+            "accept"
+          ]
+        },
+        {
+          "word": "missile",
+          "ipa": "/ˈmɪsl/",
+          "pos": "n",
+          "meaning": "미사일, 발사체",
+          "example": "The army fired a missile.",
+          "exampleKo": "군대가 미사일을 발사했다.",
+          "synonyms": [
+            "projectile"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "com-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "commit",
+          "ipa": "/kəˈmɪt/",
+          "pos": "v",
+          "meaning": "(죄를) 저지르다; 약속하다, 전념하다",
+          "example": "He committed a serious crime.",
+          "exampleKo": "그는 심각한 범죄를 저질렀다.",
+          "synonyms": [
+            "perpetrate",
+            "pledge"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "e-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "emit",
+          "ipa": "/ɪˈmɪt/",
+          "pos": "v",
+          "meaning": "(빛, 열, 소리 등을) 내다, 방출하다",
+          "example": "The sun emits light and heat.",
+          "exampleKo": "태양은 빛과 열을 방출한다.",
+          "synonyms": [
+            "release",
+            "discharge"
+          ],
+          "antonyms": [
+            "absorb"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "per-",
+      "prefixMeaning": "~을 통하여",
+      "words": [
+        {
+          "word": "permit",
+          "ipa": "/pərˈmɪt/",
+          "pos": "v",
+          "meaning": "허락하다, 허용하다",
+          "example": "Smoking is not permitted here.",
+          "exampleKo": "이곳에서는 흡연이 허용되지 않습니다.",
+          "synonyms": [
+            "allow",
+            "authorize"
+          ],
+          "antonyms": [
+            "forbid",
+            "prohibit"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "pro-",
+      "prefixMeaning": "앞으로",
+      "words": [
+        {
+          "word": "promise",
+          "ipa": "/ˈprɑːmɪs/",
+          "pos": "v·n",
+          "meaning": "약속하다; 약속",
+          "example": "I promise to help you.",
+          "exampleKo": "제가 당신을 돕겠다고 약속합니다.",
+          "synonyms": [
+            "pledge",
+            "vow"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "뒤로, 다시",
+      "words": [
+        {
+          "word": "remit",
+          "ipa": "/rɪˈmɪt/",
+          "pos": "v",
+          "meaning": "(돈을) 보내다, 송금하다",
+          "example": "Please remit the payment by the end of the month.",
+          "exampleKo": "월말까지 대금을 송금해 주십시오.",
+          "synonyms": [
+            "send",
+            "transfer"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "cluster": "운반·던지다",
+  "verified": true
+}

@@ -1,0 +1,1442 @@
+[
+  {
+    "w": "abject",
+    "m": "비참한, 절망적인",
+    "p": "/'æbˌdʒɛkt/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "ab-"
+  },
+  {
+    "w": "access",
+    "m": "접근(하다), 이용권",
+    "p": "/ˈækˌsɛs/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "ac-"
+  },
+  {
+    "w": "addict",
+    "m": "중독시키다, 빠지게 하다",
+    "p": "/əˈdɪkt/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "ad-"
+  },
+  {
+    "w": "admit",
+    "m": "인정하다, 입장을 허락하다",
+    "p": "/ədˈmɪt/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "ad-"
+  },
+  {
+    "w": "advent",
+    "m": "도래, 출현",
+    "p": "/ˈædvɛnt/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "ad-"
+  },
+  {
+    "w": "adventure",
+    "m": "모험 (다가올 일)",
+    "p": "/ədˈvɛntʃər/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "ad-"
+  },
+  {
+    "w": "advocate",
+    "m": "옹호하다, 지지자",
+    "p": "/ˈædvəˌkeɪt/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "ad-"
+  },
+  {
+    "w": "apologize",
+    "m": "사과하다, 해명하다",
+    "p": "/əˈpɑːləˌdʒaɪz/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "apo-"
+  },
+  {
+    "w": "attract",
+    "m": "끌어당기다, 매혹하다",
+    "p": "/əˈtrækt/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "at-"
+  },
+  {
+    "w": "attractive",
+    "m": "매력적인",
+    "p": "/əˈtræktɪv/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "at-"
+  },
+  {
+    "w": "autobiography",
+    "m": "자서전 (스스로 쓴 삶의 이야기)",
+    "p": "/ˌɔtəbaɪˈɑɡrəfi/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "bio-"
+  },
+  {
+    "w": "benediction",
+    "m": "축복, 감사 기도",
+    "p": "/ˌbɛnɪˈdɪkʃən/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "bene-"
+  },
+  {
+    "w": "biography",
+    "m": "전기, 일대기 (삶을 쓴 것)",
+    "p": "/baɪˈɑɡrəfi/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "bio-"
+  },
+  {
+    "w": "biology",
+    "m": "생물학 (생명에 대한 학문)",
+    "p": "/baɪˈɑlədʒi/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "bio-"
+  },
+  {
+    "w": "cacophony",
+    "m": "불협화음, 불쾌한 소리",
+    "p": "/kəˈkɒfəni/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "caco-"
+  },
+  {
+    "w": "calligraphy",
+    "m": "서예, 캘리그래피",
+    "p": "/kəˈlɪɡrəfi/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "catalog",
+    "m": "카탈로그, 목록",
+    "p": "/ˈkætəlɔːɡ/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "cata-"
+  },
+  {
+    "w": "cede",
+    "m": "(권리, 영토를) 양도하다, 넘겨주다",
+    "p": "/siːd/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "cessation",
+    "m": "중단, 정지",
+    "p": "/sɛˈseɪʃən/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "circumflex",
+    "m": "곡절 부호 (^)",
+    "p": "/ˈsɜːrkəmflɛks/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "circum-"
+  },
+  {
+    "w": "commit",
+    "m": "(죄를) 저지르다; 약속하다, 전념하다",
+    "p": "/kəˈmɪt/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "com-"
+  },
+  {
+    "w": "component",
+    "m": "구성 요소, 부품",
+    "p": "/kəmˈpoʊnənt/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "com-"
+  },
+  {
+    "w": "comport",
+    "m": "행동하다, 처신하다",
+    "p": "/kəmˈpɔːrt/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "com-"
+  },
+  {
+    "w": "compose",
+    "m": "구성하다, 작곡하다 (함께 놓다)",
+    "p": "/kəmˈpoʊz/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "com-"
+  },
+  {
+    "w": "concede",
+    "m": "(옳음을) 인정하다, (패배를) 시인하다",
+    "p": "/kənˈsiːd/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "con-"
+  },
+  {
+    "w": "conjecture",
+    "m": "추측, 추측하다",
+    "p": "/kənˈdʒɛktʃər/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "con-"
+  },
+  {
+    "w": "conscript",
+    "m": "징집하다, 강제 징용하다",
+    "p": "/kənˈskrɪpt/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "con-"
+  },
+  {
+    "w": "conspicuous",
+    "m": "눈에 잘 띄는, 뚜렷한",
+    "p": "/kənˈspɪkjuəs/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "con-"
+  },
+  {
+    "w": "contract",
+    "m": "계약(서) — 함께 끌어당겨 묶다",
+    "p": "/ˈkɑntrækt/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "con-"
+  },
+  {
+    "w": "contradict",
+    "m": "반박하다, 모순되다 (반대로 말하다)",
+    "p": "/ˌkɑntrəˈdɪkt/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "contra-"
+  },
+  {
+    "w": "convene",
+    "m": "소집하다, 모이다 (함께 오다)",
+    "p": "/kənˈviːn/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "con-"
+  },
+  {
+    "w": "convention",
+    "m": "총회, 관습 (함께 모이는 것)",
+    "p": "/kənˈvɛnʃən/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "con-"
+  },
+  {
+    "w": "convoke",
+    "m": "소집하다",
+    "p": "/kənˈvoʊk/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "con-"
+  },
+  {
+    "w": "decease",
+    "m": "사망, 죽음",
+    "p": "/dɪˈsiːs/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "de-"
+  },
+  {
+    "w": "dedicate",
+    "m": "헌신하다, 바치다",
+    "p": "/ˈdɛdɪkeɪt/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "de-"
+  },
+  {
+    "w": "deflect",
+    "m": "빗나가게 하다, 비껴가다",
+    "p": "/dɪˈflɛkt/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "de-"
+  },
+  {
+    "w": "deject",
+    "m": "낙담시키다, 의기소침하게 하다",
+    "p": "/dɪˈdʒɛkt/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "de-"
+  },
+  {
+    "w": "deport",
+    "m": "(외국인을) 추방하다",
+    "p": "/dɪˈpɔːrt/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "de-"
+  },
+  {
+    "w": "deposit",
+    "m": "예금하다, 맡기다 (아래에 놓다)",
+    "p": "/dɪˈpɑzɪt/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "describe",
+    "m": "묘사하다, 설명하다 (자세히 써내다)",
+    "p": "/dɪˈskraɪb/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "de-"
+  },
+  {
+    "w": "description",
+    "m": "묘사, 설명",
+    "p": "/dɪˈskrɪpʃən/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "de-"
+  },
+  {
+    "w": "detract",
+    "m": "(가치·명성을) 떨어뜨리다, 손상시키다",
+    "p": "/dɪˈtrækt/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "de-"
+  },
+  {
+    "w": "diagram",
+    "m": "도표, 그림",
+    "p": "/ˈdaɪəˌɡræm/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "dia-"
+  },
+  {
+    "w": "dialogue",
+    "m": "대화 (사이를 오가는 말)",
+    "p": "/ˈdaɪəˌlɔɡ/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "dia-"
+  },
+  {
+    "w": "dictate",
+    "m": "받아쓰게 하다, 명령하다",
+    "p": "/ˈdɪkteɪt/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "dictionary",
+    "m": "사전 (말이 모여 있는 책)",
+    "p": "/ˈdɪkʃəˌnɛri/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "dismiss",
+    "m": "해고하다, 묵살하다 (떼어 보내다)",
+    "p": "/dɪsˈmɪs/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "dispose",
+    "m": "처리하다, 배치하다",
+    "p": "/dɪˈspoʊz/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "dis-"
+  },
+  {
+    "w": "distract",
+    "m": "주의를 분산시키다 (떨어뜨려 끌다)",
+    "p": "/dɪˈstrækt/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "dis-"
+  },
+  {
+    "w": "edict",
+    "m": "칙령, 포고",
+    "p": "/ˈiːdɪkt/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "e-"
+  },
+  {
+    "w": "eject",
+    "m": "내쫓다, 방출하다 (밖으로 던지다)",
+    "p": "/ɪˈdʒɛkt/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "e-"
+  },
+  {
+    "w": "emit",
+    "m": "(빛, 열, 소리 등을) 내다, 방출하다",
+    "p": "/ɪˈmɪt/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "e-"
+  },
+  {
+    "w": "epigraph",
+    "m": "비문, (책 서두의) 인용문",
+    "p": "/ˈɛpəˌɡræf/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "epi-"
+  },
+  {
+    "w": "epilogue",
+    "m": "에필로그, 맺음말",
+    "p": "/ˈɛpəˌlɔːɡ/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "epi-"
+  },
+  {
+    "w": "etymology",
+    "m": "어원학, 어원",
+    "p": "/ˌɛtəˈmɑːlədʒi/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "기본형"
+  },
+  {
+    "w": "eulogy",
+    "m": "찬사, 칭송",
+    "p": "/ˈjuːlədʒi/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "eu-"
+  },
+  {
+    "w": "euphony",
+    "m": "듣기 좋은 소리, 조화로운 소리",
+    "p": "/ˈjuːfəni/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "eu-"
+  },
+  {
+    "w": "event",
+    "m": "사건, 행사 (밖으로 나온 일)",
+    "p": "/ɪˈvɛnt/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "e-"
+  },
+  {
+    "w": "evoke",
+    "m": "불러일으키다 (밖으로 불러내다)",
+    "p": "/ɪˈvoʊk/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "e-"
+  },
+  {
+    "w": "exceed",
+    "m": "초과하다, 능가하다 (밖으로 나가다)",
+    "p": "/ɪkˈsiːd/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "ex-"
+  },
+  {
+    "w": "expect",
+    "m": "기대하다, 예상하다 (밖을 내다보다)",
+    "p": "/ɪkˈspɛkt/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "ex-"
+  },
+  {
+    "w": "export",
+    "m": "수출(하다) — 밖으로 나르다",
+    "p": "/ɪkˈspɔrt/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "ex-"
+  },
+  {
+    "w": "expose",
+    "m": "노출시키다, 드러내다",
+    "p": "/ɪkˈspoʊz/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "ex-"
+  },
+  {
+    "w": "extract",
+    "m": "추출하다, 뽑아내다 (밖으로 끌어내다)",
+    "p": "/ɪkˈstrækt/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "ex-"
+  },
+  {
+    "w": "flection",
+    "m": "굽힘, 굴곡",
+    "p": "/ˈflɛkʃən/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "flex",
+    "m": "구부리다, 굽히다",
+    "p": "/flɛks/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "flexible",
+    "m": "유연한, 융통성 있는",
+    "p": "/ˈflɛksəbl/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "flexor",
+    "m": "(관절을) 구부리는 근육",
+    "p": "/ˈflɛksər/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "genuflect",
+    "m": "무릎을 꿇다",
+    "p": "/ˈdʒɛnjəflɛkt/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geography",
+    "m": "지리학 (땅을 그린 것)",
+    "p": "/dʒiˈɑɡrəfi/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "geo-"
+  },
+  {
+    "w": "grammar",
+    "m": "문법",
+    "p": "/ˈɡræmər/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "graphic",
+    "m": "그래픽의, 생생한",
+    "p": "/ˈɡræfɪk/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "homophone",
+    "m": "동음이의어",
+    "p": "/ˈhɒməˌfoʊn/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "homo-"
+  },
+  {
+    "w": "import",
+    "m": "수입(하다) — 안으로 나르다",
+    "p": "/ɪmˈpɔrt/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "im-"
+  },
+  {
+    "w": "impose",
+    "m": "부과하다, 강요하다",
+    "p": "/ɪmˈpoʊz/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "im-"
+  },
+  {
+    "w": "indicate",
+    "m": "나타내다, 가리키다",
+    "p": "/ˈɪndɪˌkeɪt/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "in-"
+  },
+  {
+    "w": "inflection",
+    "m": "어형변화, 억양",
+    "p": "/ɪnˈflɛkʃən/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "in-"
+  },
+  {
+    "w": "inject",
+    "m": "주입하다, 주사하다 (안으로 던지다)",
+    "p": "/ɪnˈdʒɛkt/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "in-"
+  },
+  {
+    "w": "inscribe",
+    "m": "새기다, 쓰다",
+    "p": "/ɪnˈskraɪb/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "in-"
+  },
+  {
+    "w": "inspect",
+    "m": "안을 들여다보다, 점검하다",
+    "p": "/ɪnˈspɛkt/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "in-"
+  },
+  {
+    "w": "inspection",
+    "m": "점검, 검사",
+    "p": "/ɪnˈspɛkʃən/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "in-"
+  },
+  {
+    "w": "intercede",
+    "m": "중재하다, 탄원하다",
+    "p": "/ˌɪntərˈsiːd/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "inter-"
+  },
+  {
+    "w": "interject",
+    "m": "(말 등을) 불쑥 끼워 넣다, 가로막다",
+    "p": "/ˌɪntərˈdʒɛkt/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "inter-"
+  },
+  {
+    "w": "intervene",
+    "m": "개입하다, 중재하다",
+    "p": "/ˌɪntərˈviːn/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "inter-"
+  },
+  {
+    "w": "intractable",
+    "m": "다루기 힘든, 고집 센",
+    "p": "/ɪnˈtræktəbəl/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "in-"
+  },
+  {
+    "w": "invent",
+    "m": "발명하다 (위로 떠오르게 하다)",
+    "p": "/ɪnˈvɛnt/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "in-"
+  },
+  {
+    "w": "invention",
+    "m": "발명(품)",
+    "p": "/ɪnˈvɛnʃən/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "in-"
+  },
+  {
+    "w": "invoke",
+    "m": "기원하다, 발동시키다 (불러내다)",
+    "p": "/ɪnˈvoʊk/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "in-"
+  },
+  {
+    "w": "logic",
+    "m": "논리, 논리학",
+    "p": "/ˈlɑdʒɪk/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "기본형"
+  },
+  {
+    "w": "malediction",
+    "m": "저주, 악담",
+    "p": "/ˌmælɪˈdɪkʃən/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "male-"
+  },
+  {
+    "w": "manuscript",
+    "m": "원고, 필사본",
+    "p": "/ˈmænjəˌskrɪpt/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "manu-"
+  },
+  {
+    "w": "megaphone",
+    "m": "확성기 (큰 소리를 내는 기계)",
+    "p": "/ˈmɛɡəˌfoʊn/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "mega-"
+  },
+  {
+    "w": "microphone",
+    "m": "마이크 (작은 소리도 잡는 기계)",
+    "p": "/ˈmaɪkrəˌfoʊn/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "micro-"
+  },
+  {
+    "w": "missile",
+    "m": "미사일, 발사체",
+    "p": "/ˈmɪsl/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "mission",
+    "m": "임무, 사명 (보내진 일)",
+    "p": "/ˈmɪʃən/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "monograph",
+    "m": "(특정 주제의) 전공 논문, 단행본",
+    "p": "/ˈmɑnəˌɡræf/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "mono-"
+  },
+  {
+    "w": "monologue",
+    "m": "독백 (혼자 하는 말)",
+    "p": "/ˈmɑnəˌlɔɡ/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "mono-"
+  },
+  {
+    "w": "object",
+    "m": "반대하다 (맞서 던지다)",
+    "p": "/əbˈdʒɛkt/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "ob-"
+  },
+  {
+    "w": "omit",
+    "m": "생략하다, 빠뜨리다 (보내 버리다)",
+    "p": "/oʊˈmɪt/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "o-"
+  },
+  {
+    "w": "oppose",
+    "m": "반대하다, 맞서다 (맞은편에 놓다)",
+    "p": "/əˈpoʊz/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "op-"
+  },
+  {
+    "w": "paragraph",
+    "m": "단락, 문단",
+    "p": "/ˈpærəˌɡræf/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "para-"
+  },
+  {
+    "w": "permit",
+    "m": "허락하다, 허용하다",
+    "p": "/pərˈmɪt/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "per-"
+  },
+  {
+    "w": "perspective",
+    "m": "관점, 시각",
+    "p": "/pərˈspɛktɪv/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "per-"
+  },
+  {
+    "w": "phoneme",
+    "m": "음소",
+    "p": "/ˈfoʊniːm/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "phonetic",
+    "m": "음성의, 발음의",
+    "p": "/fəˈnɛtɪk/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "phonics",
+    "m": "파닉스, 발음 중심 학습법",
+    "p": "/ˈfɑnɪks/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "phonograph",
+    "m": "축음기",
+    "p": "/ˈfoʊnəˌɡræf/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "photograph",
+    "m": "사진(을 찍다)",
+    "p": "/ˈfoʊtəˌɡræf/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "photo-"
+  },
+  {
+    "w": "portable",
+    "m": "휴대용의, 들고 다닐 수 있는",
+    "p": "/ˈpɔrtəbl/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "porter",
+    "m": "짐꾼, 운반하는 사람",
+    "p": "/ˈpɔrtər/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "portfolio",
+    "m": "서류철, 작품집",
+    "p": "/pɔːrtˈfoʊli.oʊ/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "position",
+    "m": "위치, 자리",
+    "p": "/pəˈzɪʃən/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "postpone",
+    "m": "연기하다 (뒤에 놓다)",
+    "p": "/poʊstˈpoʊn/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "post-"
+  },
+  {
+    "w": "postscript",
+    "m": "추신 (P.S.)",
+    "p": "/ˈpoʊstˌskrɪpt/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "post-"
+  },
+  {
+    "w": "posture",
+    "m": "자세, 태도",
+    "p": "/ˈpɑːstʃər/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "precede",
+    "m": "~에 앞서다, 먼저 일어나다",
+    "p": "/prɪˈsiːd/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "pre-"
+  },
+  {
+    "w": "predict",
+    "m": "예측하다 (미리 말하다)",
+    "p": "/prɪˈdɪkt/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "pre-"
+  },
+  {
+    "w": "prediction",
+    "m": "예측, 예언",
+    "p": "/prɪˈdɪkʃən/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "pre-"
+  },
+  {
+    "w": "prescribe",
+    "m": "처방하다, 규정하다 (미리 써 주다)",
+    "p": "/prɪˈskraɪb/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "pre-"
+  },
+  {
+    "w": "prevent",
+    "m": "예방하다, 막다 (미리 와서 막다)",
+    "p": "/prɪˈvɛnt/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "pre-"
+  },
+  {
+    "w": "proceed",
+    "m": "나아가다, 진행하다",
+    "p": "/prəˈsiːd/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "project",
+    "m": "계획, 프로젝트 / 투사하다 (앞으로 던지다)",
+    "p": "/ˈprɑdʒɛkt/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "projectile",
+    "m": "발사체, 투사물",
+    "p": "/prəˈdʒɛktəl/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "prologue",
+    "m": "서막, 머리말 (앞에 하는 말)",
+    "p": "/ˈproʊlɔɡ/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "pro-"
+  },
+  {
+    "w": "promise",
+    "m": "약속하다; 약속",
+    "p": "/ˈprɑːmɪs/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "propose",
+    "m": "제안하다, 청혼하다 (앞에 내놓다)",
+    "p": "/prəˈpoʊz/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "protract",
+    "m": "(시간을) 연장하다, 오래 끌다",
+    "p": "/proʊˈtrækt/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "provoke",
+    "m": "유발하다, 도발하다 (앞으로 불러내다)",
+    "p": "/prəˈvoʊk/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "psychology",
+    "m": "심리학 (마음에 대한 학문)",
+    "p": "/saɪˈkɑlədʒi/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "psycho-"
+  },
+  {
+    "w": "purport",
+    "m": "~라고 주장하다; 요지, 취지",
+    "p": "/ˈpɜːrpərt/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "pur-"
+  },
+  {
+    "w": "recede",
+    "m": "물러나다, 멀어지다",
+    "p": "/rɪˈsiːd/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "re-"
+  },
+  {
+    "w": "reflect",
+    "m": "반사하다, 숙고하다 (뒤로 구부려 보내다)",
+    "p": "/rɪˈflɛkt/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "re-"
+  },
+  {
+    "w": "reflection",
+    "m": "반사, 반영, 성찰",
+    "p": "/rɪˈflɛkʃən/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "re-"
+  },
+  {
+    "w": "reflex",
+    "m": "반사작용 (뒤로 굽혀지는 반응)",
+    "p": "/ˈriːflɛks/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "reject",
+    "m": "거절하다 (뒤로 던지다)",
+    "p": "/rɪˈdʒɛkt/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "re-"
+  },
+  {
+    "w": "remit",
+    "m": "(돈을) 보내다, 송금하다",
+    "p": "/rɪˈmɪt/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "re-"
+  },
+  {
+    "w": "report",
+    "m": "보고하다; 보고서",
+    "p": "/rɪˈpɔːrt/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "re-"
+  },
+  {
+    "w": "repose",
+    "m": "휴식하다, 눕다",
+    "p": "/rɪˈpoʊz/",
+    "root": "pos",
+    "rootForm": "pos-, pon-",
+    "prefix": "re-"
+  },
+  {
+    "w": "respect",
+    "m": "존경(하다) — '다시 돌아보다'에서 왔다",
+    "p": "/rɪˈspɛkt/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "re-"
+  },
+  {
+    "w": "retract",
+    "m": "철회하다, 취소하다; (몸의 일부를) 움츠리다",
+    "p": "/rɪˈtrækt/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "re-"
+  },
+  {
+    "w": "retroflex",
+    "m": "뒤로 굽은, 젖혀진",
+    "p": "/ˈrɛtroʊflɛks/",
+    "root": "flex",
+    "rootForm": "flex-, flect-",
+    "prefix": "retro-"
+  },
+  {
+    "w": "retrospect",
+    "m": "회상, 회고",
+    "p": "/ˈrɛtrəspɛkt/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "retro-"
+  },
+  {
+    "w": "revenue",
+    "m": "수입, 수익",
+    "p": "/ˈrɛvəˌnuː/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "re-"
+  },
+  {
+    "w": "revoke",
+    "m": "취소하다, 철회하다",
+    "p": "/rɪˈvoʊk/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "re-"
+  },
+  {
+    "w": "scribble",
+    "m": "낙서하다, 휘갈겨 쓰다; 낙서",
+    "p": "/ˈskrɪbəl/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "scribe",
+    "m": "서기관, 필경사; (글씨를) 쓰다",
+    "p": "/skraɪb/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "script",
+    "m": "대본, 원고",
+    "p": "/skrɪpt/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "spectacle",
+    "m": "구경거리, 장관; 안경",
+    "p": "/ˈspɛktəkl/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "spectacular",
+    "m": "장관을 이루는, 화려한",
+    "p": "/spɛkˈtækjələr/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "speculate",
+    "m": "추측하다, 짐작하다",
+    "p": "/ˈspɛkjəleɪt/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "subject",
+    "m": "주제, 과목 (밑에 던져진 것)",
+    "p": "/ˈsʌbdʒɪkt/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "e-"
+  },
+  {
+    "w": "submit",
+    "m": "제출하다, 굴복하다 (밑으로 보내다)",
+    "p": "/səbˈmɪt/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "sub-"
+  },
+  {
+    "w": "subscribe",
+    "m": "구독하다 (밑에 서명하다)",
+    "p": "/səbˈskraɪb/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "sub-"
+  },
+  {
+    "w": "subtract",
+    "m": "빼다 (밑으로 끌어내리다)",
+    "p": "/səbˈtrækt/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "sub-"
+  },
+  {
+    "w": "succeed",
+    "m": "성공하다, 뒤를 잇다",
+    "p": "/səkˈsiːd/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "suc-"
+  },
+  {
+    "w": "success",
+    "m": "성공",
+    "p": "/səkˈsɛs/",
+    "root": "ced",
+    "rootForm": "ced-, cess-",
+    "prefix": "suc-"
+  },
+  {
+    "w": "support",
+    "m": "지지하다, 지원(하다) — 밑에서 받쳐 나르다",
+    "p": "/səˈpɔrt/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "sup-"
+  },
+  {
+    "w": "suspect",
+    "m": "의심하다 (밑에서 올려다보다)",
+    "p": "/səˈspɛkt/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "sus-"
+  },
+  {
+    "w": "suspicious",
+    "m": "의심스러운, 수상한",
+    "p": "/səˈspɪʃəs/",
+    "root": "spec",
+    "rootForm": "spec-, spect-, spic-",
+    "prefix": "sus-"
+  },
+  {
+    "w": "symphony",
+    "m": "교향곡 (함께 어우러지는 소리)",
+    "p": "/ˈsɪmfəni/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "sym-"
+  },
+  {
+    "w": "telegram",
+    "m": "전보",
+    "p": "/ˈtɛləˌɡræm/",
+    "root": "graph",
+    "rootForm": "graph-",
+    "prefix": "tele-"
+  },
+  {
+    "w": "telephone",
+    "m": "전화 (먼 곳의 소리)",
+    "p": "/ˈtɛləˌfoʊn/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "tele-"
+  },
+  {
+    "w": "teleport",
+    "m": "순간 이동하다",
+    "p": "/ˈtɛləpɔːrt/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "tele-"
+  },
+  {
+    "w": "theology",
+    "m": "신학",
+    "p": "/θiˈɑːlədʒi/",
+    "root": "log",
+    "rootForm": "log-, -logy",
+    "prefix": "theo-"
+  },
+  {
+    "w": "traction",
+    "m": "견인, 끌기; 접지력, 마찰력",
+    "p": "/ˈtrækʃən/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "tractor",
+    "m": "트랙터 (농기구 등을 끄는 차량)",
+    "p": "/ˈtræktər/",
+    "root": "tract",
+    "rootForm": "tract-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "trajectory",
+    "m": "(발사체 등의) 궤적, 경로",
+    "p": "/ˈtrædʒɪkˌtɔːri/",
+    "root": "ject",
+    "rootForm": "ject-",
+    "prefix": "trans-"
+  },
+  {
+    "w": "transcript",
+    "m": "녹취록, 성적증명서 (옮겨 쓴 것)",
+    "p": "/ˈtrænˌskrɪpt/",
+    "root": "scrib",
+    "rootForm": "scrib-, script-",
+    "prefix": "trans-"
+  },
+  {
+    "w": "transmit",
+    "m": "전송하다, 전달하다",
+    "p": "/trænzˈmɪt/",
+    "root": "mit",
+    "rootForm": "mit-, miss-",
+    "prefix": "trans-"
+  },
+  {
+    "w": "transport",
+    "m": "수송(하다), 운송",
+    "p": "/trænsˈpɔrt/",
+    "root": "port",
+    "rootForm": "port-",
+    "prefix": "trans-"
+  },
+  {
+    "w": "venture",
+    "m": "모험; 모험하다",
+    "p": "/ˈvɛntʃər/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "venue",
+    "m": "(행사) 장소",
+    "p": "/ˈvɛnjuː/",
+    "root": "ven",
+    "rootForm": "ven-, vent-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "verdict",
+    "m": "평결, 판단",
+    "p": "/ˈvɜːrdɪkt/",
+    "root": "dict",
+    "rootForm": "dict-",
+    "prefix": "ver-"
+  },
+  {
+    "w": "vocabulary",
+    "m": "어휘 (불러서 쓰는 말의 모음)",
+    "p": "/voʊˈkæbjəˌlɛri/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "vocal",
+    "m": "목소리의, 큰 소리로 말하는",
+    "p": "/ˈvoʊkəl/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "vocalize",
+    "m": "소리 내다, 발성하다",
+    "p": "/ˈvoʊkəlaɪz/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "vocation",
+    "m": "직업, 천직",
+    "p": "/voʊˈkeɪʃən/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "vouch",
+    "m": "보증하다, 증명하다",
+    "p": "/vaʊtʃ/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "vowel",
+    "m": "모음",
+    "p": "/ˈvaʊəl/",
+    "root": "voc",
+    "rootForm": "voc-, vok-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "xylophone",
+    "m": "실로폰",
+    "p": "/ˈzaɪləˌfoʊn/",
+    "root": "phon",
+    "rootForm": "phon-",
+    "prefix": "xylo-"
+  }
+]

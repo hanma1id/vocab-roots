@@ -1,0 +1,241 @@
+{
+  "id": "duc",
+  "origin": "Latin",
+  "rootForm": "duc-, duct-",
+  "meaning": "이끌다",
+  "cluster": "가다·이동",
+  "story": "라틴어 동사 'ducere'에서 유래했으며, '이끌다, 인도하다'라는 뜻을 가지고 있습니다. 이 어원은 무언가를 안내하거나 방향을 제시하고, 결과를 만들어내는 다양한 영어 단어들에 사용됩니다.",
+  "tree": [
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "duct",
+          "ipa": "/dʌkt/",
+          "pos": "n",
+          "meaning": "도관, 관",
+          "example": "The air conditioning duct was leaking.",
+          "exampleKo": "에어컨 덕트에서 물이 새고 있었다.",
+          "synonyms": [
+            "channel",
+            "tube",
+            "pipe"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "pro-",
+      "prefixMeaning": "앞으로",
+      "words": [
+        {
+          "word": "produce",
+          "ipa": "/prəˈduːs/",
+          "pos": "v",
+          "meaning": "생산하다, 만들어내다",
+          "example": "This factory produces cars.",
+          "exampleKo": "이 공장은 자동차를 생산한다.",
+          "synonyms": [
+            "manufacture",
+            "create"
+          ],
+          "antonyms": [
+            "consume",
+            "destroy"
+          ]
+        },
+        {
+          "word": "product",
+          "ipa": "/ˈprɑːdʌkt/",
+          "pos": "n",
+          "meaning": "생산품, 제품",
+          "example": "This new product will be very popular.",
+          "exampleKo": "이 신제품은 매우 인기가 많을 것이다.",
+          "synonyms": [
+            "item",
+            "goods"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "productive",
+          "ipa": "/prəˈdʌktɪv/",
+          "pos": "adj",
+          "meaning": "생산적인, 다산의",
+          "example": "We had a very productive meeting.",
+          "exampleKo": "우리는 매우 생산적인 회의를 가졌다.",
+          "synonyms": [
+            "fruitful",
+            "efficient"
+          ],
+          "antonyms": [
+            "unproductive",
+            "futile"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "뒤로, 다시",
+      "words": [
+        {
+          "word": "reduce",
+          "ipa": "/rɪˈduːs/",
+          "pos": "v",
+          "meaning": "줄이다, 감소시키다",
+          "example": "We need to reduce our expenses.",
+          "exampleKo": "우리는 지출을 줄여야 한다.",
+          "synonyms": [
+            "decrease",
+            "lessen"
+          ],
+          "antonyms": [
+            "increase",
+            "enlarge"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "conduct",
+          "ipa": "/kənˈdʌkt/",
+          "pos": "v",
+          "meaning": "수행하다, 지휘하다",
+          "example": "She will conduct the orchestra tonight.",
+          "exampleKo": "그녀는 오늘 밤 오케스트라를 지휘할 것이다.",
+          "synonyms": [
+            "perform",
+            "manage",
+            "direct"
+          ],
+          "antonyms": [
+            "mismanage"
+          ]
+        },
+        {
+          "word": "conductor",
+          "ipa": "/kənˈdʌktər/",
+          "pos": "n",
+          "meaning": "지휘자, 전도체",
+          "example": "The conductor raised his baton.",
+          "exampleKo": "지휘자가 지휘봉을 들어 올렸다.",
+          "synonyms": [
+            "director",
+            "leader"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "e-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "educate",
+          "ipa": "/ˈɛdʒuˌkeɪt/",
+          "pos": "v",
+          "meaning": "교육하다, 가르치다",
+          "example": "Parents have a duty to educate their children.",
+          "exampleKo": "부모는 자녀를 교육할 의무가 있다.",
+          "synonyms": [
+            "teach",
+            "instruct"
+          ],
+          "antonyms": [
+            "misguide"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "안으로",
+      "words": [
+        {
+          "word": "induce",
+          "ipa": "/ɪnˈduːs/",
+          "pos": "v",
+          "meaning": "유도하다, 설득하다",
+          "example": "The advertisement induced many people to buy the product.",
+          "exampleKo": "그 광고는 많은 사람들이 제품을 사도록 유도했다.",
+          "synonyms": [
+            "persuade",
+            "cause"
+          ],
+          "antonyms": [
+            "deter",
+            "discourage"
+          ]
+        },
+        {
+          "word": "introduce",
+          "ipa": "/ˌɪntrəˈduːs/",
+          "pos": "v",
+          "meaning": "소개하다, 도입하다",
+          "example": "Let me introduce myself.",
+          "exampleKo": "제 소개를 하겠습니다.",
+          "synonyms": [
+            "present",
+            "initiate"
+          ],
+          "antonyms": [
+            "withdraw",
+            "remove"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "de-",
+      "prefixMeaning": "아래로, 멀리",
+      "words": [
+        {
+          "word": "deduce",
+          "ipa": "/dɪˈduːs/",
+          "pos": "v",
+          "meaning": "추론하다, 연역하다",
+          "example": "We can deduce his intention from his actions.",
+          "exampleKo": "우리는 그의 행동에서 그의 의도를 추론할 수 있다.",
+          "synonyms": [
+            "infer",
+            "conclude"
+          ],
+          "antonyms": [
+            "speculate"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ab-",
+      "prefixMeaning": "떨어져",
+      "words": [
+        {
+          "word": "abduct",
+          "ipa": "/æbˈdʌkt/",
+          "pos": "v",
+          "meaning": "유괴하다, 납치하다",
+          "example": "The child was abducted from the park.",
+          "exampleKo": "그 아이는 공원에서 유괴되었다.",
+          "synonyms": [
+            "kidnap",
+            "seize"
+          ],
+          "antonyms": [
+            "release",
+            "free"
+          ]
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

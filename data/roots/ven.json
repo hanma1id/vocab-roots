@@ -1,0 +1,234 @@
+{
+  "id": "ven",
+  "origin": "Latin",
+  "rootForm": "ven-, vent-",
+  "meaning": "오다",
+  "story": "라틴어 venire('오다')에서 왔다. 이벤트(event)는 '밖으로 나온 일', 어드벤처(adventure)는 '~쪽으로 다가올 일'이라는 뜻에서 출발했다.",
+  "tree": [
+    {
+      "prefix": "pre-",
+      "prefixMeaning": "미리",
+      "words": [
+        {
+          "word": "prevent",
+          "ipa": "/prɪˈvɛnt/",
+          "pos": "v",
+          "meaning": "예방하다, 막다 (미리 와서 막다)",
+          "example": "Washing your hands helps prevent disease.",
+          "exampleKo": "손을 씻으면 질병을 예방하는 데 도움이 된다.",
+          "synonyms": [
+            "stop",
+            "avoid",
+            "hinder"
+          ],
+          "antonyms": [
+            "allow",
+            "permit",
+            "encourage"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "위로, 안으로",
+      "words": [
+        {
+          "word": "invent",
+          "ipa": "/ɪnˈvɛnt/",
+          "pos": "v",
+          "meaning": "발명하다 (위로 떠오르게 하다)",
+          "example": "Edison invented the light bulb.",
+          "exampleKo": "에디슨은 전구를 발명했다.",
+          "synonyms": [
+            "create",
+            "devise"
+          ],
+          "antonyms": [
+            "copy",
+            "imitate"
+          ]
+        },
+        {
+          "word": "invention",
+          "ipa": "/ɪnˈvɛnʃən/",
+          "pos": "n",
+          "meaning": "발명(품)",
+          "example": "The printing press was a great invention.",
+          "exampleKo": "인쇄기는 위대한 발명이었다.",
+          "synonyms": [
+            "creation",
+            "innovation"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "convene",
+          "ipa": "/kənˈviːn/",
+          "pos": "v",
+          "meaning": "소집하다, 모이다 (함께 오다)",
+          "example": "The committee will convene next Monday.",
+          "exampleKo": "위원회는 다음 주 월요일에 모일 것이다.",
+          "synonyms": [
+            "assemble",
+            "gather"
+          ],
+          "antonyms": [
+            "disperse",
+            "dismiss"
+          ]
+        },
+        {
+          "word": "convention",
+          "ipa": "/kənˈvɛnʃən/",
+          "pos": "n",
+          "meaning": "총회, 관습 (함께 모이는 것)",
+          "example": "We attended a science convention in Seoul.",
+          "exampleKo": "우리는 서울에서 열린 과학 총회에 참석했다.",
+          "synonyms": [
+            "assembly",
+            "custom"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "ad-",
+      "prefixMeaning": "~쪽으로",
+      "words": [
+        {
+          "word": "adventure",
+          "ipa": "/ədˈvɛntʃər/",
+          "pos": "n",
+          "meaning": "모험 (다가올 일)",
+          "example": "Their trip turned into a wild adventure.",
+          "exampleKo": "그들의 여행은 거친 모험이 되었다.",
+          "synonyms": [
+            "quest",
+            "exploit"
+          ],
+          "antonyms": [
+            "routine"
+          ]
+        },
+        {
+          "word": "advent",
+          "ipa": "/ˈædvɛnt/",
+          "pos": "n",
+          "meaning": "도래, 출현",
+          "example": "The advent of the internet changed our lives.",
+          "exampleKo": "인터넷의 도래는 우리 삶을 변화시켰다.",
+          "synonyms": [
+            "arrival",
+            "appearance"
+          ],
+          "antonyms": [
+            "departure"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "e-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "event",
+          "ipa": "/ɪˈvɛnt/",
+          "pos": "n",
+          "meaning": "사건, 행사 (밖으로 나온 일)",
+          "example": "The wedding was a beautiful event.",
+          "exampleKo": "그 결혼식은 아름다운 행사였다.",
+          "synonyms": [
+            "occurrence",
+            "happening"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "inter-",
+      "prefixMeaning": "~사이에",
+      "words": [
+        {
+          "word": "intervene",
+          "ipa": "/ˌɪntərˈviːn/",
+          "pos": "v",
+          "meaning": "개입하다, 중재하다",
+          "example": "The teacher had to intervene in the fight.",
+          "exampleKo": "선생님은 싸움에 개입해야 했다.",
+          "synonyms": [
+            "mediate",
+            "interfere"
+          ],
+          "antonyms": [
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "다시, 뒤로",
+      "words": [
+        {
+          "word": "revenue",
+          "ipa": "/ˈrɛvəˌnuː/",
+          "pos": "n",
+          "meaning": "수입, 수익",
+          "example": "The company's revenue increased last year.",
+          "exampleKo": "그 회사의 수익은 작년에 증가했다.",
+          "synonyms": [
+            "income",
+            "earnings"
+          ],
+          "antonyms": [
+            "expenses"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "venue",
+          "ipa": "/ˈvɛnjuː/",
+          "pos": "n",
+          "meaning": "(행사) 장소",
+          "example": "The concert venue was packed with fans.",
+          "exampleKo": "콘서트 장소는 팬들로 가득 찼다.",
+          "synonyms": [
+            "location",
+            "place"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "venture",
+          "ipa": "/ˈvɛntʃər/",
+          "pos": "n, v",
+          "meaning": "모험; 모험하다",
+          "example": "He started a new business venture.",
+          "exampleKo": "그는 새로운 사업 모험을 시작했다.",
+          "synonyms": [
+            "enterprise",
+            "undertaking"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "cluster": "가다·이동",
+  "verified": true
+}

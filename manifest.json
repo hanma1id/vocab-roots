@@ -1,0 +1,26 @@
+{
+  "name": "어원으로 배우는 영어단어",
+  "short_name": "어원단어",
+  "description": "어원 중심으로 영어 단어를 나무처럼 펼쳐 학습하는 PWA",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fdf8ef",
+  "theme_color": "#2f5d50",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

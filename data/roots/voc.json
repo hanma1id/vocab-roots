@@ -1,0 +1,224 @@
+{
+  "id": "voc",
+  "origin": "Latin",
+  "rootForm": "voc-, vok-",
+  "meaning": "부르다, 목소리",
+  "story": "라틴어 vocare('부르다')와 vox('목소리')에서 왔다. 보컬(vocal), 보이스(voice), 보케이션(vocation, 천직 — '부름을 받은 일')이 모두 같은 뿌리다.",
+  "tree": [
+    {
+      "prefix": "in-",
+      "prefixMeaning": "위로, ~에",
+      "words": [
+        {
+          "word": "invoke",
+          "ipa": "/ɪnˈvoʊk/",
+          "pos": "v",
+          "meaning": "기원하다, 발동시키다 (불러내다)",
+          "example": "The lawyer invoked the Fifth Amendment.",
+          "exampleKo": "그 변호사는 수정헌법 5조를 발동시켰다.",
+          "synonyms": [
+            "call upon",
+            "summon"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "ad-",
+      "prefixMeaning": "~쪽으로",
+      "words": [
+        {
+          "word": "advocate",
+          "ipa": "/ˈædvəˌkeɪt/",
+          "pos": "v, n",
+          "meaning": "옹호하다, 지지자",
+          "example": "She advocates for animal rights.",
+          "exampleKo": "그녀는 동물 권리를 옹호한다.",
+          "synonyms": [
+            "support",
+            "champion"
+          ],
+          "antonyms": [
+            "oppose",
+            "critic"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "pro-",
+      "prefixMeaning": "앞으로",
+      "words": [
+        {
+          "word": "provoke",
+          "ipa": "/prəˈvoʊk/",
+          "pos": "v",
+          "meaning": "유발하다, 도발하다 (앞으로 불러내다)",
+          "example": "His rude comment provoked an angry reply.",
+          "exampleKo": "그의 무례한 말이 화난 답변을 유발했다.",
+          "synonyms": [
+            "incite",
+            "trigger"
+          ],
+          "antonyms": [
+            "calm",
+            "soothe"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "e-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "evoke",
+          "ipa": "/ɪˈvoʊk/",
+          "pos": "v",
+          "meaning": "불러일으키다 (밖으로 불러내다)",
+          "example": "The song evoked memories of my childhood.",
+          "exampleKo": "그 노래는 내 어린 시절의 추억을 불러일으켰다.",
+          "synonyms": [
+            "bring out",
+            "elicit"
+          ],
+          "antonyms": [
+            "suppress"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "vocal",
+          "ipa": "/ˈvoʊkəl/",
+          "pos": "adj",
+          "meaning": "목소리의, 큰 소리로 말하는",
+          "example": "She is a vocal supporter of the new policy.",
+          "exampleKo": "그녀는 새 정책의 적극적인 지지자다.",
+          "synonyms": [
+            "outspoken",
+            "expressive"
+          ],
+          "antonyms": [
+            "silent",
+            "reserved"
+          ]
+        },
+        {
+          "word": "vocabulary",
+          "ipa": "/voʊˈkæbjəˌlɛri/",
+          "pos": "n",
+          "meaning": "어휘 (불러서 쓰는 말의 모음)",
+          "example": "Reading books helps expand your vocabulary.",
+          "exampleKo": "책을 읽으면 어휘력이 확장된다.",
+          "synonyms": [
+            "lexicon",
+            "word stock"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "vocation",
+          "ipa": "/voʊˈkeɪʃən/",
+          "pos": "n",
+          "meaning": "직업, 천직",
+          "example": "She found her true vocation in teaching.",
+          "exampleKo": "그녀는 가르치는 일에서 진정한 천직을 찾았다.",
+          "synonyms": [
+            "profession",
+            "calling"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "vowel",
+          "ipa": "/ˈvaʊəl/",
+          "pos": "n",
+          "meaning": "모음",
+          "example": "The English alphabet has five vowels: a, e, i, o, u.",
+          "exampleKo": "영어 알파벳에는 a, e, i, o, u 다섯 개의 모음이 있다.",
+          "synonyms": [],
+          "antonyms": [
+            "consonant"
+          ]
+        },
+        {
+          "word": "vocalize",
+          "ipa": "/ˈvoʊkəlaɪz/",
+          "pos": "v",
+          "meaning": "소리 내다, 발성하다",
+          "example": "Babies vocalize before they can speak words.",
+          "exampleKo": "아기들은 말을 하기 전에 소리를 낸다.",
+          "synonyms": [
+            "articulate",
+            "utter"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "vouch",
+          "ipa": "/vaʊtʃ/",
+          "pos": "v",
+          "meaning": "보증하다, 증명하다",
+          "example": "I can vouch for her honesty.",
+          "exampleKo": "나는 그녀의 정직함을 보증할 수 있다.",
+          "synonyms": [
+            "guarantee",
+            "attest"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "다시, 뒤로",
+      "words": [
+        {
+          "word": "revoke",
+          "ipa": "/rɪˈvoʊk/",
+          "pos": "v",
+          "meaning": "취소하다, 철회하다",
+          "example": "The company decided to revoke the offer.",
+          "exampleKo": "그 회사는 제안을 철회하기로 결정했다.",
+          "synonyms": [
+            "cancel",
+            "withdraw"
+          ],
+          "antonyms": [
+            "enforce",
+            "issue"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "convoke",
+          "ipa": "/kənˈvoʊk/",
+          "pos": "v",
+          "meaning": "소집하다",
+          "example": "The president will convoke a meeting of the cabinet.",
+          "exampleKo": "대통령은 내각 회의를 소집할 것이다.",
+          "synonyms": [
+            "assemble",
+            "summon"
+          ],
+          "antonyms": [
+            "disperse"
+          ]
+        }
+      ]
+    }
+  ],
+  "cluster": "말·언어",
+  "verified": true
+}

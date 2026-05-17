@@ -1,0 +1,162 @@
+{
+  "id": "aster",
+  "origin": "Greek",
+  "rootForm": "aster-, astro-",
+  "meaning": "별",
+  "cluster": "자연·사물",
+  "story": "고대 그리스어 'aster'는 '별'을 의미했습니다. 이 어원은 밤하늘의 천체를 나타내는 많은 단어에 사용되었습니다. 'astro-'는 'aster-'의 변형으로, 역시 '별'과 관련된 단어에 쓰입니다.",
+  "tree": [
+    {
+      "prefix": "aster-",
+      "prefixMeaning": "별",
+      "words": [
+        {
+          "word": "asterisk",
+          "ipa": "/ˈæstərɪsk/",
+          "pos": "n",
+          "meaning": "별표 (*)",
+          "example": "Please put an asterisk next to the important note.",
+          "exampleKo": "중요한 메모 옆에 별표를 표시해 주세요.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "asteroid",
+          "ipa": "/ˈæstərɔɪd/",
+          "pos": "n",
+          "meaning": "소행성",
+          "example": "Scientists study asteroids to learn about the early solar system.",
+          "exampleKo": "과학자들은 초기 태양계를 연구하기 위해 소행성을 연구합니다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "astro-",
+      "prefixMeaning": "별",
+      "words": [
+        {
+          "word": "astronomy",
+          "ipa": "/əˈstrɑːnəmi/",
+          "pos": "n",
+          "meaning": "천문학",
+          "example": "She is studying astronomy at university.",
+          "exampleKo": "그녀는 대학에서 천문학을 공부하고 있습니다.",
+          "synonyms": [
+            "cosmology"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "astrology",
+          "ipa": "/əˈstrɑːlədʒi/",
+          "pos": "n",
+          "meaning": "점성술",
+          "example": "Many people read their horoscopes for astrology.",
+          "exampleKo": "많은 사람들이 점성술을 위해 별자리를 읽습니다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "astronaut",
+          "ipa": "/ˈæstrənɔːt/",
+          "pos": "n",
+          "meaning": "우주비행사",
+          "example": "The astronaut floated in the space station.",
+          "exampleKo": "우주비행사는 우주 정거장에서 떠다녔습니다.",
+          "synonyms": [
+            "cosmonaut"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "astrophysics",
+          "ipa": "/ˌæstroʊˈfɪzɪks/",
+          "pos": "n",
+          "meaning": "천체물리학",
+          "example": "He is interested in astrophysics.",
+          "exampleKo": "그는 천체물리학에 관심이 있습니다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "disaster",
+          "ipa": "/dɪˈzæstər/",
+          "pos": "n",
+          "meaning": "재난, 재앙",
+          "example": "The earthquake caused a terrible disaster.",
+          "exampleKo": "지진은 끔찍한 재난을 일으켰습니다.",
+          "synonyms": [
+            "catastrophe",
+            "calamity"
+          ],
+          "antonyms": [
+            "miracle"
+          ]
+        },
+        {
+          "word": "astronomer",
+          "ipa": "/əˈstrɑnəmər/",
+          "pos": "n",
+          "meaning": "천문학자",
+          "example": "The astronomer pointed the telescope at Saturn.",
+          "exampleKo": "그 천문학자는 망원경을 토성에 맞췄다.",
+          "synonyms": [
+            "stargazer"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "asterism",
+          "ipa": "/ˈæstərɪzəm/",
+          "pos": "n",
+          "meaning": "별자리 (작은)",
+          "example": "The Big Dipper is a well-known asterism.",
+          "exampleKo": "북두칠성은 잘 알려진 별자리입니다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "astral",
+          "ipa": "/ˈæstrəl/",
+          "pos": "adj",
+          "meaning": "별의, 별과 관련된",
+          "example": "He dreamed of astral travel.",
+          "exampleKo": "그는 별 여행을 꿈꿨습니다.",
+          "synonyms": [
+            "stellar"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "astrobiology",
+          "ipa": "/ˌæstroʊbaɪˈɑːlədʒi/",
+          "pos": "n",
+          "meaning": "우주생물학",
+          "example": "Astrobiology explores the possibility of life beyond Earth.",
+          "exampleKo": "우주생물학은 지구 너머의 생명체 존재 가능성을 탐구합니다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "astrometer",
+          "ipa": "/əˈstrɑːmətər/",
+          "pos": "n",
+          "meaning": "항성계 측정기",
+          "example": "The astrometer measured the distance to the stars.",
+          "exampleKo": "항성계 측정기는 별까지의 거리를 측정했습니다.",
+          "synonyms": [],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

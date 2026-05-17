@@ -1,0 +1,243 @@
+{
+  "id": "dict",
+  "origin": "Latin",
+  "rootForm": "dict-",
+  "meaning": "말하다",
+  "story": "라틴어 dicere('말하다')에서 왔다. 사전(dictionary)이 '말이 모인 책'인 이유다. 무언가를 '말로 내보내다'라는 감각이 핵심.",
+  "tree": [
+    {
+      "prefix": "pre-",
+      "prefixMeaning": "미리, 앞서",
+      "words": [
+        {
+          "word": "predict",
+          "ipa": "/prɪˈdɪkt/",
+          "pos": "v",
+          "meaning": "예측하다 (미리 말하다)",
+          "example": "Scientists predict heavy rain this weekend.",
+          "exampleKo": "과학자들은 이번 주말에 폭우가 올 거라 예측한다.",
+          "synonyms": [
+            "forecast",
+            "foresee"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "prediction",
+          "ipa": "/prɪˈdɪkʃən/",
+          "pos": "n",
+          "meaning": "예측, 예언",
+          "example": "Her prediction about the election turned out to be correct.",
+          "exampleKo": "선거에 대한 그녀의 예측은 맞아떨어졌다.",
+          "synonyms": [
+            "forecast",
+            "prophecy"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "contra-",
+      "prefixMeaning": "반대로",
+      "words": [
+        {
+          "word": "contradict",
+          "ipa": "/ˌkɑntrəˈdɪkt/",
+          "pos": "v",
+          "meaning": "반박하다, 모순되다 (반대로 말하다)",
+          "example": "His actions contradict his words.",
+          "exampleKo": "그의 행동은 말과 모순된다.",
+          "synonyms": [
+            "oppose",
+            "deny"
+          ],
+          "antonyms": [
+            "agree",
+            "confirm"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "dictate",
+          "ipa": "/ˈdɪkteɪt/",
+          "pos": "v",
+          "meaning": "받아쓰게 하다, 명령하다",
+          "example": "The boss dictated a letter to his secretary.",
+          "exampleKo": "사장은 비서에게 편지를 받아쓰게 했다.",
+          "synonyms": [
+            "command",
+            "prescribe"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "dictionary",
+          "ipa": "/ˈdɪkʃəˌnɛri/",
+          "pos": "n",
+          "meaning": "사전 (말이 모여 있는 책)",
+          "example": "Look it up in the dictionary if you don't know.",
+          "exampleKo": "모르겠으면 사전에서 찾아봐.",
+          "synonyms": [
+            "lexicon"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "위에, 안에",
+      "words": [
+        {
+          "word": "indicate",
+          "ipa": "/ˈɪndɪˌkeɪt/",
+          "pos": "v",
+          "meaning": "나타내다, 가리키다",
+          "example": "The arrow indicates the direction of the wind.",
+          "exampleKo": "그 화살표는 바람의 방향을 가리킨다.",
+          "synonyms": [
+            "show",
+            "point out",
+            "signal"
+          ],
+          "antonyms": [
+            "hide",
+            "conceal"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "e-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "edict",
+          "ipa": "/ˈiːdɪkt/",
+          "pos": "n",
+          "meaning": "칙령, 포고",
+          "example": "The king issued an edict to lower taxes.",
+          "exampleKo": "왕은 세금을 내리라는 칙령을 내렸다.",
+          "synonyms": [
+            "decree",
+            "order"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "ver-",
+      "prefixMeaning": "진실의",
+      "words": [
+        {
+          "word": "verdict",
+          "ipa": "/ˈvɜːrdɪkt/",
+          "pos": "n",
+          "meaning": "평결, 판단",
+          "example": "The jury delivered a guilty verdict.",
+          "exampleKo": "배심원단은 유죄 평결을 내렸다.",
+          "synonyms": [
+            "judgment",
+            "decision"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "de-",
+      "prefixMeaning": "아래로, 분리하여",
+      "words": [
+        {
+          "word": "dedicate",
+          "ipa": "/ˈdɛdɪkeɪt/",
+          "pos": "v",
+          "meaning": "헌신하다, 바치다",
+          "example": "She dedicated her life to helping others.",
+          "exampleKo": "그녀는 다른 사람들을 돕는 데 평생을 바쳤다.",
+          "synonyms": [
+            "devote",
+            "commit"
+          ],
+          "antonyms": [
+            "neglect"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ad-",
+      "prefixMeaning": "~에, ~을 향해",
+      "words": [
+        {
+          "word": "addict",
+          "ipa": "/əˈdɪkt/",
+          "pos": "v",
+          "meaning": "중독시키다, 빠지게 하다",
+          "example": "He was addicted to video games.",
+          "exampleKo": "그는 비디오 게임에 중독되었다.",
+          "synonyms": [
+            "hook",
+            "enslave"
+          ],
+          "antonyms": [
+            "wean"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "bene-",
+      "prefixMeaning": "좋은",
+      "words": [
+        {
+          "word": "benediction",
+          "ipa": "/ˌbɛnɪˈdɪkʃən/",
+          "pos": "n",
+          "meaning": "축복, 감사 기도",
+          "example": "The priest gave a benediction at the end of the service.",
+          "exampleKo": "사제는 예배 끝에 축복 기도를 했다.",
+          "synonyms": [
+            "blessing",
+            "prayer"
+          ],
+          "antonyms": [
+            "malediction",
+            "curse"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "male-",
+      "prefixMeaning": "나쁜",
+      "words": [
+        {
+          "word": "malediction",
+          "ipa": "/ˌmælɪˈdɪkʃən/",
+          "pos": "n",
+          "meaning": "저주, 악담",
+          "example": "She uttered a malediction against her enemies.",
+          "exampleKo": "그녀는 적들에게 저주를 퍼부었다.",
+          "synonyms": [
+            "curse",
+            "hex"
+          ],
+          "antonyms": [
+            "benediction",
+            "blessing"
+          ]
+        }
+      ]
+    }
+  ],
+  "cluster": "말·언어",
+  "verified": true
+}

@@ -1,0 +1,241 @@
+{
+  "id": "port",
+  "origin": "Latin",
+  "rootForm": "port-",
+  "meaning": "운반하다, 나르다",
+  "story": "라틴어 portare('운반하다')에서 왔다. 항구(port)도 같은 어원이며, '물건을 옮기는 곳'이라는 뜻이 핵심이다.",
+  "tree": [
+    {
+      "prefix": "im-",
+      "prefixMeaning": "안으로 (in-의 변형)",
+      "words": [
+        {
+          "word": "import",
+          "ipa": "/ɪmˈpɔrt/",
+          "pos": "v, n",
+          "meaning": "수입(하다) — 안으로 나르다",
+          "example": "Korea imports most of its oil from the Middle East.",
+          "exampleKo": "한국은 석유 대부분을 중동에서 수입한다.",
+          "synonyms": [
+            "bring in"
+          ],
+          "antonyms": [
+            "export"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ex-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "export",
+          "ipa": "/ɪkˈspɔrt/",
+          "pos": "v, n",
+          "meaning": "수출(하다) — 밖으로 나르다",
+          "example": "This country exports a lot of electronics.",
+          "exampleKo": "이 나라는 전자제품을 많이 수출한다.",
+          "synonyms": [
+            "send out"
+          ],
+          "antonyms": [
+            "import"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "trans-",
+      "prefixMeaning": "가로질러, 너머로",
+      "words": [
+        {
+          "word": "transport",
+          "ipa": "/trænsˈpɔrt/",
+          "pos": "v, n",
+          "meaning": "수송(하다), 운송",
+          "example": "Trucks transport goods across the country.",
+          "exampleKo": "트럭들이 전국으로 물건을 운송한다.",
+          "synonyms": [
+            "convey",
+            "carry",
+            "ship"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "sup-",
+      "prefixMeaning": "밑에서 (sub-의 변형)",
+      "words": [
+        {
+          "word": "support",
+          "ipa": "/səˈpɔrt/",
+          "pos": "v, n",
+          "meaning": "지지하다, 지원(하다) — 밑에서 받쳐 나르다",
+          "example": "My parents have always supported my dreams.",
+          "exampleKo": "부모님은 항상 내 꿈을 지지해 주셨다.",
+          "synonyms": [
+            "back",
+            "help",
+            "sustain"
+          ],
+          "antonyms": [
+            "oppose",
+            "abandon"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "portable",
+          "ipa": "/ˈpɔrtəbl/",
+          "pos": "adj",
+          "meaning": "휴대용의, 들고 다닐 수 있는",
+          "example": "I bought a portable speaker for the camping trip.",
+          "exampleKo": "캠핑 여행을 위해 휴대용 스피커를 샀다.",
+          "synonyms": [
+            "movable",
+            "handheld"
+          ],
+          "antonyms": [
+            "fixed",
+            "stationary"
+          ]
+        },
+        {
+          "word": "porter",
+          "ipa": "/ˈpɔrtər/",
+          "pos": "n",
+          "meaning": "짐꾼, 운반하는 사람",
+          "example": "The porter carried our suitcases to the room.",
+          "exampleKo": "포터가 우리 가방을 방까지 옮겨 주었다.",
+          "synonyms": [
+            "carrier",
+            "bearer"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "portfolio",
+          "ipa": "/pɔːrtˈfoʊli.oʊ/",
+          "pos": "n",
+          "meaning": "서류철, 작품집",
+          "example": "She presented her art portfolio during the interview.",
+          "exampleKo": "그녀는 면접 중에 자신의 미술 작품집을 제시했다.",
+          "synonyms": [
+            "briefcase",
+            "folder",
+            "collection"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "다시, 뒤로",
+      "words": [
+        {
+          "word": "report",
+          "ipa": "/rɪˈpɔːrt/",
+          "pos": "v, n",
+          "meaning": "보고하다; 보고서",
+          "example": "Please report any suspicious activity to the police.",
+          "exampleKo": "의심스러운 활동은 무엇이든 경찰에 보고해주세요.",
+          "synonyms": [
+            "inform",
+            "notify",
+            "account"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "de-",
+      "prefixMeaning": "아래로, 떨어져",
+      "words": [
+        {
+          "word": "deport",
+          "ipa": "/dɪˈpɔːrt/",
+          "pos": "v",
+          "meaning": "(외국인을) 추방하다",
+          "example": "The government decided to deport the illegal immigrants.",
+          "exampleKo": "정부는 불법 이민자들을 추방하기로 결정했다.",
+          "synonyms": [
+            "expel",
+            "banish"
+          ],
+          "antonyms": [
+            "admit"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "com-",
+      "prefixMeaning": "함께",
+      "words": [
+        {
+          "word": "comport",
+          "ipa": "/kəmˈpɔːrt/",
+          "pos": "v",
+          "meaning": "행동하다, 처신하다",
+          "example": "You must comport yourself with dignity at the ceremony.",
+          "exampleKo": "당신은 행사에서 위엄 있게 행동해야 합니다.",
+          "synonyms": [
+            "behave",
+            "conduct"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "pur-",
+      "prefixMeaning": "앞으로",
+      "words": [
+        {
+          "word": "purport",
+          "ipa": "/ˈpɜːrpərt/",
+          "pos": "v, n",
+          "meaning": "~라고 주장하다; 요지, 취지",
+          "example": "The document purports to be a secret treaty.",
+          "exampleKo": "그 문서는 비밀 조약이라고 주장한다.",
+          "synonyms": [
+            "claim",
+            "profess",
+            "gist"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "tele-",
+      "prefixMeaning": "멀리",
+      "words": [
+        {
+          "word": "teleport",
+          "ipa": "/ˈtɛləpɔːrt/",
+          "pos": "v",
+          "meaning": "순간 이동하다",
+          "example": "In science fiction, characters can teleport across vast distances.",
+          "exampleKo": "공상 과학에서 등장인물들은 광대한 거리를 순간 이동할 수 있다.",
+          "synonyms": [
+            "beam"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "cluster": "운반·던지다",
+  "verified": true
+}

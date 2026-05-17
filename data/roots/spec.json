@@ -1,0 +1,243 @@
+{
+  "id": "spec",
+  "origin": "Latin",
+  "rootForm": "spec-, spect-, spic-",
+  "meaning": "보다, 살펴보다",
+  "story": "라틴어 동사 specere('보다')에서 왔다. 영어로 들어오며 spec-, spect-, spic- 세 형태로 갈라졌고, 무언가를 '눈으로 향하다'라는 핵심 뜻이 모든 파생어에 살아 있다.",
+  "tree": [
+    {
+      "prefix": "in-",
+      "prefixMeaning": "안으로",
+      "words": [
+        {
+          "word": "inspect",
+          "ipa": "/ɪnˈspɛkt/",
+          "pos": "v",
+          "meaning": "안을 들여다보다, 점검하다",
+          "example": "The officer inspected the passport carefully.",
+          "exampleKo": "그 경찰관은 여권을 꼼꼼히 검사했다.",
+          "synonyms": [
+            "examine",
+            "check",
+            "scrutinize"
+          ],
+          "antonyms": [
+            "overlook",
+            "ignore"
+          ]
+        },
+        {
+          "word": "inspection",
+          "ipa": "/ɪnˈspɛkʃən/",
+          "pos": "n",
+          "meaning": "점검, 검사",
+          "example": "The bridge passed a safety inspection last week.",
+          "exampleKo": "그 다리는 지난주 안전 점검을 통과했다.",
+          "synonyms": [
+            "examination",
+            "check-up"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "ex-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "expect",
+          "ipa": "/ɪkˈspɛkt/",
+          "pos": "v",
+          "meaning": "기대하다, 예상하다 (밖을 내다보다)",
+          "example": "I expect to hear from her by tomorrow.",
+          "exampleKo": "나는 내일까지 그녀에게서 연락을 받을 거라 기대한다.",
+          "synonyms": [
+            "anticipate",
+            "await"
+          ],
+          "antonyms": [
+            "doubt"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "뒤로, 다시",
+      "words": [
+        {
+          "word": "respect",
+          "ipa": "/rɪˈspɛkt/",
+          "pos": "n, v",
+          "meaning": "존경(하다) — '다시 돌아보다'에서 왔다",
+          "example": "She has earned the respect of her colleagues.",
+          "exampleKo": "그녀는 동료들의 존경을 얻었다.",
+          "synonyms": [
+            "esteem",
+            "admire"
+          ],
+          "antonyms": [
+            "disrespect",
+            "scorn"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "per-",
+      "prefixMeaning": "꿰뚫어, 끝까지",
+      "words": [
+        {
+          "word": "perspective",
+          "ipa": "/pərˈspɛktɪv/",
+          "pos": "n",
+          "meaning": "관점, 시각",
+          "example": "Try to see the issue from a different perspective.",
+          "exampleKo": "그 문제를 다른 관점에서 보려고 해봐.",
+          "synonyms": [
+            "viewpoint",
+            "outlook"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "sus-",
+      "prefixMeaning": "밑에서 (sub-의 변형)",
+      "words": [
+        {
+          "word": "suspect",
+          "ipa": "/səˈspɛkt/",
+          "pos": "v",
+          "meaning": "의심하다 (밑에서 올려다보다)",
+          "example": "I suspect that he is hiding something.",
+          "exampleKo": "나는 그가 무언가를 숨기고 있다고 의심한다.",
+          "synonyms": [
+            "doubt",
+            "distrust"
+          ],
+          "antonyms": [
+            "trust",
+            "believe"
+          ]
+        },
+        {
+          "word": "suspicious",
+          "ipa": "/səˈspɪʃəs/",
+          "pos": "adj",
+          "meaning": "의심스러운, 수상한",
+          "example": "The package looked suspicious, so we called the police.",
+          "exampleKo": "그 소포가 수상해 보여서 우리는 경찰을 불렀다.",
+          "synonyms": [
+            "dubious",
+            "doubtful"
+          ],
+          "antonyms": [
+            "trustworthy",
+            "innocent"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "spectacle",
+          "ipa": "/ˈspɛktəkl/",
+          "pos": "n",
+          "meaning": "구경거리, 장관; 안경",
+          "example": "The fireworks were a magnificent spectacle.",
+          "exampleKo": "불꽃놀이는 웅장한 장관이었다.",
+          "synonyms": [
+            "show",
+            "display",
+            "sight"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "spectacular",
+          "ipa": "/spɛkˈtækjələr/",
+          "pos": "adj",
+          "meaning": "장관을 이루는, 화려한",
+          "example": "The view from the mountain was spectacular.",
+          "exampleKo": "산에서 보는 경치는 장관이었다.",
+          "synonyms": [
+            "impressive",
+            "stunning",
+            "amazing"
+          ],
+          "antonyms": [
+            "ordinary",
+            "unimpressive"
+          ]
+        },
+        {
+          "word": "speculate",
+          "ipa": "/ˈspɛkjəleɪt/",
+          "pos": "v",
+          "meaning": "추측하다, 짐작하다",
+          "example": "He speculated about the future of the company.",
+          "exampleKo": "그는 회사의 미래에 대해 추측했다.",
+          "synonyms": [
+            "guess",
+            "conjecture",
+            "hypothesize"
+          ],
+          "antonyms": [
+            "know",
+            "confirm"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "retro-",
+      "prefixMeaning": "뒤로, 거꾸로",
+      "words": [
+        {
+          "word": "retrospect",
+          "ipa": "/ˈrɛtrəspɛkt/",
+          "pos": "n",
+          "meaning": "회상, 회고",
+          "example": "In retrospect, I should have studied harder.",
+          "exampleKo": "돌이켜보면, 나는 더 열심히 공부했어야 했다.",
+          "synonyms": [
+            "hindsight",
+            "remembrance"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께, 완전히",
+      "words": [
+        {
+          "word": "conspicuous",
+          "ipa": "/kənˈspɪkjuəs/",
+          "pos": "adj",
+          "meaning": "눈에 잘 띄는, 뚜렷한",
+          "example": "He was conspicuous by his bright red suit.",
+          "exampleKo": "그는 밝은 빨간색 양복 때문에 눈에 잘 띄었다.",
+          "synonyms": [
+            "noticeable",
+            "obvious",
+            "prominent"
+          ],
+          "antonyms": [
+            "inconspicuous",
+            "hidden"
+          ]
+        }
+      ]
+    }
+  ],
+  "cluster": "시각",
+  "verified": true
+}

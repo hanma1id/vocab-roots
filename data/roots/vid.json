@@ -1,0 +1,235 @@
+{
+  "id": "vid",
+  "origin": "Latin",
+  "rootForm": "vid-, vis-",
+  "meaning": "보다",
+  "cluster": "시각",
+  "story": "라틴어 동사 videre는 '보다'라는 뜻을 가지고 있습니다. 이 어원은 '보이는 것', '보는 행위' 등 시각과 관련된 다양한 영어 단어를 만듭니다. videre의 과거분사형 visus에서 vis- 형태가 파생되었습니다.",
+  "tree": [
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "vision",
+          "ipa": "/ˈvɪʒən/",
+          "pos": "n",
+          "meaning": "시력, 시야; 통찰력",
+          "example": "She has poor vision at night.",
+          "exampleKo": "그녀는 밤에 시력이 좋지 않다.",
+          "synonyms": [
+            "eyesight",
+            "sight"
+          ],
+          "antonyms": [
+            "blindness"
+          ]
+        },
+        {
+          "word": "visual",
+          "ipa": "/ˈvɪʒuəl/",
+          "pos": "adj",
+          "meaning": "시각의, 눈에 보이는",
+          "example": "The movie had stunning visual effects.",
+          "exampleKo": "그 영화는 놀라운 시각 효과를 가지고 있었다.",
+          "synonyms": [
+            "optic",
+            "optical"
+          ],
+          "antonyms": [
+            "auditory"
+          ]
+        },
+        {
+          "word": "visible",
+          "ipa": "/ˈvɪzəbəl/",
+          "pos": "adj",
+          "meaning": "보이는, 가시적인",
+          "example": "The stars were clearly visible in the dark sky.",
+          "exampleKo": "별들이 어두운 밤하늘에 선명하게 보였다.",
+          "synonyms": [
+            "apparent",
+            "noticeable"
+          ],
+          "antonyms": [
+            "invisible"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "in-",
+      "prefixMeaning": "~이 아닌",
+      "words": [
+        {
+          "word": "invisible",
+          "ipa": "/ɪnˈvɪzəbəl/",
+          "pos": "adj",
+          "meaning": "보이지 않는, 투명한",
+          "example": "The magician made the rabbit invisible.",
+          "exampleKo": "마술사는 토끼를 보이지 않게 만들었다.",
+          "synonyms": [
+            "unseen",
+            "hidden"
+          ],
+          "antonyms": [
+            "visible"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "다시",
+      "words": [
+        {
+          "word": "review",
+          "ipa": "/rɪˈvjuː/",
+          "pos": "v·n",
+          "meaning": "재검토하다, 복습하다; 재검토, 복습",
+          "example": "Let's review the main points before the test.",
+          "exampleKo": "시험 전에 주요 내용을 복습하자.",
+          "synonyms": [
+            "examine",
+            "re-examine"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "revise",
+          "ipa": "/rɪˈvaɪz/",
+          "pos": "v",
+          "meaning": "수정하다, 개정하다",
+          "example": "He had to revise his essay many times.",
+          "exampleKo": "그는 에세이를 여러 번 수정해야 했다.",
+          "synonyms": [
+            "amend",
+            "correct"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "pro-",
+      "prefixMeaning": "앞으로",
+      "words": [
+        {
+          "word": "provide",
+          "ipa": "/prəˈvaɪd/",
+          "pos": "v",
+          "meaning": "제공하다, 공급하다",
+          "example": "The school provides lunch for all students.",
+          "exampleKo": "학교는 모든 학생에게 점심을 제공한다.",
+          "synonyms": [
+            "supply",
+            "offer"
+          ],
+          "antonyms": [
+            "withhold"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "pre-",
+      "prefixMeaning": "미리",
+      "words": [
+        {
+          "word": "preview",
+          "ipa": "/ˈpriːvjuː/",
+          "pos": "v·n",
+          "meaning": "미리 보기; 시사회",
+          "example": "We watched a preview of the new movie.",
+          "exampleKo": "우리는 새 영화의 예고편을 보았다.",
+          "synonyms": [
+            "sneak peek",
+            "trailer"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "super-",
+      "prefixMeaning": "위에",
+      "words": [
+        {
+          "word": "supervise",
+          "ipa": "/ˈsuːpərvaɪz/",
+          "pos": "v",
+          "meaning": "감독하다, 관리하다",
+          "example": "A teacher supervises the students during the exam.",
+          "exampleKo": "선생님이 시험 동안 학생들을 감독한다.",
+          "synonyms": [
+            "oversee",
+            "manage"
+          ],
+          "antonyms": [
+            "neglect"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "en-",
+      "prefixMeaning": "안에, ~하게 하다",
+      "words": [
+        {
+          "word": "envision",
+          "ipa": "/ɪnˈvɪʒən/",
+          "pos": "v",
+          "meaning": "마음속에 그리다, 상상하다",
+          "example": "She envisioned a bright future for herself.",
+          "exampleKo": "그녀는 자신을 위한 밝은 미래를 상상했다.",
+          "synonyms": [
+            "imagine",
+            "picture"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "e-",
+      "prefixMeaning": "밖으로",
+      "words": [
+        {
+          "word": "evidence",
+          "ipa": "/ˈɛvɪdəns/",
+          "pos": "n",
+          "meaning": "증거, 흔적",
+          "example": "The police found strong evidence at the crime scene.",
+          "exampleKo": "경찰은 범죄 현장에서 강력한 증거를 찾았다.",
+          "synonyms": [
+            "proof",
+            "data"
+          ],
+          "antonyms": [
+            "disproof"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "tele-",
+      "prefixMeaning": "멀리",
+      "words": [
+        {
+          "word": "television",
+          "ipa": "/ˈtɛləˌvɪʒən/",
+          "pos": "n",
+          "meaning": "텔레비전, TV",
+          "example": "We watched a movie on television last night.",
+          "exampleKo": "우리는 어젯밤에 텔레비전으로 영화를 보았다.",
+          "synonyms": [
+            "TV",
+            "set"
+          ],
+          "antonyms": []
+        }
+      ]
+    }
+  ],
+  "verified": false
+}

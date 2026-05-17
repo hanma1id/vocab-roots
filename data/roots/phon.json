@@ -1,0 +1,222 @@
+{
+  "id": "phon",
+  "origin": "Greek",
+  "rootForm": "phon-",
+  "meaning": "소리",
+  "story": "그리스어 phone('소리, 목소리')에서 왔다. 전화(telephone)는 '먼 곳의 소리', 교향곡(symphony)은 '함께 어우러지는 소리'다.",
+  "tree": [
+    {
+      "prefix": "tele-",
+      "prefixMeaning": "멀리",
+      "words": [
+        {
+          "word": "telephone",
+          "ipa": "/ˈtɛləˌfoʊn/",
+          "pos": "n",
+          "meaning": "전화 (먼 곳의 소리)",
+          "example": "She picked up the telephone immediately.",
+          "exampleKo": "그녀는 즉시 전화를 받았다.",
+          "synonyms": [
+            "phone"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "sym-",
+      "prefixMeaning": "함께 (syn-의 변형)",
+      "words": [
+        {
+          "word": "symphony",
+          "ipa": "/ˈsɪmfəni/",
+          "pos": "n",
+          "meaning": "교향곡 (함께 어우러지는 소리)",
+          "example": "We listened to a Beethoven symphony.",
+          "exampleKo": "우리는 베토벤 교향곡을 들었다.",
+          "synonyms": [
+            "orchestra piece"
+          ],
+          "antonyms": [
+            "cacophony"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "micro-",
+      "prefixMeaning": "작은",
+      "words": [
+        {
+          "word": "microphone",
+          "ipa": "/ˈmaɪkrəˌfoʊn/",
+          "pos": "n",
+          "meaning": "마이크 (작은 소리도 잡는 기계)",
+          "example": "Speak clearly into the microphone, please.",
+          "exampleKo": "마이크에 또렷이 말해 주세요.",
+          "synonyms": [
+            "mic"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "mega-",
+      "prefixMeaning": "큰",
+      "words": [
+        {
+          "word": "megaphone",
+          "ipa": "/ˈmɛɡəˌfoʊn/",
+          "pos": "n",
+          "meaning": "확성기 (큰 소리를 내는 기계)",
+          "example": "The coach shouted instructions through a megaphone.",
+          "exampleKo": "코치는 확성기로 지시를 외쳤다.",
+          "synonyms": [
+            "loudspeaker",
+            "bullhorn"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "phon- 형태",
+      "words": [
+        {
+          "word": "phonics",
+          "ipa": "/ˈfɑnɪks/",
+          "pos": "n",
+          "meaning": "파닉스, 발음 중심 학습법",
+          "example": "Young children learn to read through phonics.",
+          "exampleKo": "어린아이들은 파닉스를 통해 읽는 법을 배운다.",
+          "synonyms": [
+            "phonetics"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "phonetic",
+          "ipa": "/fəˈnɛtɪk/",
+          "pos": "adj",
+          "meaning": "음성의, 발음의",
+          "example": "The dictionary shows phonetic symbols.",
+          "exampleKo": "사전은 발음 기호를 보여준다.",
+          "synonyms": [
+            "vocal",
+            "spoken"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "phonograph",
+          "ipa": "/ˈfoʊnəˌɡræf/",
+          "pos": "n",
+          "meaning": "축음기",
+          "example": "My grandfather still has an old phonograph.",
+          "exampleKo": "우리 할아버지께서는 아직도 오래된 축음기를 가지고 계신다.",
+          "synonyms": [
+            "record player",
+            "gramophone"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "phoneme",
+          "ipa": "/ˈfoʊniːm/",
+          "pos": "n",
+          "meaning": "음소",
+          "example": "The /p/ sound in 'pat' is a phoneme.",
+          "exampleKo": "'pat'의 /p/ 소리는 음소이다.",
+          "synonyms": [
+            "sound unit"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "homo-",
+      "prefixMeaning": "같은",
+      "words": [
+        {
+          "word": "homophone",
+          "ipa": "/ˈhɒməˌfoʊn/",
+          "pos": "n",
+          "meaning": "동음이의어",
+          "example": "'To,' 'too,' and 'two' are homophones.",
+          "exampleKo": "'To', 'too', 'two'는 동음이의어이다.",
+          "synonyms": [
+            "homonym"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "xylo-",
+      "prefixMeaning": "나무",
+      "words": [
+        {
+          "word": "xylophone",
+          "ipa": "/ˈzaɪləˌfoʊn/",
+          "pos": "n",
+          "meaning": "실로폰",
+          "example": "The child played a simple tune on the xylophone.",
+          "exampleKo": "아이가 실로폰으로 간단한 곡을 연주했다.",
+          "synonyms": [
+            "percussion instrument"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "eu-",
+      "prefixMeaning": "좋은, 잘",
+      "words": [
+        {
+          "word": "euphony",
+          "ipa": "/ˈjuːfəni/",
+          "pos": "n",
+          "meaning": "듣기 좋은 소리, 조화로운 소리",
+          "example": "The poem was praised for its euphony.",
+          "exampleKo": "그 시는 듣기 좋은 소리로 칭찬받았다.",
+          "synonyms": [
+            "harmony",
+            "melody"
+          ],
+          "antonyms": [
+            "cacophony",
+            "dissonance"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "caco-",
+      "prefixMeaning": "나쁜, 불쾌한",
+      "words": [
+        {
+          "word": "cacophony",
+          "ipa": "/kəˈkɒfəni/",
+          "pos": "n",
+          "meaning": "불협화음, 불쾌한 소리",
+          "example": "The old machine made a cacophony of noises.",
+          "exampleKo": "오래된 기계에서 불쾌한 소리들이 났다.",
+          "synonyms": [
+            "discord",
+            "dissonance"
+          ],
+          "antonyms": [
+            "euphony",
+            "harmony"
+          ]
+        }
+      ]
+    }
+  ],
+  "cluster": "청각·소리",
+  "verified": true
+}
