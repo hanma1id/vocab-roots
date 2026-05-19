@@ -34,18 +34,32 @@
     </div>
     <div id="searchResults" class="search-results" hidden></div>
 
-    <!-- 필터 칩 — 한 화면에 모두 -->
+    <!-- 필터 칩 — 학습 수준별로 나누어 한 번에 부담 없이 -->
     <div class="filter-chips" id="filterChips" role="tablist">
-      <button class="chip active" data-filter="all">전체</button>
-      <button class="chip" data-filter="latin">라틴어 어원</button>
-      <button class="chip" data-filter="greek">그리스어 어원</button>
-      <button class="chip" data-filter="prefix">접두어</button>
+      <button class="chip active" data-filter="step1">
+        <span class="chip-step">Step 1</span>
+        <span class="chip-sub">기초</span>
+      </button>
+      <button class="chip" data-filter="step2">
+        <span class="chip-step">Step 2</span>
+        <span class="chip-sub">중급</span>
+      </button>
+      <button class="chip" data-filter="step3">
+        <span class="chip-step">Step 3</span>
+        <span class="chip-sub">고급</span>
+      </button>
+      <button class="chip" data-filter="prefix">
+        <span class="chip-step">접두어</span>
+      </button>
+      <button class="chip" data-filter="all">
+        <span class="chip-step">전체</span>
+      </button>
     </div>
 
     <div id="loading" class="loading">불러오는 중…</div>
 
-    <!-- 결과 영역 — 어원 카드와 접두어 카드를 한 그리드에 -->
-    <div id="cardArea" class="root-grid"></div>
+    <!-- 결과 영역 — 스텝별 섹션 또는 한 그리드 -->
+    <div id="cardArea"></div>
   </main>
 
   <script type="module" src="js/app.js"></script>

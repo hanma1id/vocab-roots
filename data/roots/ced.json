@@ -253,5 +253,6 @@
     }
   ],
   "cluster": "가다·이동",
-  "verified": true
+  "verified": true,
+  "step": 3
 }

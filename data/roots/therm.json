@@ -168,6 +168,24 @@
           ]
         }
       ]
+    },
+    {
+      "prefix": "기본형",
+      "prefixMeaning": "접두어 없이",
+      "words": [
+        {
+          "word": "thermally",
+          "ipa": "/ˈθɜːrməli/",
+          "pos": "adv",
+          "meaning": "열적으로, 열에 의해",
+          "example": "The object was heated thermally.",
+          "exampleKo": "그 물체는 열적으로 가열되었다.",
+          "synonyms": [
+            "heat-wise"
+          ],
+          "antonyms": []
+        }
+      ]
     }
   ],
   "verified": false

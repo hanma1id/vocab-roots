@@ -51,6 +51,7 @@ def rebuild_index() -> list[dict]:
             "rootForm": data["rootForm"],
             "meaning": data["meaning"],
             "cluster": data.get("cluster", ""),
+            "step": data.get("step", 0),   # 0 = 미분류
             "wordCount": word_count,
         })
 

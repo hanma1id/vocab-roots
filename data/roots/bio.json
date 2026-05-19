@@ -57,6 +57,19 @@
             "variety of life"
           ],
           "antonyms": []
+        },
+        {
+          "word": "biotechnology",
+          "ipa": "/ˌbaɪoʊtɛkˈnɑlədʒi/",
+          "pos": "n",
+          "meaning": "생명 공학",
+          "example": "Biotechnology is used to develop new medicines.",
+          "exampleKo": "생명 공학은 새로운 약을 개발하는 데 사용된다.",
+          "synonyms": [
+            "bioengineering",
+            "genetic engineering"
+          ],
+          "antonyms": []
         }
       ]
     },

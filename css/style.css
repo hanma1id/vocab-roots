@@ -768,6 +768,76 @@ a { color: var(--accent); text-decoration: none; }
   color: #fff;
   font-weight: 600;
 }
+.filter-chips .chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+}
+.filter-chips .chip-step { font-weight: 600; }
+.filter-chips .chip-sub {
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+.filter-chips .chip.active .chip-sub { opacity: 0.9; }
+
+/* ---------- 스텝 배너 (한 스텝만 보기 시 상단 헤더) ---------- */
+.step-banner {
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  padding: 14px 18px;
+  margin-bottom: 14px;
+  border-left: 4px solid var(--accent);
+  box-shadow: var(--shadow);
+}
+.step-banner-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.step-banner-desc {
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  margin-top: 2px;
+}
+.step-banner.prefix-banner { border-left-color: var(--accent-soft); }
+
+/* ---------- 전체 보기 — 스텝별 섹션 헤더 ---------- */
+.step-section { margin-bottom: 22px; }
+.step-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--line);
+}
+.step-title { display: flex; align-items: baseline; gap: 8px; }
+.step-label {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.step-sub {
+  font-size: 0.85rem;
+  background: var(--bg-soft);
+  color: var(--accent);
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+.step-desc {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+/* 스텝별 살짝 다른 색 — 시각적 단계감 */
+.step-section.step-1 .step-label,
+.step-section.step-1 .step-sub { color: #2f7d59; }
+.step-section.step-2 .step-label,
+.step-section.step-2 .step-sub { color: #b45c2e; }
+.step-section.step-3 .step-label,
+.step-section.step-3 .step-sub { color: #4a6fa5; }
+.step-section.step-prefix .step-label { color: var(--accent-soft); }
 
 /* ---------- 카드 상단 태그 (어원/접두어 구분) ---------- */
 .root-card { position: relative; }

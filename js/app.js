@@ -30,7 +30,13 @@ let _prefixes = [];
 let _words = [];
 let _glossary = {};         // { word(lowercase): {ipa, meaning} }
 let _related = {};          // { word(lowercase): [{root, word, role}, ...] }
-let _filter = "all";        // "all" | "latin" | "greek" | "prefix"
+let _filter = "step1";      // "step1" | "step2" | "step3" | "prefix" | "all"
+
+const STEP_INFO = {
+  1: { label: "Step 1", sub: "기초",   desc: "익숙한 단어부터 천천히" },
+  2: { label: "Step 2", sub: "중급",   desc: "자주 보지만 추상 의미가 섞임" },
+  3: { label: "Step 3", sub: "고급",   desc: "수능·고급 어휘" },
+};
 
 /* ---------- 렌더링 ---------- */
 function esc(s) {
@@ -76,26 +82,90 @@ function renderPrefixCard(p) {
   `;
 }
 
+function renderStepSection(step, roots) {
+  if (!roots.length) return "";
+  const info = STEP_INFO[step];
+  return `
+    <section class="step-section step-${step}">
+      <header class="step-header">
+        <div class="step-title">
+          <span class="step-label">${info.label}</span>
+          <span class="step-sub">${info.sub}</span>
+        </div>
+        <span class="step-desc">${info.desc}</span>
+      </header>
+      <div class="root-grid">${roots.map(renderRootCard).join("")}</div>
+    </section>
+  `;
+}
+
 function renderGrid() {
-  const cards = [];
-  const showRoots  = _filter === "all" || _filter === "latin" || _filter === "greek";
-  const showPrefix = _filter === "all" || _filter === "prefix";
+  let html = "";
 
-  if (showRoots) {
-    let rs = _roots;
-    if (_filter === "latin") rs = rs.filter(r => r.origin === "Latin");
-    if (_filter === "greek") rs = rs.filter(r => r.origin === "Greek");
-    cards.push(...rs.map(renderRootCard));
-  }
-  if (showPrefix) {
-    cards.push(..._prefixes.map(renderPrefixCard));
+  if (_filter === "step1" || _filter === "step2" || _filter === "step3") {
+    // 한 스텝만 보여주기 — 헤더 없이 카드 그리드
+    const step = parseInt(_filter.slice(4), 10);
+    const rs = _roots.filter(r => (r.step || 0) === step);
+    if (!rs.length) {
+      html = `<div class="empty">이 단계 어원이 아직 없어요</div>`;
+    } else {
+      const info = STEP_INFO[step];
+      html = `
+        <div class="step-banner">
+          <div class="step-banner-title">${info.label} — ${info.sub}</div>
+          <div class="step-banner-desc">${info.desc} · 어원 ${rs.length}개</div>
+        </div>
+        <div class="root-grid">${rs.map(renderRootCard).join("")}</div>
+      `;
+    }
+  } else if (_filter === "prefix") {
+    if (!_prefixes.length) {
+      html = `<div class="empty">접두어가 없어요</div>`;
+    } else {
+      html = `
+        <div class="step-banner prefix-banner">
+          <div class="step-banner-title">접두어</div>
+          <div class="step-banner-desc">같은 접두어를 공유하는 단어들을 한눈에 · ${_prefixes.length}개</div>
+        </div>
+        <div class="root-grid">${_prefixes.map(renderPrefixCard).join("")}</div>
+      `;
+    }
+  } else {
+    // 전체 — 스텝 헤더로 그룹화 + 접두어 별도 섹션
+    const byStep = { 1: [], 2: [], 3: [], 0: [] };
+    for (const r of _roots) {
+      const s = r.step || 0;
+      (byStep[s] || byStep[0]).push(r);
+    }
+    html += renderStepSection(1, byStep[1]);
+    html += renderStepSection(2, byStep[2]);
+    html += renderStepSection(3, byStep[3]);
+    if (byStep[0].length) {
+      html += `
+        <section class="step-section">
+          <header class="step-header">
+            <div class="step-title">
+              <span class="step-label">미분류</span>
+            </div>
+          </header>
+          <div class="root-grid">${byStep[0].map(renderRootCard).join("")}</div>
+        </section>
+      `;
+    }
+    html += `
+      <section class="step-section step-prefix">
+        <header class="step-header">
+          <div class="step-title">
+            <span class="step-label">접두어</span>
+          </div>
+          <span class="step-desc">같은 접두어가 어원을 가로지르며 만드는 의미 패턴</span>
+        </header>
+        <div class="root-grid">${_prefixes.map(renderPrefixCard).join("")}</div>
+      </section>
+    `;
   }
 
-  if (!cards.length) {
-    $cardArea.innerHTML = `<div class="empty">표시할 항목이 없습니다</div>`;
-    return;
-  }
-  $cardArea.innerHTML = cards.join("");
+  $cardArea.innerHTML = html;
 }
 
 /* ---------- 검색 ----------
@@ -170,8 +240,10 @@ function renderSearch(r) {
     $searchResults.hidden = true;
     $searchResults.innerHTML = "";
     $cardArea.hidden = false;
+    $chips.hidden = false;
     return;
   }
+  $chips.hidden = true;
   const html = [];
 
   if (r.words.length) {

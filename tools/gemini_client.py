@@ -279,6 +279,7 @@ def expand_words(
     existing: dict,
     target_total: int,
     cluster: str = "",
+    model: str = DEFAULT_MODEL,
 ) -> dict:
     """이미 있는 어원 데이터에 단어를 추가해 총 target_total개로 늘림.
 
@@ -311,6 +312,7 @@ def expand_words(
         target_words=need,
         exclude_words=have_words,
         extra_note=extra_note,
+        model=model,
     )
 
     # ----- 머지 -----

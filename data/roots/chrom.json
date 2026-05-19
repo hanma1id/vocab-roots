@@ -166,6 +166,43 @@
           "antonyms": []
         }
       ]
+    },
+    {
+      "prefix": "photo-",
+      "prefixMeaning": "빛",
+      "words": [
+        {
+          "word": "photochromic",
+          "ipa": "/ˌfoʊtəʊˈkroʊmɪk/",
+          "pos": "adj",
+          "meaning": "변색성의 (빛에 따라 색이 변하는)",
+          "example": "Photochromic lenses get darker in bright sunlight.",
+          "exampleKo": "변색 렌즈는 강한 햇빛에서 더 어두워진다.",
+          "synonyms": [
+            "light-sensitive",
+            "color-changing"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "pan-",
+      "prefixMeaning": "모든, 전체의",
+      "words": [
+        {
+          "word": "panchromatic",
+          "ipa": "/ˌpænkrəˈmætɪk/",
+          "pos": "adj",
+          "meaning": "전색성의 (모든 색에 감광하는)",
+          "example": "Panchromatic film captures all colors as shades of gray.",
+          "exampleKo": "전색성 필름은 모든 색을 회색조로 포착한다.",
+          "synonyms": [
+            "color-sensitive"
+          ],
+          "antonyms": []
+        }
+      ]
     }
   ],
   "verified": false

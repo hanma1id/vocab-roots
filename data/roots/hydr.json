@@ -107,6 +107,18 @@
           "exampleKo": "수경 재배는 흙 없이 식물을 키울 수 있게 합니다.",
           "synonyms": [],
           "antonyms": []
+        },
+        {
+          "word": "hydrolysis",
+          "ipa": "/haɪˈdrɒləsɪs/",
+          "pos": "n",
+          "meaning": "가수분해",
+          "example": "Hydrolysis breaks down compounds using water.",
+          "exampleKo": "가수분해는 물을 사용하여 화합물을 분해합니다.",
+          "synonyms": [
+            "decomposition"
+          ],
+          "antonyms": []
         }
       ]
     },

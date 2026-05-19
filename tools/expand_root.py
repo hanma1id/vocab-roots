@@ -21,14 +21,14 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from gemini_client import expand_words   # noqa: E402
-from sync_index import sync_all          # noqa: E402
+from gemini_client import expand_words, DEFAULT_MODEL   # noqa: E402
+from sync_index import sync_all                          # noqa: E402
 
 ROOT = Path(__file__).parent.parent
 ROOTS_DIR = ROOT / "data" / "roots"
 
 
-def expand_one(path: Path, target: int) -> bool:
+def expand_one(path: Path, target: int, model: str = DEFAULT_MODEL) -> bool:
     """한 어원 파일을 확장. 이미 충분하면 건너뛰고 False 반환."""
     existing = json.loads(path.read_text(encoding="utf-8"))
     have = sum(len(s.get("words", [])) for s in existing.get("tree", []))
@@ -38,7 +38,7 @@ def expand_one(path: Path, target: int) -> bool:
 
     print(f"  · {existing['id']:8} — {have}개 → {target}개 확장 중…")
     try:
-        new_data = expand_words(existing, target_total=target)
+        new_data = expand_words(existing, target_total=target, model=model)
     except Exception as e:
         print(f"    ✗ 실패 — {e}")
         return False
@@ -59,6 +59,8 @@ def main() -> int:
     p.add_argument("--target", type=int, default=12, help="목표 단어 수")
     p.add_argument("--sleep", type=float, default=1.0,
                    help="요청 사이 대기 (초). API 레이트 회피")
+    p.add_argument("--model", default=DEFAULT_MODEL,
+                   help="Gemini 모델. flash 한도 초과 시 'gemini-2.5-flash-lite'")
     args = p.parse_args()
 
     if not args.all and not args.id:
@@ -76,7 +78,7 @@ def main() -> int:
     print(f"[expand] {len(targets)}개 어원을 단어 {args.target}개로 확장")
     changed = 0
     for i, path in enumerate(targets):
-        if expand_one(path, args.target):
+        if expand_one(path, args.target, model=args.model):
             changed += 1
         if i < len(targets) - 1:
             time.sleep(args.sleep)
