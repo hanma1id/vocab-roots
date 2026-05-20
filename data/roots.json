@@ -1,5 +1,14 @@
 [
   {
+    "id": "aster",
+    "origin": "Greek",
+    "rootForm": "aster-, astro-",
+    "meaning": "별",
+    "cluster": "자연·사물",
+    "step": 2,
+    "wordCount": 12
+  },
+  {
     "id": "aud",
     "origin": "Latin",
     "rootForm": "aud-, audi-",
@@ -7,6 +16,24 @@
     "cluster": "청각·소리",
     "step": 1,
     "wordCount": 14
+  },
+  {
+    "id": "bio",
+    "origin": "Greek",
+    "rootForm": "bio-",
+    "meaning": "생명, 삶",
+    "cluster": "생명·호흡·정신",
+    "step": 1,
+    "wordCount": 12
+  },
+  {
+    "id": "cap",
+    "origin": "Latin",
+    "rootForm": "cap-, cept-, cip-",
+    "meaning": "잡다, 받다",
+    "cluster": "손·잡다·놓다",
+    "step": 2,
+    "wordCount": 13
   },
   {
     "id": "ced",
@@ -45,6 +72,24 @@
     "wordCount": 12
   },
   {
+    "id": "duc",
+    "origin": "Latin",
+    "rootForm": "duc-, duct-",
+    "meaning": "이끌다",
+    "cluster": "가다·이동",
+    "step": 2,
+    "wordCount": 12
+  },
+  {
+    "id": "fer",
+    "origin": "Latin",
+    "rootForm": "fer-",
+    "meaning": "나르다, 가져오다",
+    "cluster": "운반·던지다",
+    "step": 3,
+    "wordCount": 12
+  },
+  {
     "id": "flex",
     "origin": "Latin",
     "rootForm": "flex-, flect-",
@@ -72,6 +117,15 @@
     "wordCount": 12
   },
   {
+    "id": "hydr",
+    "origin": "Greek",
+    "rootForm": "hydr-, hydro-",
+    "meaning": "물",
+    "cluster": "자연·사물",
+    "step": 3,
+    "wordCount": 12
+  },
+  {
     "id": "ject",
     "origin": "Latin",
     "rootForm": "ject-",
@@ -87,6 +141,15 @@
     "meaning": "말, 학문, 논리",
     "cluster": "말·언어",
     "step": 2,
+    "wordCount": 12
+  },
+  {
+    "id": "man",
+    "origin": "Latin",
+    "rootForm": "man-, manu-",
+    "meaning": "손",
+    "cluster": "손·잡다·놓다",
+    "step": 1,
     "wordCount": 12
   },
   {
@@ -150,6 +213,15 @@
     "meaning": "보다, 살펴보다",
     "cluster": "시각",
     "step": 1,
+    "wordCount": 12
+  },
+  {
+    "id": "spir",
+    "origin": "Latin",
+    "rootForm": "spir-, spire",
+    "meaning": "숨쉬다",
+    "cluster": "생명·호흡·정신",
+    "step": 2,
     "wordCount": 12
   },
   {

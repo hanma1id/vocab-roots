@@ -3,14 +3,41 @@
     {
       "id": "re",
       "form": "re-",
-      "meaning": "뒤로, 다시",
+      "meaning": "다시, 뒤로",
       "occurrences": [
+        {
+          "root": "cap",
+          "rootForm": "cap-, cept-, cip-",
+          "rootMeaning": "잡다, 받다",
+          "words": [
+            "receive",
+            "reception"
+          ]
+        },
         {
           "root": "ced",
           "rootForm": "ced-, cess-",
           "rootMeaning": "가다, 양보하다",
           "words": [
             "recede"
+          ]
+        },
+        {
+          "root": "duc",
+          "rootForm": "duc-, duct-",
+          "rootMeaning": "이끌다",
+          "words": [
+            "reduce",
+            "reduction"
+          ]
+        },
+        {
+          "root": "fer",
+          "rootForm": "fer-",
+          "rootMeaning": "나르다, 가져오다",
+          "words": [
+            "refer",
+            "reference"
           ]
         },
         {
@@ -60,6 +87,14 @@
           "rootMeaning": "보다, 살펴보다",
           "words": [
             "respect"
+          ]
+        },
+        {
+          "root": "spir",
+          "rootForm": "spir-, spire",
+          "rootMeaning": "숨쉬다",
+          "words": [
+            "respiration"
           ]
         },
         {
@@ -137,6 +172,22 @@
           ]
         },
         {
+          "root": "duc",
+          "rootForm": "duc-, duct-",
+          "rootMeaning": "이끌다",
+          "words": [
+            "induce"
+          ]
+        },
+        {
+          "root": "fer",
+          "rootForm": "fer-",
+          "rootMeaning": "나르다, 가져오다",
+          "words": [
+            "infer"
+          ]
+        },
+        {
           "root": "flex",
           "rootForm": "flex-, flect-",
           "rootMeaning": "구부리다, 휘다",
@@ -167,6 +218,15 @@
           "words": [
             "inspect",
             "inspection"
+          ]
+        },
+        {
+          "root": "spir",
+          "rootForm": "spir-, spire",
+          "rootMeaning": "숨쉬다",
+          "words": [
+            "inspire",
+            "inspiration"
           ]
         },
         {
@@ -210,11 +270,36 @@
       "meaning": "함께, 완전히",
       "occurrences": [
         {
+          "root": "cap",
+          "rootForm": "cap-, cept-, cip-",
+          "rootMeaning": "잡다, 받다",
+          "words": [
+            "concept"
+          ]
+        },
+        {
           "root": "ced",
           "rootForm": "ced-, cess-",
           "rootMeaning": "가다, 양보하다",
           "words": [
             "concede"
+          ]
+        },
+        {
+          "root": "duc",
+          "rootForm": "duc-, duct-",
+          "rootMeaning": "이끌다",
+          "words": [
+            "conduct",
+            "conductor"
+          ]
+        },
+        {
+          "root": "fer",
+          "rootForm": "fer-",
+          "rootMeaning": "나르다, 가져오다",
+          "words": [
+            "confer"
           ]
         },
         {
@@ -249,6 +334,15 @@
           "rootMeaning": "보다, 살펴보다",
           "words": [
             "conspicuous"
+          ]
+        },
+        {
+          "root": "spir",
+          "rootForm": "spir-, spire",
+          "rootMeaning": "숨쉬다",
+          "words": [
+            "conspire",
+            "conspiracy"
           ]
         },
         {
@@ -294,6 +388,14 @@
       "meaning": "~에서 떨어져, 아래로",
       "occurrences": [
         {
+          "root": "cap",
+          "rootForm": "cap-, cept-, cip-",
+          "rootMeaning": "잡다, 받다",
+          "words": [
+            "deceive"
+          ]
+        },
+        {
           "root": "ced",
           "rootForm": "ced-, cess-",
           "rootMeaning": "가다, 양보하다",
@@ -310,11 +412,28 @@
           ]
         },
         {
+          "root": "duc",
+          "rootForm": "duc-, duct-",
+          "rootMeaning": "이끌다",
+          "words": [
+            "deduce"
+          ]
+        },
+        {
           "root": "flex",
           "rootForm": "flex-, flect-",
           "rootMeaning": "구부리다, 휘다",
           "words": [
             "deflect"
+          ]
+        },
+        {
+          "root": "hydr",
+          "rootForm": "hydr-, hydro-",
+          "rootMeaning": "물",
+          "words": [
+            "dehydrate",
+            "dehydration"
           ]
         },
         {
@@ -371,6 +490,15 @@
           "rootMeaning": "가다, 양보하다",
           "words": [
             "proceed"
+          ]
+        },
+        {
+          "root": "duc",
+          "rootForm": "duc-, duct-",
+          "rootMeaning": "이끌다",
+          "words": [
+            "produce",
+            "product"
           ]
         },
         {
@@ -446,6 +574,15 @@
           ]
         },
         {
+          "root": "duc",
+          "rootForm": "duc-, duct-",
+          "rootMeaning": "이끌다",
+          "words": [
+            "educate",
+            "education"
+          ]
+        },
+        {
           "root": "ject",
           "rootForm": "ject-",
           "rootMeaning": "던지다",
@@ -489,6 +626,71 @@
       ]
     },
     {
+      "id": "ex",
+      "form": "ex-",
+      "meaning": "밖으로, 넘어서",
+      "occurrences": [
+        {
+          "root": "cap",
+          "rootForm": "cap-, cept-, cip-",
+          "rootMeaning": "잡다, 받다",
+          "words": [
+            "except",
+            "exception"
+          ]
+        },
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "exceed"
+          ]
+        },
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "export"
+          ]
+        },
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "expose"
+          ]
+        },
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "expect"
+          ]
+        },
+        {
+          "root": "spir",
+          "rootForm": "spir-, spire",
+          "rootMeaning": "숨쉬다",
+          "words": [
+            "expire",
+            "expiration"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "extract"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pre",
       "form": "pre-",
       "meaning": "미리, ~전에",
@@ -508,6 +710,15 @@
           "words": [
             "predict",
             "prediction"
+          ]
+        },
+        {
+          "root": "fer",
+          "rootForm": "fer-",
+          "rootMeaning": "나르다, 가져오다",
+          "words": [
+            "prefer",
+            "preference"
           ]
         },
         {
@@ -546,53 +757,6 @@
       ]
     },
     {
-      "id": "ex",
-      "form": "ex-",
-      "meaning": "밖으로, 넘어서",
-      "occurrences": [
-        {
-          "root": "ced",
-          "rootForm": "ced-, cess-",
-          "rootMeaning": "가다, 양보하다",
-          "words": [
-            "exceed"
-          ]
-        },
-        {
-          "root": "port",
-          "rootForm": "port-",
-          "rootMeaning": "운반하다, 나르다",
-          "words": [
-            "export"
-          ]
-        },
-        {
-          "root": "pos",
-          "rootForm": "pos-, pon-",
-          "rootMeaning": "놓다, 두다",
-          "words": [
-            "expose"
-          ]
-        },
-        {
-          "root": "spec",
-          "rootForm": "spec-, spect-, spic-",
-          "rootMeaning": "보다, 살펴보다",
-          "words": [
-            "expect"
-          ]
-        },
-        {
-          "root": "tract",
-          "rootForm": "tract-",
-          "rootMeaning": "끌다, 당기다",
-          "words": [
-            "extract"
-          ]
-        }
-      ]
-    },
-    {
       "id": "ad",
       "form": "ad-",
       "meaning": "~에, ~을 향해",
@@ -611,6 +775,15 @@
           "rootMeaning": "보내다",
           "words": [
             "admit"
+          ]
+        },
+        {
+          "root": "spir",
+          "rootForm": "spir-, spire",
+          "rootMeaning": "숨쉬다",
+          "words": [
+            "aspire",
+            "aspiration"
           ]
         },
         {
@@ -635,8 +808,17 @@
     {
       "id": "dis",
       "form": "dis-",
-      "meaning": "반대, 떨어뜨려",
+      "meaning": "어긋난, 흩어진",
       "occurrences": [
+        {
+          "root": "aster",
+          "rootForm": "aster-, astro-",
+          "rootMeaning": "별",
+          "words": [
+            "disaster",
+            "disastrous"
+          ]
+        },
         {
           "root": "aud",
           "rootForm": "aud-, audi-",
@@ -668,6 +850,92 @@
           "rootMeaning": "끌다, 당기다",
           "words": [
             "distract"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trans",
+      "form": "trans-",
+      "meaning": "가로질러, 너머로",
+      "occurrences": [
+        {
+          "root": "fer",
+          "rootForm": "fer-",
+          "rootMeaning": "나르다, 가져오다",
+          "words": [
+            "transfer"
+          ]
+        },
+        {
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
+          "words": [
+            "trajectory"
+          ]
+        },
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "transmit"
+          ]
+        },
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "transport"
+          ]
+        },
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "transcript"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "per",
+      "form": "per-",
+      "meaning": "꿰뚫어, 완전히",
+      "occurrences": [
+        {
+          "root": "cap",
+          "rootForm": "cap-, cept-, cip-",
+          "rootMeaning": "잡다, 받다",
+          "words": [
+            "perceive"
+          ]
+        },
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "permit"
+          ]
+        },
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "perspective"
+          ]
+        },
+        {
+          "root": "spir",
+          "rootForm": "spir-, spire",
+          "rootMeaning": "숨쉬다",
+          "words": [
+            "perspire"
           ]
         }
       ]
@@ -751,40 +1019,32 @@
       ]
     },
     {
-      "id": "trans",
-      "form": "trans-",
-      "meaning": "가로질러, 너머로",
+      "id": "ac",
+      "form": "ac-",
+      "meaning": "~쪽으로 (ad-의 변형)",
       "occurrences": [
         {
-          "root": "ject",
-          "rootForm": "ject-",
-          "rootMeaning": "던지다",
+          "root": "cap",
+          "rootForm": "cap-, cept-, cip-",
+          "rootMeaning": "잡다, 받다",
           "words": [
-            "trajectory"
+            "accept"
           ]
         },
         {
-          "root": "mit",
-          "rootForm": "mit-, miss-",
-          "rootMeaning": "보내다",
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
           "words": [
-            "transmit"
+            "access"
           ]
         },
         {
-          "root": "port",
-          "rootForm": "port-",
-          "rootMeaning": "운반하다, 나르다",
+          "root": "cred",
+          "rootForm": "cred-",
+          "rootMeaning": "믿다",
           "words": [
-            "transport"
-          ]
-        },
-        {
-          "root": "scrib",
-          "rootForm": "scrib-, script-",
-          "rootMeaning": "쓰다",
-          "words": [
-            "transcript"
+            "accredit"
           ]
         }
       ]
@@ -912,29 +1172,6 @@
           "rootMeaning": "잡다, 유지하다",
           "words": [
             "obtain"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ac",
-      "form": "ac-",
-      "meaning": "~쪽으로 (ad-의 변형)",
-      "occurrences": [
-        {
-          "root": "ced",
-          "rootForm": "ced-, cess-",
-          "rootMeaning": "가다, 양보하다",
-          "words": [
-            "access"
-          ]
-        },
-        {
-          "root": "cred",
-          "rootForm": "cred-",
-          "rootMeaning": "믿다",
-          "words": [
-            "accredit"
           ]
         }
       ]
@@ -1079,29 +1316,6 @@
       ]
     },
     {
-      "id": "per",
-      "form": "per-",
-      "meaning": "꿰뚫어, 끝까지",
-      "occurrences": [
-        {
-          "root": "mit",
-          "rootForm": "mit-, miss-",
-          "rootMeaning": "보내다",
-          "words": [
-            "permit"
-          ]
-        },
-        {
-          "root": "spec",
-          "rootForm": "spec-, spect-, spic-",
-          "rootMeaning": "보다, 살펴보다",
-          "words": [
-            "perspective"
-          ]
-        }
-      ]
-    },
-    {
       "id": "photo",
       "form": "photo-",
       "meaning": "빛",
@@ -1195,6 +1409,30 @@
       ]
     },
     {
+      "id": "sym",
+      "form": "sym-",
+      "meaning": "함께 (syn-의 변형)",
+      "occurrences": [
+        {
+          "root": "bio",
+          "rootForm": "bio-",
+          "rootMeaning": "생명, 삶",
+          "words": [
+            "symbiosis",
+            "symbiotic"
+          ]
+        },
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "symphony"
+          ]
+        }
+      ]
+    },
+    {
       "id": "a",
       "form": "a-",
       "meaning": "없는 (부정)",
@@ -1240,6 +1478,51 @@
       ]
     },
     {
+      "id": "an",
+      "form": "an-",
+      "meaning": "없는 (부정)",
+      "occurrences": [
+        {
+          "root": "hydr",
+          "rootForm": "hydr-, hydro-",
+          "rootMeaning": "물",
+          "words": [
+            "anhydrous"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ante",
+      "form": "ante-",
+      "meaning": "미리",
+      "occurrences": [
+        {
+          "root": "cap",
+          "rootForm": "cap-, cept-, cip-",
+          "rootMeaning": "잡다, 받다",
+          "words": [
+            "anticipate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anti",
+      "form": "anti-",
+      "meaning": "맞서서, 대항하여",
+      "occurrences": [
+        {
+          "root": "bio",
+          "rootForm": "bio-",
+          "rootMeaning": "생명, 삶",
+          "words": [
+            "antibiotic"
+          ]
+        }
+      ]
+    },
+    {
       "id": "apo",
       "form": "apo-",
       "meaning": "~로부터 멀리",
@@ -1266,6 +1549,21 @@
           "words": [
             "attract",
             "attractive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "auto",
+      "form": "auto-",
+      "meaning": "스스로",
+      "occurrences": [
+        {
+          "root": "bio",
+          "rootForm": "bio-",
+          "rootMeaning": "생명, 삶",
+          "words": [
+            "autobiography"
           ]
         }
       ]
@@ -1356,6 +1654,23 @@
           "rootMeaning": "말하다",
           "words": [
             "contradict"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dif",
+      "form": "dif-",
+      "meaning": "떨어져 (dis-의 변형)",
+      "occurrences": [
+        {
+          "root": "fer",
+          "rootForm": "fer-",
+          "rootMeaning": "나르다, 가져오다",
+          "words": [
+            "differ",
+            "difference",
+            "different"
           ]
         }
       ]
@@ -1461,6 +1776,22 @@
           "rootMeaning": "열",
           "words": [
             "hypothermia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intro",
+      "form": "intro-",
+      "meaning": "안으로",
+      "occurrences": [
+        {
+          "root": "duc",
+          "rootForm": "duc-, duct-",
+          "rootMeaning": "이끌다",
+          "words": [
+            "introduce",
+            "introduction"
           ]
         }
       ]
@@ -1572,6 +1903,21 @@
       ]
     },
     {
+      "id": "of",
+      "form": "of-",
+      "meaning": "맞은편으로 (ob-의 변형)",
+      "occurrences": [
+        {
+          "root": "fer",
+          "rootForm": "fer-",
+          "rootMeaning": "나르다, 가져오다",
+          "words": [
+            "offer"
+          ]
+        }
+      ]
+    },
+    {
       "id": "omni",
       "form": "omni-",
       "meaning": "모든",
@@ -1627,6 +1973,21 @@
           "rootMeaning": "쓰다, 그리다",
           "words": [
             "paragraph"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parti",
+      "form": "parti-",
+      "meaning": "부분",
+      "occurrences": [
+        {
+          "root": "cap",
+          "rootForm": "cap-, cept-, cip-",
+          "rootMeaning": "잡다, 받다",
+          "words": [
+            "participate"
           ]
         }
       ]
@@ -1693,6 +2054,21 @@
       ]
     },
     {
+      "id": "suf",
+      "form": "suf-",
+      "meaning": "밑에서 (sub-의 변형)",
+      "occurrences": [
+        {
+          "root": "fer",
+          "rootForm": "fer-",
+          "rootMeaning": "나르다, 가져오다",
+          "words": [
+            "suffer"
+          ]
+        }
+      ]
+    },
+    {
       "id": "sup",
       "form": "sup-",
       "meaning": "밑에서 (sub-의 변형)",
@@ -1718,21 +2094,6 @@
           "rootMeaning": "보다",
           "words": [
             "supervise"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sym",
-      "form": "sym-",
-      "meaning": "함께 (syn-의 변형)",
-      "occurrences": [
-        {
-          "root": "phon",
-          "rootForm": "phon-",
-          "rootMeaning": "소리",
-          "words": [
-            "symphony"
           ]
         }
       ]

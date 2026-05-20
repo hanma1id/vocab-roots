@@ -15,6 +15,15 @@
       "word": "maintain"
     }
   ],
+  "abiotic": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biotic"
+    }
+  ],
   "absorb": [
     {
       "prefix": "re-",
@@ -29,6 +38,15 @@
       "root": "mit",
       "rootForm": "mit-, miss-",
       "word": "emit"
+    }
+  ],
+  "abstain": [
+    {
+      "prefix": "parti-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "participate"
     }
   ],
   "absurdity": [
@@ -263,6 +281,13 @@
       "word": "contradict"
     },
     {
+      "prefix": "dif-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "differ"
+    },
+    {
       "prefix": "ob-",
       "role": "antonym",
       "root": "ject",
@@ -327,6 +352,15 @@
       "word": "spectacular"
     }
   ],
+  "ambition": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "aspiration"
+    }
+  ],
   "amend": [
     {
       "prefix": "re-",
@@ -334,6 +368,15 @@
       "root": "vid",
       "rootForm": "vid-, vis-",
       "word": "revise"
+    }
+  ],
+  "anomaly": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "exception"
     }
   ],
   "anticipate": [
@@ -474,6 +517,15 @@
       "word": "mission"
     }
   ],
+  "astronomy": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "astrology"
+    }
+  ],
   "attest": [
     {
       "prefix": "기본형",
@@ -542,6 +594,24 @@
       "root": "graph",
       "rootForm": "graph-",
       "word": "biography"
+    }
+  ],
+  "automatic": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manual"
+    }
+  ],
+  "automatically": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manually"
     }
   ],
   "avoid": [
@@ -628,6 +698,15 @@
       "root": "pos",
       "rootForm": "pos-, pon-",
       "word": "posture"
+    }
+  ],
+  "begin": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "expire"
     }
   ],
   "behave": [
@@ -732,6 +811,13 @@
   ],
   "biography": [
     {
+      "prefix": "auto-",
+      "role": "antonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "autobiography"
+    },
+    {
       "prefix": "bio-",
       "role": "antonym",
       "root": "graph",
@@ -768,6 +854,13 @@
   ],
   "blessing": [
     {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "disaster"
+    },
+    {
       "prefix": "bene-",
       "role": "synonym",
       "root": "dict",
@@ -789,6 +882,33 @@
       "root": "vid",
       "rootForm": "vid-, vis-",
       "word": "vision"
+    }
+  ],
+  "body": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "spirit"
+    }
+  ],
+  "bore": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "captivate"
+    }
+  ],
+  "breathing": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "respiration"
     }
   ],
   "briefcase": [
@@ -827,6 +947,24 @@
       "word": "megaphone"
     }
   ],
+  "but": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "except"
+    }
+  ],
+  "by hand": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manually"
+    }
+  ],
   "cable": [
     {
       "prefix": "tele-",
@@ -850,6 +988,15 @@
       "root": "phon",
       "rootForm": "phon-",
       "word": "euphony"
+    }
+  ],
+  "calamity": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "disaster"
     }
   ],
   "call upon": [
@@ -895,6 +1042,15 @@
       "word": "revoke"
     }
   ],
+  "carb": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "hydr",
+      "rootForm": "hydr-, hydro-",
+      "word": "carbohydrate"
+    }
+  ],
   "careless": [
     {
       "prefix": "con-",
@@ -931,6 +1087,42 @@
       "word": "inscribe"
     }
   ],
+  "catastrophe": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "disaster"
+    }
+  ],
+  "catastrophic": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "disastrous"
+    }
+  ],
+  "catch": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "capture"
+    }
+  ],
+  "cause": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "induce"
+    }
+  ],
   "certainty": [
     {
       "prefix": "con-",
@@ -956,6 +1148,15 @@
       "root": "voc",
       "rootForm": "voc-, vok-",
       "word": "advocate"
+    }
+  ],
+  "charm": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "captivate"
     }
   ],
   "charming": [
@@ -1003,6 +1204,15 @@
       "word": "deject"
     }
   ],
+  "choose": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "prefer"
+    }
+  ],
   "chromatic": [
     {
       "prefix": "a-",
@@ -1010,6 +1220,15 @@
       "root": "chrom",
       "rootForm": "chrom-, chromo-",
       "word": "achromatic"
+    }
+  ],
+  "citation": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "reference"
     }
   ],
   "claim": [
@@ -1039,6 +1258,15 @@
       "word": "prescient"
     }
   ],
+  "clear": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manifest"
+    }
+  ],
   "clerk": [
     {
       "prefix": "기본형",
@@ -1055,6 +1283,15 @@
       "root": "geo",
       "rootForm": "geo-",
       "word": "apogee"
+    }
+  ],
+  "coexistence": [
+    {
+      "prefix": "sym-",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "symbiosis"
     }
   ],
   "collection": [
@@ -1179,6 +1416,24 @@
       "word": "disobey"
     }
   ],
+  "compostable": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biodegradable"
+    }
+  ],
+  "compulsory": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "mandatory"
+    }
+  ],
   "conceal": [
     {
       "prefix": "in-",
@@ -1197,7 +1452,30 @@
       "word": "distract"
     }
   ],
+  "conclude": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "deduce"
+    },
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "infer"
+    }
+  ],
   "conclusion": [
+    {
+      "prefix": "intro-",
+      "role": "antonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "introduction"
+    },
     {
       "prefix": "epi-",
       "role": "synonym",
@@ -1315,6 +1593,31 @@
       "word": "compose"
     }
   ],
+  "consult": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "refer"
+    },
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "confer"
+    }
+  ],
+  "consume": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "produce"
+    }
+  ],
   "continuation": [
     {
       "prefix": "기본형",
@@ -1340,6 +1643,15 @@
       "root": "flex",
       "rootForm": "flex-, flect-",
       "word": "flex"
+    }
+  ],
+  "control": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manipulate"
     }
   ],
   "conversation": [
@@ -1401,6 +1713,15 @@
       "word": "revise"
     }
   ],
+  "cosmonaut": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "astronaut"
+    }
+  ],
   "course": [
     {
       "prefix": "trans-",
@@ -1420,6 +1741,13 @@
     }
   ],
   "create": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "produce"
+    },
     {
       "prefix": "com-",
       "role": "synonym",
@@ -1532,6 +1860,15 @@
       "word": "convention"
     }
   ],
+  "cut": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "reduction"
+    }
+  ],
   "data": [
     {
       "prefix": "e-",
@@ -1577,6 +1914,22 @@
       "word": "verdict"
     }
   ],
+  "decrease": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "reduce"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "reduction"
+    }
+  ],
   "decree": [
     {
       "prefix": "e-",
@@ -1584,6 +1937,15 @@
       "root": "dict",
       "rootForm": "dict-",
       "word": "edict"
+    }
+  ],
+  "deduce": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "infer"
     }
   ],
   "deduct": [
@@ -1627,6 +1989,24 @@
       "root": "aud",
       "rootForm": "aud-, audi-",
       "word": "disobey"
+    }
+  ],
+  "dehydrate": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "hydr",
+      "rootForm": "hydr-, hydro-",
+      "word": "hydrate"
+    }
+  ],
+  "dehydration": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "hydr",
+      "rootForm": "hydr-, hydro-",
+      "word": "hydration"
     }
   ],
   "delay": [
@@ -1731,7 +2111,23 @@
       "word": "etymology"
     }
   ],
+  "desire": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "aspire"
+    }
+  ],
   "destroy": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "produce"
+    },
     {
       "prefix": "com-",
       "role": "antonym",
@@ -1785,6 +2181,33 @@
       "word": "detract"
     }
   ],
+  "directive": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "mandate"
+    }
+  ],
+  "director": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manager"
+    }
+  ],
+  "disagree": [
+    {
+      "prefix": "dif-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "differ"
+    }
+  ],
   "discard": [
     {
       "prefix": "dis-",
@@ -1819,6 +2242,13 @@
       "root": "ject",
       "rootForm": "ject-",
       "word": "deject"
+    },
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "inspire"
     }
   ],
   "discussion": [
@@ -1855,6 +2285,22 @@
       "root": "cred",
       "rootForm": "cred-",
       "word": "discredit"
+    }
+  ],
+  "dislike": [
+    {
+      "prefix": "pre-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "prefer"
+    },
+    {
+      "prefix": "pre-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "preference"
     }
   ],
   "dismantle": [
@@ -1950,6 +2396,24 @@
       "root": "phon",
       "rootForm": "phon-",
       "word": "cacophony"
+    }
+  ],
+  "distinct": [
+    {
+      "prefix": "dif-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "different"
+    }
+  ],
+  "distinction": [
+    {
+      "prefix": "dif-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "difference"
     }
   ],
   "distrust": [
@@ -2070,6 +2534,13 @@
   ],
   "draft": [
     {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manuscript"
+    },
+    {
       "prefix": "con-",
       "role": "synonym",
       "root": "scrib",
@@ -2095,6 +2566,15 @@
       "word": "diagram"
     }
   ],
+  "dream": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "aspiration"
+    }
+  ],
   "drop": [
     {
       "prefix": "sus-",
@@ -2102,6 +2582,24 @@
       "root": "ten",
       "rootForm": "ten-, tain-, tin-",
       "word": "sustain"
+    }
+  ],
+  "dry": [
+    {
+      "prefix": "an-",
+      "role": "synonym",
+      "root": "hydr",
+      "rootForm": "hydr-, hydro-",
+      "word": "anhydrous"
+    }
+  ],
+  "dry out": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "hydr",
+      "rootForm": "hydr-, hydro-",
+      "word": "dehydrate"
     }
   ],
   "dubious": [
@@ -2147,6 +2645,15 @@
       "word": "geophysics"
     }
   ],
+  "ecosystem": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biome"
+    }
+  ],
   "element": [
     {
       "prefix": "com-",
@@ -2183,6 +2690,13 @@
       "word": "deject"
     },
     {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "inspire"
+    },
+    {
       "prefix": "pre-",
       "role": "antonym",
       "root": "ven",
@@ -2197,6 +2711,13 @@
       "root": "ced",
       "rootForm": "ced-, cess-",
       "word": "cessation"
+    },
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "expire"
     }
   ],
   "endorse": [
@@ -2215,6 +2736,15 @@
       "root": "therm",
       "rootForm": "therm-, thermo-",
       "word": "exothermic"
+    }
+  ],
+  "endure": [
+    {
+      "prefix": "suf-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "suffer"
     }
   ],
   "enforce": [
@@ -2251,6 +2781,24 @@
       "word": "detract"
     }
   ],
+  "enjoy": [
+    {
+      "prefix": "suf-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "suffer"
+    }
+  ],
+  "enlighten": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "deceive"
+    }
+  ],
   "enlist": [
     {
       "prefix": "con-",
@@ -2258,6 +2806,15 @@
       "root": "scrib",
       "rootForm": "scrib-, script-",
       "word": "conscript"
+    }
+  ],
+  "enormous": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "astronomical"
     }
   ],
   "enroll": [
@@ -2400,6 +2957,15 @@
       "word": "contain"
     }
   ],
+  "excluding": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "except"
+    }
+  ],
   "exert": [
     {
       "prefix": "re-",
@@ -2425,6 +2991,24 @@
       "root": "therm",
       "rootForm": "therm-, thermo-",
       "word": "endothermic"
+    }
+  ],
+  "expand": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "reduce"
+    }
+  ],
+  "expect": [
+    {
+      "prefix": "ante-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "anticipate"
     }
   ],
   "expedite": [
@@ -2459,6 +3043,24 @@
       "root": "ven",
       "rootForm": "ven-, vent-",
       "word": "revenue"
+    }
+  ],
+  "experience": [
+    {
+      "prefix": "suf-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "suffer"
+    }
+  ],
+  "expiry": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "expiration"
     }
   ],
   "explain": [
@@ -2603,6 +3205,24 @@
       "word": "exceed"
     }
   ],
+  "fascinate": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "captivate"
+    }
+  ],
+  "favor": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "prefer"
+    }
+  ],
   "fire": [
     {
       "prefix": "기본형",
@@ -2655,6 +3275,15 @@
       "word": "precede"
     }
   ],
+  "fool": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "deceive"
+    }
+  ],
   "forbid": [
     {
       "prefix": "per-",
@@ -2681,6 +3310,13 @@
     }
   ],
   "foresee": [
+    {
+      "prefix": "ante-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "anticipate"
+    },
     {
       "prefix": "pre-",
       "role": "synonym",
@@ -2709,11 +3345,34 @@
   ],
   "free": [
     {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "capture"
+    },
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "captive"
+    },
+    {
       "prefix": "de-",
       "role": "antonym",
       "root": "ten",
       "rootForm": "ten-, tain-, tin-",
       "word": "detain"
+    }
+  ],
+  "front desk": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "reception"
     }
   ],
   "gather": [
@@ -2736,6 +3395,13 @@
   ],
   "get": [
     {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "receive"
+    },
+    {
       "prefix": "ob-",
       "role": "synonym",
       "root": "ten",
@@ -2752,6 +3418,22 @@
       "word": "purport"
     }
   ],
+  "give": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "receive"
+    },
+    {
+      "prefix": "of-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "offer"
+    }
+  ],
   "go before": [
     {
       "prefix": "pre-",
@@ -2761,6 +3443,15 @@
       "word": "precede"
     }
   ],
+  "goods": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "product"
+    }
+  ],
   "gramophone": [
     {
       "prefix": "기본형",
@@ -2768,6 +3459,15 @@
       "root": "phon",
       "rootForm": "phon-",
       "word": "phonograph"
+    }
+  ],
+  "grant": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "confer"
     }
   ],
   "graph": [
@@ -2813,6 +3513,15 @@
       "word": "speculate"
     }
   ],
+  "guide": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manual"
+    }
+  ],
   "gullible": [
     {
       "prefix": "기본형",
@@ -2849,6 +3558,15 @@
       "word": "submit"
     }
   ],
+  "handbook": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manual"
+    }
+  ],
   "handheld": [
     {
       "prefix": "기본형",
@@ -2856,6 +3574,22 @@
       "root": "port",
       "rootForm": "port-",
       "word": "portable"
+    }
+  ],
+  "handle": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manage"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manipulate"
     }
   ],
   "happening": [
@@ -2920,6 +3654,13 @@
     }
   ],
   "hidden": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manifest"
+    },
     {
       "prefix": "con-",
       "role": "antonym",
@@ -3041,6 +3782,51 @@
       "word": "abject"
     }
   ],
+  "horoscopy": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "astrology"
+    }
+  ],
+  "huge": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "astronomical"
+    }
+  ],
+  "hydrate": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "hydr",
+      "rootForm": "hydr-, hydro-",
+      "word": "dehydrate"
+    }
+  ],
+  "hydrated": [
+    {
+      "prefix": "an-",
+      "role": "antonym",
+      "root": "hydr",
+      "rootForm": "hydr-, hydro-",
+      "word": "anhydrous"
+    }
+  ],
+  "hydration": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "hydr",
+      "rootForm": "hydr-, hydro-",
+      "word": "dehydration"
+    }
+  ],
   "hyperthermia": [
     {
       "prefix": "hypo-",
@@ -3075,6 +3861,33 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "speculate"
+    }
+  ],
+  "idea": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "concept"
+    }
+  ],
+  "identical": [
+    {
+      "prefix": "dif-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "different"
+    }
+  ],
+  "ignorance": [
+    {
+      "prefix": "e-",
+      "role": "antonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "education"
     }
   ],
   "ignorant": [
@@ -3208,6 +4021,15 @@
       "word": "contain"
     }
   ],
+  "including": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "except"
+    }
+  ],
   "income": [
     {
       "prefix": "re-",
@@ -3224,6 +4046,22 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "conspicuous"
+    }
+  ],
+  "increase": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "reduce"
+    },
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "reduction"
     }
   ],
   "incredible": [
@@ -3260,6 +4098,15 @@
       "root": "ten",
       "rootForm": "ten-, tain-, tin-",
       "word": "abstain"
+    }
+  ],
+  "infer": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "deduce"
     }
   ],
   "inflexible": [
@@ -3364,6 +4211,33 @@
       "word": "reflex"
     }
   ],
+  "instruct": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "educate"
+    }
+  ],
+  "instruction": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "education"
+    }
+  ],
+  "insulator": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "conductor"
+    }
+  ],
   "interfere": [
     {
       "prefix": "inter-",
@@ -3434,6 +4308,24 @@
       "root": "voc",
       "rootForm": "voc-, vok-",
       "word": "revoke"
+    }
+  ],
+  "item": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "product"
+    }
+  ],
+  "join": [
+    {
+      "prefix": "parti-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "participate"
     }
   ],
   "judgment": [
@@ -3540,6 +4432,15 @@
       "word": "tenant"
     }
   ],
+  "lapse": [
+    {
+      "prefix": "ex-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "expire"
+    }
+  ],
   "latent": [
     {
       "prefix": "sub-",
@@ -3547,6 +4448,24 @@
       "root": "sci",
       "rootForm": "sci-",
       "word": "subconscious"
+    }
+  ],
+  "lead": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "conduct"
+    }
+  ],
+  "leader": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "conductor"
     }
   ],
   "leave out": [
@@ -3621,6 +4540,13 @@
   ],
   "life science": [
     {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biology"
+    },
+    {
       "prefix": "bio-",
       "role": "synonym",
       "root": "log",
@@ -3629,6 +4555,13 @@
     }
   ],
   "life story": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biography"
+    },
     {
       "prefix": "bio-",
       "role": "synonym",
@@ -3644,6 +4577,15 @@
       "root": "chrom",
       "rootForm": "chrom-, chromo-",
       "word": "photochromic"
+    }
+  ],
+  "liking": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "preference"
     }
   ],
   "list": [
@@ -3673,6 +4615,22 @@
       "word": "audience"
     }
   ],
+  "living": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biological"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biotic"
+    }
+  ],
   "location": [
     {
       "prefix": "기본형",
@@ -3687,6 +4645,15 @@
       "root": "ven",
       "rootForm": "ven-, vent-",
       "word": "venue"
+    }
+  ],
+  "long for": [
+    {
+      "prefix": "ad-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "aspire"
     }
   ],
   "lose": [
@@ -3723,6 +4690,15 @@
       "word": "megaphone"
     }
   ],
+  "lower": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "reduce"
+    }
+  ],
   "lure": [
     {
       "prefix": "at-",
@@ -3741,6 +4717,22 @@
       "word": "sustain"
     }
   ],
+  "make": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "produce"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manufacture"
+    }
+  ],
   "malediction": [
     {
       "prefix": "bene-",
@@ -3751,6 +4743,13 @@
     }
   ],
   "manage": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "conduct"
+    },
     {
       "prefix": "super-",
       "role": "synonym",
@@ -3768,7 +4767,23 @@
       "word": "intractable"
     }
   ],
+  "match": [
+    {
+      "prefix": "dif-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "differ"
+    }
+  ],
   "material": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "spiritual"
+    },
     {
       "prefix": "con-",
       "role": "synonym",
@@ -3813,6 +4828,20 @@
   ],
   "memoir": [
     {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biography"
+    },
+    {
+      "prefix": "auto-",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "autobiography"
+    },
+    {
       "prefix": "bio-",
       "role": "synonym",
       "root": "graph",
@@ -3825,6 +4854,22 @@
       "root": "graph",
       "rootForm": "graph-",
       "word": "autobiography"
+    }
+  ],
+  "mention": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "refer"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "reference"
     }
   ],
   "message": [
@@ -3845,6 +4890,15 @@
       "word": "microphone"
     }
   ],
+  "mind": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "spirit"
+    }
+  ],
   "mind science": [
     {
       "prefix": "psycho-",
@@ -3852,6 +4906,15 @@
       "root": "log",
       "rootForm": "log-, -logy",
       "word": "psychology"
+    }
+  ],
+  "minor planet": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "asteroid"
     }
   ],
   "mirror": [
@@ -3872,6 +4935,15 @@
       "word": "abject"
     }
   ],
+  "miss": [
+    {
+      "prefix": "per-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "perceive"
+    }
+  ],
   "missile": [
     {
       "prefix": "pro-",
@@ -3888,6 +4960,15 @@
       "root": "flex",
       "rootForm": "flex-, flect-",
       "word": "inflection"
+    }
+  ],
+  "moisten": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "hydr",
+      "rootForm": "hydr-, hydro-",
+      "word": "hydrate"
     }
   ],
   "monochrome": [
@@ -3917,6 +4998,15 @@
       "word": "conscience"
     }
   ],
+  "motivate": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "inspire"
+    }
+  ],
   "movable": [
     {
       "prefix": "기본형",
@@ -3924,6 +5014,22 @@
       "root": "port",
       "rootForm": "port-",
       "word": "portable"
+    }
+  ],
+  "move": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "transfer"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "maneuver"
     }
   ],
   "multicolored": [
@@ -3940,6 +5046,24 @@
       "root": "chrom",
       "rootForm": "chrom-, chromo-",
       "word": "polychrome"
+    }
+  ],
+  "muse": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "inspiration"
+    }
+  ],
+  "mutual": [
+    {
+      "prefix": "sym-",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "symbiotic"
     }
   ],
   "naive": [
@@ -3974,6 +5098,33 @@
       "word": "supervise"
     }
   ],
+  "non-biodegradable": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biodegradable"
+    }
+  ],
+  "norm": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "exception"
+    }
+  ],
+  "notice": [
+    {
+      "prefix": "per-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "perceive"
+    }
+  ],
   "noticeable": [
     {
       "prefix": "con-",
@@ -3997,6 +5148,15 @@
       "root": "port",
       "rootForm": "port-",
       "word": "report"
+    }
+  ],
+  "notion": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "concept"
     }
   ],
   "obedient": [
@@ -4026,7 +5186,32 @@
       "word": "oppose"
     }
   ],
+  "obscure": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manifest"
+    }
+  ],
+  "obtain": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "receive"
+    }
+  ],
   "obvious": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manifest"
+    },
     {
       "prefix": "con-",
       "role": "synonym",
@@ -4078,6 +5263,15 @@
       "word": "interject"
     }
   ],
+  "opening": [
+    {
+      "prefix": "intro-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "introduction"
+    }
+  ],
   "oppose": [
     {
       "prefix": "contra-",
@@ -4126,6 +5320,15 @@
       "word": "visual"
     }
   ],
+  "optional": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "mandatory"
+    }
+  ],
   "orchestra piece": [
     {
       "prefix": "sym-",
@@ -4144,6 +5347,13 @@
       "word": "edict"
     },
     {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "mandate"
+    },
+    {
       "prefix": "pre-",
       "role": "synonym",
       "root": "scrib",
@@ -4158,6 +5368,15 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "spectacular"
+    }
+  ],
+  "organic": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "biological"
     }
   ],
   "outdo": [
@@ -4198,6 +5417,13 @@
   ],
   "overlook": [
     {
+      "prefix": "per-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "perceive"
+    },
+    {
       "prefix": "in-",
       "role": "antonym",
       "root": "spec",
@@ -4221,6 +5447,15 @@
       "root": "scrib",
       "rootForm": "scrib-, script-",
       "word": "postscript"
+    }
+  ],
+  "parasitic": [
+    {
+      "prefix": "sym-",
+      "role": "antonym",
+      "root": "bio",
+      "rootForm": "bio-",
+      "word": "symbiotic"
     }
   ],
   "part": [
@@ -4257,6 +5492,15 @@
       "root": "geo",
       "rootForm": "geo-",
       "word": "apogee"
+    }
+  ],
+  "pedicure": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manicure"
     }
   ],
   "penmanship": [
@@ -4340,6 +5584,15 @@
       "word": "photograph"
     }
   ],
+  "physical": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "spiritual"
+    }
+  ],
   "picture": [
     {
       "prefix": "photo-",
@@ -4415,6 +5668,22 @@
       "word": "promise"
     }
   ],
+  "plot": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "conspire"
+    },
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "conspiracy"
+    }
+  ],
   "point out": [
     {
       "prefix": "in-",
@@ -4471,6 +5740,13 @@
   ],
   "preface": [
     {
+      "prefix": "intro-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "introduction"
+    },
+    {
       "prefix": "pro-",
       "role": "synonym",
       "root": "log",
@@ -4485,6 +5761,15 @@
       "root": "dict",
       "rootForm": "dict-",
       "word": "dictate"
+    }
+  ],
+  "present": [
+    {
+      "prefix": "intro-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "introduce"
     }
   ],
   "preservation": [
@@ -4503,6 +5788,15 @@
       "word": "maintenance"
     }
   ],
+  "prevent": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "induce"
+    }
+  ],
   "print": [
     {
       "prefix": "manu-",
@@ -4510,6 +5804,24 @@
       "root": "scrib",
       "rootForm": "scrib-, script-",
       "word": "manuscript"
+    }
+  ],
+  "prisoner": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "captive"
+    }
+  ],
+  "produce": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manufacture"
     }
   ],
   "profess": [
@@ -4575,6 +5887,15 @@
       "word": "conspicuous"
     }
   ],
+  "prompt": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "induce"
+    }
+  ],
   "proof": [
     {
       "prefix": "e-",
@@ -4600,6 +5921,15 @@
       "root": "sci",
       "rootForm": "sci-",
       "word": "prescient"
+    }
+  ],
+  "propose": [
+    {
+      "prefix": "of-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "offer"
     }
   ],
   "protest": [
@@ -4719,6 +6049,13 @@
   ],
   "receive": [
     {
+      "prefix": "ac-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "accept"
+    },
+    {
       "prefix": "trans-",
       "role": "antonym",
       "root": "mit",
@@ -4782,11 +6119,25 @@
   ],
   "refuse": [
     {
+      "prefix": "ac-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "accept"
+    },
+    {
       "prefix": "con-",
       "role": "antonym",
       "root": "ced",
       "rootForm": "ced-, cess-",
       "word": "concede"
+    },
+    {
+      "prefix": "of-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "offer"
     },
     {
       "prefix": "re-",
@@ -4816,6 +6167,13 @@
   ],
   "reject": [
     {
+      "prefix": "ac-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "accept"
+    },
+    {
       "prefix": "ad-",
       "role": "antonym",
       "root": "mit",
@@ -4838,6 +6196,13 @@
     }
   ],
   "release": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "capture"
+    },
     {
       "prefix": "e-",
       "role": "synonym",
@@ -4867,6 +6232,15 @@
       "root": "cred",
       "rootForm": "cred-",
       "word": "credibility"
+    }
+  ],
+  "religious": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "spiritual"
     }
   ],
   "religious studies": [
@@ -4910,6 +6284,15 @@
       "word": "extract"
     }
   ],
+  "renew": [
+    {
+      "prefix": "ex-",
+      "role": "antonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "expire"
+    }
+  ],
   "renter": [
     {
       "prefix": "기본형",
@@ -4944,6 +6327,15 @@
       "root": "tract",
       "rootForm": "tract-",
       "word": "attractive"
+    }
+  ],
+  "required": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "mandatory"
     }
   ],
   "researcher": [
@@ -5075,6 +6467,33 @@
       "word": "adventure"
     }
   ],
+  "ruinous": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "disastrous"
+    }
+  ],
+  "run": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manage"
+    }
+  ],
+  "same": [
+    {
+      "prefix": "dif-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "different"
+    }
+  ],
   "save": [
     {
       "prefix": "기본형",
@@ -5100,6 +6519,20 @@
       "root": "ject",
       "rootForm": "ject-",
       "word": "project"
+    },
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "conspire"
+    },
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "conspiracy"
     }
   ],
   "scholar": [
@@ -5109,6 +6542,15 @@
       "root": "sci",
       "rootForm": "sci-",
       "word": "scientist"
+    }
+  ],
+  "schooling": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "education"
     }
   ],
   "scorn": [
@@ -5156,7 +6598,23 @@
       "word": "paragraph"
     }
   ],
+  "seize": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "capture"
+    }
+  ],
   "send": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "receive"
+    },
     {
       "prefix": "trans-",
       "role": "synonym",
@@ -5179,6 +6637,15 @@
       "root": "port",
       "rootForm": "port-",
       "word": "export"
+    }
+  ],
+  "sense": [
+    {
+      "prefix": "per-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "perceive"
     }
   ],
   "sensible": [
@@ -5206,6 +6673,15 @@
       "root": "ject",
       "rootForm": "ject-",
       "word": "projectile"
+    }
+  ],
+  "shift": [
+    {
+      "prefix": "trans-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "transfer"
     }
   ],
   "ship": [
@@ -5294,6 +6770,15 @@
       "word": "vocal"
     }
   ],
+  "similarity": [
+    {
+      "prefix": "dif-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "difference"
+    }
+  ],
   "skeptical": [
     {
       "prefix": "기본형",
@@ -5362,6 +6847,24 @@
       "root": "voc",
       "rootForm": "voc-, vok-",
       "word": "provoke"
+    }
+  ],
+  "soul": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "spirit"
+    }
+  ],
+  "soulful": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "spiritual"
     }
   ],
   "sound": [
@@ -5436,6 +6939,24 @@
       "word": "genuflect"
     }
   ],
+  "star": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "asterisk"
+    }
+  ],
+  "stargazer": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "astronomer"
+    }
+  ],
   "start": [
     {
       "prefix": "기본형",
@@ -5452,6 +6973,24 @@
       "root": "port",
       "rootForm": "port-",
       "word": "portable"
+    }
+  ],
+  "stellar": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "astral"
+    }
+  ],
+  "stimulus": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "inspiration"
     }
   ],
   "stop": [
@@ -5547,6 +7086,15 @@
       "word": "content"
     }
   ],
+  "successful": [
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "disastrous"
+    }
+  ],
   "suggest": [
     {
       "prefix": "pro-",
@@ -5570,6 +7118,15 @@
       "root": "voc",
       "rootForm": "voc-, vok-",
       "word": "convoke"
+    }
+  ],
+  "supervisor": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manager"
     }
   ],
   "supply": [
@@ -5640,6 +7197,15 @@
       "word": "support"
     }
   ],
+  "sweat": [
+    {
+      "prefix": "per-",
+      "role": "synonym",
+      "root": "spir",
+      "rootForm": "spir-, spire",
+      "word": "perspire"
+    }
+  ],
   "systematic": [
     {
       "prefix": "기본형",
@@ -5647,6 +7213,24 @@
       "root": "sci",
       "rootForm": "sci-",
       "word": "scientific"
+    }
+  ],
+  "tactic": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "maneuver"
+    }
+  ],
+  "take": [
+    {
+      "prefix": "ac-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "accept"
     }
   ],
   "take away": [
@@ -5658,6 +7242,15 @@
       "word": "subtract"
     }
   ],
+  "take part": [
+    {
+      "prefix": "parti-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "participate"
+    }
+  ],
   "task": [
     {
       "prefix": "기본형",
@@ -5665,6 +7258,24 @@
       "root": "mit",
       "rootForm": "mit-, miss-",
       "word": "mission"
+    }
+  ],
+  "taste": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "preference"
+    }
+  ],
+  "teach": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "duc",
+      "rootForm": "duc-, duct-",
+      "word": "educate"
     }
   ],
   "temperature": [
@@ -5677,6 +7288,13 @@
     }
   ],
   "text": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "manuscript"
+    },
     {
       "prefix": "기본형",
       "role": "synonym",
@@ -5717,6 +7335,15 @@
       "root": "ject",
       "rootForm": "ject-",
       "word": "eject"
+    }
+  ],
+  "tiny": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "aster",
+      "rootForm": "aster-, astro-",
+      "word": "astronomical"
     }
   ],
   "tone": [
@@ -5787,6 +7414,15 @@
       "root": "log",
       "rootForm": "log-, -logy",
       "word": "eulogy"
+    }
+  ],
+  "trick": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "deceive"
     }
   ],
   "trigger": [
@@ -6071,6 +7707,24 @@
       "word": "tenable"
     }
   ],
+  "varied": [
+    {
+      "prefix": "dif-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "different"
+    }
+  ],
+  "vary": [
+    {
+      "prefix": "dif-",
+      "role": "synonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "differ"
+    }
+  ],
   "venture": [
     {
       "prefix": "pro-",
@@ -6134,6 +7788,15 @@
       "word": "phonetic"
     }
   ],
+  "voluntary": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "man",
+      "rootForm": "man-, manu-",
+      "word": "mandatory"
+    }
+  ],
   "volunteer": [
     {
       "prefix": "con-",
@@ -6179,6 +7842,15 @@
       "word": "addict"
     }
   ],
+  "welcome": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "cap",
+      "rootForm": "cap-, cept-, cip-",
+      "word": "reception"
+    }
+  ],
   "withdraw": [
     {
       "prefix": "re-",
@@ -6186,6 +7858,13 @@
       "root": "ced",
       "rootForm": "ced-, cess-",
       "word": "recede"
+    },
+    {
+      "prefix": "of-",
+      "role": "antonym",
+      "root": "fer",
+      "rootForm": "fer-",
+      "word": "offer"
     },
     {
       "prefix": "in-",

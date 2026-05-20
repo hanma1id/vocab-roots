@@ -16,6 +16,14 @@
     "prefix": "abs-"
   },
   {
+    "w": "accept",
+    "m": "받아들이다 (~쪽으로 잡다)",
+    "p": "/əkˈsɛpt/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "ac-"
+  },
+  {
     "w": "access",
     "m": "접근(하다), 이용권",
     "p": "/ˈækˌsɛs/",
@@ -80,6 +88,30 @@
     "prefix": "ad-"
   },
   {
+    "w": "anhydrous",
+    "m": "무수의 (물이 없는)",
+    "p": "/ænˈhaɪdrəs/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "an-"
+  },
+  {
+    "w": "antibiotic",
+    "m": "항생제 (병원체 생명을 막는 약)",
+    "p": "/ˌæntibaɪˈɑːtɪk/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "anti-"
+  },
+  {
+    "w": "anticipate",
+    "m": "예상하다 (미리 잡다)",
+    "p": "/ænˈtɪsɪpeɪt/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "ante-"
+  },
+  {
     "w": "apogee",
     "m": "원지점 (지구에서 가장 멀리 떨어진 점); 정점",
     "p": "/ˈæpədʒiː/",
@@ -94,6 +126,102 @@
     "root": "log",
     "rootForm": "log-, -logy",
     "prefix": "apo-"
+  },
+  {
+    "w": "aspiration",
+    "m": "열망, 포부",
+    "p": "/ˌæspəˈreɪʃən/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
+    "prefix": "ad-"
+  },
+  {
+    "w": "aspire",
+    "m": "열망하다 (~쪽으로 숨을 몰다)",
+    "p": "/əˈspaɪər/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
+    "prefix": "ad-"
+  },
+  {
+    "w": "asterisk",
+    "m": "별표 (*)",
+    "p": "/ˈæstərɪsk/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "asteroid",
+    "m": "소행성 (별 모양)",
+    "p": "/ˈæstərɔɪd/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "astral",
+    "m": "별의, 별과 관련된",
+    "p": "/ˈæstrəl/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "astrologer",
+    "m": "점성가",
+    "p": "/əˈstrɑːlədʒər/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "astrology",
+    "m": "점성술 (별로 운명을 보는 일)",
+    "p": "/əˈstrɑːlədʒi/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "astronaut",
+    "m": "우주비행사 (별 사이를 항해하는 사람)",
+    "p": "/ˈæstrənɔːt/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "astronomer",
+    "m": "천문학자",
+    "p": "/əˈstrɑːnəmər/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "astronomical",
+    "m": "천문학의; 천문학적인 (엄청나게 큰)",
+    "p": "/ˌæstrəˈnɑːmɪkəl/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "astronomy",
+    "m": "천문학 (별의 법칙을 연구)",
+    "p": "/əˈstrɑːnəmi/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "astrophysics",
+    "m": "천체물리학",
+    "p": "/ˌæstroʊˈfɪzɪks/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "기본형"
   },
   {
     "w": "attract",
@@ -186,6 +314,14 @@
   {
     "w": "autobiography",
     "m": "자서전 (스스로 쓴 삶의 이야기)",
+    "p": "/ˌɔːtəbaɪˈɑːɡrəfi/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "auto-"
+  },
+  {
+    "w": "autobiography",
+    "m": "자서전 (스스로 쓴 삶의 이야기)",
     "p": "/ˌɔtəbaɪˈɑɡrəfi/",
     "root": "graph",
     "rootForm": "graph-",
@@ -200,6 +336,22 @@
     "prefix": "bene-"
   },
   {
+    "w": "biodegradable",
+    "m": "생분해성의 (자연이 분해할 수 있는)",
+    "p": "/ˌbaɪoʊdɪˈɡreɪdəbəl/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "biography",
+    "m": "전기, 일대기 (삶을 쓴 글)",
+    "p": "/baɪˈɑːɡrəfi/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "기본형"
+  },
+  {
     "w": "biography",
     "m": "전기, 일대기 (삶을 쓴 것)",
     "p": "/baɪˈɑɡrəfi/",
@@ -208,12 +360,60 @@
     "prefix": "bio-"
   },
   {
+    "w": "biological",
+    "m": "생물학의, 생물의",
+    "p": "/ˌbaɪəˈlɑːdʒɪkəl/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "biologist",
+    "m": "생물학자",
+    "p": "/baɪˈɑːlədʒɪst/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "biology",
+    "m": "생물학 (생명에 대한 학문)",
+    "p": "/baɪˈɑːlədʒi/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "기본형"
+  },
+  {
     "w": "biology",
     "m": "생물학 (생명에 대한 학문)",
     "p": "/baɪˈɑlədʒi/",
     "root": "log",
     "rootForm": "log-, -logy",
     "prefix": "bio-"
+  },
+  {
+    "w": "biome",
+    "m": "생물군계 (사막·열대우림 같은)",
+    "p": "/ˈbaɪoʊm/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "biopsy",
+    "m": "생체 검사 (살아 있는 조직을 떼어 검사)",
+    "p": "/ˈbaɪɑːpsi/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "biotic",
+    "m": "생물의, 살아 있는",
+    "p": "/baɪˈɑːtɪk/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "기본형"
   },
   {
     "w": "cacophony",
@@ -229,6 +429,38 @@
     "p": "/kəˈlɪɡrəfi/",
     "root": "graph",
     "rootForm": "graph-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "captivate",
+    "m": "매혹하다 (마음을 사로잡다)",
+    "p": "/ˈkæptɪveɪt/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "captive",
+    "m": "포로; 사로잡힌",
+    "p": "/ˈkæptɪv/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "capture",
+    "m": "포획하다, 사로잡다",
+    "p": "/ˈkæptʃər/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "carbohydrate",
+    "m": "탄수화물 (탄소+물)",
+    "p": "/ˌkɑːrboʊˈhaɪdreɪt/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
     "prefix": "기본형"
   },
   {
@@ -344,6 +576,38 @@
     "prefix": "con-"
   },
   {
+    "w": "concept",
+    "m": "개념 (함께 잡힌 생각)",
+    "p": "/ˈkɑːnsɛpt/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "con-"
+  },
+  {
+    "w": "conduct",
+    "m": "수행하다, 지휘하다; 행동",
+    "p": "/kənˈdʌkt/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "con-"
+  },
+  {
+    "w": "conductor",
+    "m": "지휘자; 전도체",
+    "p": "/kənˈdʌktər/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "con-"
+  },
+  {
+    "w": "confer",
+    "m": "협의하다; 수여하다 (함께 가져오다)",
+    "p": "/kənˈfɜːr/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "con-"
+  },
+  {
     "w": "conjecture",
     "m": "추측, 추측하다",
     "p": "/kənˈdʒɛktʃər/",
@@ -389,6 +653,22 @@
     "p": "/kənˈspɪkjuəs/",
     "root": "spec",
     "rootForm": "spec-, spect-, spic-",
+    "prefix": "con-"
+  },
+  {
+    "w": "conspiracy",
+    "m": "음모",
+    "p": "/kənˈspɪrəsi/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
+    "prefix": "con-"
+  },
+  {
+    "w": "conspire",
+    "m": "공모하다, 음모를 꾸미다 (함께 숨을 쉬며 모의하다)",
+    "p": "/kənˈspaɪər/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
     "prefix": "con-"
   },
   {
@@ -528,6 +808,14 @@
     "prefix": "de-"
   },
   {
+    "w": "deceive",
+    "m": "속이다 (아래로 잡아채다)",
+    "p": "/dɪˈsiːv/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "de-"
+  },
+  {
     "w": "dedicate",
     "m": "헌신하다, 바치다",
     "p": "/ˈdɛdɪkeɪt/",
@@ -536,11 +824,35 @@
     "prefix": "de-"
   },
   {
+    "w": "deduce",
+    "m": "추론하다 (단서로부터 끌어내다)",
+    "p": "/dɪˈduːs/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "de-"
+  },
+  {
     "w": "deflect",
     "m": "빗나가게 하다, 비껴가다",
     "p": "/dɪˈflɛkt/",
     "root": "flex",
     "rootForm": "flex-, flect-",
+    "prefix": "de-"
+  },
+  {
+    "w": "dehydrate",
+    "m": "탈수시키다 (물을 빼내다)",
+    "p": "/diːˈhaɪdreɪt/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "de-"
+  },
+  {
+    "w": "dehydration",
+    "m": "탈수 (상태)",
+    "p": "/ˌdiːhaɪˈdreɪʃən/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
     "prefix": "de-"
   },
   {
@@ -632,6 +944,46 @@
     "prefix": "기본형"
   },
   {
+    "w": "differ",
+    "m": "다르다 (따로 나르다)",
+    "p": "/ˈdɪfər/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "dif-"
+  },
+  {
+    "w": "difference",
+    "m": "차이",
+    "p": "/ˈdɪfərəns/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "dif-"
+  },
+  {
+    "w": "different",
+    "m": "다른",
+    "p": "/ˈdɪfərənt/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "dif-"
+  },
+  {
+    "w": "disaster",
+    "m": "재난 (별의 배치가 어긋난 상태)",
+    "p": "/dɪˈzæstər/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "dis-"
+  },
+  {
+    "w": "disastrous",
+    "m": "참담한, 처참한",
+    "p": "/dɪˈzæstrəs/",
+    "root": "aster",
+    "rootForm": "aster-, astro-",
+    "prefix": "dis-"
+  },
+  {
     "w": "discredit",
     "m": "신용을 떨어뜨리다; 불명예",
     "p": "/dɪsˈkrɛdɪt/",
@@ -685,6 +1037,22 @@
     "p": "/ˈiːdɪkt/",
     "root": "dict",
     "rootForm": "dict-",
+    "prefix": "e-"
+  },
+  {
+    "w": "educate",
+    "m": "교육하다 (잠재력을 밖으로 이끌어내다)",
+    "p": "/ˈɛdʒəkeɪt/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "e-"
+  },
+  {
+    "w": "education",
+    "m": "교육",
+    "p": "/ˌɛdʒəˈkeɪʃən/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
     "prefix": "e-"
   },
   {
@@ -792,6 +1160,22 @@
     "prefix": "ex-"
   },
   {
+    "w": "except",
+    "m": "~을 제외하고 (밖으로 빼다)",
+    "p": "/ɪkˈsɛpt/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "ex-"
+  },
+  {
+    "w": "exception",
+    "m": "예외",
+    "p": "/ɪkˈsɛpʃən/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "ex-"
+  },
+  {
     "w": "exothermic",
     "m": "발열성의 (열을 밖으로 내보내는)",
     "p": "/ˌɛksoʊˈθɜːrmɪk/",
@@ -805,6 +1189,22 @@
     "p": "/ɪkˈspɛkt/",
     "root": "spec",
     "rootForm": "spec-, spect-, spic-",
+    "prefix": "ex-"
+  },
+  {
+    "w": "expiration",
+    "m": "만료, 유통기한",
+    "p": "/ˌɛkspəˈreɪʃən/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
+    "prefix": "ex-"
+  },
+  {
+    "w": "expire",
+    "m": "만료되다 (숨이 다 빠지다)",
+    "p": "/ɪkˈspaɪər/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
     "prefix": "ex-"
   },
   {
@@ -1008,6 +1408,70 @@
     "prefix": "homo-"
   },
   {
+    "w": "hydrant",
+    "m": "소화전 (물을 공급하는 장치)",
+    "p": "/ˈhaɪdrənt/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "hydrate",
+    "m": "수분을 공급하다; 수화물",
+    "p": "/ˈhaɪdreɪt/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "hydration",
+    "m": "수분 공급, 수화",
+    "p": "/haɪˈdreɪʃən/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "hydraulic",
+    "m": "수압의, 유압의",
+    "p": "/haɪˈdrɔːlɪk/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "hydroelectric",
+    "m": "수력 발전의",
+    "p": "/ˌhaɪdroʊɪˈlɛktrɪk/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "hydrogen",
+    "m": "수소 (물을 만드는 원소)",
+    "p": "/ˈhaɪdrədʒən/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "hydrology",
+    "m": "수문학 (물의 흐름을 연구)",
+    "p": "/haɪˈdrɑːlədʒi/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "hydroponic",
+    "m": "수경 재배의 (흙 없이 물로 키우는)",
+    "p": "/ˌhaɪdrəˈpɑːnɪk/",
+    "root": "hydr",
+    "rootForm": "hydr-, hydro-",
+    "prefix": "기본형"
+  },
+  {
     "w": "hyperthermia",
     "m": "고체온증",
     "p": "/ˌhaɪpərˈθɜːrmiə/",
@@ -1072,6 +1536,22 @@
     "prefix": "in-"
   },
   {
+    "w": "induce",
+    "m": "유도하다, 일으키다",
+    "p": "/ɪnˈduːs/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "in-"
+  },
+  {
+    "w": "infer",
+    "m": "추론하다 (단서를 안으로 가져가다)",
+    "p": "/ɪnˈfɜːr/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "in-"
+  },
+  {
     "w": "inflection",
     "m": "어형변화, 억양",
     "p": "/ɪnˈflɛkʃən/",
@@ -1112,6 +1592,22 @@
     "prefix": "in-"
   },
   {
+    "w": "inspiration",
+    "m": "영감",
+    "p": "/ˌɪnspəˈreɪʃən/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
+    "prefix": "in-"
+  },
+  {
+    "w": "inspire",
+    "m": "영감을 주다, 고무하다 (안에 숨을 불어넣다)",
+    "p": "/ɪnˈspaɪər/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
+    "prefix": "in-"
+  },
+  {
     "w": "intercede",
     "m": "중재하다, 탄원하다",
     "p": "/ˌɪntərˈsiːd/",
@@ -1142,6 +1638,22 @@
     "root": "tract",
     "rootForm": "tract-",
     "prefix": "in-"
+  },
+  {
+    "w": "introduce",
+    "m": "소개하다 (안으로 이끌어 들이다)",
+    "p": "/ˌɪntrəˈduːs/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "intro-"
+  },
+  {
+    "w": "introduction",
+    "m": "소개, 도입부",
+    "p": "/ˌɪntrəˈdʌkʃən/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "intro-"
   },
   {
     "w": "invent",
@@ -1206,6 +1718,102 @@
     "root": "dict",
     "rootForm": "dict-",
     "prefix": "male-"
+  },
+  {
+    "w": "manage",
+    "m": "관리하다, 해내다 (원래 말을 손으로 다루다)",
+    "p": "/ˈmænɪdʒ/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "manager",
+    "m": "관리자, 매니저",
+    "p": "/ˈmænɪdʒər/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "mandate",
+    "m": "위임, 명령 (손에 맡기다)",
+    "p": "/ˈmændeɪt/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "mandatory",
+    "m": "의무적인, 필수의",
+    "p": "/ˈmændətɔːri/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "maneuver",
+    "m": "기동, 작전; 능숙하게 움직이다",
+    "p": "/məˈnuːvər/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "manicure",
+    "m": "매니큐어, 손톱 관리",
+    "p": "/ˈmænɪkjʊr/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "manifest",
+    "m": "명백한; 드러내다 (손으로 잡힐 만큼 분명한)",
+    "p": "/ˈmænɪfɛst/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "manipulate",
+    "m": "조종하다, 능숙하게 다루다",
+    "p": "/məˈnɪpjəleɪt/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "manual",
+    "m": "손으로 하는, 수동의; 설명서",
+    "p": "/ˈmænjuəl/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "manually",
+    "m": "수동으로, 손으로",
+    "p": "/ˈmænjuəli/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "manufacture",
+    "m": "제조하다, 만들다 (원래 '손으로 만들다')",
+    "p": "/ˌmænjəˈfæktʃər/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "manuscript",
+    "m": "원고, 필사본 (손으로 쓴 글)",
+    "p": "/ˈmænjəskrɪpt/",
+    "root": "man",
+    "rootForm": "man-, manu-",
+    "prefix": "기본형"
   },
   {
     "w": "manuscript",
@@ -1320,6 +1928,14 @@
     "prefix": "ob-"
   },
   {
+    "w": "offer",
+    "m": "제공하다, 제안하다 (앞에 가져다 놓다)",
+    "p": "/ˈɔːfər/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "of-"
+  },
+  {
     "w": "omit",
     "m": "생략하다, 빠뜨리다 (보내 버리다)",
     "p": "/oʊˈmɪt/",
@@ -1360,6 +1976,22 @@
     "prefix": "para-"
   },
   {
+    "w": "participate",
+    "m": "참여하다 (부분을 잡다)",
+    "p": "/pɑːrˈtɪsɪpeɪt/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "parti-"
+  },
+  {
+    "w": "perceive",
+    "m": "인지하다, 알아차리다 (꿰뚫어 잡다)",
+    "p": "/pərˈsiːv/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "per-"
+  },
+  {
     "w": "permit",
     "m": "허락하다, 허용하다",
     "p": "/pərˈmɪt/",
@@ -1373,6 +2005,14 @@
     "p": "/pərˈspɛktɪv/",
     "root": "spec",
     "rootForm": "spec-, spect-, spic-",
+    "prefix": "per-"
+  },
+  {
+    "w": "perspire",
+    "m": "땀을 흘리다 (몸을 통해 숨이 나오다)",
+    "p": "/pərˈspaɪər/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
     "prefix": "per-"
   },
   {
@@ -1512,6 +2152,22 @@
     "prefix": "pre-"
   },
   {
+    "w": "prefer",
+    "m": "선호하다 (앞에 가져가다)",
+    "p": "/prɪˈfɜːr/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "pre-"
+  },
+  {
+    "w": "preference",
+    "m": "선호, 취향",
+    "p": "/ˈprɛfərəns/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "pre-"
+  },
+  {
     "w": "prescience",
     "m": "선견지명, 예지",
     "p": "/ˈprɛʃiəns/",
@@ -1557,6 +2213,22 @@
     "p": "/prəˈsiːd/",
     "root": "ced",
     "rootForm": "ced-, cess-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "produce",
+    "m": "생산하다 (앞으로 이끌어내다)",
+    "p": "/prəˈduːs/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "product",
+    "m": "제품, 생산물",
+    "p": "/ˈprɑːdʌkt/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
     "prefix": "pro-"
   },
   {
@@ -1648,6 +2320,54 @@
     "prefix": "re-"
   },
   {
+    "w": "receive",
+    "m": "받다 (되돌려 잡다)",
+    "p": "/rɪˈsiːv/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "re-"
+  },
+  {
+    "w": "reception",
+    "m": "환영, 접수처; 수신 상태",
+    "p": "/rɪˈsɛpʃən/",
+    "root": "cap",
+    "rootForm": "cap-, cept-, cip-",
+    "prefix": "re-"
+  },
+  {
+    "w": "reduce",
+    "m": "줄이다 (뒤로 이끌다)",
+    "p": "/rɪˈduːs/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "re-"
+  },
+  {
+    "w": "reduction",
+    "m": "감소, 축소",
+    "p": "/rɪˈdʌkʃən/",
+    "root": "duc",
+    "rootForm": "duc-, duct-",
+    "prefix": "re-"
+  },
+  {
+    "w": "refer",
+    "m": "언급하다, 참조하다 (다시 가져가다)",
+    "p": "/rɪˈfɜːr/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "re-"
+  },
+  {
+    "w": "reference",
+    "m": "참조, 언급; 추천서",
+    "p": "/ˈrɛfərəns/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "re-"
+  },
+  {
     "w": "reflect",
     "m": "반사하다, 숙고하다 (뒤로 구부려 보내다)",
     "p": "/rɪˈflɛkt/",
@@ -1709,6 +2429,14 @@
     "p": "/rɪˈspɛkt/",
     "root": "spec",
     "rootForm": "spec-, spect-, spic-",
+    "prefix": "re-"
+  },
+  {
+    "w": "respiration",
+    "m": "호흡 (숨을 다시 쉬는 일)",
+    "p": "/ˌrɛspəˈreɪʃən/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
     "prefix": "re-"
   },
   {
@@ -1856,6 +2584,22 @@
     "prefix": "기본형"
   },
   {
+    "w": "spirit",
+    "m": "정신, 영혼; 의지",
+    "p": "/ˈspɪrɪt/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
+    "prefix": "기본형"
+  },
+  {
+    "w": "spiritual",
+    "m": "영적인, 정신의",
+    "p": "/ˈspɪrɪtʃuəl/",
+    "root": "spir",
+    "rootForm": "spir-, spire",
+    "prefix": "기본형"
+  },
+  {
     "w": "subconscious",
     "m": "잠재의식의",
     "p": "/ˌsʌbˈkɑːnʃəs/",
@@ -1912,6 +2656,14 @@
     "prefix": "suc-"
   },
   {
+    "w": "suffer",
+    "m": "고통받다, 겪다 (밑에서 짊어지다)",
+    "p": "/ˈsʌfər/",
+    "root": "fer",
+    "rootForm": "fer-",
+    "prefix": "suf-"
+  },
+  {
     "w": "supervise",
     "m": "감독하다, 관리하다",
     "p": "/ˈsuːpərvaɪz/",
@@ -1950,6 +2702,22 @@
     "root": "ten",
     "rootForm": "ten-, tain-, tin-",
     "prefix": "sus-"
+  },
+  {
+    "w": "symbiosis",
+    "m": "공생 (서로 도우며 사는 것)",
+    "p": "/ˌsɪmbiˈoʊsɪs/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "sym-"
+  },
+  {
+    "w": "symbiotic",
+    "m": "공생의",
+    "p": "/ˌsɪmbiˈɑːtɪk/",
+    "root": "bio",
+    "rootForm": "bio-",
+    "prefix": "sym-"
   },
   {
     "w": "symphony",
@@ -2101,6 +2869,14 @@
     "p": "/ˈtrænˌskrɪpt/",
     "root": "scrib",
     "rootForm": "scrib-, script-",
+    "prefix": "trans-"
+  },
+  {
+    "w": "transfer",
+    "m": "옮기다, 환승하다; 이동",
+    "p": "/trænsˈfɜːr/",
+    "root": "fer",
+    "rootForm": "fer-",
     "prefix": "trans-"
   },
   {

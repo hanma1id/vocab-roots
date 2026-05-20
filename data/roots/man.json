@@ -4,203 +4,135 @@
   "rootForm": "man-, manu-",
   "meaning": "손",
   "cluster": "손·잡다·놓다",
-  "story": "라틴어 'manus'는 '손'을 의미합니다. 이 어원은 손으로 하는 행동, 제작, 또는 다루는 것과 관련된 많은 영어 단어의 핵심을 이룹니다. 'manus'에서 파생된 'mandare'(맡기다, 명령하다) 또한 '손에 맡기다'라는 의미를 통해 여러 단어에 영향을 주었습니다.",
+  "story": "라틴어 manus('손')에서 왔다. 매뉴얼(manual)은 '손으로 다루는 책', 매니큐어(manicure)는 '손톱 관리', 매니지(manage)도 손으로 말을 다루던 데서 출발했다.",
   "tree": [
     {
       "prefix": "기본형",
-      "prefixMeaning": "접두어 없이",
+      "prefixMeaning": "manu-, man- 형태",
       "words": [
         {
           "word": "manual",
           "ipa": "/ˈmænjuəl/",
           "pos": "adj, n",
-          "meaning": "수동의, 손으로 하는; 설명서",
-          "example": "This car has a manual transmission.",
-          "exampleKo": "이 차는 수동 변속기이다.",
-          "synonyms": [
-            "hand-operated",
-            "handbook"
-          ],
-          "antonyms": [
-            "automatic"
-          ]
+          "meaning": "손으로 하는, 수동의; 설명서",
+          "example": "Read the manual before you start.",
+          "exampleKo": "시작하기 전에 설명서를 읽어라.",
+          "synonyms": ["handbook", "guide"],
+          "antonyms": ["automatic"]
         },
         {
-          "word": "manage",
-          "ipa": "/ˈmænɪdʒ/",
-          "pos": "v",
-          "meaning": "관리하다, 다루다",
-          "example": "Can you manage this project alone?",
-          "exampleKo": "이 프로젝트를 혼자서 관리할 수 있나요?",
-          "synonyms": [
-            "handle",
-            "control"
-          ],
-          "antonyms": [
-            "mismanage"
-          ]
+          "word": "manually",
+          "ipa": "/ˈmænjuəli/",
+          "pos": "adv",
+          "meaning": "수동으로, 손으로",
+          "example": "You can adjust the volume manually.",
+          "exampleKo": "음량을 수동으로 조절할 수 있다.",
+          "synonyms": ["by hand"],
+          "antonyms": ["automatically"]
         },
         {
-          "word": "manipulate",
-          "ipa": "/məˈnɪpjəleɪt/",
-          "pos": "v",
-          "meaning": "조작하다, 다루다",
-          "example": "He tried to manipulate the data to get a better result.",
-          "exampleKo": "그는 더 나은 결과를 얻기 위해 데이터를 조작하려고 했다.",
-          "synonyms": [
-            "control",
-            "influence"
-          ],
+          "word": "manuscript",
+          "ipa": "/ˈmænjəskrɪpt/",
+          "pos": "n",
+          "meaning": "원고, 필사본 (손으로 쓴 글)",
+          "example": "The author sent the manuscript to the publisher.",
+          "exampleKo": "작가는 원고를 출판사에 보냈다.",
+          "synonyms": ["draft", "text"],
           "antonyms": []
         },
         {
           "word": "manufacture",
           "ipa": "/ˌmænjəˈfæktʃər/",
           "pos": "v, n",
-          "meaning": "제조하다; 제조",
-          "example": "This company manufactures electronic devices.",
-          "exampleKo": "이 회사는 전자 기기를 제조한다.",
-          "synonyms": [
-            "produce",
-            "make"
-          ],
+          "meaning": "제조하다, 만들다 (원래 '손으로 만들다')",
+          "example": "This factory manufactures cars.",
+          "exampleKo": "이 공장은 자동차를 제조한다.",
+          "synonyms": ["produce", "make"],
           "antonyms": []
         },
         {
-          "word": "manuscript",
-          "ipa": "/ˈmænjəskrɪpt/",
+          "word": "manage",
+          "ipa": "/ˈmænɪdʒ/",
+          "pos": "v",
+          "meaning": "관리하다, 해내다 (원래 말을 손으로 다루다)",
+          "example": "She manages a small team.",
+          "exampleKo": "그녀는 작은 팀을 관리한다.",
+          "synonyms": ["handle", "run"],
+          "antonyms": []
+        },
+        {
+          "word": "manager",
+          "ipa": "/ˈmænɪdʒər/",
           "pos": "n",
-          "meaning": "원고, 필사본",
-          "example": "The author submitted her manuscript to the publisher.",
-          "exampleKo": "작가는 출판사에 원고를 제출했다.",
-          "synonyms": [
-            "draft",
-            "text"
-          ],
+          "meaning": "관리자, 매니저",
+          "example": "The manager held a meeting.",
+          "exampleKo": "매니저가 회의를 열었다.",
+          "synonyms": ["supervisor", "director"],
           "antonyms": []
         },
         {
           "word": "manicure",
-          "ipa": "/ˈmænɪkjʊər/",
-          "pos": "n, v",
-          "meaning": "손톱 관리; 손톱 관리하다",
-          "example": "She went to the salon for a manicure.",
-          "exampleKo": "그녀는 매니큐어를 받으러 미용실에 갔다.",
-          "synonyms": [
-            "nail care"
-          ],
+          "ipa": "/ˈmænɪkjʊr/",
+          "pos": "n",
+          "meaning": "매니큐어, 손톱 관리",
+          "example": "She got a manicure at the salon.",
+          "exampleKo": "그녀는 살롱에서 매니큐어를 받았다.",
+          "synonyms": [],
+          "antonyms": ["pedicure"]
+        },
+        {
+          "word": "manipulate",
+          "ipa": "/məˈnɪpjəleɪt/",
+          "pos": "v",
+          "meaning": "조종하다, 능숙하게 다루다",
+          "example": "He manipulated the controls expertly.",
+          "exampleKo": "그는 조종 장치를 능숙하게 다뤘다.",
+          "synonyms": ["handle", "control"],
           "antonyms": []
         },
         {
           "word": "maneuver",
           "ipa": "/məˈnuːvər/",
           "pos": "n, v",
-          "meaning": "움직임, 작전; 움직이다",
-          "example": "The pilot performed a difficult maneuver.",
-          "exampleKo": "조종사는 어려운 기동을 수행했다.",
-          "synonyms": [
-            "movement",
-            "tactic"
-          ],
+          "meaning": "기동, 작전; 능숙하게 움직이다",
+          "example": "The driver pulled off a tricky maneuver.",
+          "exampleKo": "운전자는 까다로운 기동을 해냈다.",
+          "synonyms": ["move", "tactic"],
           "antonyms": []
         },
         {
-          "word": "maintain",
-          "ipa": "/meɪnˈteɪn/",
-          "pos": "v",
-          "meaning": "유지하다, 보존하다",
-          "example": "It's important to maintain a healthy diet.",
-          "exampleKo": "건강한 식단을 유지하는 것이 중요하다.",
-          "synonyms": [
-            "keep",
-            "preserve"
-          ],
-          "antonyms": [
-            "neglect",
-            "lose"
-          ]
+          "word": "manifest",
+          "ipa": "/ˈmænɪfɛst/",
+          "pos": "adj, v",
+          "meaning": "명백한; 드러내다 (손으로 잡힐 만큼 분명한)",
+          "example": "His talent was manifest from a young age.",
+          "exampleKo": "그의 재능은 어릴 때부터 명백했다.",
+          "synonyms": ["obvious", "clear"],
+          "antonyms": ["hidden", "obscure"]
+        },
+        {
+          "word": "mandate",
+          "ipa": "/ˈmændeɪt/",
+          "pos": "n, v",
+          "meaning": "위임, 명령 (손에 맡기다)",
+          "example": "The new mayor has a strong mandate.",
+          "exampleKo": "새 시장은 강력한 위임을 받았다.",
+          "synonyms": ["order", "directive"],
+          "antonyms": []
         },
         {
           "word": "mandatory",
           "ipa": "/ˈmændətɔːri/",
           "pos": "adj",
-          "meaning": "의무적인, 강제적인",
-          "example": "Wearing a helmet is mandatory for cyclists.",
-          "exampleKo": "헬멧 착용은 자전거 타는 사람들에게 의무적이다.",
-          "synonyms": [
-            "compulsory",
-            "obligatory"
-          ],
-          "antonyms": [
-            "optional",
-            "voluntary"
-          ]
-        }
-      ]
-    },
-    {
-      "prefix": "de-",
-      "prefixMeaning": "~로부터 멀리",
-      "words": [
-        {
-          "word": "demand",
-          "ipa": "/dɪˈmænd/",
-          "pos": "v, n",
-          "meaning": "요구하다; 요구",
-          "example": "Customers demand high-quality products.",
-          "exampleKo": "소비자들은 고품질 제품을 요구한다.",
-          "synonyms": [
-            "request",
-            "require"
-          ],
-          "antonyms": [
-            "supply"
-          ]
-        }
-      ]
-    },
-    {
-      "prefix": "com-",
-      "prefixMeaning": "함께",
-      "words": [
-        {
-          "word": "command",
-          "ipa": "/kəˈmænd/",
-          "pos": "v, n",
-          "meaning": "명령하다; 명령",
-          "example": "The officer commanded his soldiers to advance.",
-          "exampleKo": "장교는 병사들에게 전진하라고 명령했다.",
-          "synonyms": [
-            "order",
-            "direct"
-          ],
-          "antonyms": [
-            "obey"
-          ]
-        }
-      ]
-    },
-    {
-      "prefix": "re-",
-      "prefixMeaning": "다시",
-      "words": [
-        {
-          "word": "recommend",
-          "ipa": "/ˌrɛkəˈmɛnd/",
-          "pos": "v",
-          "meaning": "추천하다",
-          "example": "I highly recommend this book.",
-          "exampleKo": "이 책을 강력히 추천합니다.",
-          "synonyms": [
-            "suggest",
-            "advise"
-          ],
-          "antonyms": [
-            "discourage"
-          ]
+          "meaning": "의무적인, 필수의",
+          "example": "Seat belts are mandatory in cars.",
+          "exampleKo": "차에서 안전벨트는 의무다.",
+          "synonyms": ["compulsory", "required"],
+          "antonyms": ["optional", "voluntary"]
         }
       ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 1
 }

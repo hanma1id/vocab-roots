@@ -1,43 +1,144 @@
 {
   "id": "fer",
   "origin": "Latin",
-  "rootForm": "fer-, lat-",
-  "meaning": "나르다",
+  "rootForm": "fer-",
+  "meaning": "나르다, 가져오다",
   "cluster": "운반·던지다",
-  "story": "라틴어 동사 'ferre'는 '나르다, 운반하다'라는 뜻을 가지고 있습니다. 이 어원은 영어 단어에서 '무엇인가를 가져오거나, 옮기거나, 견디는' 의미를 형성합니다. 'ferre'의 과거 분사형인 'latus'에서 파생된 'lat-' 역시 비슷한 의미로 사용됩니다.",
+  "story": "라틴어 ferre('나르다, 가져가다')에서 왔다. transfer(옮기다)는 '건너 나르다', prefer(선호하다)는 원래 '앞에 가져가다' — 다른 것보다 앞에 두고 싶은 것이 곧 선호다.",
   "tree": [
     {
-      "prefix": "기본형",
-      "prefixMeaning": "접두어 없이",
+      "prefix": "trans-",
+      "prefixMeaning": "건너, 가로질러",
       "words": [
         {
-          "word": "fertile",
-          "ipa": "/ˈfɜːrtəl/",
-          "pos": "adj",
-          "meaning": "비옥한, 생식 능력 있는",
-          "example": "The fertile soil produced a rich harvest.",
-          "exampleKo": "비옥한 토양은 풍성한 수확을 가져왔다.",
-          "synonyms": [
-            "productive",
-            "fruitful"
-          ],
-          "antonyms": [
-            "barren",
-            "infertile"
-          ]
+          "word": "transfer",
+          "ipa": "/trænsˈfɜːr/",
+          "pos": "v, n",
+          "meaning": "옮기다, 환승하다; 이동",
+          "example": "Please transfer the money to my account.",
+          "exampleKo": "그 돈을 내 계좌로 이체해 주세요.",
+          "synonyms": ["move", "shift"],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "pre-",
+      "prefixMeaning": "앞에, 미리",
+      "words": [
+        {
+          "word": "prefer",
+          "ipa": "/prɪˈfɜːr/",
+          "pos": "v",
+          "meaning": "선호하다 (앞에 가져가다)",
+          "example": "I prefer coffee to tea.",
+          "exampleKo": "나는 차보다 커피를 더 좋아한다.",
+          "synonyms": ["favor", "choose"],
+          "antonyms": ["dislike"]
         },
         {
-          "word": "ferry",
-          "ipa": "/ˈfɛri/",
-          "pos": "n·v",
-          "meaning": "나룻배, 나르다",
-          "example": "We took a ferry across the river.",
-          "exampleKo": "우리는 강을 건너기 위해 나룻배를 탔다.",
-          "synonyms": [
-            "boat",
-            "transport"
-          ],
+          "word": "preference",
+          "ipa": "/ˈprɛfərəns/",
+          "pos": "n",
+          "meaning": "선호, 취향",
+          "example": "My preference is for quiet places.",
+          "exampleKo": "내 취향은 조용한 곳을 좋아하는 것이다.",
+          "synonyms": ["taste", "liking"],
+          "antonyms": ["dislike"]
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "뒤로, 다시",
+      "words": [
+        {
+          "word": "refer",
+          "ipa": "/rɪˈfɜːr/",
+          "pos": "v",
+          "meaning": "언급하다, 참조하다 (다시 가져가다)",
+          "example": "Please refer to page 10.",
+          "exampleKo": "10페이지를 참조해 주세요.",
+          "synonyms": ["mention", "consult"],
           "antonyms": []
+        },
+        {
+          "word": "reference",
+          "ipa": "/ˈrɛfərəns/",
+          "pos": "n",
+          "meaning": "참조, 언급; 추천서",
+          "example": "She made no reference to the past.",
+          "exampleKo": "그녀는 과거를 전혀 언급하지 않았다.",
+          "synonyms": ["mention", "citation"],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "dif-",
+      "prefixMeaning": "떨어져 (dis-의 변형)",
+      "words": [
+        {
+          "word": "differ",
+          "ipa": "/ˈdɪfər/",
+          "pos": "v",
+          "meaning": "다르다 (따로 나르다)",
+          "example": "Our opinions differ on this matter.",
+          "exampleKo": "이 문제에 대한 우리 의견은 다르다.",
+          "synonyms": ["vary", "disagree"],
+          "antonyms": ["agree", "match"]
+        },
+        {
+          "word": "difference",
+          "ipa": "/ˈdɪfərəns/",
+          "pos": "n",
+          "meaning": "차이",
+          "example": "What's the difference between them?",
+          "exampleKo": "그 둘의 차이가 뭐야?",
+          "synonyms": ["distinction"],
+          "antonyms": ["similarity"]
+        },
+        {
+          "word": "different",
+          "ipa": "/ˈdɪfərənt/",
+          "pos": "adj",
+          "meaning": "다른",
+          "example": "We have different opinions.",
+          "exampleKo": "우리는 의견이 다르다.",
+          "synonyms": ["distinct", "varied"],
+          "antonyms": ["same", "identical"]
+        }
+      ]
+    },
+    {
+      "prefix": "of-",
+      "prefixMeaning": "맞은편으로 (ob-의 변형)",
+      "words": [
+        {
+          "word": "offer",
+          "ipa": "/ˈɔːfər/",
+          "pos": "v, n",
+          "meaning": "제공하다, 제안하다 (앞에 가져다 놓다)",
+          "example": "She offered me a cup of tea.",
+          "exampleKo": "그녀는 내게 차 한 잔을 권했다.",
+          "synonyms": ["give", "propose"],
+          "antonyms": ["withdraw", "refuse"]
+        }
+      ]
+    },
+    {
+      "prefix": "suf-",
+      "prefixMeaning": "밑에서 (sub-의 변형)",
+      "words": [
+        {
+          "word": "suffer",
+          "ipa": "/ˈsʌfər/",
+          "pos": "v",
+          "meaning": "고통받다, 겪다 (밑에서 짊어지다)",
+          "example": "Many people suffer from allergies.",
+          "exampleKo": "많은 사람이 알레르기로 고통받는다.",
+          "synonyms": ["endure", "experience"],
+          "antonyms": ["enjoy"]
         }
       ]
     },
@@ -49,58 +150,11 @@
           "word": "confer",
           "ipa": "/kənˈfɜːr/",
           "pos": "v",
-          "meaning": "협의하다, 수여하다",
-          "example": "The doctors will confer on the patient's condition.",
-          "exampleKo": "의사들은 환자의 상태에 대해 협의할 것이다.",
-          "synonyms": [
-            "discuss",
-            "bestow"
-          ],
+          "meaning": "협의하다; 수여하다 (함께 가져오다)",
+          "example": "The judges conferred before announcing the winner.",
+          "exampleKo": "심사위원들은 우승자를 발표하기 전에 협의했다.",
+          "synonyms": ["consult", "grant"],
           "antonyms": []
-        }
-      ]
-    },
-    {
-      "prefix": "de-",
-      "prefixMeaning": "아래로, 떨어져",
-      "words": [
-        {
-          "word": "defer",
-          "ipa": "/dɪˈfɜːr/",
-          "pos": "v",
-          "meaning": "미루다, 연기하다",
-          "example": "We decided to defer the decision until next week.",
-          "exampleKo": "우리는 결정을 다음 주까지 미루기로 했다.",
-          "synonyms": [
-            "postpone",
-            "delay"
-          ],
-          "antonyms": [
-            "expedite",
-            "hasten"
-          ]
-        }
-      ]
-    },
-    {
-      "prefix": "dif-",
-      "prefixMeaning": "떨어져",
-      "words": [
-        {
-          "word": "differ",
-          "ipa": "/ˈdɪfər/",
-          "pos": "v",
-          "meaning": "다르다, 의견을 달리하다",
-          "example": "The two brothers differ in their opinions.",
-          "exampleKo": "그 두 형제는 의견이 다르다.",
-          "synonyms": [
-            "vary",
-            "disagree"
-          ],
-          "antonyms": [
-            "agree",
-            "resemble"
-          ]
         }
       ]
     },
@@ -112,123 +166,15 @@
           "word": "infer",
           "ipa": "/ɪnˈfɜːr/",
           "pos": "v",
-          "meaning": "추론하다, 추측하다",
-          "example": "We can infer his feelings from his actions.",
-          "exampleKo": "우리는 그의 행동에서 그의 감정을 추론할 수 있다.",
-          "synonyms": [
-            "deduce",
-            "conclude"
-          ],
-          "antonyms": []
-        }
-      ]
-    },
-    {
-      "prefix": "pre-",
-      "prefixMeaning": "미리, 앞에",
-      "words": [
-        {
-          "word": "prefer",
-          "ipa": "/prɪˈfɜːr/",
-          "pos": "v",
-          "meaning": "더 좋아하다, 선호하다",
-          "example": "I prefer coffee to tea.",
-          "exampleKo": "나는 차보다 커피를 더 좋아한다.",
-          "synonyms": [
-            "favor",
-            "choose"
-          ],
-          "antonyms": [
-            "dislike"
-          ]
-        }
-      ]
-    },
-    {
-      "prefix": "re-",
-      "prefixMeaning": "다시, 뒤로",
-      "words": [
-        {
-          "word": "refer",
-          "ipa": "/rɪˈfɜːr/",
-          "pos": "v",
-          "meaning": "참조하다, 언급하다",
-          "example": "Please refer to the dictionary for the meaning.",
-          "exampleKo": "의미를 알려면 사전을 참조하세요.",
-          "synonyms": [
-            "consult",
-            "mention"
-          ],
-          "antonyms": []
-        },
-        {
-          "word": "relate",
-          "ipa": "/rɪˈleɪt/",
-          "pos": "v",
-          "meaning": "관련시키다, 이야기하다",
-          "example": "His story relates to the incident.",
-          "exampleKo": "그의 이야기는 그 사건과 관련이 있다.",
-          "synonyms": [
-            "connect",
-            "narrate"
-          ],
-          "antonyms": []
-        }
-      ]
-    },
-    {
-      "prefix": "suf-",
-      "prefixMeaning": "아래에",
-      "words": [
-        {
-          "word": "suffer",
-          "ipa": "/ˈsʌfər/",
-          "pos": "v",
-          "meaning": "고통받다, 겪다",
-          "example": "She suffered from a severe headache.",
-          "exampleKo": "그녀는 심한 두통으로 고통받았다.",
-          "synonyms": [
-            "endure",
-            "experience"
-          ],
-          "antonyms": [
-            "enjoy"
-          ]
-        }
-      ]
-    },
-    {
-      "prefix": "trans-",
-      "prefixMeaning": "가로질러",
-      "words": [
-        {
-          "word": "transfer",
-          "ipa": "/trænsˈfɜːr/",
-          "pos": "v·n",
-          "meaning": "옮기다, 이동하다, 환승",
-          "example": "I need to transfer money to my bank account.",
-          "exampleKo": "나는 내 은행 계좌로 돈을 이체해야 한다.",
-          "synonyms": [
-            "move",
-            "relocate"
-          ],
-          "antonyms": []
-        },
-        {
-          "word": "translate",
-          "ipa": "/trænzˈleɪt/",
-          "pos": "v",
-          "meaning": "번역하다, 통역하다",
-          "example": "Can you translate this sentence into Korean?",
-          "exampleKo": "이 문장을 한국어로 번역해 줄 수 있나요?",
-          "synonyms": [
-            "interpret",
-            "render"
-          ],
+          "meaning": "추론하다 (단서를 안으로 가져가다)",
+          "example": "What can we infer from this graph?",
+          "exampleKo": "이 그래프에서 무엇을 추론할 수 있을까?",
+          "synonyms": ["deduce", "conclude"],
           "antonyms": []
         }
       ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 3
 }

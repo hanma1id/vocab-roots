@@ -26,32 +26,40 @@ ROOTS_DIR = ROOT / "data" / "roots"
 #   2 = 중급 (중3~고1 수준)
 #   3 = 고급 (고2~수능 수준)
 STEP_MAP: dict[str, int] = {
-    # Step 1 — 익숙한 단어 위주
+    # Step 1 — 익숙한 단어 위주 (10개)
     "port":  1,
     "dict":  1,
     "spec":  1,
     "graph": 1,
     "phon":  1,
-    "vid":   1,   # 추가 — vision, visible 등 익숙
-    "aud":   1,   # 추가 — audio, audible 등 익숙
-    "geo":   1,   # 추가 — geography, geology 등 익숙
-    # Step 2 — 자주 쓰지만 추상 의미가 섞임
+    "vid":   1,   # vision, visible 등 익숙
+    "aud":   1,   # audio, audible 등 익숙
+    "geo":   1,   # geography, geology 등 익숙
+    "bio":   1,   # biology, biography 등 익숙
+    "man":   1,   # manual, manager 등 익숙
+    # Step 2 — 자주 쓰지만 추상 의미가 섞임 (11개)
     "log":   2,
     "ven":   2,
     "mit":   2,
     "ject":  2,
     "pos":   2,
-    "sci":   2,   # 추가 — science 친숙하나 conscience 등 추상
-    "therm": 2,   # 추가 — thermometer 친숙
-    # Step 3 — 좀 더 추상적이고 수능 빈출
+    "sci":   2,   # science 친숙하나 conscience 등 추상
+    "therm": 2,   # thermometer 친숙
+    "spir":  2,   # inspire, expire 등
+    "cap":   2,   # capture, accept, concept 등
+    "aster": 2,   # astronaut 친숙하나 disaster 분류 추상
+    "duc":   2,   # introduce, conduct 등
+    # Step 3 — 좀 더 추상적이고 수능 빈출 (10개)
     "voc":   3,
     "scrib": 3,
     "ced":   3,
     "tract": 3,
     "flex":  3,
-    "cred":  3,   # 추가 — credit/incredible 등 추상
-    "ten":   3,   # 추가 — maintain/sustain 등
-    "chrom": 3,   # 추가 — chromosome 등 학술
+    "cred":  3,
+    "ten":   3,
+    "chrom": 3,
+    "fer":   3,   # transfer, refer, prefer 등 추상
+    "hydr":  3,   # hydrogen, dehydrate 등 화학
 }
 
 

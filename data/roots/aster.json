@@ -4,123 +4,30 @@
   "rootForm": "aster-, astro-",
   "meaning": "별",
   "cluster": "자연·사물",
-  "story": "고대 그리스어 'aster'는 '별'을 의미했습니다. 이 어원은 밤하늘의 천체를 나타내는 많은 단어에 사용되었습니다. 'astro-'는 'aster-'의 변형으로, 역시 '별'과 관련된 단어에 쓰입니다.",
+  "story": "고대 그리스어 aster('별')에서 왔다. astro-는 같은 어원의 다른 형태. disaster는 '별이 어긋난 상태' — 옛 사람들은 별의 배열이 운명을 결정한다고 믿었다.",
   "tree": [
     {
-      "prefix": "aster-",
-      "prefixMeaning": "별",
+      "prefix": "기본형",
+      "prefixMeaning": "aster-, astro- 형태",
       "words": [
         {
           "word": "asterisk",
           "ipa": "/ˈæstərɪsk/",
           "pos": "n",
           "meaning": "별표 (*)",
-          "example": "Please put an asterisk next to the important note.",
-          "exampleKo": "중요한 메모 옆에 별표를 표시해 주세요.",
-          "synonyms": [],
+          "example": "Put an asterisk next to the important name.",
+          "exampleKo": "중요한 이름 옆에 별표를 표시해라.",
+          "synonyms": ["star"],
           "antonyms": []
         },
         {
           "word": "asteroid",
           "ipa": "/ˈæstərɔɪd/",
           "pos": "n",
-          "meaning": "소행성",
-          "example": "Scientists study asteroids to learn about the early solar system.",
-          "exampleKo": "과학자들은 초기 태양계를 연구하기 위해 소행성을 연구합니다.",
-          "synonyms": [],
-          "antonyms": []
-        }
-      ]
-    },
-    {
-      "prefix": "astro-",
-      "prefixMeaning": "별",
-      "words": [
-        {
-          "word": "astronomy",
-          "ipa": "/əˈstrɑːnəmi/",
-          "pos": "n",
-          "meaning": "천문학",
-          "example": "She is studying astronomy at university.",
-          "exampleKo": "그녀는 대학에서 천문학을 공부하고 있습니다.",
-          "synonyms": [
-            "cosmology"
-          ],
-          "antonyms": []
-        },
-        {
-          "word": "astrology",
-          "ipa": "/əˈstrɑːlədʒi/",
-          "pos": "n",
-          "meaning": "점성술",
-          "example": "Many people read their horoscopes for astrology.",
-          "exampleKo": "많은 사람들이 점성술을 위해 별자리를 읽습니다.",
-          "synonyms": [],
-          "antonyms": []
-        },
-        {
-          "word": "astronaut",
-          "ipa": "/ˈæstrənɔːt/",
-          "pos": "n",
-          "meaning": "우주비행사",
-          "example": "The astronaut floated in the space station.",
-          "exampleKo": "우주비행사는 우주 정거장에서 떠다녔습니다.",
-          "synonyms": [
-            "cosmonaut"
-          ],
-          "antonyms": []
-        },
-        {
-          "word": "astrophysics",
-          "ipa": "/ˌæstroʊˈfɪzɪks/",
-          "pos": "n",
-          "meaning": "천체물리학",
-          "example": "He is interested in astrophysics.",
-          "exampleKo": "그는 천체물리학에 관심이 있습니다.",
-          "synonyms": [],
-          "antonyms": []
-        },
-        {
-          "word": "disaster",
-          "ipa": "/dɪˈzæstər/",
-          "pos": "n",
-          "meaning": "재난, 재앙",
-          "example": "The earthquake caused a terrible disaster.",
-          "exampleKo": "지진은 끔찍한 재난을 일으켰습니다.",
-          "synonyms": [
-            "catastrophe",
-            "calamity"
-          ],
-          "antonyms": [
-            "miracle"
-          ]
-        },
-        {
-          "word": "astronomer",
-          "ipa": "/əˈstrɑnəmər/",
-          "pos": "n",
-          "meaning": "천문학자",
-          "example": "The astronomer pointed the telescope at Saturn.",
-          "exampleKo": "그 천문학자는 망원경을 토성에 맞췄다.",
-          "synonyms": [
-            "stargazer"
-          ],
-          "antonyms": []
-        }
-      ]
-    },
-    {
-      "prefix": "기본형",
-      "prefixMeaning": "접두어 없이",
-      "words": [
-        {
-          "word": "asterism",
-          "ipa": "/ˈæstərɪzəm/",
-          "pos": "n",
-          "meaning": "별자리 (작은)",
-          "example": "The Big Dipper is a well-known asterism.",
-          "exampleKo": "북두칠성은 잘 알려진 별자리입니다.",
-          "synonyms": [],
+          "meaning": "소행성 (별 모양)",
+          "example": "An asteroid hit the Earth long ago.",
+          "exampleKo": "오래전 소행성이 지구에 충돌했다.",
+          "synonyms": ["minor planet"],
           "antonyms": []
         },
         {
@@ -128,35 +35,110 @@
           "ipa": "/ˈæstrəl/",
           "pos": "adj",
           "meaning": "별의, 별과 관련된",
-          "example": "He dreamed of astral travel.",
-          "exampleKo": "그는 별 여행을 꿈꿨습니다.",
-          "synonyms": [
-            "stellar"
-          ],
+          "example": "Ancient sailors used astral navigation.",
+          "exampleKo": "옛 뱃사람들은 별로 길을 찾았다.",
+          "synonyms": ["stellar"],
           "antonyms": []
         },
         {
-          "word": "astrobiology",
-          "ipa": "/ˌæstroʊbaɪˈɑːlədʒi/",
+          "word": "astronomy",
+          "ipa": "/əˈstrɑːnəmi/",
           "pos": "n",
-          "meaning": "우주생물학",
-          "example": "Astrobiology explores the possibility of life beyond Earth.",
-          "exampleKo": "우주생물학은 지구 너머의 생명체 존재 가능성을 탐구합니다.",
+          "meaning": "천문학 (별의 법칙을 연구)",
+          "example": "She studies astronomy at college.",
+          "exampleKo": "그녀는 대학에서 천문학을 공부한다.",
           "synonyms": [],
           "antonyms": []
         },
         {
-          "word": "astrometer",
-          "ipa": "/əˈstrɑːmətər/",
+          "word": "astronomer",
+          "ipa": "/əˈstrɑːnəmər/",
           "pos": "n",
-          "meaning": "항성계 측정기",
-          "example": "The astrometer measured the distance to the stars.",
-          "exampleKo": "항성계 측정기는 별까지의 거리를 측정했습니다.",
+          "meaning": "천문학자",
+          "example": "The astronomer discovered a new planet.",
+          "exampleKo": "그 천문학자는 새 행성을 발견했다.",
+          "synonyms": ["stargazer"],
+          "antonyms": []
+        },
+        {
+          "word": "astronomical",
+          "ipa": "/ˌæstrəˈnɑːmɪkəl/",
+          "pos": "adj",
+          "meaning": "천문학의; 천문학적인 (엄청나게 큰)",
+          "example": "The cost of the project was astronomical.",
+          "exampleKo": "그 프로젝트 비용은 천문학적이었다.",
+          "synonyms": ["enormous", "huge"],
+          "antonyms": ["tiny"]
+        },
+        {
+          "word": "astronaut",
+          "ipa": "/ˈæstrənɔːt/",
+          "pos": "n",
+          "meaning": "우주비행사 (별 사이를 항해하는 사람)",
+          "example": "The astronaut floated in zero gravity.",
+          "exampleKo": "우주비행사가 무중력에서 떠다녔다.",
+          "synonyms": ["cosmonaut"],
+          "antonyms": []
+        },
+        {
+          "word": "astrology",
+          "ipa": "/əˈstrɑːlədʒi/",
+          "pos": "n",
+          "meaning": "점성술 (별로 운명을 보는 일)",
+          "example": "Astrology is not a science.",
+          "exampleKo": "점성술은 과학이 아니다.",
+          "synonyms": ["horoscopy"],
+          "antonyms": ["astronomy"]
+        },
+        {
+          "word": "astrologer",
+          "ipa": "/əˈstrɑːlədʒər/",
+          "pos": "n",
+          "meaning": "점성가",
+          "example": "The astrologer read her birth chart.",
+          "exampleKo": "그 점성가가 그녀의 출생 차트를 읽었다.",
+          "synonyms": [],
+          "antonyms": []
+        },
+        {
+          "word": "astrophysics",
+          "ipa": "/ˌæstroʊˈfɪzɪks/",
+          "pos": "n",
+          "meaning": "천체물리학",
+          "example": "He's interested in astrophysics.",
+          "exampleKo": "그는 천체물리학에 관심이 있다.",
           "synonyms": [],
           "antonyms": []
         }
       ]
+    },
+    {
+      "prefix": "dis-",
+      "prefixMeaning": "어긋난, 흩어진",
+      "words": [
+        {
+          "word": "disaster",
+          "ipa": "/dɪˈzæstər/",
+          "pos": "n",
+          "meaning": "재난 (별의 배치가 어긋난 상태)",
+          "example": "The earthquake was a terrible disaster.",
+          "exampleKo": "그 지진은 끔찍한 재난이었다.",
+          "synonyms": ["catastrophe", "calamity"],
+          "antonyms": ["blessing"]
+        },
+        {
+          "word": "disastrous",
+          "ipa": "/dɪˈzæstrəs/",
+          "pos": "adj",
+          "meaning": "참담한, 처참한",
+          "example": "The trip turned out to be disastrous.",
+          "exampleKo": "그 여행은 참담하게 끝났다.",
+          "synonyms": ["catastrophic", "ruinous"],
+          "antonyms": ["successful"]
+        }
+      ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 2
 }

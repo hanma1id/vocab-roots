@@ -2,200 +2,195 @@
   "id": "cap",
   "origin": "Latin",
   "rootForm": "cap-, cept-, cip-",
-  "meaning": "잡다",
+  "meaning": "잡다, 받다",
   "cluster": "손·잡다·놓다",
-  "story": "라틴어 동사 'capere'는 '잡다, 취하다, 얻다'라는 의미를 가지고 있습니다. 이 동사에서 파생된 어근들이 영어 단어에서 '잡다'라는 핵심 의미를 형성합니다.",
+  "story": "라틴어 capere('잡다, 취하다')에서 왔다. 영어로 들어오며 cap-, cept-, cip- 세 형태로 갈라졌고, 무언가를 '손에 넣다'는 핵심 의미가 모든 파생어에 살아 있다.",
   "tree": [
     {
-      "prefix": "cap-",
-      "prefixMeaning": "잡다",
+      "prefix": "기본형",
+      "prefixMeaning": "cap- 형태",
       "words": [
         {
           "word": "capture",
           "ipa": "/ˈkæptʃər/",
-          "pos": "v",
+          "pos": "v, n",
           "meaning": "포획하다, 사로잡다",
-          "example": "The police captured the thief.",
-          "exampleKo": "경찰이 도둑을 붙잡았다.",
-          "synonyms": [
-            "catch",
-            "seize"
-          ],
-          "antonyms": []
+          "example": "The police captured the suspect.",
+          "exampleKo": "경찰이 용의자를 붙잡았다.",
+          "synonyms": ["seize", "catch"],
+          "antonyms": ["release", "free"]
         },
         {
-          "word": "capable",
-          "ipa": "/ˈkeɪpəbəl/",
-          "pos": "adj",
-          "meaning": "~할 수 있는, 유능한",
-          "example": "She is capable of doing the job.",
-          "exampleKo": "그녀는 그 일을 할 능력이 있다.",
-          "synonyms": [
-            "able",
-            "competent"
-          ],
-          "antonyms": [
-            "incapable"
-          ]
+          "word": "captive",
+          "ipa": "/ˈkæptɪv/",
+          "pos": "n, adj",
+          "meaning": "포로; 사로잡힌",
+          "example": "The captives were finally set free.",
+          "exampleKo": "포로들은 마침내 풀려났다.",
+          "synonyms": ["prisoner"],
+          "antonyms": ["free"]
         },
         {
-          "word": "capacious",
-          "ipa": "/kəˈpeɪʃəs/",
-          "pos": "adj",
-          "meaning": "넓은, 많이 담을 수 있는",
-          "example": "The bag is very capacious.",
-          "exampleKo": "그 가방은 매우 넓어서 많이 담을 수 있다.",
-          "synonyms": [
-            "large",
-            "roomy"
-          ],
-          "antonyms": [
-            "small",
-            "cramped"
-          ]
+          "word": "captivate",
+          "ipa": "/ˈkæptɪveɪt/",
+          "pos": "v",
+          "meaning": "매혹하다 (마음을 사로잡다)",
+          "example": "Her voice captivated the audience.",
+          "exampleKo": "그녀의 목소리는 청중을 매혹했다.",
+          "synonyms": ["charm", "fascinate"],
+          "antonyms": ["bore"]
         }
       ]
     },
     {
-      "prefix": "cept-",
-      "prefixMeaning": "잡다",
+      "prefix": "ac-",
+      "prefixMeaning": "~쪽으로 (ad-의 변형)",
       "words": [
         {
           "word": "accept",
           "ipa": "/əkˈsɛpt/",
           "pos": "v",
-          "meaning": "받아들이다, 수락하다",
-          "example": "I accept your offer.",
-          "exampleKo": "당신의 제안을 받아들입니다.",
-          "synonyms": [
-            "receive",
-            "agree to"
-          ],
-          "antonyms": [
-            "reject",
-            "refuse"
-          ]
-        },
+          "meaning": "받아들이다 (~쪽으로 잡다)",
+          "example": "She accepted the job offer.",
+          "exampleKo": "그녀는 일자리 제안을 받아들였다.",
+          "synonyms": ["take", "receive"],
+          "antonyms": ["reject", "refuse"]
+        }
+      ]
+    },
+    {
+      "prefix": "ex-",
+      "prefixMeaning": "밖으로",
+      "words": [
         {
           "word": "except",
           "ipa": "/ɪkˈsɛpt/",
           "pos": "prep",
-          "meaning": "~을 제외하고",
-          "example": "Everyone came except him.",
-          "exampleKo": "그를 제외하고 모두 왔다.",
-          "synonyms": [
-            "excluding",
-            "barring"
-          ],
-          "antonyms": []
+          "meaning": "~을 제외하고 (밖으로 빼다)",
+          "example": "Everyone came except John.",
+          "exampleKo": "존을 제외하고 모두 왔다.",
+          "synonyms": ["excluding", "but"],
+          "antonyms": ["including"]
         },
         {
-          "word": "concept",
-          "ipa": "/ˈkɒnsept/",
+          "word": "exception",
+          "ipa": "/ɪkˈsɛpʃən/",
           "pos": "n",
-          "meaning": "개념, 생각",
-          "example": "It is a difficult concept.",
-          "exampleKo": "그것은 어려운 개념이다.",
-          "synonyms": [
-            "idea",
-            "notion"
-          ],
+          "meaning": "예외",
+          "example": "There is one exception to this rule.",
+          "exampleKo": "이 규칙에 한 가지 예외가 있다.",
+          "synonyms": ["anomaly"],
+          "antonyms": ["norm"]
+        }
+      ]
+    },
+    {
+      "prefix": "con-",
+      "prefixMeaning": "함께, 완전히",
+      "words": [
+        {
+          "word": "concept",
+          "ipa": "/ˈkɑːnsɛpt/",
+          "pos": "n",
+          "meaning": "개념 (함께 잡힌 생각)",
+          "example": "Time travel is a fascinating concept.",
+          "exampleKo": "시간 여행은 매혹적인 개념이다.",
+          "synonyms": ["idea", "notion"],
           "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "re-",
+      "prefixMeaning": "다시, 뒤로",
+      "words": [
+        {
+          "word": "receive",
+          "ipa": "/rɪˈsiːv/",
+          "pos": "v",
+          "meaning": "받다 (되돌려 잡다)",
+          "example": "I received your letter yesterday.",
+          "exampleKo": "어제 네 편지를 받았다.",
+          "synonyms": ["get", "obtain"],
+          "antonyms": ["send", "give"]
         },
         {
           "word": "reception",
           "ipa": "/rɪˈsɛpʃən/",
           "pos": "n",
-          "meaning": "접수, 환영",
-          "example": "We received a warm reception.",
-          "exampleKo": "우리는 따뜻한 환영을 받았다.",
-          "synonyms": [
-            "welcome",
-            "handling"
-          ],
+          "meaning": "환영, 접수처; 수신 상태",
+          "example": "The hotel reception is open 24 hours.",
+          "exampleKo": "호텔 프런트는 24시간 운영된다.",
+          "synonyms": ["welcome", "front desk"],
           "antonyms": []
-        },
-        {
-          "word": "perceptible",
-          "ipa": "/pərˈsɛptəbəl/",
-          "pos": "adj",
-          "meaning": "감지할 수 있는",
-          "example": "The change was barely perceptible.",
-          "exampleKo": "그 변화는 거의 감지할 수 없었다.",
-          "synonyms": [
-            "noticeable",
-            "visible"
-          ],
-          "antonyms": [
-            "imperceptible"
-          ]
         }
       ]
     },
     {
-      "prefix": "cip-",
-      "prefixMeaning": "잡다",
+      "prefix": "per-",
+      "prefixMeaning": "꿰뚫어, 완전히",
+      "words": [
+        {
+          "word": "perceive",
+          "ipa": "/pərˈsiːv/",
+          "pos": "v",
+          "meaning": "인지하다, 알아차리다 (꿰뚫어 잡다)",
+          "example": "She perceived a change in his mood.",
+          "exampleKo": "그녀는 그의 기분 변화를 알아차렸다.",
+          "synonyms": ["notice", "sense"],
+          "antonyms": ["miss", "overlook"]
+        }
+      ]
+    },
+    {
+      "prefix": "de-",
+      "prefixMeaning": "아래로, 떨어뜨려",
+      "words": [
+        {
+          "word": "deceive",
+          "ipa": "/dɪˈsiːv/",
+          "pos": "v",
+          "meaning": "속이다 (아래로 잡아채다)",
+          "example": "He deceived me with a fake story.",
+          "exampleKo": "그는 거짓 이야기로 나를 속였다.",
+          "synonyms": ["trick", "fool"],
+          "antonyms": ["enlighten"]
+        }
+      ]
+    },
+    {
+      "prefix": "ante-",
+      "prefixMeaning": "미리",
+      "words": [
+        {
+          "word": "anticipate",
+          "ipa": "/ænˈtɪsɪpeɪt/",
+          "pos": "v",
+          "meaning": "예상하다 (미리 잡다)",
+          "example": "We anticipate a busy weekend.",
+          "exampleKo": "우리는 바쁜 주말을 예상한다.",
+          "synonyms": ["expect", "foresee"],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "prefix": "parti-",
+      "prefixMeaning": "부분",
       "words": [
         {
           "word": "participate",
           "ipa": "/pɑːrˈtɪsɪpeɪt/",
           "pos": "v",
-          "meaning": "참여하다, 참가하다",
-          "example": "Do you want to participate in the game?",
-          "exampleKo": "게임에 참여하고 싶니?",
-          "synonyms": [
-            "join",
-            "take part in"
-          ],
-          "antonyms": []
-        },
-        {
-          "word": "recipient",
-          "ipa": "/rɪˈsɪpiənt/",
-          "pos": "n",
-          "meaning": "수혜자, 받는 사람",
-          "example": "He is the recipient of the award.",
-          "exampleKo": "그는 그 상의 수상자이다.",
-          "synonyms": [
-            "receiver",
-            "beneficiary"
-          ],
-          "antonyms": []
-        },
-        {
-          "word": "anticipate",
-          "ipa": "/ænˈtɪsɪpeɪt/",
-          "pos": "v",
-          "meaning": "예상하다, 기대하다",
-          "example": "We anticipate a good result.",
-          "exampleKo": "우리는 좋은 결과를 예상한다.",
-          "synonyms": [
-            "expect",
-            "foresee"
-          ],
-          "antonyms": []
-        }
-      ]
-    },
-    {
-      "prefix": "기본형",
-      "prefixMeaning": "접두어 없이",
-      "words": [
-        {
-          "word": "caption",
-          "ipa": "/ˈkæpʃən/",
-          "pos": "n",
-          "meaning": "자막, 표제",
-          "example": "Read the caption under the photo.",
-          "exampleKo": "사진 아래의 자막을 읽어라.",
-          "synonyms": [
-            "title",
-            "heading"
-          ],
-          "antonyms": []
+          "meaning": "참여하다 (부분을 잡다)",
+          "example": "All students must participate in the discussion.",
+          "exampleKo": "모든 학생이 토론에 참여해야 한다.",
+          "synonyms": ["join", "take part"],
+          "antonyms": ["abstain"]
         }
       ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 2
 }
