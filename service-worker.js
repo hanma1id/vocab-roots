@@ -11,7 +11,7 @@
  *   - 그러면 다음 새로고침 때 옛 캐시는 자동 삭제된다.
  * ============================================================ */
 
-const CACHE_VERSION = "vocab-roots-v27-2026-05-21";
+const CACHE_VERSION = "vocab-roots-v28-2026-05-21";
 
 // 미리 캐시할 핵심 자원 목록
 // (어원 JSON은 동적으로 늘어나므로 fetch 시점에 캐시한다)
@@ -73,34 +73,30 @@ self.addEventListener("activate", (event) => {
   self.clients.claim();
 });
 
-/* fetch 전략 — "캐시 우선, 실패 시 네트워크"
- *   - 정적 자원은 캐시에서 즉시 응답해 빠르다.
- *   - 캐시 미스(예: 새로 추가된 어원 JSON)는 네트워크에서 받아온 뒤 캐시에 저장.
- *   - 둘 다 실패하면 오프라인 페이지 대신 그냥 빈 응답을 돌려준다.
+/* fetch 전략 — "네트워크 우선, 실패 시 캐시"
+ *   - 항상 최신 파일을 받으려 한다. CSS·JS 변경이 즉시 반영됨.
+ *   - 네트워크가 끊겼거나 느리면 캐시로 폴백 → 오프라인 동작 보장.
+ *   - 응답은 다음을 위해 항상 캐시에 갱신해 둔다.
  */
 self.addEventListener("fetch", (event) => {
-  // GET 요청만 캐시 대상으로 삼는다
   if (event.request.method !== "GET") return;
 
   event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) return cached;
-      return fetch(event.request)
-        .then((response) => {
-          // 같은 출처 응답이고 정상이면 캐시에 추가
-          if (
-            response &&
-            response.status === 200 &&
-            response.type === "basic"
-          ) {
-            const cloned = response.clone();
-            caches.open(CACHE_VERSION).then((cache) => {
-              cache.put(event.request, cloned);
-            });
-          }
-          return response;
-        })
-        .catch(() => new Response("", { status: 504, statusText: "오프라인" }));
-    })
+    fetch(event.request)
+      .then((response) => {
+        // 정상 응답이면 캐시 갱신
+        if (response && response.status === 200 && response.type === "basic") {
+          const cloned = response.clone();
+          caches.open(CACHE_VERSION).then((cache) => {
+            cache.put(event.request, cloned);
+          });
+        }
+        return response;
+      })
+      .catch(() =>
+        caches.match(event.request).then(
+          (cached) => cached || new Response("", { status: 504, statusText: "오프라인" })
+        )
+      )
   );
 });
