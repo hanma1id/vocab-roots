@@ -32,18 +32,26 @@ STEP_MAP: dict[str, int] = {
     "spec":  1,
     "graph": 1,
     "phon":  1,
+    "vid":   1,   # 추가 — vision, visible 등 익숙
+    "aud":   1,   # 추가 — audio, audible 등 익숙
+    "geo":   1,   # 추가 — geography, geology 등 익숙
     # Step 2 — 자주 쓰지만 추상 의미가 섞임
     "log":   2,
     "ven":   2,
     "mit":   2,
     "ject":  2,
     "pos":   2,
+    "sci":   2,   # 추가 — science 친숙하나 conscience 등 추상
+    "therm": 2,   # 추가 — thermometer 친숙
     # Step 3 — 좀 더 추상적이고 수능 빈출
     "voc":   3,
     "scrib": 3,
     "ced":   3,
     "tract": 3,
     "flex":  3,
+    "cred":  3,   # 추가 — credit/incredible 등 추상
+    "ten":   3,   # 추가 — maintain/sustain 등
+    "chrom": 3,   # 추가 — chromosome 등 학술
 }
 
 

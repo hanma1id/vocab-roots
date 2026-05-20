@@ -6,6 +6,13 @@
       "root": "port",
       "rootForm": "port-",
       "word": "support"
+    },
+    {
+      "prefix": "main-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "maintain"
     }
   ],
   "absorb": [
@@ -83,6 +90,15 @@
       "word": "success"
     }
   ],
+  "achromatic": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "chromatic"
+    }
+  ],
   "acknowledge": [
     {
       "prefix": "con-",
@@ -97,6 +113,15 @@
       "root": "mit",
       "rootForm": "mit-, miss-",
       "word": "admit"
+    }
+  ],
+  "acquire": [
+    {
+      "prefix": "ob-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "obtain"
     }
   ],
   "adaptable": [
@@ -261,6 +286,15 @@
       "word": "contract"
     }
   ],
+  "all-knowing": [
+    {
+      "prefix": "omni-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "omniscient"
+    }
+  ],
   "allow": [
     {
       "prefix": "per-",
@@ -279,11 +313,27 @@
   ],
   "amazing": [
     {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "incredible"
+    },
+    {
       "prefix": "기본형",
       "role": "synonym",
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "spectacular"
+    }
+  ],
+  "amend": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "revise"
     }
   ],
   "anticipate": [
@@ -293,6 +343,15 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "expect"
+    }
+  ],
+  "apparent": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "visible"
     }
   ],
   "appeal to": [
@@ -433,7 +492,41 @@
       "word": "deflect"
     }
   ],
+  "audible": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "inaudible"
+    }
+  ],
+  "auditory": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "visual"
+    }
+  ],
+  "aural": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "auditory"
+    }
+  ],
   "authorize": [
+    {
+      "prefix": "ac-",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "accredit"
+    },
     {
       "prefix": "per-",
       "role": "synonym",
@@ -453,6 +546,13 @@
   ],
   "avoid": [
     {
+      "prefix": "abs-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "abstain"
+    },
+    {
       "prefix": "pre-",
       "role": "synonym",
       "root": "ven",
@@ -467,6 +567,22 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "expect"
+    }
+  ],
+  "aware": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "conscious"
+    },
+    {
+      "prefix": "un-",
+      "role": "antonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "unconscious"
     }
   ],
   "back": [
@@ -521,6 +637,45 @@
       "root": "port",
       "rootForm": "port-",
       "word": "comport"
+    }
+  ],
+  "belief": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credit"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credence"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "creed"
+    }
+  ],
+  "believable": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credible"
+    },
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "incredible"
     }
   ],
   "believe": [
@@ -593,6 +748,15 @@
       "word": "decease"
     }
   ],
+  "black-and-white": [
+    {
+      "prefix": "mono-",
+      "role": "synonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "monochrome"
+    }
+  ],
   "blame": [
     {
       "prefix": "apo-",
@@ -616,6 +780,15 @@
       "root": "dict",
       "rootForm": "dict-",
       "word": "malediction"
+    }
+  ],
+  "blindness": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "vision"
     }
   ],
   "briefcase": [
@@ -722,6 +895,15 @@
       "word": "revoke"
     }
   ],
+  "careless": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "conscientious"
+    }
+  ],
   "carrier": [
     {
       "prefix": "기본형",
@@ -756,6 +938,15 @@
       "root": "ject",
       "rootForm": "ject-",
       "word": "conjecture"
+    }
+  ],
+  "certify": [
+    {
+      "prefix": "ac-",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "accredit"
     }
   ],
   "champion": [
@@ -812,6 +1003,15 @@
       "word": "deject"
     }
   ],
+  "chromatic": [
+    {
+      "prefix": "a-",
+      "role": "antonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "achromatic"
+    }
+  ],
   "claim": [
     {
       "prefix": "pur-",
@@ -819,6 +1019,24 @@
       "root": "port",
       "rootForm": "port-",
       "word": "purport"
+    }
+  ],
+  "clairvoyance": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "prescience"
+    }
+  ],
+  "clairvoyant": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "prescient"
     }
   ],
   "clerk": [
@@ -830,6 +1048,15 @@
       "word": "scribe"
     }
   ],
+  "climax": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "geo",
+      "rootForm": "geo-",
+      "word": "apogee"
+    }
+  ],
   "collection": [
     {
       "prefix": "기본형",
@@ -837,6 +1064,60 @@
       "root": "port",
       "rootForm": "port-",
       "word": "portfolio"
+    }
+  ],
+  "color": [
+    {
+      "prefix": "mono-",
+      "role": "antonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "monochrome"
+    }
+  ],
+  "color-changing": [
+    {
+      "prefix": "photo-",
+      "role": "synonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "photochromic"
+    }
+  ],
+  "color-sensitive": [
+    {
+      "prefix": "pan-",
+      "role": "synonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "panchromatic"
+    }
+  ],
+  "colorful": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "chromatic"
+    }
+  ],
+  "colorless": [
+    {
+      "prefix": "a-",
+      "role": "synonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "achromatic"
+    }
+  ],
+  "comatose": [
+    {
+      "prefix": "un-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "unconscious"
     }
   ],
   "come before": [
@@ -864,6 +1145,38 @@
       "root": "dict",
       "rootForm": "dict-",
       "word": "dedicate"
+    }
+  ],
+  "compliant": [
+    {
+      "prefix": "ob-",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "obedient"
+    },
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "disobedient"
+    }
+  ],
+  "comply": [
+    {
+      "prefix": "ob-",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "obey"
+    },
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "disobey"
     }
   ],
   "conceal": [
@@ -950,6 +1263,29 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "speculate"
+    }
+  ],
+  "conscious": [
+    {
+      "prefix": "un-",
+      "role": "antonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "unconscious"
+    },
+    {
+      "prefix": "sub-",
+      "role": "antonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "subconscious"
+    },
+    {
+      "prefix": "ne-",
+      "role": "antonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "nescient"
     }
   ],
   "consideration": [
@@ -1056,6 +1392,15 @@
       "word": "scribe"
     }
   ],
+  "correct": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "revise"
+    }
+  ],
   "course": [
     {
       "prefix": "trans-",
@@ -1097,6 +1442,33 @@
       "root": "ven",
       "rootForm": "ven-, vent-",
       "word": "invention"
+    }
+  ],
+  "credible": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "incredible"
+    }
+  ],
+  "credit": [
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "discredit"
+    }
+  ],
+  "credulous": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "incredulous"
     }
   ],
   "critic": [
@@ -1160,6 +1532,15 @@
       "word": "convention"
     }
   ],
+  "data": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "evidence"
+    }
+  ],
   "deal": [
     {
       "prefix": "con-",
@@ -1176,6 +1557,15 @@
       "root": "ced",
       "rootForm": "ced-, cess-",
       "word": "decease"
+    }
+  ],
+  "debtor": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "creditor"
     }
   ],
   "decision": [
@@ -1205,6 +1595,15 @@
       "word": "subtract"
     }
   ],
+  "defensible": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "tenable"
+    }
+  ],
   "defer": [
     {
       "prefix": "post-",
@@ -1214,6 +1613,22 @@
       "word": "postpone"
     }
   ],
+  "defy": [
+    {
+      "prefix": "ob-",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "obey"
+    },
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "disobey"
+    }
+  ],
   "delay": [
     {
       "prefix": "post-",
@@ -1221,6 +1636,13 @@
       "root": "pos",
       "rootForm": "pos-, pon-",
       "word": "postpone"
+    },
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "detain"
     }
   ],
   "demise": [
@@ -1345,6 +1767,15 @@
       "word": "monologue"
     }
   ],
+  "diligent": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "conscientious"
+    }
+  ],
   "diminish": [
     {
       "prefix": "de-",
@@ -1399,6 +1830,15 @@
       "word": "dialogue"
     }
   ],
+  "disgrace": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "discredit"
+    }
+  ],
   "dishearten": [
     {
       "prefix": "de-",
@@ -1406,6 +1846,15 @@
       "root": "ject",
       "rootForm": "ject-",
       "word": "deject"
+    }
+  ],
+  "dishonor": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "discredit"
     }
   ],
   "dismantle": [
@@ -1424,6 +1873,24 @@
       "root": "ven",
       "rootForm": "ven-, vent-",
       "word": "convene"
+    }
+  ],
+  "disobedient": [
+    {
+      "prefix": "ob-",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "obedient"
+    }
+  ],
+  "disobey": [
+    {
+      "prefix": "ob-",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "obey"
     }
   ],
   "disperse": [
@@ -1449,6 +1916,15 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "spectacle"
+    }
+  ],
+  "disproof": [
+    {
+      "prefix": "e-",
+      "role": "antonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "evidence"
     }
   ],
   "disrespect": [
@@ -1477,6 +1953,13 @@
     }
   ],
   "distrust": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credit"
+    },
     {
       "prefix": "sus-",
       "role": "synonym",
@@ -1519,6 +2002,15 @@
       "word": "intractable"
     }
   ],
+  "doctrine": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "creed"
+    }
+  ],
   "document": [
     {
       "prefix": "manu-",
@@ -1539,6 +2031,13 @@
   ],
   "doubt": [
     {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credence"
+    },
+    {
       "prefix": "ex-",
       "role": "antonym",
       "root": "spec",
@@ -1554,6 +2053,13 @@
     }
   ],
   "doubtful": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "incredulous"
+    },
     {
       "prefix": "sus-",
       "role": "synonym",
@@ -1589,6 +2095,15 @@
       "word": "diagram"
     }
   ],
+  "drop": [
+    {
+      "prefix": "sus-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "sustain"
+    }
+  ],
   "dubious": [
     {
       "prefix": "sus-",
@@ -1598,6 +2113,15 @@
       "word": "suspicious"
     }
   ],
+  "dutiful": [
+    {
+      "prefix": "ob-",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "obedient"
+    }
+  ],
   "earnings": [
     {
       "prefix": "re-",
@@ -1605,6 +2129,22 @@
       "root": "ven",
       "rootForm": "ven-, vent-",
       "word": "revenue"
+    }
+  ],
+  "earth science": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "geo",
+      "rootForm": "geo-",
+      "word": "geology"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "geo",
+      "rootForm": "geo-",
+      "word": "geophysics"
     }
   ],
   "element": [
@@ -1623,6 +2163,15 @@
       "root": "voc",
       "rootForm": "voc-, vok-",
       "word": "evoke"
+    }
+  ],
+  "empirical": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "scientific"
     }
   ],
   "encourage": [
@@ -1648,6 +2197,24 @@
       "root": "ced",
       "rootForm": "ced-, cess-",
       "word": "cessation"
+    }
+  ],
+  "endorse": [
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "discredit"
+    }
+  ],
+  "endothermic": [
+    {
+      "prefix": "exo-",
+      "role": "antonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "exothermic"
     }
   ],
   "enforce": [
@@ -1765,6 +2332,15 @@
       "word": "respect"
     }
   ],
+  "ethics": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "conscience"
+    }
+  ],
   "euphony": [
     {
       "prefix": "caco-",
@@ -1785,11 +2361,43 @@
   ],
   "examine": [
     {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "audit"
+    },
+    {
       "prefix": "in-",
       "role": "synonym",
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "inspect"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "review"
+    }
+  ],
+  "examiner": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "auditor"
+    }
+  ],
+  "exclude": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "contain"
     }
   ],
   "exert": [
@@ -1808,6 +2416,15 @@
       "root": "ced",
       "rootForm": "ced-, cess-",
       "word": "access"
+    }
+  ],
+  "exothermic": [
+    {
+      "prefix": "endo-",
+      "role": "antonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "endothermic"
     }
   ],
   "expedite": [
@@ -1932,6 +2549,15 @@
       "word": "inject"
     }
   ],
+  "eyesight": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "vision"
+    }
+  ],
   "fact": [
     {
       "prefix": "con-",
@@ -1957,6 +2583,15 @@
       "root": "ced",
       "rootForm": "ced-, cess-",
       "word": "success"
+    }
+  ],
+  "faith": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credence"
     }
   ],
   "fall short": [
@@ -2006,6 +2641,13 @@
   ],
   "follow": [
     {
+      "prefix": "ob-",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "obey"
+    },
+    {
       "prefix": "pre-",
       "role": "antonym",
       "root": "ced",
@@ -2047,6 +2689,15 @@
       "word": "predict"
     }
   ],
+  "foresight": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "prescience"
+    }
+  ],
   "foreword": [
     {
       "prefix": "epi-",
@@ -2056,6 +2707,15 @@
       "word": "epilogue"
     }
   ],
+  "free": [
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "detain"
+    }
+  ],
   "gather": [
     {
       "prefix": "con-",
@@ -2063,6 +2723,24 @@
       "root": "ven",
       "rootForm": "ven-, vent-",
       "word": "convene"
+    }
+  ],
+  "gauge": [
+    {
+      "prefix": "therm-",
+      "role": "synonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "thermometer"
+    }
+  ],
+  "get": [
+    {
+      "prefix": "ob-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "obtain"
     }
   ],
   "gist": [
@@ -2135,6 +2813,24 @@
       "word": "speculate"
     }
   ],
+  "gullible": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credulous"
+    }
+  ],
+  "hall": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "auditorium"
+    }
+  ],
   "halt": [
     {
       "prefix": "기본형",
@@ -2187,6 +2883,24 @@
       "word": "cacophony"
     }
   ],
+  "heat": [
+    {
+      "prefix": "therm-",
+      "role": "synonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "thermal"
+    }
+  ],
+  "heliocentric": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "geo",
+      "rootForm": "geo-",
+      "word": "geocentric"
+    }
+  ],
   "help": [
     {
       "prefix": "sup-",
@@ -2212,6 +2926,13 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "conspicuous"
+    },
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "invisible"
     }
   ],
   "hide": [
@@ -2257,6 +2978,33 @@
       "word": "dismiss"
     }
   ],
+  "hold": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "contain"
+    }
+  ],
+  "hold back": [
+    {
+      "prefix": "de-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "detain"
+    }
+  ],
+  "hold on to": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "retain"
+    }
+  ],
   "homonym": [
     {
       "prefix": "homo-",
@@ -2293,6 +3041,24 @@
       "word": "abject"
     }
   ],
+  "hyperthermia": [
+    {
+      "prefix": "hypo-",
+      "role": "antonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "hypothermia"
+    }
+  ],
+  "hypothermia": [
+    {
+      "prefix": "hyper-",
+      "role": "antonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "hyperthermia"
+    }
+  ],
   "hypothesis": [
     {
       "prefix": "con-",
@@ -2309,6 +3075,15 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "speculate"
+    }
+  ],
+  "ignorant": [
+    {
+      "prefix": "ne-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "nescient"
     }
   ],
   "ignore": [
@@ -2345,6 +3120,15 @@
       "word": "reflection"
     }
   ],
+  "imagine": [
+    {
+      "prefix": "en-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "envision"
+    }
+  ],
   "imitate": [
     {
       "prefix": "in-",
@@ -2361,6 +3145,15 @@
       "root": "tract",
       "rootForm": "tract-",
       "word": "extract"
+    }
+  ],
+  "implausible": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credible"
     }
   ],
   "import": [
@@ -2381,6 +3174,15 @@
       "word": "spectacular"
     }
   ],
+  "inaudible": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "audible"
+    }
+  ],
   "incite": [
     {
       "prefix": "pro-",
@@ -2397,6 +3199,13 @@
       "root": "mit",
       "rootForm": "mit-, miss-",
       "word": "omit"
+    },
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "contain"
     }
   ],
   "income": [
@@ -2417,6 +3226,24 @@
       "word": "conspicuous"
     }
   ],
+  "incredible": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credible"
+    }
+  ],
+  "indefensible": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "tenable"
+    }
+  ],
   "index": [
     {
       "prefix": "cata-",
@@ -2424,6 +3251,15 @@
       "root": "log",
       "rootForm": "log-, -logy",
       "word": "catalog"
+    }
+  ],
+  "indulge": [
+    {
+      "prefix": "abs-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "abstain"
     }
   ],
   "inflexible": [
@@ -2471,6 +3307,15 @@
       "word": "epigraph"
     }
   ],
+  "insensible": [
+    {
+      "prefix": "un-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "unconscious"
+    }
+  ],
   "insert": [
     {
       "prefix": "in-",
@@ -2499,6 +3344,15 @@
       "root": "tract",
       "rootForm": "tract-",
       "word": "extract"
+    }
+  ],
+  "inspect": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "audit"
     }
   ],
   "instinct": [
@@ -2555,6 +3409,24 @@
       "word": "prologue"
     }
   ],
+  "invisible": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "visible"
+    }
+  ],
+  "irresponsible": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "conscientious"
+    }
+  ],
   "issue": [
     {
       "prefix": "re-",
@@ -2587,6 +3459,31 @@
       "root": "pos",
       "rootForm": "pos-, pon-",
       "word": "dispose"
+    },
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "retain"
+    }
+  ],
+  "keep up": [
+    {
+      "prefix": "main-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "maintain"
+    }
+  ],
+  "keeping": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "retention"
     }
   ],
   "kneel": [
@@ -2607,6 +3504,24 @@
       "word": "speculate"
     }
   ],
+  "knowing": [
+    {
+      "prefix": "ne-",
+      "role": "antonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "nescient"
+    }
+  ],
+  "knowledge": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "science"
+    }
+  ],
   "lack": [
     {
       "prefix": "ex-",
@@ -2616,6 +3531,24 @@
       "word": "exceed"
     }
   ],
+  "landlord": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "tenant"
+    }
+  ],
+  "latent": [
+    {
+      "prefix": "sub-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "subconscious"
+    }
+  ],
   "leave out": [
     {
       "prefix": "o-",
@@ -2623,6 +3556,24 @@
       "root": "mit",
       "rootForm": "mit-, miss-",
       "word": "omit"
+    }
+  ],
+  "lender": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "creditor"
+    }
+  ],
+  "lessee": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "tenant"
     }
   ],
   "lessen": [
@@ -2686,6 +3637,15 @@
       "word": "biography"
     }
   ],
+  "light-sensitive": [
+    {
+      "prefix": "photo-",
+      "role": "synonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "photochromic"
+    }
+  ],
   "list": [
     {
       "prefix": "cata-",
@@ -2693,6 +3653,24 @@
       "root": "log",
       "rootForm": "log-, -logy",
       "word": "catalog"
+    }
+  ],
+  "listener": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "auditor"
+    }
+  ],
+  "listeners": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "audience"
     }
   ],
   "location": [
@@ -2709,6 +3687,31 @@
       "root": "ven",
       "rootForm": "ven-, vent-",
       "word": "venue"
+    }
+  ],
+  "lose": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "retain"
+    },
+    {
+      "prefix": "ob-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "obtain"
+    }
+  ],
+  "loss": [
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "retention"
     }
   ],
   "loudspeaker": [
@@ -2729,6 +3732,15 @@
       "word": "attract"
     }
   ],
+  "maintain": [
+    {
+      "prefix": "sus-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "sustain"
+    }
+  ],
   "malediction": [
     {
       "prefix": "bene-",
@@ -2738,6 +3750,15 @@
       "word": "benediction"
     }
   ],
+  "manage": [
+    {
+      "prefix": "super-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "supervise"
+    }
+  ],
   "manageable": [
     {
       "prefix": "in-",
@@ -2745,6 +3766,15 @@
       "root": "tract",
       "rootForm": "tract-",
       "word": "intractable"
+    }
+  ],
+  "material": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "content"
     }
   ],
   "matter": [
@@ -2860,6 +3890,15 @@
       "word": "inflection"
     }
   ],
+  "monochrome": [
+    {
+      "prefix": "poly-",
+      "role": "antonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "polychrome"
+    }
+  ],
   "monologue": [
     {
       "prefix": "dia-",
@@ -2867,6 +3906,15 @@
       "root": "log",
       "rootForm": "log-, -logy",
       "word": "dialogue"
+    }
+  ],
+  "morality": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "conscience"
     }
   ],
   "movable": [
@@ -2878,6 +3926,31 @@
       "word": "portable"
     }
   ],
+  "multicolored": [
+    {
+      "prefix": "mono-",
+      "role": "antonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "monochromatic"
+    },
+    {
+      "prefix": "poly-",
+      "role": "synonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "polychrome"
+    }
+  ],
+  "naive": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credulous"
+    }
+  ],
   "neglect": [
     {
       "prefix": "de-",
@@ -2885,6 +3958,20 @@
       "root": "dict",
       "rootForm": "dict-",
       "word": "dedicate"
+    },
+    {
+      "prefix": "main-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "maintain"
+    },
+    {
+      "prefix": "super-",
+      "role": "antonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "supervise"
     }
   ],
   "noticeable": [
@@ -2894,6 +3981,13 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "conspicuous"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "visible"
     }
   ],
   "notify": [
@@ -2903,6 +3997,24 @@
       "root": "port",
       "rootForm": "port-",
       "word": "report"
+    }
+  ],
+  "obedient": [
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "disobedient"
+    }
+  ],
+  "obey": [
+    {
+      "prefix": "dis-",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "disobey"
     }
   ],
   "object to": [
@@ -2948,6 +4060,13 @@
       "root": "pos",
       "rootForm": "pos-, pon-",
       "word": "propose"
+    },
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "provide"
     }
   ],
   "omit": [
@@ -2987,6 +4106,24 @@
       "root": "voc",
       "rootForm": "voc-, vok-",
       "word": "advocate"
+    }
+  ],
+  "optic": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "visual"
+    }
+  ],
+  "optical": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "visual"
     }
   ],
   "orchestra piece": [
@@ -3050,6 +4187,15 @@
       "word": "vocal"
     }
   ],
+  "overheating": [
+    {
+      "prefix": "hyper-",
+      "role": "synonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "hyperthermia"
+    }
+  ],
   "overlook": [
     {
       "prefix": "in-",
@@ -3057,6 +4203,15 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "inspect"
+    }
+  ],
+  "oversee": [
+    {
+      "prefix": "super-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "supervise"
     }
   ],
   "p.s.": [
@@ -3095,6 +4250,15 @@
       "word": "trajectory"
     }
   ],
+  "peak": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "geo",
+      "rootForm": "geo-",
+      "word": "apogee"
+    }
+  ],
   "penmanship": [
     {
       "prefix": "기본형",
@@ -3104,6 +4268,15 @@
       "word": "calligraphy"
     }
   ],
+  "perceptible": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "audible"
+    }
+  ],
   "percussion instrument": [
     {
       "prefix": "xylo-",
@@ -3111,6 +4284,15 @@
       "root": "phon",
       "rootForm": "phon-",
       "word": "xylophone"
+    }
+  ],
+  "perigee": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "geo",
+      "rootForm": "geo-",
+      "word": "apogee"
     }
   ],
   "permit": [
@@ -3165,6 +4347,13 @@
       "root": "graph",
       "rootForm": "graph-",
       "word": "photograph"
+    },
+    {
+      "prefix": "en-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "envision"
     }
   ],
   "piece": [
@@ -3201,6 +4390,15 @@
       "word": "project"
     }
   ],
+  "plausible": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credible"
+    }
+  ],
   "pledge": [
     {
       "prefix": "com-",
@@ -3224,6 +4422,15 @@
       "root": "dict",
       "rootForm": "dict-",
       "word": "indicate"
+    }
+  ],
+  "polychrome": [
+    {
+      "prefix": "mono-",
+      "role": "antonym",
+      "root": "chrom",
+      "rootForm": "chrom-, chromo-",
+      "word": "monochrome"
     }
   ],
   "ponder": [
@@ -3278,6 +4485,22 @@
       "root": "dict",
       "rootForm": "dict-",
       "word": "dictate"
+    }
+  ],
+  "preservation": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "retention"
+    },
+    {
+      "prefix": "main-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "maintenance"
     }
   ],
   "print": [
@@ -3352,6 +4575,15 @@
       "word": "conspicuous"
     }
   ],
+  "proof": [
+    {
+      "prefix": "e-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "evidence"
+    }
+  ],
   "prophecy": [
     {
       "prefix": "pre-",
@@ -3359,6 +4591,15 @@
       "root": "dict",
       "rootForm": "dict-",
       "word": "prediction"
+    }
+  ],
+  "prophetic": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "prescient"
     }
   ],
   "protest": [
@@ -3388,6 +4629,15 @@
       "word": "extract"
     }
   ],
+  "qualifications": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credentials"
+    }
+  ],
   "quest": [
     {
       "prefix": "ad-",
@@ -3404,6 +4654,15 @@
       "root": "log",
       "rootForm": "log-, -logy",
       "word": "logic"
+    }
+  ],
+  "re-examine": [
+    {
+      "prefix": "re-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "review"
     }
   ],
   "reaction": [
@@ -3424,6 +4683,31 @@
       "word": "logic"
     }
   ],
+  "rebel": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "disobey"
+    }
+  ],
+  "rebellious": [
+    {
+      "prefix": "ob-",
+      "role": "antonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "obedient"
+    },
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "disobedient"
+    }
+  ],
   "recant": [
     {
       "prefix": "re-",
@@ -3440,6 +4724,15 @@
       "root": "mit",
       "rootForm": "mit-, miss-",
       "word": "transmit"
+    }
+  ],
+  "receptacle": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "container"
     }
   ],
   "recommend": [
@@ -3469,6 +4762,24 @@
       "word": "phonograph"
     }
   ],
+  "references": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credentials"
+    }
+  ],
+  "refrain": [
+    {
+      "prefix": "abs-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "abstain"
+    }
+  ],
   "refuse": [
     {
       "prefix": "con-",
@@ -3483,6 +4794,24 @@
       "root": "ject",
       "rootForm": "ject-",
       "word": "reject"
+    }
+  ],
+  "regional": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "geo",
+      "rootForm": "geo-",
+      "word": "geographic"
+    }
+  ],
+  "regulator": [
+    {
+      "prefix": "thermo-",
+      "role": "synonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "thermostat"
     }
   ],
   "reject": [
@@ -3515,6 +4844,29 @@
       "root": "mit",
       "rootForm": "mit-, miss-",
       "word": "emit"
+    },
+    {
+      "prefix": "re-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "retain"
+    },
+    {
+      "prefix": "de-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "detain"
+    }
+  ],
+  "reliability": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credibility"
     }
   ],
   "religious studies": [
@@ -3558,6 +4910,15 @@
       "word": "extract"
     }
   ],
+  "renter": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "tenant"
+    }
+  ],
   "repel": [
     {
       "prefix": "at-",
@@ -3583,6 +4944,15 @@
       "root": "tract",
       "rootForm": "tract-",
       "word": "attractive"
+    }
+  ],
+  "researcher": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "scientist"
     }
   ],
   "reserved": [
@@ -3660,6 +5030,15 @@
       "word": "expose"
     }
   ],
+  "revoke": [
+    {
+      "prefix": "ac-",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "accredit"
+    }
+  ],
   "rigid": [
     {
       "prefix": "기본형",
@@ -3721,6 +5100,15 @@
       "root": "ject",
       "rootForm": "ject-",
       "word": "project"
+    }
+  ],
+  "scholar": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "scientist"
     }
   ],
   "scorn": [
@@ -3793,6 +5181,24 @@
       "word": "export"
     }
   ],
+  "sensible": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "conscious"
+    }
+  ],
+  "set": [
+    {
+      "prefix": "tele-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "television"
+    }
+  ],
   "shell": [
     {
       "prefix": "pro-",
@@ -3852,6 +5258,13 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "spectacle"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "vision"
     }
   ],
   "sign up": [
@@ -3881,6 +5294,22 @@
       "word": "vocal"
     }
   ],
+  "skeptical": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credulous"
+    },
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "incredulous"
+    }
+  ],
   "skip": [
     {
       "prefix": "o-",
@@ -3908,6 +5337,15 @@
       "word": "photograph"
     }
   ],
+  "sneak peek": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "preview"
+    }
+  ],
   "soliloquy": [
     {
       "prefix": "mono-",
@@ -3926,6 +5364,15 @@
       "word": "provoke"
     }
   ],
+  "sound": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "audio"
+    }
+  ],
   "sound unit": [
     {
       "prefix": "기본형",
@@ -3933,6 +5380,15 @@
       "root": "phon",
       "rootForm": "phon-",
       "word": "phoneme"
+    }
+  ],
+  "spectators": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "audience"
     }
   ],
   "speculation": [
@@ -4064,6 +5520,13 @@
       "root": "graph",
       "rootForm": "graph-",
       "word": "monograph"
+    },
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "science"
     }
   ],
   "stunning": [
@@ -4073,6 +5536,15 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "spectacular"
+    }
+  ],
+  "substance": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "content"
     }
   ],
   "suggest": [
@@ -4100,6 +5572,15 @@
       "word": "convoke"
     }
   ],
+  "supply": [
+    {
+      "prefix": "pro-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "provide"
+    }
+  ],
   "support": [
     {
       "prefix": "op-",
@@ -4107,6 +5588,13 @@
       "root": "pos",
       "rootForm": "pos-, pon-",
       "word": "oppose"
+    },
+    {
+      "prefix": "sus-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "sustain"
     },
     {
       "prefix": "ad-",
@@ -4152,6 +5640,15 @@
       "word": "support"
     }
   ],
+  "systematic": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "scientific"
+    }
+  ],
   "take away": [
     {
       "prefix": "sub-",
@@ -4170,6 +5667,15 @@
       "word": "mission"
     }
   ],
+  "temperature": [
+    {
+      "prefix": "therm-",
+      "role": "synonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "thermal"
+    }
+  ],
   "text": [
     {
       "prefix": "기본형",
@@ -4184,6 +5690,24 @@
       "root": "scrib",
       "rootForm": "scrib-, script-",
       "word": "manuscript"
+    }
+  ],
+  "theater": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "auditorium"
+    }
+  ],
+  "thorough": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "conscientious"
     }
   ],
   "throw out": [
@@ -4215,11 +5739,27 @@
   ],
   "topography": [
     {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "geo",
+      "rootForm": "geo-",
+      "word": "geography"
+    },
+    {
       "prefix": "geo-",
       "role": "synonym",
       "root": "graph",
       "rootForm": "graph-",
       "word": "geography"
+    }
+  ],
+  "trailer": [
+    {
+      "prefix": "pre-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "preview"
     }
   ],
   "transfer": [
@@ -4276,11 +5816,36 @@
   ],
   "trust": [
     {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credit"
+    },
+    {
       "prefix": "sus-",
       "role": "antonym",
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "suspect"
+    }
+  ],
+  "trusting": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "incredulous"
+    }
+  ],
+  "trustworthiness": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "credibility"
     }
   ],
   "trustworthy": [
@@ -4292,6 +5857,15 @@
       "word": "suspicious"
     }
   ],
+  "tryout": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "audition"
+    }
+  ],
   "turn down": [
     {
       "prefix": "re-",
@@ -4301,6 +5875,15 @@
       "word": "reject"
     }
   ],
+  "tv": [
+    {
+      "prefix": "tele-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "television"
+    }
+  ],
   "unattractive": [
     {
       "prefix": "at-",
@@ -4308,6 +5891,40 @@
       "root": "tract",
       "rootForm": "tract-",
       "word": "attractive"
+    }
+  ],
+  "unaware": [
+    {
+      "prefix": "ne-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "nescient"
+    }
+  ],
+  "unbelievable": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "cred",
+      "rootForm": "cred-",
+      "word": "incredible"
+    }
+  ],
+  "unconscious": [
+    {
+      "prefix": "con-",
+      "role": "antonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "conscious"
+    },
+    {
+      "prefix": "sub-",
+      "role": "synonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "subconscious"
     }
   ],
   "uncover": [
@@ -4328,6 +5945,15 @@
       "word": "venture"
     }
   ],
+  "unhearable": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "inaudible"
+    }
+  ],
   "unimpressive": [
     {
       "prefix": "기본형",
@@ -4346,6 +5972,33 @@
       "word": "intractable"
     }
   ],
+  "unruly": [
+    {
+      "prefix": "dis-",
+      "role": "synonym",
+      "root": "aud",
+      "rootForm": "aud-, audi-",
+      "word": "disobedient"
+    }
+  ],
+  "unscientific": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "sci",
+      "rootForm": "sci-",
+      "word": "scientific"
+    }
+  ],
+  "unseen": [
+    {
+      "prefix": "in-",
+      "role": "synonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "invisible"
+    }
+  ],
   "unsubscribe": [
     {
       "prefix": "sub-",
@@ -4353,6 +6006,33 @@
       "root": "scrib",
       "rootForm": "scrib-, script-",
       "word": "subscribe"
+    }
+  ],
+  "untenable": [
+    {
+      "prefix": "기본형",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "tenable"
+    }
+  ],
+  "uphold": [
+    {
+      "prefix": "main-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "maintain"
+    }
+  ],
+  "upkeep": [
+    {
+      "prefix": "main-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "maintenance"
     }
   ],
   "utter": [
@@ -4364,6 +6044,15 @@
       "word": "vocalize"
     }
   ],
+  "vacuum flask": [
+    {
+      "prefix": "therm-",
+      "role": "synonym",
+      "root": "therm",
+      "rootForm": "therm-, thermo-",
+      "word": "thermos"
+    }
+  ],
   "vague": [
     {
       "prefix": "기본형",
@@ -4371,6 +6060,15 @@
       "root": "graph",
       "rootForm": "graph-",
       "word": "graphic"
+    }
+  ],
+  "valid": [
+    {
+      "prefix": "기본형",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "tenable"
     }
   ],
   "venture": [
@@ -4382,6 +6080,15 @@
       "word": "project"
     }
   ],
+  "vessel": [
+    {
+      "prefix": "con-",
+      "role": "synonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "container"
+    }
+  ],
   "viewpoint": [
     {
       "prefix": "per-",
@@ -4389,6 +6096,15 @@
       "root": "spec",
       "rootForm": "spec-, spect-, spic-",
       "word": "perspective"
+    }
+  ],
+  "visible": [
+    {
+      "prefix": "in-",
+      "role": "antonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "invisible"
     }
   ],
   "visual": [
@@ -4443,6 +6159,15 @@
       "root": "flex",
       "rootForm": "flex-, flect-",
       "word": "deflect"
+    }
+  ],
+  "weaken": [
+    {
+      "prefix": "sus-",
+      "role": "antonym",
+      "root": "ten",
+      "rootForm": "ten-, tain-, tin-",
+      "word": "sustain"
     }
   ],
   "wean": [
@@ -4510,6 +6235,15 @@
       "root": "voc",
       "rootForm": "voc-, vok-",
       "word": "revoke"
+    }
+  ],
+  "withhold": [
+    {
+      "prefix": "pro-",
+      "role": "antonym",
+      "root": "vid",
+      "rootForm": "vid-, vis-",
+      "word": "provide"
     }
   ],
   "word origin": [

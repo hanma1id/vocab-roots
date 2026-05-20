@@ -28,7 +28,10 @@ VERIFIED_IDS: set[str] = {
     "spec", "dict", "port", "tract", "ject",
     "scrib", "ven", "ced", "pos", "mit",
     "voc", "flex", "graph", "log", "phon",
-    # 새로 검수 완료된 어원을 여기에 추가 (예 "vid", "aud")
+    # 2026-05-21 자동검증 통과 8개
+    "cred",                              # 검증 OK
+    "aud", "sci", "ten", "vid",          # 분류 정확 (누락만 있음)
+    "chrom", "therm", "geo",             # 손수정 완료
 }
 
 

@@ -249,5 +249,6 @@
       ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 3
 }

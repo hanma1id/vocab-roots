@@ -8,12 +8,36 @@
     "prefix": "ab-"
   },
   {
+    "w": "abstain",
+    "m": "삼가다, 절제하다 (잡지 않고 떨어져 있다)",
+    "p": "/æbˈsteɪn/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "abs-"
+  },
+  {
     "w": "access",
     "m": "접근(하다), 이용권",
     "p": "/ˈækˌsɛs/",
     "root": "ced",
     "rootForm": "ced-, cess-",
     "prefix": "ac-"
+  },
+  {
+    "w": "accredit",
+    "m": "공인하다, 인가하다",
+    "p": "/əˈkrɛdɪt/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "ac-"
+  },
+  {
+    "w": "achromatic",
+    "m": "무색의, 색이 없는",
+    "p": "/ˌeɪkroʊˈmætɪk/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "a-"
   },
   {
     "w": "addict",
@@ -56,6 +80,14 @@
     "prefix": "ad-"
   },
   {
+    "w": "apogee",
+    "m": "원지점 (지구에서 가장 멀리 떨어진 점); 정점",
+    "p": "/ˈæpədʒiː/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
     "w": "apologize",
     "m": "사과하다, 해명하다",
     "p": "/əˈpɑːləˌdʒaɪz/",
@@ -78,6 +110,78 @@
     "root": "tract",
     "rootForm": "tract-",
     "prefix": "at-"
+  },
+  {
+    "w": "audible",
+    "m": "들리는, 들을 수 있는",
+    "p": "/ˈɔːdəbəl/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "audience",
+    "m": "청중, 관객",
+    "p": "/ˈɔːdiəns/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "audio",
+    "m": "소리, 음향의",
+    "p": "/ˈɔːdioʊ/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "audiovisual",
+    "m": "시청각의",
+    "p": "/ˌɔːdiəˈvɪʒuəl/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "audit",
+    "m": "회계 감사; 감사하다",
+    "p": "/ˈɔːdɪt/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "audition",
+    "m": "오디션, 오디션을 보다",
+    "p": "/ɔːˈdɪʃən/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "auditor",
+    "m": "감사관, 청강생",
+    "p": "/ˈɔːdɪtər/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "auditorium",
+    "m": "강당, 청중석",
+    "p": "/ˌɔːdɪˈtɔːriəm/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "auditory",
+    "m": "청각의, 귀의",
+    "p": "/ˈɔːdɪtɔːri/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "기본형"
   },
   {
     "w": "autobiography",
@@ -152,6 +256,46 @@
     "prefix": "기본형"
   },
   {
+    "w": "chromatic",
+    "m": "색채의, 반음계의",
+    "p": "/kroʊˈmætɪk/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "chromatography",
+    "m": "크로마토그래피 (색으로 물질을 분리하는 분석법)",
+    "p": "/ˌkroʊməˈtɑːɡrəfi/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "chromato-"
+  },
+  {
+    "w": "chrome",
+    "m": "크롬, 크롬 도금",
+    "p": "/kroʊm/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "chromium",
+    "m": "크롬 (24번 원소)",
+    "p": "/ˈkroʊmiəm/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "chromosome",
+    "m": "염색체 (색이 잘 입혀지는 세포 구조)",
+    "p": "/ˈkroʊməˌsoʊm/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "기본형"
+  },
+  {
     "w": "circumflex",
     "m": "곡절 부호 (^)",
     "p": "/ˈsɜːrkəmflɛks/",
@@ -208,6 +352,30 @@
     "prefix": "con-"
   },
   {
+    "w": "conscience",
+    "m": "양심",
+    "p": "/ˈkɑːnʃəns/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "con-"
+  },
+  {
+    "w": "conscientious",
+    "m": "양심적인, 성실한",
+    "p": "/ˌkɑːnʃiˈɛnʃəs/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "con-"
+  },
+  {
+    "w": "conscious",
+    "m": "의식하는, 자각하는",
+    "p": "/ˈkɑːnʃəs/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "con-"
+  },
+  {
     "w": "conscript",
     "m": "징집하다, 강제 징용하다",
     "p": "/kənˈskrɪpt/",
@@ -221,6 +389,30 @@
     "p": "/kənˈspɪkjuəs/",
     "root": "spec",
     "rootForm": "spec-, spect-, spic-",
+    "prefix": "con-"
+  },
+  {
+    "w": "contain",
+    "m": "포함하다, 담다 (함께 잡고 있다)",
+    "p": "/kənˈteɪn/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "con-"
+  },
+  {
+    "w": "container",
+    "m": "용기, 컨테이너",
+    "p": "/kənˈteɪnər/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "con-"
+  },
+  {
+    "w": "content",
+    "m": "내용물, 콘텐츠 (안에 잡혀 있는 것)",
+    "p": "/ˈkɑntɛnt/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
     "prefix": "con-"
   },
   {
@@ -262,6 +454,70 @@
     "root": "voc",
     "rootForm": "voc-, vok-",
     "prefix": "con-"
+  },
+  {
+    "w": "credence",
+    "m": "믿음, 신뢰",
+    "p": "/ˈkriːdəns/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "credentials",
+    "m": "자격 증명서, 신임장",
+    "p": "/krəˈdɛnʃəlz/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "credibility",
+    "m": "신뢰성, 신빙성",
+    "p": "/ˌkrɛdəˈbɪləti/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "credible",
+    "m": "믿을 만한, 신뢰할 수 있는",
+    "p": "/ˈkrɛdəbl/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "credit",
+    "m": "신용, 신뢰; 신용하다",
+    "p": "/ˈkrɛdɪt/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "creditor",
+    "m": "채권자",
+    "p": "/ˈkrɛdɪtər/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "credulous",
+    "m": "잘 믿는, 속기 쉬운",
+    "p": "/ˈkrɛdʒələs/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "creed",
+    "m": "신조, 신념",
+    "p": "/kriːd/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "기본형"
   },
   {
     "w": "decease",
@@ -328,6 +584,14 @@
     "prefix": "de-"
   },
   {
+    "w": "detain",
+    "m": "붙잡아 두다, 지체시키다",
+    "p": "/dɪˈteɪn/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "de-"
+  },
+  {
     "w": "detract",
     "m": "(가치·명성을) 떨어뜨리다, 손상시키다",
     "p": "/dɪˈtrækt/",
@@ -368,12 +632,36 @@
     "prefix": "기본형"
   },
   {
+    "w": "discredit",
+    "m": "신용을 떨어뜨리다; 불명예",
+    "p": "/dɪsˈkrɛdɪt/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "dis-"
+  },
+  {
     "w": "dismiss",
     "m": "해고하다, 묵살하다 (떼어 보내다)",
     "p": "/dɪsˈmɪs/",
     "root": "mit",
     "rootForm": "mit-, miss-",
     "prefix": "기본형"
+  },
+  {
+    "w": "disobedient",
+    "m": "불순종하는, 말을 안 듣는",
+    "p": "/ˌdɪsoʊˈbiːdiənt/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "dis-"
+  },
+  {
+    "w": "disobey",
+    "m": "불복종하다, 어기다",
+    "p": "/ˌdɪsoʊˈbeɪ/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "dis-"
   },
   {
     "w": "dispose",
@@ -414,6 +702,22 @@
     "root": "mit",
     "rootForm": "mit-, miss-",
     "prefix": "e-"
+  },
+  {
+    "w": "endothermic",
+    "m": "흡열성의 (열을 안으로 흡수하는)",
+    "p": "/ˌɛndoʊˈθɜːrmɪk/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "endo-"
+  },
+  {
+    "w": "envision",
+    "m": "마음속에 그리다, 상상하다",
+    "p": "/ɪnˈvɪʒən/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "en-"
   },
   {
     "w": "epigraph",
@@ -464,6 +768,14 @@
     "prefix": "e-"
   },
   {
+    "w": "evidence",
+    "m": "증거, 흔적",
+    "p": "/ˈɛvɪdəns/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "e-"
+  },
+  {
     "w": "evoke",
     "m": "불러일으키다 (밖으로 불러내다)",
     "p": "/ɪˈvoʊk/",
@@ -478,6 +790,14 @@
     "root": "ced",
     "rootForm": "ced-, cess-",
     "prefix": "ex-"
+  },
+  {
+    "w": "exothermic",
+    "m": "발열성의 (열을 밖으로 내보내는)",
+    "p": "/ˌɛksoʊˈθɜːrmɪk/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "exo-"
   },
   {
     "w": "expect",
@@ -552,11 +872,107 @@
     "prefix": "기본형"
   },
   {
+    "w": "geocentric",
+    "m": "지구 중심의",
+    "p": "/ˌdʒiːoʊˈsɛntrɪk/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geode",
+    "m": "정동 (속에 결정이 든 둥근 돌)",
+    "p": "/ˈdʒiːoʊd/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geographic",
+    "m": "지리(학)의",
+    "p": "/ˌdʒiːəˈɡræfɪk/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geography",
+    "m": "지리(학)",
+    "p": "/dʒiˈɑːɡrəfi/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
     "w": "geography",
     "m": "지리학 (땅을 그린 것)",
     "p": "/dʒiˈɑɡrəfi/",
     "root": "graph",
     "rootForm": "graph-",
+    "prefix": "geo-"
+  },
+  {
+    "w": "geologist",
+    "m": "지질학자",
+    "p": "/dʒiˈɑːlədʒɪst/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geology",
+    "m": "지질학",
+    "p": "/dʒiˈɑːlədʒi/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geometry",
+    "m": "기하학 (원래 '땅을 재는 것')",
+    "p": "/dʒiˈɑːmətri/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geophysics",
+    "m": "지구물리학",
+    "p": "/ˌdʒiːoʊˈfɪzɪks/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geopolitics",
+    "m": "지정학",
+    "p": "/ˌdʒiːoʊˈpɑːlətɪks/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geostationary",
+    "m": "정지 궤도의 (지구와 함께 도는)",
+    "p": "/ˌdʒiːoʊˈsteɪʃəneri/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geothermal",
+    "m": "지열의 (땅의 열을 이용한)",
+    "p": "/ˌdʒiːoʊˈθɜːrməl/",
+    "root": "geo",
+    "rootForm": "geo-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "geothermal",
+    "m": "지열의, 땅의 열을 이용한",
+    "p": "/ˌdʒiːoʊˈθɜːrməl/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
     "prefix": "geo-"
   },
   {
@@ -576,12 +992,36 @@
     "prefix": "기본형"
   },
   {
+    "w": "heterochromia",
+    "m": "홍채이색증 (양쪽 눈동자 색이 다름)",
+    "p": "/ˌhɛtəroʊˈkroʊmiə/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "hetero-"
+  },
+  {
     "w": "homophone",
     "m": "동음이의어",
     "p": "/ˈhɒməˌfoʊn/",
     "root": "phon",
     "rootForm": "phon-",
     "prefix": "homo-"
+  },
+  {
+    "w": "hyperthermia",
+    "m": "고체온증",
+    "p": "/ˌhaɪpərˈθɜːrmiə/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "hyper-"
+  },
+  {
+    "w": "hypothermia",
+    "m": "저체온증",
+    "p": "/ˌhaɪpoʊˈθɜːrmiə/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "hypo-"
   },
   {
     "w": "import",
@@ -598,6 +1038,30 @@
     "root": "pos",
     "rootForm": "pos-, pon-",
     "prefix": "im-"
+  },
+  {
+    "w": "inaudible",
+    "m": "들리지 않는, 들을 수 없는",
+    "p": "/ɪnˈɔːdəbəl/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "in-"
+  },
+  {
+    "w": "incredible",
+    "m": "믿을 수 없는, 놀라운",
+    "p": "/ɪnˈkrɛdəbl/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "in-"
+  },
+  {
+    "w": "incredulous",
+    "m": "쉽게 믿지 않는, 의심스러운",
+    "p": "/ɪnˈkrɛdʒələs/",
+    "root": "cred",
+    "rootForm": "cred-",
+    "prefix": "in-"
   },
   {
     "w": "indicate",
@@ -696,6 +1160,14 @@
     "prefix": "in-"
   },
   {
+    "w": "invisible",
+    "m": "보이지 않는, 투명한",
+    "p": "/ɪnˈvɪzəbəl/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "in-"
+  },
+  {
     "w": "invoke",
     "m": "기원하다, 발동시키다 (불러내다)",
     "p": "/ɪnˈvoʊk/",
@@ -710,6 +1182,22 @@
     "root": "log",
     "rootForm": "log-, -logy",
     "prefix": "기본형"
+  },
+  {
+    "w": "maintain",
+    "m": "유지하다, 주장하다 (손에 잡고 있다)",
+    "p": "/meɪnˈteɪn/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "main-"
+  },
+  {
+    "w": "maintenance",
+    "m": "유지, 보수",
+    "p": "/ˈmeɪntənəns/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "main-"
   },
   {
     "w": "malediction",
@@ -760,6 +1248,22 @@
     "prefix": "기본형"
   },
   {
+    "w": "monochromatic",
+    "m": "단색의",
+    "p": "/ˌmɑːnəkroʊˈmætɪk/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "mono-"
+  },
+  {
+    "w": "monochrome",
+    "m": "단색의, 흑백의; 단색화",
+    "p": "/ˈmɑːnəkroʊm/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "mono-"
+  },
+  {
     "w": "monograph",
     "m": "(특정 주제의) 전공 논문, 단행본",
     "p": "/ˈmɑnəˌɡræf/",
@@ -776,11 +1280,43 @@
     "prefix": "mono-"
   },
   {
+    "w": "nescient",
+    "m": "무지한, 모르는",
+    "p": "/ˈnɛʃiənt/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "ne-"
+  },
+  {
+    "w": "obedient",
+    "m": "순종하는, 말을 잘 듣는",
+    "p": "/oʊˈbiːdiənt/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "ob-"
+  },
+  {
+    "w": "obey",
+    "m": "복종하다, 따르다",
+    "p": "/oʊˈbeɪ/",
+    "root": "aud",
+    "rootForm": "aud-, audi-",
+    "prefix": "ob-"
+  },
+  {
     "w": "object",
     "m": "반대하다 (맞서 던지다)",
     "p": "/əbˈdʒɛkt/",
     "root": "ject",
     "rootForm": "ject-",
+    "prefix": "ob-"
+  },
+  {
+    "w": "obtain",
+    "m": "얻다, 획득하다 (맞서 잡아내다)",
+    "p": "/əbˈteɪn/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
     "prefix": "ob-"
   },
   {
@@ -792,12 +1328,28 @@
     "prefix": "o-"
   },
   {
+    "w": "omniscient",
+    "m": "전지의, 모든 것을 아는",
+    "p": "/ɑːmˈnɪʃənt/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "omni-"
+  },
+  {
     "w": "oppose",
     "m": "반대하다, 맞서다 (맞은편에 놓다)",
     "p": "/əˈpoʊz/",
     "root": "pos",
     "rootForm": "pos-, pon-",
     "prefix": "op-"
+  },
+  {
+    "w": "panchromatic",
+    "m": "전색성의 (모든 색에 감광하는)",
+    "p": "/ˌpænkrəˈmætɪk/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "pan-"
   },
   {
     "w": "paragraph",
@@ -856,12 +1408,28 @@
     "prefix": "기본형"
   },
   {
+    "w": "photochromic",
+    "m": "변색성의 (빛에 따라 색이 변하는)",
+    "p": "/ˌfoʊtəʊˈkroʊmɪk/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "photo-"
+  },
+  {
     "w": "photograph",
     "m": "사진(을 찍다)",
     "p": "/ˈfoʊtəˌɡræf/",
     "root": "graph",
     "rootForm": "graph-",
     "prefix": "photo-"
+  },
+  {
+    "w": "polychrome",
+    "m": "다색의, 여러 색의",
+    "p": "/ˈpɑːliːkroʊm/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "poly-"
   },
   {
     "w": "portable",
@@ -944,6 +1512,22 @@
     "prefix": "pre-"
   },
   {
+    "w": "prescience",
+    "m": "선견지명, 예지",
+    "p": "/ˈprɛʃiəns/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "pre-"
+  },
+  {
+    "w": "prescient",
+    "m": "선견지명이 있는, 미리 아는",
+    "p": "/ˈprɛʃiənt/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "pre-"
+  },
+  {
     "w": "prescribe",
     "m": "처방하다, 규정하다 (미리 써 주다)",
     "p": "/prɪˈskraɪb/",
@@ -957,6 +1541,14 @@
     "p": "/prɪˈvɛnt/",
     "root": "ven",
     "rootForm": "ven-, vent-",
+    "prefix": "pre-"
+  },
+  {
+    "w": "preview",
+    "m": "미리 보기; 시사회",
+    "p": "/ˈpriːvjuː/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
     "prefix": "pre-"
   },
   {
@@ -1013,6 +1605,14 @@
     "p": "/proʊˈtrækt/",
     "root": "tract",
     "rootForm": "tract-",
+    "prefix": "pro-"
+  },
+  {
+    "w": "provide",
+    "m": "제공하다, 공급하다",
+    "p": "/prəˈvaɪd/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
     "prefix": "pro-"
   },
   {
@@ -1112,6 +1712,22 @@
     "prefix": "re-"
   },
   {
+    "w": "retain",
+    "m": "보유하다, 유지하다 (계속 잡고 있다)",
+    "p": "/rɪˈteɪn/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "re-"
+  },
+  {
+    "w": "retention",
+    "m": "보유, 유지",
+    "p": "/rɪˈtɛnʃən/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "re-"
+  },
+  {
     "w": "retract",
     "m": "철회하다, 취소하다; (몸의 일부를) 움츠리다",
     "p": "/rɪˈtrækt/",
@@ -1144,12 +1760,52 @@
     "prefix": "re-"
   },
   {
+    "w": "review",
+    "m": "재검토하다, 복습하다; 재검토, 복습",
+    "p": "/rɪˈvjuː/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "re-"
+  },
+  {
+    "w": "revise",
+    "m": "수정하다, 개정하다",
+    "p": "/rɪˈvaɪz/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "re-"
+  },
+  {
     "w": "revoke",
     "m": "취소하다, 철회하다",
     "p": "/rɪˈvoʊk/",
     "root": "voc",
     "rootForm": "voc-, vok-",
     "prefix": "re-"
+  },
+  {
+    "w": "science",
+    "m": "과학, 학문",
+    "p": "/ˈsaɪəns/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "scientific",
+    "m": "과학적인",
+    "p": "/ˌsaɪənˈtɪfɪk/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "scientist",
+    "m": "과학자",
+    "p": "/ˈsaɪəntɪst/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "기본형"
   },
   {
     "w": "scribble",
@@ -1200,6 +1856,14 @@
     "prefix": "기본형"
   },
   {
+    "w": "subconscious",
+    "m": "잠재의식의",
+    "p": "/ˌsʌbˈkɑːnʃəs/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "sub-"
+  },
+  {
     "w": "subject",
     "m": "주제, 과목 (밑에 던져진 것)",
     "p": "/ˈsʌbdʒɪkt/",
@@ -1248,6 +1912,14 @@
     "prefix": "suc-"
   },
   {
+    "w": "supervise",
+    "m": "감독하다, 관리하다",
+    "p": "/ˈsuːpərvaɪz/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "super-"
+  },
+  {
     "w": "support",
     "m": "지지하다, 지원(하다) — 밑에서 받쳐 나르다",
     "p": "/səˈpɔrt/",
@@ -1269,6 +1941,14 @@
     "p": "/səˈspɪʃəs/",
     "root": "spec",
     "rootForm": "spec-, spect-, spic-",
+    "prefix": "sus-"
+  },
+  {
+    "w": "sustain",
+    "m": "지탱하다, 유지하다 (밑에서 잡아 주다)",
+    "p": "/səˈsteɪn/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
     "prefix": "sus-"
   },
   {
@@ -1304,12 +1984,92 @@
     "prefix": "tele-"
   },
   {
+    "w": "television",
+    "m": "텔레비전, TV",
+    "p": "/ˈtɛləˌvɪʒən/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "tele-"
+  },
+  {
+    "w": "tenable",
+    "m": "유지할 수 있는, 옹호할 만한",
+    "p": "/ˈtɛnəbəl/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "tenant",
+    "m": "세입자, 임차인 (땅을 잡고 있는 사람)",
+    "p": "/ˈtɛnənt/",
+    "root": "ten",
+    "rootForm": "ten-, tain-, tin-",
+    "prefix": "기본형"
+  },
+  {
     "w": "theology",
     "m": "신학",
     "p": "/θiˈɑːlədʒi/",
     "root": "log",
     "rootForm": "log-, -logy",
     "prefix": "theo-"
+  },
+  {
+    "w": "thermal",
+    "m": "열의, 온도의",
+    "p": "/ˈθɜːrməl/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "therm-"
+  },
+  {
+    "w": "thermocouple",
+    "m": "열전대",
+    "p": "/ˈθɜːrmoʊˌkʌpəl/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "thermo-"
+  },
+  {
+    "w": "thermodynamics",
+    "m": "열역학",
+    "p": "/ˌθɜːrmoʊdaɪˈnæmɪks/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "thermo-"
+  },
+  {
+    "w": "thermometer",
+    "m": "온도계",
+    "p": "/θərˈmɑːmɪtər/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "therm-"
+  },
+  {
+    "w": "thermoplastic",
+    "m": "열가소성의",
+    "p": "/ˌθɜːrmoʊˈplæstɪk/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "thermo-"
+  },
+  {
+    "w": "thermos",
+    "m": "보온병",
+    "p": "/ˈθɜːrməs/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "therm-"
+  },
+  {
+    "w": "thermostat",
+    "m": "온도 조절기",
+    "p": "/ˈθɜːrməˌstæt/",
+    "root": "therm",
+    "rootForm": "therm-, thermo-",
+    "prefix": "thermo-"
   },
   {
     "w": "traction",
@@ -1360,6 +2120,22 @@
     "prefix": "trans-"
   },
   {
+    "w": "trichromatic",
+    "m": "삼색의 (빛의 삼원색을 가진)",
+    "p": "/ˌtraɪkroʊˈmætɪk/",
+    "root": "chrom",
+    "rootForm": "chrom-, chromo-",
+    "prefix": "tri-"
+  },
+  {
+    "w": "unconscious",
+    "m": "무의식의, 의식을 잃은",
+    "p": "/ʌnˈkɑːnʃəs/",
+    "root": "sci",
+    "rootForm": "sci-",
+    "prefix": "un-"
+  },
+  {
     "w": "venture",
     "m": "모험; 모험하다",
     "p": "/ˈvɛntʃər/",
@@ -1382,6 +2158,30 @@
     "root": "dict",
     "rootForm": "dict-",
     "prefix": "ver-"
+  },
+  {
+    "w": "visible",
+    "m": "보이는, 가시적인",
+    "p": "/ˈvɪzəbəl/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "vision",
+    "m": "시력, 시야; 통찰력",
+    "p": "/ˈvɪʒən/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "기본형"
+  },
+  {
+    "w": "visual",
+    "m": "시각의, 눈에 보이는",
+    "p": "/ˈvɪʒuəl/",
+    "root": "vid",
+    "rootForm": "vid-, vis-",
+    "prefix": "기본형"
   },
   {
     "w": "vocabulary",

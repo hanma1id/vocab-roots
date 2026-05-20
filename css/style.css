@@ -10,17 +10,17 @@
 
 /* ---------- 색상 토큰과 기본값 ---------- */
 :root {
-  --bg: #fdf8ef;            /* 종이색 배경 */
+  --bg: #fbfdfb;            /* 거의 흰색 — 시원하고 밝게 */
   --bg-card: #ffffff;
-  --bg-soft: #f1ead9;
-  --ink: #1f2421;           /* 본문 글자색 */
-  --ink-soft: #5a6660;
-  --accent: #2f5d50;        /* 어둡고 차분한 녹색 */
-  --accent-soft: #88b5a4;
-  --warn: #b45c2e;          /* 반의어 강조 */
-  --good: #2f7d59;          /* 유의어 강조 */
-  --line: #e2dcca;
-  --shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  --bg-soft: #eaf3ee;       /* 옅은 민트 — 부드럽고 명도 ↑ */
+  --ink: #2a3530;           /* 까맣지 않은 진한 회녹 */
+  --ink-soft: #6f7d77;
+  --accent: #3a9876;        /* 밝은 풀잎녹 */
+  --accent-soft: #a8d8c5;
+  --warn: #d97a44;          /* 따뜻한 주황 */
+  --good: #3fa275;          /* 밝은 녹색 */
+  --line: #e6eee9;
+  --shadow: 0 2px 8px rgba(60, 90, 80, 0.05);
   --radius: 14px;
   --gap: 14px;
   --font: "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR",
@@ -571,16 +571,16 @@ a { color: var(--accent); text-decoration: none; }
 
 /* ---------- 의미 지도 ---------- */
 :root {
-  --cluster-0: #2f5d50;   /* 차분한 녹색 */
-  --cluster-1: #b45c2e;   /* 따뜻한 주황 */
-  --cluster-2: #4a6fa5;   /* 차분한 파랑 */
-  --cluster-3: #8a5a83;   /* 부드러운 자주 */
-  --cluster-4: #6b8e23;   /* 올리브 */
-  --cluster-5: #c19a3e;   /* 머스타드 */
-  --cluster-6: #5a8c8c;   /* 청록 */
-  --cluster-7: #a04a4a;   /* 와인 */
-  --cluster-8: #6e6960;   /* 따뜻한 회색 */
-  --cluster-9: #4e7a6c;   /* 짙은 청록 */
+  --cluster-0: #3fa275;   /* 밝은 풀잎녹 */
+  --cluster-1: #d97a44;   /* 살구 오렌지 */
+  --cluster-2: #5f88c2;   /* 하늘 파랑 */
+  --cluster-3: #a878a3;   /* 라일락 */
+  --cluster-4: #8caf3d;   /* 라임 */
+  --cluster-5: #d9b259;   /* 노란 머스타드 */
+  --cluster-6: #6db1b1;   /* 밝은 청록 */
+  --cluster-7: #c46b6b;   /* 살구 핑크 */
+  --cluster-8: #8d8780;   /* 옅은 회색 */
+  --cluster-9: #6da99a;   /* 민트 */
 }
 .map-intro {
   font-size: 0.95rem;
@@ -832,11 +832,11 @@ a { color: var(--accent); text-decoration: none; }
 }
 /* 스텝별 살짝 다른 색 — 시각적 단계감 */
 .step-section.step-1 .step-label,
-.step-section.step-1 .step-sub { color: #2f7d59; }
+.step-section.step-1 .step-sub { color: #3fa275; }
 .step-section.step-2 .step-label,
-.step-section.step-2 .step-sub { color: #b45c2e; }
+.step-section.step-2 .step-sub { color: #d97a44; }
 .step-section.step-3 .step-label,
-.step-section.step-3 .step-sub { color: #4a6fa5; }
+.step-section.step-3 .step-sub { color: #5f88c2; }
 .step-section.step-prefix .step-label { color: var(--accent-soft); }
 
 /* ---------- 카드 상단 태그 (어원/접두어 구분) ---------- */
@@ -1128,16 +1128,16 @@ a { color: var(--accent); text-decoration: none; }
 
 /* ---------- 의미 지도 ---------- */
 :root {
-  --cluster-0: #2f5d50;   /* 차분한 녹색 */
-  --cluster-1: #b45c2e;   /* 따뜻한 주황 */
-  --cluster-2: #4a6fa5;   /* 차분한 파랑 */
-  --cluster-3: #8a5a83;   /* 부드러운 자주 */
-  --cluster-4: #6b8e23;   /* 올리브 */
-  --cluster-5: #c19a3e;   /* 머스타드 */
-  --cluster-6: #5a8c8c;   /* 청록 */
-  --cluster-7: #a04a4a;   /* 와인 */
-  --cluster-8: #6e6960;   /* 따뜻한 회색 */
-  --cluster-9: #4e7a6c;   /* 짙은 청록 */
+  --cluster-0: #3fa275;   /* 밝은 풀잎녹 */
+  --cluster-1: #d97a44;   /* 살구 오렌지 */
+  --cluster-2: #5f88c2;   /* 하늘 파랑 */
+  --cluster-3: #a878a3;   /* 라일락 */
+  --cluster-4: #8caf3d;   /* 라임 */
+  --cluster-5: #d9b259;   /* 노란 머스타드 */
+  --cluster-6: #6db1b1;   /* 밝은 청록 */
+  --cluster-7: #c46b6b;   /* 살구 핑크 */
+  --cluster-8: #8d8780;   /* 옅은 회색 */
+  --cluster-9: #6da99a;   /* 민트 */
 }
 .map-intro {
   font-size: 0.95rem;

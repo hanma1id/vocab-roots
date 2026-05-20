@@ -109,6 +109,20 @@
             "doctrine"
           ],
           "antonyms": []
+        },
+        {
+          "word": "creditor",
+          "ipa": "/ˈkrɛdɪtər/",
+          "pos": "n",
+          "meaning": "채권자",
+          "example": "The bank is a major creditor of the company.",
+          "exampleKo": "그 은행은 그 회사의 주요 채권자이다.",
+          "synonyms": [
+            "lender"
+          ],
+          "antonyms": [
+            "debtor"
+          ]
         }
       ]
     },
@@ -194,5 +208,6 @@
       ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 3
 }

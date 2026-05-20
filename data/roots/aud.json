@@ -98,6 +98,29 @@
             "listener"
           ],
           "antonyms": []
+        },
+        {
+          "word": "audit",
+          "ipa": "/ˈɔːdɪt/",
+          "pos": "n, v",
+          "meaning": "회계 감사; 감사하다",
+          "example": "The company hired an independent firm to audit its financial records.",
+          "exampleKo": "그 회사는 재무 기록을 감사하기 위해 독립적인 회사를 고용했다.",
+          "synonyms": [
+            "examine",
+            "inspect"
+          ],
+          "antonyms": []
+        },
+        {
+          "word": "audiovisual",
+          "ipa": "/ˌɔːdiəˈvɪʒuəl/",
+          "pos": "adj",
+          "meaning": "시청각의",
+          "example": "The classroom is equipped with various audiovisual aids.",
+          "exampleKo": "그 교실은 다양한 시청각 보조 자료로 갖춰져 있다.",
+          "synonyms": [],
+          "antonyms": []
         }
       ]
     },
@@ -198,5 +221,6 @@
       ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 1
 }

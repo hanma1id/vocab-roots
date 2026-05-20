@@ -63,6 +63,15 @@
           ]
         },
         {
+          "root": "ten",
+          "rootForm": "ten-, tain-, tin-",
+          "rootMeaning": "잡다, 유지하다",
+          "words": [
+            "retain",
+            "retention"
+          ]
+        },
+        {
           "root": "tract",
           "rootForm": "tract-",
           "rootMeaning": "끌다, 당기다",
@@ -76,6 +85,15 @@
           "rootMeaning": "오다",
           "words": [
             "revenue"
+          ]
+        },
+        {
+          "root": "vid",
+          "rootForm": "vid-, vis-",
+          "rootMeaning": "보다",
+          "words": [
+            "review",
+            "revise"
           ]
         },
         {
@@ -93,6 +111,23 @@
       "form": "in-",
       "meaning": "~이 아닌, 반대의",
       "occurrences": [
+        {
+          "root": "aud",
+          "rootForm": "aud-, audi-",
+          "rootMeaning": "듣다",
+          "words": [
+            "inaudible"
+          ]
+        },
+        {
+          "root": "cred",
+          "rootForm": "cred-",
+          "rootMeaning": "믿다",
+          "words": [
+            "incredible",
+            "incredulous"
+          ]
+        },
         {
           "root": "dict",
           "rootForm": "dict-",
@@ -152,6 +187,14 @@
           ]
         },
         {
+          "root": "vid",
+          "rootForm": "vid-, vis-",
+          "rootMeaning": "보다",
+          "words": [
+            "invisible"
+          ]
+        },
+        {
           "root": "voc",
           "rootForm": "voc-, vok-",
           "rootMeaning": "부르다, 목소리",
@@ -183,6 +226,16 @@
           ]
         },
         {
+          "root": "sci",
+          "rootForm": "sci-",
+          "rootMeaning": "알다",
+          "words": [
+            "conscious",
+            "conscience",
+            "conscientious"
+          ]
+        },
+        {
           "root": "scrib",
           "rootForm": "scrib-, script-",
           "rootMeaning": "쓰다",
@@ -196,6 +249,16 @@
           "rootMeaning": "보다, 살펴보다",
           "words": [
             "conspicuous"
+          ]
+        },
+        {
+          "root": "ten",
+          "rootForm": "ten-, tain-, tin-",
+          "rootMeaning": "잡다, 유지하다",
+          "words": [
+            "contain",
+            "container",
+            "content"
           ]
         },
         {
@@ -280,6 +343,14 @@
           ]
         },
         {
+          "root": "ten",
+          "rootForm": "ten-, tain-, tin-",
+          "rootMeaning": "잡다, 유지하다",
+          "words": [
+            "detain"
+          ]
+        },
+        {
           "root": "tract",
           "rootForm": "tract-",
           "rootMeaning": "끌다, 당기다",
@@ -344,6 +415,14 @@
           ]
         },
         {
+          "root": "vid",
+          "rootForm": "vid-, vis-",
+          "rootMeaning": "보다",
+          "words": [
+            "provide"
+          ]
+        },
+        {
           "root": "voc",
           "rootForm": "voc-, vok-",
           "rootMeaning": "부르다, 목소리",
@@ -392,11 +471,76 @@
           ]
         },
         {
+          "root": "vid",
+          "rootForm": "vid-, vis-",
+          "rootMeaning": "보다",
+          "words": [
+            "evidence"
+          ]
+        },
+        {
           "root": "voc",
           "rootForm": "voc-, vok-",
           "rootMeaning": "부르다, 목소리",
           "words": [
             "evoke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pre",
+      "form": "pre-",
+      "meaning": "미리, ~전에",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "precede"
+          ]
+        },
+        {
+          "root": "dict",
+          "rootForm": "dict-",
+          "rootMeaning": "말하다",
+          "words": [
+            "predict",
+            "prediction"
+          ]
+        },
+        {
+          "root": "sci",
+          "rootForm": "sci-",
+          "rootMeaning": "알다",
+          "words": [
+            "prescient",
+            "prescience"
+          ]
+        },
+        {
+          "root": "scrib",
+          "rootForm": "scrib-, script-",
+          "rootMeaning": "쓰다",
+          "words": [
+            "prescribe"
+          ]
+        },
+        {
+          "root": "ven",
+          "rootForm": "ven-, vent-",
+          "rootMeaning": "오다",
+          "words": [
+            "prevent"
+          ]
+        },
+        {
+          "root": "vid",
+          "rootForm": "vid-, vis-",
+          "rootMeaning": "보다",
+          "words": [
+            "preview"
           ]
         }
       ]
@@ -489,25 +633,64 @@
       ]
     },
     {
-      "id": "pre",
-      "form": "pre-",
-      "meaning": "미리, ~전에",
+      "id": "dis",
+      "form": "dis-",
+      "meaning": "반대, 떨어뜨려",
       "occurrences": [
         {
-          "root": "ced",
-          "rootForm": "ced-, cess-",
-          "rootMeaning": "가다, 양보하다",
+          "root": "aud",
+          "rootForm": "aud-, audi-",
+          "rootMeaning": "듣다",
           "words": [
-            "precede"
+            "disobey",
+            "disobedient"
           ]
         },
         {
-          "root": "dict",
-          "rootForm": "dict-",
-          "rootMeaning": "말하다",
+          "root": "cred",
+          "rootForm": "cred-",
+          "rootMeaning": "믿다",
           "words": [
-            "predict",
-            "prediction"
+            "discredit"
+          ]
+        },
+        {
+          "root": "pos",
+          "rootForm": "pos-, pon-",
+          "rootMeaning": "놓다, 두다",
+          "words": [
+            "dispose"
+          ]
+        },
+        {
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
+          "words": [
+            "distract"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub",
+      "form": "sub-",
+      "meaning": "밑으로, 빼서",
+      "occurrences": [
+        {
+          "root": "mit",
+          "rootForm": "mit-, miss-",
+          "rootMeaning": "보내다",
+          "words": [
+            "submit"
+          ]
+        },
+        {
+          "root": "sci",
+          "rootForm": "sci-",
+          "rootMeaning": "알다",
+          "words": [
+            "subconscious"
           ]
         },
         {
@@ -515,15 +698,54 @@
           "rootForm": "scrib-, script-",
           "rootMeaning": "쓰다",
           "words": [
-            "prescribe"
+            "subscribe"
           ]
         },
         {
-          "root": "ven",
-          "rootForm": "ven-, vent-",
-          "rootMeaning": "오다",
+          "root": "tract",
+          "rootForm": "tract-",
+          "rootMeaning": "끌다, 당기다",
           "words": [
-            "prevent"
+            "subtract"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tele",
+      "form": "tele-",
+      "meaning": "멀리, 먼 곳에서",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "telegram"
+          ]
+        },
+        {
+          "root": "phon",
+          "rootForm": "phon-",
+          "rootMeaning": "소리",
+          "words": [
+            "telephone"
+          ]
+        },
+        {
+          "root": "port",
+          "rootForm": "port-",
+          "rootMeaning": "운반하다, 나르다",
+          "words": [
+            "teleport"
+          ]
+        },
+        {
+          "root": "vid",
+          "rootForm": "vid-, vis-",
+          "rootMeaning": "보다",
+          "words": [
+            "television"
           ]
         }
       ]
@@ -631,63 +853,88 @@
       ]
     },
     {
-      "id": "sub",
-      "form": "sub-",
-      "meaning": "밑으로, 빼서",
+      "id": "mono",
+      "form": "mono-",
+      "meaning": "하나의, 단일의",
       "occurrences": [
         {
-          "root": "mit",
-          "rootForm": "mit-, miss-",
-          "rootMeaning": "보내다",
+          "root": "chrom",
+          "rootForm": "chrom-, chromo-",
+          "rootMeaning": "색",
           "words": [
-            "submit"
+            "monochrome",
+            "monochromatic"
           ]
         },
-        {
-          "root": "scrib",
-          "rootForm": "scrib-, script-",
-          "rootMeaning": "쓰다",
-          "words": [
-            "subscribe"
-          ]
-        },
-        {
-          "root": "tract",
-          "rootForm": "tract-",
-          "rootMeaning": "끌다, 당기다",
-          "words": [
-            "subtract"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tele",
-      "form": "tele-",
-      "meaning": "멀리, 먼 곳에서",
-      "occurrences": [
         {
           "root": "graph",
           "rootForm": "graph-",
           "rootMeaning": "쓰다, 그리다",
           "words": [
-            "telegram"
+            "monograph"
           ]
         },
         {
-          "root": "phon",
-          "rootForm": "phon-",
-          "rootMeaning": "소리",
+          "root": "log",
+          "rootForm": "log-, -logy",
+          "rootMeaning": "말, 학문, 논리",
           "words": [
-            "telephone"
+            "monologue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ob",
+      "form": "ob-",
+      "meaning": "~에 대하여, ~을 향하여",
+      "occurrences": [
+        {
+          "root": "aud",
+          "rootForm": "aud-, audi-",
+          "rootMeaning": "듣다",
+          "words": [
+            "obey",
+            "obedient"
           ]
         },
         {
-          "root": "port",
-          "rootForm": "port-",
-          "rootMeaning": "운반하다, 나르다",
+          "root": "ject",
+          "rootForm": "ject-",
+          "rootMeaning": "던지다",
           "words": [
-            "teleport"
+            "object"
+          ]
+        },
+        {
+          "root": "ten",
+          "rootForm": "ten-, tain-, tin-",
+          "rootMeaning": "잡다, 유지하다",
+          "words": [
+            "obtain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ac",
+      "form": "ac-",
+      "meaning": "~쪽으로 (ad-의 변형)",
+      "occurrences": [
+        {
+          "root": "ced",
+          "rootForm": "ced-, cess-",
+          "rootMeaning": "가다, 양보하다",
+          "words": [
+            "access"
+          ]
+        },
+        {
+          "root": "cred",
+          "rootForm": "cred-",
+          "rootMeaning": "믿다",
+          "words": [
+            "accredit"
           ]
         }
       ]
@@ -740,29 +987,6 @@
       ]
     },
     {
-      "id": "dis",
-      "form": "dis-",
-      "meaning": "떨어져, 분리",
-      "occurrences": [
-        {
-          "root": "pos",
-          "rootForm": "pos-, pon-",
-          "rootMeaning": "놓다, 두다",
-          "words": [
-            "dispose"
-          ]
-        },
-        {
-          "root": "tract",
-          "rootForm": "tract-",
-          "rootMeaning": "끌다, 당기다",
-          "words": [
-            "distract"
-          ]
-        }
-      ]
-    },
-    {
       "id": "epi",
       "form": "epi-",
       "meaning": "~위에, ~에 덧붙여",
@@ -809,6 +1033,29 @@
       ]
     },
     {
+      "id": "geo",
+      "form": "geo-",
+      "meaning": "땅, 지구의",
+      "occurrences": [
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "geography"
+          ]
+        },
+        {
+          "root": "therm",
+          "rootForm": "therm-, thermo-",
+          "rootMeaning": "열",
+          "words": [
+            "geothermal"
+          ]
+        }
+      ]
+    },
+    {
       "id": "im",
       "form": "im-",
       "meaning": "안으로 (in-의 변형)",
@@ -832,29 +1079,6 @@
       ]
     },
     {
-      "id": "mono",
-      "form": "mono-",
-      "meaning": "하나의, 단일의",
-      "occurrences": [
-        {
-          "root": "graph",
-          "rootForm": "graph-",
-          "rootMeaning": "쓰다, 그리다",
-          "words": [
-            "monograph"
-          ]
-        },
-        {
-          "root": "log",
-          "rootForm": "log-, -logy",
-          "rootMeaning": "말, 학문, 논리",
-          "words": [
-            "monologue"
-          ]
-        }
-      ]
-    },
-    {
       "id": "per",
       "form": "per-",
       "meaning": "꿰뚫어, 끝까지",
@@ -873,6 +1097,29 @@
           "rootMeaning": "보다, 살펴보다",
           "words": [
             "perspective"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "photo",
+      "form": "photo-",
+      "meaning": "빛",
+      "occurrences": [
+        {
+          "root": "chrom",
+          "rootForm": "chrom-, chromo-",
+          "rootMeaning": "색",
+          "words": [
+            "photochromic"
+          ]
+        },
+        {
+          "root": "graph",
+          "rootForm": "graph-",
+          "rootMeaning": "쓰다, 그리다",
+          "words": [
+            "photograph"
           ]
         }
       ]
@@ -924,6 +1171,45 @@
       ]
     },
     {
+      "id": "sus",
+      "form": "sus-",
+      "meaning": "밑에서 (sub-의 변형)",
+      "occurrences": [
+        {
+          "root": "spec",
+          "rootForm": "spec-, spect-, spic-",
+          "rootMeaning": "보다, 살펴보다",
+          "words": [
+            "suspect",
+            "suspicious"
+          ]
+        },
+        {
+          "root": "ten",
+          "rootForm": "ten-, tain-, tin-",
+          "rootMeaning": "잡다, 유지하다",
+          "words": [
+            "sustain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a",
+      "form": "a-",
+      "meaning": "없는 (부정)",
+      "occurrences": [
+        {
+          "root": "chrom",
+          "rootForm": "chrom-, chromo-",
+          "rootMeaning": "색",
+          "words": [
+            "achromatic"
+          ]
+        }
+      ]
+    },
+    {
       "id": "ab",
       "form": "ab-",
       "meaning": "떨어져, 멀리",
@@ -939,16 +1225,16 @@
       ]
     },
     {
-      "id": "ac",
-      "form": "ac-",
-      "meaning": "~쪽으로 (ad-의 변형)",
+      "id": "abs",
+      "form": "abs-",
+      "meaning": "떨어져 (ab-의 변형)",
       "occurrences": [
         {
-          "root": "ced",
-          "rootForm": "ced-, cess-",
-          "rootMeaning": "가다, 양보하다",
+          "root": "ten",
+          "rootForm": "ten-, tain-, tin-",
+          "rootMeaning": "잡다, 유지하다",
           "words": [
-            "access"
+            "abstain"
           ]
         }
       ]
@@ -1030,6 +1316,21 @@
       ]
     },
     {
+      "id": "chromato",
+      "form": "chromato-",
+      "meaning": "색의",
+      "occurrences": [
+        {
+          "root": "chrom",
+          "rootForm": "chrom-, chromo-",
+          "rootMeaning": "색",
+          "words": [
+            "chromatography"
+          ]
+        }
+      ]
+    },
+    {
       "id": "circum",
       "form": "circum-",
       "meaning": "주위에, 둘레에",
@@ -1060,16 +1361,61 @@
       ]
     },
     {
-      "id": "geo",
-      "form": "geo-",
-      "meaning": "땅, 지구",
+      "id": "en",
+      "form": "en-",
+      "meaning": "안에, ~하게 하다",
       "occurrences": [
         {
-          "root": "graph",
-          "rootForm": "graph-",
-          "rootMeaning": "쓰다, 그리다",
+          "root": "vid",
+          "rootForm": "vid-, vis-",
+          "rootMeaning": "보다",
           "words": [
-            "geography"
+            "envision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "endo",
+      "form": "endo-",
+      "meaning": "안으로",
+      "occurrences": [
+        {
+          "root": "therm",
+          "rootForm": "therm-, thermo-",
+          "rootMeaning": "열",
+          "words": [
+            "endothermic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo",
+      "form": "exo-",
+      "meaning": "밖으로",
+      "occurrences": [
+        {
+          "root": "therm",
+          "rootForm": "therm-, thermo-",
+          "rootMeaning": "열",
+          "words": [
+            "exothermic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hetero",
+      "form": "hetero-",
+      "meaning": "다른",
+      "occurrences": [
+        {
+          "root": "chrom",
+          "rootForm": "chrom-, chromo-",
+          "rootMeaning": "색",
+          "words": [
+            "heterochromia"
           ]
         }
       ]
@@ -1085,6 +1431,52 @@
           "rootMeaning": "소리",
           "words": [
             "homophone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyper",
+      "form": "hyper-",
+      "meaning": "위, 높은, 과도한",
+      "occurrences": [
+        {
+          "root": "therm",
+          "rootForm": "therm-, thermo-",
+          "rootMeaning": "열",
+          "words": [
+            "hyperthermia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hypo",
+      "form": "hypo-",
+      "meaning": "아래, 낮은",
+      "occurrences": [
+        {
+          "root": "therm",
+          "rootForm": "therm-, thermo-",
+          "rootMeaning": "열",
+          "words": [
+            "hypothermia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main",
+      "form": "main-",
+      "meaning": "손으로 (manu-에서)",
+      "occurrences": [
+        {
+          "root": "ten",
+          "rootForm": "ten-, tain-, tin-",
+          "rootMeaning": "잡다, 유지하다",
+          "words": [
+            "maintain",
+            "maintenance"
           ]
         }
       ]
@@ -1150,6 +1542,21 @@
       ]
     },
     {
+      "id": "ne",
+      "form": "ne-",
+      "meaning": "부정",
+      "occurrences": [
+        {
+          "root": "sci",
+          "rootForm": "sci-",
+          "rootMeaning": "알다",
+          "words": [
+            "nescient"
+          ]
+        }
+      ]
+    },
+    {
       "id": "o",
       "form": "o-",
       "meaning": "맞서 (ob-의 변형)",
@@ -1165,16 +1572,16 @@
       ]
     },
     {
-      "id": "ob",
-      "form": "ob-",
-      "meaning": "맞서, 대항하여",
+      "id": "omni",
+      "form": "omni-",
+      "meaning": "모든",
       "occurrences": [
         {
-          "root": "ject",
-          "rootForm": "ject-",
-          "rootMeaning": "던지다",
+          "root": "sci",
+          "rootForm": "sci-",
+          "rootMeaning": "알다",
           "words": [
-            "object"
+            "omniscient"
           ]
         }
       ]
@@ -1195,6 +1602,21 @@
       ]
     },
     {
+      "id": "pan",
+      "form": "pan-",
+      "meaning": "모든, 전체의",
+      "occurrences": [
+        {
+          "root": "chrom",
+          "rootForm": "chrom-, chromo-",
+          "rootMeaning": "색",
+          "words": [
+            "panchromatic"
+          ]
+        }
+      ]
+    },
+    {
       "id": "para",
       "form": "para-",
       "meaning": "옆에, 나란히",
@@ -1210,16 +1632,16 @@
       ]
     },
     {
-      "id": "photo",
-      "form": "photo-",
-      "meaning": "빛",
+      "id": "poly",
+      "form": "poly-",
+      "meaning": "여럿, 다수",
       "occurrences": [
         {
-          "root": "graph",
-          "rootForm": "graph-",
-          "rootMeaning": "쓰다, 그리다",
+          "root": "chrom",
+          "rootForm": "chrom-, chromo-",
+          "rootMeaning": "색",
           "words": [
-            "photograph"
+            "polychrome"
           ]
         }
       ]
@@ -1286,17 +1708,16 @@
       ]
     },
     {
-      "id": "sus",
-      "form": "sus-",
-      "meaning": "밑에서 (sub-의 변형)",
+      "id": "super",
+      "form": "super-",
+      "meaning": "위에",
       "occurrences": [
         {
-          "root": "spec",
-          "rootForm": "spec-, spect-, spic-",
-          "rootMeaning": "보다, 살펴보다",
+          "root": "vid",
+          "rootForm": "vid-, vis-",
+          "rootMeaning": "보다",
           "words": [
-            "suspect",
-            "suspicious"
+            "supervise"
           ]
         }
       ]
@@ -1327,6 +1748,71 @@
           "rootMeaning": "말, 학문, 논리",
           "words": [
             "theology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "therm",
+      "form": "therm-",
+      "meaning": "열",
+      "occurrences": [
+        {
+          "root": "therm",
+          "rootForm": "therm-, thermo-",
+          "rootMeaning": "열",
+          "words": [
+            "thermal",
+            "thermometer",
+            "thermos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thermo",
+      "form": "thermo-",
+      "meaning": "열",
+      "occurrences": [
+        {
+          "root": "therm",
+          "rootForm": "therm-, thermo-",
+          "rootMeaning": "열",
+          "words": [
+            "thermodynamics",
+            "thermoplastic",
+            "thermostat",
+            "thermocouple"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tri",
+      "form": "tri-",
+      "meaning": "셋",
+      "occurrences": [
+        {
+          "root": "chrom",
+          "rootForm": "chrom-, chromo-",
+          "rootMeaning": "색",
+          "words": [
+            "trichromatic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "un",
+      "form": "un-",
+      "meaning": "부정",
+      "occurrences": [
+        {
+          "root": "sci",
+          "rootForm": "sci-",
+          "rootMeaning": "알다",
+          "words": [
+            "unconscious"
           ]
         }
       ]

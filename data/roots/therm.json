@@ -170,23 +170,24 @@
       ]
     },
     {
-      "prefix": "기본형",
-      "prefixMeaning": "접두어 없이",
+      "prefix": "endo-",
+      "prefixMeaning": "안으로",
       "words": [
         {
-          "word": "thermally",
-          "ipa": "/ˈθɜːrməli/",
-          "pos": "adv",
-          "meaning": "열적으로, 열에 의해",
-          "example": "The object was heated thermally.",
-          "exampleKo": "그 물체는 열적으로 가열되었다.",
-          "synonyms": [
-            "heat-wise"
-          ],
-          "antonyms": []
+          "word": "endothermic",
+          "ipa": "/ˌɛndoʊˈθɜːrmɪk/",
+          "pos": "adj",
+          "meaning": "흡열성의 (열을 안으로 흡수하는)",
+          "example": "Photosynthesis is an endothermic process.",
+          "exampleKo": "광합성은 흡열 반응이다.",
+          "synonyms": [],
+          "antonyms": [
+            "exothermic"
+          ]
         }
       ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 2
 }

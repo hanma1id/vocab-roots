@@ -43,6 +43,16 @@
           "exampleKo": "사람은 염색체를 46개 가지고 있다.",
           "synonyms": [],
           "antonyms": []
+        },
+        {
+          "word": "chromium",
+          "ipa": "/ˈkroʊmiəm/",
+          "pos": "n",
+          "meaning": "크롬 (24번 원소)",
+          "example": "Chromium is used to make stainless steel.",
+          "exampleKo": "크롬은 스테인리스강을 만드는 데 쓰인다.",
+          "synonyms": [],
+          "antonyms": []
         }
       ]
     },
@@ -205,5 +215,6 @@
       ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 3
 }

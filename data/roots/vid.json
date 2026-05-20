@@ -231,5 +231,6 @@
       ]
     }
   ],
-  "verified": false
+  "verified": true,
+  "step": 1
 }

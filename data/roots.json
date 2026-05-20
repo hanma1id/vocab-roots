@@ -1,10 +1,37 @@
 [
   {
+    "id": "aud",
+    "origin": "Latin",
+    "rootForm": "aud-, audi-",
+    "meaning": "듣다",
+    "cluster": "청각·소리",
+    "step": 1,
+    "wordCount": 14
+  },
+  {
     "id": "ced",
     "origin": "Latin",
     "rootForm": "ced-, cess-",
     "meaning": "가다, 양보하다",
     "cluster": "가다·이동",
+    "step": 3,
+    "wordCount": 12
+  },
+  {
+    "id": "chrom",
+    "origin": "Greek",
+    "rootForm": "chrom-, chromo-",
+    "meaning": "색",
+    "cluster": "자연·사물",
+    "step": 3,
+    "wordCount": 13
+  },
+  {
+    "id": "cred",
+    "origin": "Latin",
+    "rootForm": "cred-",
+    "meaning": "믿다",
+    "cluster": "생명·호흡·정신",
     "step": 3,
     "wordCount": 12
   },
@@ -24,6 +51,15 @@
     "meaning": "구부리다, 휘다",
     "cluster": "형태·변형",
     "step": 3,
+    "wordCount": 12
+  },
+  {
+    "id": "geo",
+    "origin": "Greek",
+    "rootForm": "geo-",
+    "meaning": "땅, 지구",
+    "cluster": "자연·사물",
+    "step": 1,
     "wordCount": 12
   },
   {
@@ -90,6 +126,15 @@
     "wordCount": 12
   },
   {
+    "id": "sci",
+    "origin": "Latin",
+    "rootForm": "sci-",
+    "meaning": "알다",
+    "cluster": "생명·호흡·정신",
+    "step": 2,
+    "wordCount": 12
+  },
+  {
     "id": "scrib",
     "origin": "Latin",
     "rootForm": "scrib-, script-",
@@ -108,6 +153,24 @@
     "wordCount": 12
   },
   {
+    "id": "ten",
+    "origin": "Latin",
+    "rootForm": "ten-, tain-, tin-",
+    "meaning": "잡다, 유지하다",
+    "cluster": "손·잡다·놓다",
+    "step": 3,
+    "wordCount": 13
+  },
+  {
+    "id": "therm",
+    "origin": "Greek",
+    "rootForm": "therm-, thermo-",
+    "meaning": "열",
+    "cluster": "자연·사물",
+    "step": 2,
+    "wordCount": 12
+  },
+  {
     "id": "tract",
     "origin": "Latin",
     "rootForm": "tract-",
@@ -123,6 +186,15 @@
     "meaning": "오다",
     "cluster": "가다·이동",
     "step": 2,
+    "wordCount": 12
+  },
+  {
+    "id": "vid",
+    "origin": "Latin",
+    "rootForm": "vid-, vis-",
+    "meaning": "보다",
+    "cluster": "시각",
+    "step": 1,
     "wordCount": 12
   },
   {
