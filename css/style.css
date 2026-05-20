@@ -10,38 +10,27 @@
 
 /* ---------- 색상 토큰과 기본값 ---------- */
 :root {
-  --bg: #fbfdfb;            /* 거의 흰색 — 시원하고 밝게 */
+  --bg: #ffffff;            /* 순백 배경 */
   --bg-card: #ffffff;
-  --bg-soft: #eaf3ee;       /* 옅은 민트 — 부드럽고 명도 ↑ */
+  --bg-soft: #f4f7f5;       /* 살짝 시원한 화이트 */
   --ink: #2a3530;           /* 까맣지 않은 진한 회녹 */
   --ink-soft: #6f7d77;
   --accent: #3a9876;        /* 밝은 풀잎녹 */
   --accent-soft: #a8d8c5;
   --warn: #d97a44;          /* 따뜻한 주황 */
   --good: #3fa275;          /* 밝은 녹색 */
-  --line: #e6eee9;
-  --shadow: 0 2px 8px rgba(60, 90, 80, 0.05);
+  --line: #ebf1ed;          /* 더 옅은 라인 */
+  --shadow: 0 2px 10px rgba(60, 90, 80, 0.04);
   --radius: 14px;
   --gap: 14px;
   --font: "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR",
           system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
-/* 다크 모드 — 야간 학습 대응 */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #1b201d;
-    --bg-card: #262b27;
-    --bg-soft: #2f3531;
-    --ink: #e9ecea;
-    --ink-soft: #a6b1ac;
-    --accent: #7fc1ad;
-    --accent-soft: #3f6157;
-    --warn: #e29065;
-    --good: #8bd3a8;
-    --line: #38403b;
-    --shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
-  }
+/* 화이트 톤 강제 — 시스템 다크 모드여도 라이트 톤 유지
+   (윤하 학습용 — 단어 가독성이 핵심) */
+:root {
+  color-scheme: light only;
 }
 
 /* ---------- 리셋 ---------- */
