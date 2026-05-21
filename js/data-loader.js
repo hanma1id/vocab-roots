@@ -188,6 +188,29 @@ export function resetProgress() {
 }
 
 /* ============================================================
+ * .back-btn 전역 이벤트 위임 — 헤더의 ← 버튼이 어디 페이지든
+ * 진짜 이전 페이지로 가도록. 직접 진입한 경우만 index로 폴백.
+ * registerServiceWorker 안에서 자동으로 함께 호출됨.
+ * ============================================================ */
+function bindBackButtons() {
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest(".back-btn");
+    if (!btn) return;
+    e.preventDefault();
+    let sameOriginReferrer = false;
+    try {
+      sameOriginReferrer = !!document.referrer &&
+        new URL(document.referrer).origin === location.origin;
+    } catch { /* invalid URL — 무시 */ }
+    if (sameOriginReferrer && history.length > 1) {
+      history.back();
+    } else {
+      location.href = "index.html";
+    }
+  });
+}
+
+/* ============================================================
  * 서비스 워커 등록 + 자동 갱신
  * ------------------------------------------------------------
  * 모든 진입 페이지에서 한 번씩 호출.
@@ -196,6 +219,9 @@ export function resetProgress() {
  * 무한 reload 방지 — sessionStorage 플래그로 한 번만.
  * ============================================================ */
 export function registerServiceWorker() {
+  // 공통 UI 핸들러도 같이 부착
+  bindBackButtons();
+
   if (!("serviceWorker" in navigator)) return;
   if (location.protocol === "file:") return;
 

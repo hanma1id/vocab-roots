@@ -285,7 +285,13 @@ a { color: var(--accent); text-decoration: none; }
   background: rgba(217, 122, 68, 0.12);   /* 어근은 다른 색 톤으로 — 접두어와 구분 */
   padding: 3px 10px;
   border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.15s ease, transform 0.1s ease;
 }
+a.combine-root:hover {
+  background: rgba(217, 122, 68, 0.25);
+}
+a.combine-root:active { transform: scale(0.96); }
 .combine-root-form { color: var(--warn); }
 .combine-root-label {
   font-size: 0.65rem;

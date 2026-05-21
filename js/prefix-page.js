@@ -61,10 +61,11 @@ function renderOccurrence(occ, prefixForm) {
         <span class="combine-tag">결합</span>
         <span class="combine-prefix">${esc(prefixForm)}</span>
         <span class="combine-plus">+</span>
-        <span class="combine-root">
+        <a class="combine-root" href="root.html?id=${encodeURIComponent(occ.root)}"
+           title="이 어원 전체 보기">
           <span class="combine-root-form">${esc(occ.rootForm)}</span>
           <span class="combine-root-label">어근</span>
-        </span>
+        </a>
         <span class="combine-arrow">→</span>
         <span class="combine-root-meaning">${esc(occ.rootMeaning)}</span>
       </header>
