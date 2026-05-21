@@ -19,7 +19,7 @@
 </head>
 <body>
   <header class="app-header">
-    <a class="back-btn" href="index.html" aria-label="홈으로">←</a>
+    <button class="back-btn" type="button" onclick="if(document.referrer&&new URL(document.referrer).origin===location.origin&&history.length>1)history.back();else location.href=&apos;index.html&apos;;" aria-label="뒤로">←</button>
     <h1 id="pageTitle">퀴즈</h1>
   </header>
 
