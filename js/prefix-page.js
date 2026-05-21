@@ -41,7 +41,7 @@ function renderPanel(p) {
   `;
 }
 
-function renderOccurrence(occ) {
+function renderOccurrence(occ, prefixForm) {
   // 어원 한 개 안에서 그 접두어가 만든 단어들
   const wordChips = occ.words.map((w) => `
     <a class="prefix-word-chip"
@@ -50,11 +50,19 @@ function renderOccurrence(occ) {
     </a>
   `).join("");
 
+  // 헤더 — "[접두어] + [어근] → 어근 뜻" 으로 결합을 시각화
   return `
     <section class="prefix-section">
-      <header class="prefix-header">
-        <span class="prefix">${esc(occ.rootForm)}</span>
-        <span class="prefix-meaning">${esc(occ.rootMeaning)}</span>
+      <header class="combine-header">
+        <span class="combine-tag">결합</span>
+        <span class="combine-prefix">${esc(prefixForm)}</span>
+        <span class="combine-plus">+</span>
+        <span class="combine-root">
+          <span class="combine-root-form">${esc(occ.rootForm)}</span>
+          <span class="combine-root-label">어근</span>
+        </span>
+        <span class="combine-arrow">→</span>
+        <span class="combine-root-meaning">${esc(occ.rootMeaning)}</span>
       </header>
       <div class="prefix-word-list">${wordChips}</div>
     </section>
@@ -72,7 +80,7 @@ async function main() {
     $title.textContent = `${p.form} — ${p.meaning || ""}`;
     document.title = `${p.form} — 접두어 학습`;
     renderPanel(p);
-    $area.innerHTML = p.occurrences.map(renderOccurrence).join("");
+    $area.innerHTML = p.occurrences.map((o) => renderOccurrence(o, p.form)).join("");
   } catch (err) {
     $loading.textContent = "접두어 데이터를 불러오지 못했어요.";
     console.error(err);

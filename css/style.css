@@ -232,6 +232,69 @@ a { color: var(--accent); text-decoration: none; }
   color: var(--ink-soft);
 }
 
+/* ---------- 접두어 페이지의 결합 헤더 (접두어 + 어근 → 단어) ---------- */
+.combine-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+  padding: 10px 14px;
+  background: var(--bg-card);
+  border: var(--card-border);
+  border-radius: 12px;
+  border-left: 4px solid var(--accent);
+}
+.combine-tag {
+  font-size: 0.7rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--bg-soft);
+  color: var(--ink-soft);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.combine-prefix {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 3px 10px;
+  border-radius: 8px;
+}
+.combine-plus,
+.combine-arrow {
+  font-size: 1.1rem;
+  color: var(--ink-soft);
+  font-weight: 600;
+}
+.combine-root {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--warn);
+  background: rgba(217, 122, 68, 0.12);   /* 어근은 다른 색 톤으로 — 접두어와 구분 */
+  padding: 3px 10px;
+  border-radius: 8px;
+}
+.combine-root-form { color: var(--warn); }
+.combine-root-label {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--warn);
+  background: rgba(255, 255, 255, 0.6);
+  padding: 1px 5px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+}
+.combine-root-meaning {
+  font-size: 0.95rem;
+  color: var(--ink);
+}
+
 /* ---------- 단어 카드 ---------- */
 .word-grid {
   display: grid;
