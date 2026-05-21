@@ -19,22 +19,13 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <header class="app-header">
-    <h1>어원으로 배우는 영어단어</h1>
-    <a class="map-link" href="map.html" title="의미 지도 보기">🗺</a>
-  </header>
-
-  <main class="container">
-    <!-- 검색 — 단어/어원/접두어 어느 것이든 -->
-    <div class="search-bar">
-      <input id="searchInput" type="search" inputmode="search"
-             autocomplete="off" autocapitalize="off" spellcheck="false"
-             placeholder="단어, 어원, 접두어로 검색 (예 inspect, port, in-)" />
-      <button id="searchClear" type="button" hidden aria-label="지우기">✕</button>
+  <!-- 상단 sticky 헤더 — 제목 + 항상 보이는 칩 네비 -->
+  <header class="app-header app-header-home">
+    <div class="header-row">
+      <h1>어원으로 배우는 영어단어</h1>
+      <a class="map-link" href="map.html" title="의미 지도 보기">🗺</a>
     </div>
-    <div id="searchResults" class="search-results" hidden></div>
-
-    <!-- 필터 칩 — 학습 수준별로 나누어 한 번에 부담 없이 -->
+    <!-- 칩 바 — 스크롤해도 헤더에 붙어 항상 보임 -->
     <div class="filter-chips" id="filterChips" role="tablist">
       <button class="chip active" data-filter="step1">
         <span class="chip-step">Step 1</span>
@@ -55,6 +46,17 @@
         <span class="chip-step">전체</span>
       </button>
     </div>
+  </header>
+
+  <main class="container">
+    <!-- 검색 — 단어/어원/접두어 어느 것이든 -->
+    <div class="search-bar">
+      <input id="searchInput" type="search" inputmode="search"
+             autocomplete="off" autocapitalize="off" spellcheck="false"
+             placeholder="단어, 어원, 접두어로 검색 (예 inspect, port, in-)" />
+      <button id="searchClear" type="button" hidden aria-label="지우기">✕</button>
+    </div>
+    <div id="searchResults" class="search-results" hidden></div>
 
     <div id="loading" class="loading">불러오는 중…</div>
 

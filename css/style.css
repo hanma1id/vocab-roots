@@ -71,6 +71,31 @@ a { color: var(--accent); text-decoration: none; }
   margin: 0;
   flex: 1;
 }
+
+/* 홈 화면 헤더 — 제목 줄 + 칩 바를 묶어 한 sticky 블록으로 */
+.app-header-home {
+  flex-direction: column;
+  align-items: stretch;
+  padding: 10px 18px 8px;
+  gap: 8px;
+}
+.app-header-home .header-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.app-header-home .header-row h1 { flex: 1; }
+/* 칩 바를 헤더 안에서 가로 스크롤 가능하게 — 좁은 화면 대응 */
+.app-header-home .filter-chips {
+  margin: 0;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  padding-bottom: 2px;
+}
+.app-header-home .filter-chips::-webkit-scrollbar { display: none; }
+.app-header-home .filter-chips .chip { flex-shrink: 0; }
 .app-header .back-btn {
   font-size: 1.6rem;
   width: 44px;
