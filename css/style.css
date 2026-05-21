@@ -10,17 +10,18 @@
 
 /* ---------- 색상 토큰과 기본값 ---------- */
 :root {
-  --bg: #ffffff;            /* 순백 배경 */
-  --bg-card: #ffffff;
-  --bg-soft: #f4f7f5;       /* 살짝 시원한 화이트 */
-  --ink: #2a3530;           /* 까맣지 않은 진한 회녹 */
+  --bg: #eef4f1;            /* 옅은 민트 — 카드와 대비 위해 살짝 톤 */
+  --bg-card: #ffffff;       /* 카드는 순백 */
+  --bg-soft: #e2ece8;       /* 살짝 더 진한 민트 — 칩·박스용 */
+  --ink: #2a3530;
   --ink-soft: #6f7d77;
   --accent: #3a9876;        /* 밝은 풀잎녹 */
   --accent-soft: #a8d8c5;
-  --warn: #d97a44;          /* 따뜻한 주황 */
-  --good: #3fa275;          /* 밝은 녹색 */
-  --line: #ebf1ed;          /* 더 옅은 라인 */
-  --shadow: 0 2px 10px rgba(60, 90, 80, 0.04);
+  --warn: #d97a44;
+  --good: #3fa275;
+  --line: #d6e3dc;          /* 약간 진한 구분선 */
+  --shadow: 0 4px 14px rgba(60, 90, 80, 0.10);
+  --card-border: 1px solid #dfeae4;
   --radius: 14px;
   --gap: 14px;
   --font: "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR",
@@ -115,6 +116,7 @@ a { color: var(--accent); text-decoration: none; }
 .root-card {
   position: relative;
   background: var(--bg-card);
+  border: var(--card-border);
   border-radius: var(--radius);
   padding: 18px;
   box-shadow: var(--shadow);
@@ -123,7 +125,10 @@ a { color: var(--accent); text-decoration: none; }
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  transition: transform 0.15s ease;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.root-card:hover {
+  box-shadow: 0 6px 18px rgba(60, 90, 80, 0.14);
 }
 .root-card:active { transform: scale(0.97); }
 .root-card .root-form {
@@ -161,6 +166,7 @@ a { color: var(--accent); text-decoration: none; }
 /* ---------- 어원 상세 — 헤더 패널 ---------- */
 .root-panel {
   background: var(--bg-card);
+  border: var(--card-border);
   border-radius: var(--radius);
   padding: 22px;
   box-shadow: var(--shadow);
@@ -234,6 +240,7 @@ a { color: var(--accent); text-decoration: none; }
 }
 .word-card {
   background: var(--bg-card);
+  border: var(--card-border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   overflow: hidden;
