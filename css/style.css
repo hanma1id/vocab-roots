@@ -72,21 +72,25 @@ a { color: var(--accent); text-decoration: none; }
   flex: 1;
 }
 
-/* 홈 화면 헤더 — 제목 줄 + 칩 바를 묶어 한 sticky 블록으로 */
-.app-header-home {
+/* 헤더 두 줄 구조 — 제목 줄 + 칩 바 (홈/하위 페이지 공용) */
+.app-header-home,
+.app-header-sub {
   flex-direction: column;
   align-items: stretch;
   padding: 10px 18px 8px;
   gap: 8px;
 }
-.app-header-home .header-row {
+.app-header-home .header-row,
+.app-header-sub .header-row {
   display: flex;
   align-items: center;
   gap: 12px;
 }
-.app-header-home .header-row h1 { flex: 1; }
-/* 칩 바를 헤더 안에서 가로 스크롤 가능하게 — 좁은 화면 대응 */
-.app-header-home .filter-chips {
+.app-header-home .header-row h1,
+.app-header-sub .header-row h1 { flex: 1; }
+/* 칩 바 — 좁은 화면에선 가로 스크롤 */
+.app-header-home .filter-chips,
+.app-header-sub .filter-chips {
   margin: 0;
   flex-wrap: nowrap;
   overflow-x: auto;
@@ -94,8 +98,14 @@ a { color: var(--accent); text-decoration: none; }
   -ms-overflow-style: none;
   padding-bottom: 2px;
 }
-.app-header-home .filter-chips::-webkit-scrollbar { display: none; }
-.app-header-home .filter-chips .chip { flex-shrink: 0; }
+.app-header-home .filter-chips::-webkit-scrollbar,
+.app-header-sub .filter-chips::-webkit-scrollbar { display: none; }
+.app-header-home .filter-chips .chip,
+.app-header-sub .filter-chips .chip { flex-shrink: 0; }
+/* 하위 페이지의 칩은 a 태그 — 링크 기본 스타일 제거 */
+.header-nav.filter-chips .chip {
+  text-decoration: none;
+}
 .app-header .back-btn {
   font-size: 1.6rem;
   width: 44px;

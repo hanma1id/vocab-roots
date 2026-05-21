@@ -17,9 +17,28 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <header class="app-header">
-    <button class="back-btn" type="button" aria-label="뒤로">←</button>
-    <h1>의미 지도</h1>
+  <header class="app-header app-header-sub">
+    <div class="header-row">
+      <button class="back-btn" type="button" aria-label="뒤로">←</button>
+      <h1>의미 지도</h1>
+    </div>
+    <nav class="filter-chips header-nav">
+      <a class="chip" href="index.html?filter=step1">
+        <span class="chip-step">Step 1</span><span class="chip-sub">기초</span>
+      </a>
+      <a class="chip" href="index.html?filter=step2">
+        <span class="chip-step">Step 2</span><span class="chip-sub">중급</span>
+      </a>
+      <a class="chip" href="index.html?filter=step3">
+        <span class="chip-step">Step 3</span><span class="chip-sub">고급</span>
+      </a>
+      <a class="chip" href="index.html?filter=prefix">
+        <span class="chip-step">접두어</span>
+      </a>
+      <a class="chip" href="index.html?filter=all">
+        <span class="chip-step">전체</span>
+      </a>
+    </nav>
   </header>
 
   <main class="container">

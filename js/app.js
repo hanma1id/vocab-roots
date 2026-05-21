@@ -30,7 +30,11 @@ let _prefixes = [];
 let _words = [];
 let _glossary = {};         // { word(lowercase): {ipa, meaning} }
 let _related = {};          // { word(lowercase): [{root, word, role}, ...] }
-let _filter = "step1";      // "step1" | "step2" | "step3" | "prefix" | "all"
+// URL ?filter=stepN 파라미터가 있으면 그걸로 초기 필터 설정
+// (어원·접두어 등 하위 페이지의 칩 네비에서 홈으로 돌아올 때 사용)
+const VALID_FILTERS = new Set(["step1", "step2", "step3", "prefix", "all"]);
+const _urlFilter = new URLSearchParams(location.search).get("filter");
+let _filter = VALID_FILTERS.has(_urlFilter) ? _urlFilter : "step1";
 
 const STEP_INFO = {
   1: { label: "Step 1", sub: "기초",   desc: "익숙한 단어부터 천천히" },
@@ -377,6 +381,10 @@ async function main() {
   bindChips();
   bindSearch();
   registerServiceWorker();
+  // URL ?filter= 로 들어왔으면 해당 칩이 활성 상태로
+  $chips.querySelectorAll("button").forEach((b) =>
+    b.classList.toggle("active", b.dataset.filter === _filter)
+  );
   try {
     // 모든 데이터 병렬 로드 — glossary/related는 검색 보조용
     const [roots, prefixData, words, glossary, related] = await Promise.all([
