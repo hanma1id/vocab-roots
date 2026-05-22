@@ -8,7 +8,7 @@
  *   - 펼친 카드 안에 "이 어원 전체 보기" 명시 링크
  * ============================================================ */
 
-import { loadPrefix, loadRoot, registerServiceWorker } from "./data-loader.js";
+import { loadPrefix, loadRoot, lookupWord, registerServiceWorker } from "./data-loader.js";
 import { speak } from "./tts.js";
 
 registerServiceWorker();
@@ -84,15 +84,25 @@ function findWordInRoot(rootData, wordLower) {
   return null;
 }
 
+// 유의어/반의어를 탭 가능한 칩으로
+function relChips(list, kind) {
+  return list.map((word) => `
+    <button class="related-chip ${kind}-chip" type="button"
+            data-action="lookup" data-word="${esc(word)}">
+      ${esc(word)}
+    </button>
+  `).join("");
+}
+
 function renderWordDetail(found, rootId) {
   if (!found) {
     return `<div class="rd-empty">단어 정보를 찾지 못했어요</div>`;
   }
   const w = found.w;
   const syn = w.synonyms?.length
-    ? `<div class="rd-related"><span class="rd-label good">유의어</span>${esc(w.synonyms.join(", "))}</div>` : "";
+    ? `<div class="rd-related"><span class="rd-label good">유의어</span>${relChips(w.synonyms, "syn")}</div>` : "";
   const ant = w.antonyms?.length
-    ? `<div class="rd-related"><span class="rd-label bad">반의어</span>${esc(w.antonyms.join(", "))}</div>` : "";
+    ? `<div class="rd-related"><span class="rd-label bad">반의어</span>${relChips(w.antonyms, "ant")}</div>` : "";
   return `
     <div class="rd-head">
       <span class="rd-word">${esc(w.word)}</span>
@@ -144,12 +154,54 @@ async function toggleWordDetail(chip) {
   }
 }
 
+/* 유의어/반의어 칩 → 그 자리에 IPA·뜻 펼침 (2단계 인라인)
+ * 펼침 범위는 같은 단어 카드(rd-card) 안으로 한정해 다른 카드에 영향 없음. */
+async function toggleRelatedDetail(chip) {
+  const existing = chip.nextElementSibling;
+  if (existing && existing.classList.contains("related-detail")) {
+    existing.remove();
+    chip.classList.remove("open");
+    return;
+  }
+  const card = chip.closest(".rd-card");
+  if (card) {
+    card.querySelectorAll(".related-detail").forEach((el) => el.remove());
+    card.querySelectorAll(".related-chip.open").forEach((el) => el.classList.remove("open"));
+  }
+  chip.classList.add("open");
+
+  const word = chip.dataset.word;
+  const detail = document.createElement("span");
+  detail.className = "related-detail";
+  detail.innerHTML = `<span class="rd-loading">불러오는 중…</span>`;
+  chip.after(detail);
+
+  const info = await lookupWord(word);
+  if (!info) {
+    detail.innerHTML = `<span class="rd-empty">사전에 없는 단어예요</span>`;
+    return;
+  }
+  detail.innerHTML = `
+    <span class="rd-word">${esc(word)}</span>
+    ${info.ipa ? `<span class="rd-ipa">${esc(info.ipa)}</span>` : ""}
+    <button class="rd-tts" type="button" data-action="tts" data-word="${esc(word)}" title="발음 듣기">🔊</button>
+    <span class="rd-mini-meaning">${esc(info.meaning || "—")}</span>
+  `;
+}
+
 function bindEvents() {
   $area.addEventListener("click", (e) => {
     const tts = e.target.closest("[data-action='tts']");
     if (tts) {
       e.stopPropagation();
       speak(tts.dataset.word);
+      return;
+    }
+    // 유의어/반의어 칩 먼저 (단어 칩보다 안쪽)
+    const rel = e.target.closest("[data-action='lookup']");
+    if (rel) {
+      e.stopPropagation();
+      toggleRelatedDetail(rel);
       return;
     }
     const chip = e.target.closest("[data-action='open-word']");

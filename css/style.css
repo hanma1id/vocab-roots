@@ -724,14 +724,50 @@ a.combine-root:active { transform: scale(0.96); }
 }
 .rd-card .rd-related {
   font-size: 0.9rem;
-  margin-top: 4px;
+  margin-top: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
 }
 .rd-card .rd-label {
   font-weight: 700;
-  margin-right: 8px;
+  flex-shrink: 0;
 }
 .rd-card .rd-label.good { color: var(--good); }
 .rd-card .rd-label.bad  { color: var(--warn); }
+
+/* 카드 안 유의어/반의어 칩 탭 시 펼침 — 컴팩트 한 줄 */
+.rd-card .related-detail {
+  flex-basis: 100%;
+  margin: 2px 0 4px;
+  padding: 8px 12px;
+  background: var(--bg-soft);
+  border: var(--card-border);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  animation: rd-pop 0.15s ease-out;
+}
+.rd-card .related-detail .rd-word { font-weight: 600; color: var(--accent); }
+.rd-card .related-detail .rd-ipa { font-size: 0.85rem; color: var(--ink-soft); }
+.rd-card .related-detail .rd-mini-meaning { font-size: 0.9rem; }
+.rd-card .related-detail .rd-tts {
+  width: 28px; height: 28px;
+  border-radius: 50%;
+  background: var(--bg-card);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  border: none;
+  cursor: pointer;
+}
+.rd-card .related-detail .rd-tts:hover { background: var(--accent); }
+.rd-card .related-detail .rd-empty,
+.rd-card .related-detail .rd-loading { color: var(--ink-soft); font-style: italic; font-size: 0.88rem; }
 
 /* ---------- 의미 지도 ---------- */
 :root {
