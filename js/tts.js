@@ -1,73 +1,94 @@
 /* ============================================================
  * tts.js — Web Speech API 발음 재생 모듈
  * ------------------------------------------------------------
- *   - 외부 의존성 없음. 대부분 브라우저/OS 내장 음성을 사용한다.
- *   - iOS Safari는 사용자가 한 번 화면을 탭한 뒤에야 음성을 낸다
- *     (자동재생 제한). 첫 탭 이후로는 자유롭게 재생 가능.
- *   - 사용 가능한 영어 음성이 있으면 우선 선택한다.
+ *   - 외부 의존성 없음. 브라우저/OS 내장 음성을 사용한다.
+ *
+ * 모바일(특히 iOS Safari) 핵심
+ *   - speechSynthesis.speak()는 "사용자 탭 직후"에만 허용된다.
+ *   - speak()가 async라 await로 음성 목록을 기다리면, 그 사이
+ *     사용자 제스처 컨텍스트가 끊겨 iOS가 음성을 차단한다.
+ *   - 따라서 speak()는 반드시 동기로, 탭 즉시 speak()를 호출한다.
+ *   - 음성 목록은 모듈 로드 시 미리 받아 캐시해 둔다.
+ *   - 첫 사용자 탭 때 한 번 warm-up 해 iOS의 잠금을 푼다.
  * ============================================================ */
 
-let _voicesLoaded = false;
 let _enVoice = null;
+let _unlocked = false;
 
-/** 사용 가능한 음성 목록에서 영어 음성을 골라 캐시한다. */
-function pickEnglishVoice() {
+/** 사용 가능한 음성에서 영어 음성을 골라 캐시 */
+function loadVoices() {
+  if (!("speechSynthesis" in window)) return;
   const voices = window.speechSynthesis.getVoices();
-  if (!voices || !voices.length) return null;
-  // 영국/미국 영어를 우선 — 학습용으로는 둘 다 무방
-  const preferred = voices.find((v) =>
-    /en[-_](us|gb)/i.test(v.lang)
-  );
-  return preferred || voices.find((v) => v.lang.startsWith("en")) || voices[0];
+  if (!voices || !voices.length) return;
+  _enVoice =
+    voices.find((v) => /en[-_](us|gb)/i.test(v.lang)) ||
+    voices.find((v) => v.lang && v.lang.toLowerCase().startsWith("en")) ||
+    null;
 }
 
-/** 음성 목록은 비동기로 로드되는 브라우저가 있어 콜백으로 기다린다. */
-function ensureVoiceReady() {
-  return new Promise((resolve) => {
-    if (_voicesLoaded && _enVoice) return resolve(_enVoice);
-
-    const tryPick = () => {
-      _enVoice = pickEnglishVoice();
-      if (_enVoice) {
-        _voicesLoaded = true;
-        resolve(_enVoice);
-        return true;
-      }
-      return false;
-    };
-
-    if (tryPick()) return;
-
-    // 음성 목록이 비어 있으면 voiceschanged 이벤트를 기다린다
-    window.speechSynthesis.onvoiceschanged = () => {
-      tryPick();
-      // 끝까지 못 고르면 그냥 null로 진행 (기본 음성 사용)
-      resolve(_enVoice);
-    };
-
-    // 안전망 — 일부 환경에선 이벤트가 안 오므로 800ms 후 강제 진행
-    setTimeout(() => resolve(_enVoice), 800);
-  });
+// 모듈 로드 시 음성 미리 캐싱 — getVoices가 처음엔 빌 수 있어 이벤트도 등록
+if ("speechSynthesis" in window) {
+  loadVoices();
+  window.speechSynthesis.onvoiceschanged = loadVoices;
 }
 
 /**
- * 단어를 영어 발음으로 재생
- * @param {string} word 재생할 영어 단어
+ * iOS 잠금 해제 — 첫 사용자 제스처에서 빈 발화를 한 번 흘려
+ * 이후 speak()가 정상 동작하도록 한다. 동기 호출이어야 효과 있음.
  */
-export async function speak(word) {
+function unlockOnce() {
+  if (_unlocked || !("speechSynthesis" in window)) return;
+  _unlocked = true;
+  try {
+    const warm = new SpeechSynthesisUtterance("");
+    warm.volume = 0; // 소리 없이
+    window.speechSynthesis.speak(warm);
+  } catch (_) {
+    /* 무시 */
+  }
+}
+
+/**
+ * 단어를 영어 발음으로 재생 — 반드시 동기. 탭 핸들러에서 직접 호출.
+ * @param {string} word
+ */
+export function speak(word) {
   if (!("speechSynthesis" in window)) {
     console.warn("이 브라우저는 음성 합성을 지원하지 않습니다");
     return;
   }
+  const synth = window.speechSynthesis;
 
-  // 이전에 재생 중이던 음성이 있다면 끊고 새 단어 재생
-  window.speechSynthesis.cancel();
+  // 음성이 아직 캐시 안 됐으면 한 번 더 시도 (동기)
+  if (!_enVoice) loadVoices();
 
-  const voice = await ensureVoiceReady();
+  // iOS가 일시정지 상태로 두는 경우가 있어 깨운다
+  if (synth.paused) {
+    try { synth.resume(); } catch (_) {}
+  }
+  // 이전 발화 정리
+  try { synth.cancel(); } catch (_) {}
+
   const utter = new SpeechSynthesisUtterance(word);
-  utter.lang = voice ? voice.lang : "en-US";
-  if (voice) utter.voice = voice;
+  if (_enVoice) {
+    utter.voice = _enVoice;
+    utter.lang = _enVoice.lang;
+  } else {
+    utter.lang = "en-US";
+  }
   utter.rate = 0.9;   // 학습용으로 조금 느리게
   utter.pitch = 1.0;
-  window.speechSynthesis.speak(utter);
+  utter.volume = 1.0;
+
+  try {
+    synth.speak(utter);
+  } catch (e) {
+    console.warn("발음 재생 실패", e);
+  }
+}
+
+// 페이지의 첫 탭/클릭에서 iOS 잠금 해제 (한 번만)
+if (typeof document !== "undefined") {
+  document.addEventListener("pointerdown", unlockOnce, { once: true });
+  document.addEventListener("touchstart", unlockOnce, { once: true });
 }
