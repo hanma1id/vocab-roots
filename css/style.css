@@ -572,8 +572,17 @@ a.combine-root:active { transform: scale(0.96); }
   align-items: center;
   justify-content: center;
   font-size: 1.1rem;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
+  color: inherit;
+  /* 모바일 — 탭 강조 회색 박스 끄고 즉시 반응 */
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 .tts-btn:hover { background: var(--accent); color: #fff; }
+.tts-btn:active { transform: scale(0.92); }
 
 /* ---------- 하단 학습 도구 ---------- */
 .root-footer {

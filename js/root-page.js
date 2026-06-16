@@ -94,15 +94,17 @@ function renderWord(w) {
     stat === "failed" ? `<span class="word-status bad" title="퀴즈 실패 — 다시 학습">✗</span>` :
     `<span class="word-status none" title="아직 안 풀음">·</span>`;
 
+  // 🔊는 자체 <button>으로 — 안드로이드/iOS가 user gesture를 강하게 잡아주도록
+  // (button 안 button 위반 피하려고 word-head는 div role=button)
   return `
     <div class="word-card status-${stat || 'none'}" aria-expanded="false" id="w-${esc(w.word.toLowerCase())}">
-      <button class="word-head" type="button" data-action="toggle">
+      <div class="word-head" role="button" tabindex="0" data-action="toggle">
         ${statMark}
         <span class="word">${esc(w.word)}</span>
         ${w.ipa ? `<span class="ipa">${esc(w.ipa)}</span>` : ""}
-        <span class="tts-btn" data-action="tts" data-word="${esc(w.word)}" title="발음 듣기">🔊</span>
+        <button class="tts-btn" type="button" data-action="tts" data-word="${esc(w.word)}" aria-label="발음 듣기" title="발음 듣기">🔊</button>
         <span class="chevron" aria-hidden="true">⌄</span>
-      </button>
+      </div>
       <div class="word-body">
         ${w.pos ? `<span class="pos">${esc(w.pos)}</span>` : ""}
         <div class="meaning">${esc(w.meaning)}</div>
@@ -273,6 +275,15 @@ function bindTreeEvents() {
     const card = head.closest(".word-card");
     const expanded = card.getAttribute("aria-expanded") === "true";
     card.setAttribute("aria-expanded", expanded ? "false" : "true");
+  });
+  // word-head가 div(role=button)라 키보드 토글 보완
+  $tree.addEventListener("keydown", (e) => {
+    const head = e.target.closest("[data-action='toggle']");
+    if (!head) return;
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      head.click();
+    }
   });
 }
 
