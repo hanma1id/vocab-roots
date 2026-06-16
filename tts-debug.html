@@ -1,0 +1,147 @@
+<!doctype html>
+<!-- ============================================================
+     tts-debug.html — 모바일 TTS 진단 페이지
+     ------------------------------------------------------------
+     모바일에서 직접 열어 어디서 막히는지 확인.
+     voice 목록, 실제 speak 호출 결과, 에러 코드를 화면에 표시.
+     ============================================================ -->
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TTS 진단</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; padding: 16px; max-width: 640px; margin: 0 auto; background: #fff; color: #222; }
+    h1 { font-size: 1.1rem; }
+    button { font-size: 1rem; padding: 14px 22px; border-radius: 10px; border: 1px solid #3a9876; background: #3a9876; color: #fff; cursor: pointer; min-height: 50px; margin: 6px 4px 6px 0; }
+    button.test-word { background: #fff; color: #3a9876; }
+    pre { background: #f4f7f5; padding: 12px; border-radius: 8px; white-space: pre-wrap; word-break: break-all; font-size: 0.85rem; line-height: 1.5; max-height: 60vh; overflow-y: auto; }
+    .ok { color: #2f7d59; font-weight: 700; }
+    .err { color: #b45c2e; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <h1>🔊 TTS 진단</h1>
+  <p style="font-size: 0.9rem; color: #666;">
+    아래 버튼들을 차례로 눌러 어디서 막히는지 확인합니다.
+    출력 영역이 보이지 않으면 아래로 스크롤해 주세요.
+  </p>
+
+  <button onclick="step1()">1) voice 목록 확인</button>
+  <button onclick="step2()">2) 'hello' 발음 시도</button>
+  <button onclick="step3()">3) 한국어 voice로 시도 (참고)</button>
+  <button onclick="document.getElementById('out').textContent=''">초기화</button>
+
+  <h2 style="font-size: 1rem; margin-top: 20px;">테스트 단어</h2>
+  <button class="test-word" onclick="speakWord('inspect')">inspect</button>
+  <button class="test-word" onclick="speakWord('receive')">receive</button>
+  <button class="test-word" onclick="speakWord('hello')">hello</button>
+
+  <h2 style="font-size: 1rem; margin-top: 20px;">출력</h2>
+  <pre id="out">버튼을 눌러 시작하세요…</pre>
+
+<script>
+const out = document.getElementById('out');
+function log(s) { out.textContent += s + '\n'; out.scrollTop = out.scrollHeight; }
+
+log('UserAgent: ' + navigator.userAgent);
+log('speechSynthesis 지원: ' + ('speechSynthesis' in window));
+log('');
+
+function step1() {
+  log('=== 1) voice 목록 ===');
+  if (!('speechSynthesis' in window)) {
+    log('❌ speechSynthesis 미지원');
+    return;
+  }
+  const voices = speechSynthesis.getVoices();
+  log('전체 voice 개수: ' + voices.length);
+  if (voices.length === 0) {
+    log('⚠ voice 목록이 비어 있습니다. 잠시 후 다시 시도해 보세요.');
+    log('  (안드로이드는 TTS 엔진이 시작될 때까지 비어 있을 수 있음)');
+    // onvoiceschanged 한 번 더 시도
+    speechSynthesis.onvoiceschanged = () => {
+      log('voiceschanged 이벤트 발생 — 다시 1) 눌러 보세요');
+    };
+    return;
+  }
+  const eng = voices.filter(v => v.lang && v.lang.toLowerCase().startsWith('en'));
+  log('영어 voice 개수: ' + eng.length);
+  if (eng.length === 0) {
+    log('❌ 영어 voice 없음 — 안드로이드 설정 → 일반 → 텍스트 음성 변환에서 영어 데이터 다운로드 필요');
+  } else {
+    log('영어 voice 목록:');
+    eng.forEach((v,i) => log(`  ${i+1}. ${v.name} (${v.lang}) [${v.localService ? '로컬' : '네트워크'}]${v.default ? ' DEFAULT' : ''}`));
+  }
+  log('');
+  log('전체 voice (참고):');
+  voices.forEach((v,i) => log(`  ${i+1}. ${v.name} (${v.lang})`));
+}
+
+function step2() {
+  log('=== 2) "hello" 발음 시도 (영어 voice) ===');
+  if (!('speechSynthesis' in window)) return;
+  const voices = speechSynthesis.getVoices();
+  const eng = voices.find(v => v.lang && v.lang.toLowerCase().startsWith('en'));
+  const u = new SpeechSynthesisUtterance('hello');
+  if (eng) {
+    u.voice = eng;
+    u.lang = eng.lang;
+    log('voice 선택: ' + eng.name + ' (' + eng.lang + ')');
+  } else {
+    u.lang = 'en-US';
+    log('영어 voice 없음 — lang=en-US만 지정');
+  }
+  u.onstart = () => log('  ✅ onstart — 실제 발화 시작됨');
+  u.onend = () => log('  ⏹ onend — 발화 종료');
+  u.onerror = (e) => log('  ❌ onerror: ' + (e.error || JSON.stringify(e)));
+  log('speak() 호출…');
+  try {
+    speechSynthesis.speak(u);
+    log('  → speak() 완료. speaking=' + speechSynthesis.speaking + ' pending=' + speechSynthesis.pending);
+  } catch (e) {
+    log('  ❌ speak threw: ' + e.message);
+  }
+}
+
+function step3() {
+  log('=== 3) 한국어 voice로 시도 ===');
+  const voices = speechSynthesis.getVoices();
+  const ko = voices.find(v => v.lang && v.lang.toLowerCase().startsWith('ko'));
+  if (!ko) { log('한국어 voice도 없음'); return; }
+  const u = new SpeechSynthesisUtterance('안녕하세요');
+  u.voice = ko;
+  u.lang = ko.lang;
+  u.onstart = () => log('  ✅ 한국어 onstart');
+  u.onend = () => log('  ⏹ 한국어 onend');
+  u.onerror = (e) => log('  ❌ 한국어 onerror: ' + (e.error || e));
+  speechSynthesis.speak(u);
+  log('한국어 speak() 호출. (소리 나면 시스템 TTS는 정상, 영어 voice만 없는 것)');
+}
+
+function speakWord(w) {
+  log('=== 단어 "' + w + '" 시도 ===');
+  const voices = speechSynthesis.getVoices();
+  const eng = voices.find(v => /en[-_]us/i.test(v.lang))
+    || voices.find(v => /en/i.test(v.lang));
+  const u = new SpeechSynthesisUtterance(w);
+  if (eng) { u.voice = eng; u.lang = eng.lang; }
+  else u.lang = 'en-US';
+  u.rate = 0.9;
+  u.onstart = () => log('  ✅ ' + w + ' onstart');
+  u.onend = () => log('  ⏹ ' + w + ' onend');
+  u.onerror = (e) => log('  ❌ ' + w + ' onerror: ' + (e.error || e));
+  if (speechSynthesis.speaking) speechSynthesis.cancel();
+  speechSynthesis.speak(u);
+}
+
+// voice 미리 로드
+if ('speechSynthesis' in window) {
+  speechSynthesis.getVoices();
+  speechSynthesis.onvoiceschanged = () => {
+    log('[onvoiceschanged] voice 목록 갱신됨 (' + speechSynthesis.getVoices().length + '개)');
+  };
+}
+</script>
+</body>
+</html>
